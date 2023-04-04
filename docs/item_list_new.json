@@ -1,0 +1,4202 @@
+[
+    {
+        "itemId": "T3_SHOES_PLATE_SET1",
+        "LocalizedNames": "Journeyman's Soldier Boots",
+        "itemTag": "@ITEMS_T3_SHOES_PLATE_SET1"
+    },
+    {
+        "itemId": "T2_HEAD_PLATE_SET1",
+        "LocalizedNames": "Novice's Soldier Helmet",
+        "itemTag": "@ITEMS_T2_HEAD_PLATE_SET1"
+    },
+    {
+        "itemId": "T3_ARMOR_PLATE_SET1",
+        "LocalizedNames": "Journeyman's Soldier Armor",
+        "itemTag": "@ITEMS_T3_ARMOR_PLATE_SET1"
+    },
+    {
+        "itemId": "T4_2H_CLAYMORE",
+        "LocalizedNames": "Adept's Claymore",
+        "itemTag": "@ITEMS_T4_2H_CLAYMORE"
+    },
+    {
+        "itemId": "T4_ARTEFACT_MAIN_NATURESTAFF_KEEPER",
+        "LocalizedNames": "Adept's Druidic Inscriptions",
+        "itemTag": "@ITEMS_T4_ARTEFACT_MAIN_NATURESTAFF_KEEPER"
+    },
+    {
+        "itemId": "T4_BAG_INSIGHT@1",
+        "LocalizedNames": "Adept's Satchel of Insight",
+        "itemTag": "@ITEMS_T4_BAG_INSIGHT"
+    },
+    {
+        "itemId": "T4_ROCK_LEVEL2@2",
+        "LocalizedNames": "Rare Travertine",
+        "itemTag": "@ITEMS_T4_ROCK_LEVEL2"
+    },
+    {
+        "itemId": "TREASURE_RITUAL_RARITY1",
+        "LocalizedNames": "Ritual Candles",
+        "itemTag": "@ITEMS_TREASURE_RITUAL_RARITY1"
+    },
+    {
+        "itemId": "T4_SHOES_CLOTH_SET2",
+        "LocalizedNames": "Adept's Cleric Sandals",
+        "itemTag": "@ITEMS_T4_SHOES_CLOTH_SET2"
+    },
+    {
+        "itemId": "T4_ARMOR_PLATE_SET2@1",
+        "LocalizedNames": "Adept's Knight Armor",
+        "itemTag": "@ITEMS_T4_ARMOR_PLATE_SET2"
+    },
+    {
+        "itemId": "T4_ARMOR_PLATE_SET3",
+        "LocalizedNames": "Adept's Guardian Armor",
+        "itemTag": "@ITEMS_T4_ARMOR_PLATE_SET3"
+    },
+    {
+        "itemId": "T4_ARMOR_PLATE_SET2",
+        "LocalizedNames": "Adept's Knight Armor",
+        "itemTag": "@ITEMS_T4_ARMOR_PLATE_SET2"
+    },
+    {
+        "itemId": "T5_FARM_RAM_FW_MARTLOCK_BABY",
+        "LocalizedNames": "Bighorn Ram Lamb",
+        "itemTag": "@ITEMS_T5_FARM_RAM_FW_MARTLOCK_BABY"
+    },
+    {
+        "itemId": "T4_BAG_INSIGHT",
+        "LocalizedNames": "Adept's Satchel of Insight",
+        "itemTag": "@ITEMS_T4_BAG_INSIGHT"
+    },
+    {
+        "itemId": "T2_BAG",
+        "LocalizedNames": "Novice's Bag",
+        "itemTag": "@ITEMS_T2_BAG"
+    },
+    {
+        "itemId": "T5_ARTEFACT_SHOES_CLOTH_KEEPER",
+        "LocalizedNames": "Expert's Druidic Bindings",
+        "itemTag": "@ITEMS_T5_ARTEFACT_SHOES_CLOTH_KEEPER"
+    },
+    {
+        "itemId": "T4_SHOES_LEATHER_SET1@1",
+        "LocalizedNames": "Adept's Mercenary Shoes",
+        "itemTag": "@ITEMS_T4_SHOES_LEATHER_SET1"
+    },
+    {
+        "itemId": "T4_ARMOR_CLOTH_SET3@1",
+        "LocalizedNames": "Adept's Mage Robe",
+        "itemTag": "@ITEMS_T4_ARMOR_CLOTH_SET3"
+    },
+    {
+        "itemId": "T3_MAIN_AXE",
+        "LocalizedNames": "Journeyman's Battleaxe",
+        "itemTag": "@ITEMS_T3_MAIN_AXE"
+    },
+    {
+        "itemId": "T1_SEAWEED",
+        "LocalizedNames": "Seaweed",
+        "itemTag": "@ITEMS_T1_SEAWEED"
+    },
+    {
+        "itemId": "T4_RUNE",
+        "LocalizedNames": "Adept's Rune",
+        "itemTag": "@ITEMS_T4_RUNE"
+    },
+    {
+        "itemId": "T6_HEAD_LEATHER_SET2",
+        "LocalizedNames": "Master's Hunter Hood",
+        "itemTag": "@ITEMS_T6_HEAD_LEATHER_SET2"
+    },
+    {
+        "itemId": "T6_2H_KNUCKLES_SET3@1",
+        "LocalizedNames": "Master's Spiked Gauntlets",
+        "itemTag": "@ITEMS_T6_2H_KNUCKLES_SET3"
+    },
+    {
+        "itemId": "T4_ARTEFACT_2H_COMBATSTAFF_MORGANA",
+        "LocalizedNames": "Adept's Reinforced Morgana Pole",
+        "itemTag": "@ITEMS_T4_ARTEFACT_2H_COMBATSTAFF_MORGANA"
+    },
+    {
+        "itemId": "T4_2H_HOLYSTAFF",
+        "LocalizedNames": "Adept's Great Holy Staff",
+        "itemTag": "@ITEMS_T4_2H_HOLYSTAFF"
+    },
+    {
+        "itemId": "T4_2H_HALBERD",
+        "LocalizedNames": "Adept's Halberd",
+        "itemTag": "@ITEMS_T4_2H_HALBERD"
+    },
+    {
+        "itemId": "T4_JOURNAL_TOOLMAKER_FULL",
+        "LocalizedNames": "Adept Tinker's Journal (Full)",
+        "itemTag": "@ITEMS_T4_JOURNAL_TOOLMAKER_FULL"
+    },
+    {
+        "itemId": "T6_RUNE",
+        "LocalizedNames": "Master's Rune",
+        "itemTag": "@ITEMS_T6_RUNE"
+    },
+    {
+        "itemId": "T2_FISH_FRESHWATER_ALL_COMMON",
+        "LocalizedNames": "Striped Carp",
+        "itemTag": "@ITEMS_T2_FISH_FRESHWATER_ALL_COMMON"
+    },
+    {
+        "itemId": "T6_BAG@1",
+        "LocalizedNames": "Master's Bag",
+        "itemTag": "@ITEMS_T6_BAG"
+    },
+    {
+        "itemId": "T7_WOOD_LEVEL1@1",
+        "LocalizedNames": "Uncommon Ashenbark Logs",
+        "itemTag": "@ITEMS_T7_WOOD_LEVEL1"
+    },
+    {
+        "itemId": "T5_CLOTH_LEVEL2@2",
+        "LocalizedNames": "Rare Ornate Cloth",
+        "itemTag": "@ITEMS_T5_CLOTH_LEVEL2"
+    },
+    {
+        "itemId": "T5_CAPE@2",
+        "LocalizedNames": "Expert's Cape",
+        "itemTag": "@ITEMS_T5_CAPE"
+    },
+    {
+        "itemId": "T5_ARMOR_PLATE_SET1",
+        "LocalizedNames": "Expert's Soldier Armor",
+        "itemTag": "@ITEMS_T5_ARMOR_PLATE_SET1"
+    },
+    {
+        "itemId": "TREASURE_TRIBAL_RARITY1",
+        "LocalizedNames": "Feather Talisman",
+        "itemTag": "@ITEMS_TREASURE_TRIBAL_RARITY1"
+    },
+    {
+        "itemId": "TREASURE_TRIBAL_RARITY2",
+        "LocalizedNames": "Dreamcatcher",
+        "itemTag": "@ITEMS_TREASURE_TRIBAL_RARITY2"
+    },
+    {
+        "itemId": "T6_ARTEFACT_2H_NATURESTAFF_HELL",
+        "LocalizedNames": "Master's Symbol of Blight",
+        "itemTag": "@ITEMS_T6_ARTEFACT_2H_NATURESTAFF_HELL"
+    },
+    {
+        "itemId": "T6_MILK",
+        "LocalizedNames": "Sheep's Milk",
+        "itemTag": "@ITEMS_T6_MILK"
+    },
+    {
+        "itemId": "T4_FIBER_LEVEL1@1",
+        "LocalizedNames": "Uncommon Hemp",
+        "itemTag": "@ITEMS_T4_FIBER_LEVEL1"
+    },
+    {
+        "itemId": "T3_FISH_FRESHWATER_ALL_COMMON",
+        "LocalizedNames": "Albion Perch",
+        "itemTag": "@ITEMS_T3_FISH_FRESHWATER_ALL_COMMON"
+    },
+    {
+        "itemId": "T6_2H_WILDSTAFF",
+        "LocalizedNames": "Master's Wild Staff",
+        "itemTag": "@ITEMS_T6_2H_WILDSTAFF"
+    },
+    {
+        "itemId": "T4_ORE_LEVEL2@2",
+        "LocalizedNames": "Rare Iron Ore",
+        "itemTag": "@ITEMS_T4_ORE_LEVEL2"
+    },
+    {
+        "itemId": "T7_WOOD",
+        "LocalizedNames": "Ashenbark Logs",
+        "itemTag": "@ITEMS_T7_WOOD"
+    },
+    {
+        "itemId": "T3_CAPE",
+        "LocalizedNames": "Journeyman's Cape",
+        "itemTag": "@ITEMS_T3_CAPE"
+    },
+    {
+        "itemId": "T4_SHARD_AVALONIAN",
+        "LocalizedNames": "Adept's Avalonian Shard",
+        "itemTag": "@ITEMS_T4_SHARD_AVALONIAN"
+    },
+    {
+        "itemId": "T6_WOOD",
+        "LocalizedNames": "Bloodoak Logs",
+        "itemTag": "@ITEMS_T6_WOOD"
+    },
+    {
+        "itemId": "TREASURE_DECORATIVE_RARITY1",
+        "LocalizedNames": "Simple Stone Toy",
+        "itemTag": "@ITEMS_TREASURE_DECORATIVE_RARITY1"
+    },
+    {
+        "itemId": "T8_RUNE",
+        "LocalizedNames": "Elder's Rune",
+        "itemTag": "@ITEMS_T8_RUNE"
+    },
+    {
+        "itemId": "T3_FIBER",
+        "LocalizedNames": "Flax",
+        "itemTag": "@ITEMS_T3_FIBER"
+    },
+    {
+        "itemId": "TREASURE_TRIBAL_RARITY3",
+        "LocalizedNames": "Holy Fetish",
+        "itemTag": "@ITEMS_TREASURE_TRIBAL_RARITY3"
+    },
+    {
+        "itemId": "QUESTITEM_TOKEN_ROYAL_T5",
+        "LocalizedNames": "Expert's Royal Sigil",
+        "itemTag": "@ITEMS_QUESTITEM_TOKEN_ROYAL_T5"
+    },
+    {
+        "itemId": "T1_CARROT",
+        "LocalizedNames": "Carrots",
+        "itemTag": "@ITEMS_T1_CARROT"
+    },
+    {
+        "itemId": "T5_RUNE",
+        "LocalizedNames": "Expert's Rune",
+        "itemTag": "@ITEMS_T5_RUNE"
+    },
+    {
+        "itemId": "T7_BAG",
+        "LocalizedNames": "Grandmaster's Bag",
+        "itemTag": "@ITEMS_T7_BAG"
+    },
+    {
+        "itemId": "T8_2H_TOOL_HAMMER",
+        "LocalizedNames": "Elder's Stone Hammer",
+        "itemTag": "@ITEMS_T8_2H_TOOL_HAMMER"
+    },
+    {
+        "itemId": "T6_FIBER_LEVEL1@1",
+        "LocalizedNames": "Uncommon Amberleaf Cotton",
+        "itemTag": "@ITEMS_T6_FIBER_LEVEL1"
+    },
+    {
+        "itemId": "T5_FISH_FRESHWATER_FOREST_RARE",
+        "LocalizedNames": "Redspring Eel",
+        "itemTag": "@ITEMS_T5_FISH_FRESHWATER_FOREST_RARE"
+    },
+    {
+        "itemId": "T5_BAG_INSIGHT@1",
+        "LocalizedNames": "Expert's Satchel of Insight",
+        "itemTag": "@ITEMS_T5_BAG_INSIGHT"
+    },
+    {
+        "itemId": "T7_JOURNAL_WARRIOR_FULL",
+        "LocalizedNames": "Grandmaster Blacksmith's Journal (Full)",
+        "itemTag": "@ITEMS_T7_JOURNAL_WARRIOR_FULL"
+    },
+    {
+        "itemId": "T4_ORE",
+        "LocalizedNames": "Iron Ore",
+        "itemTag": "@ITEMS_T4_ORE"
+    },
+    {
+        "itemId": "T7_LEATHER",
+        "LocalizedNames": "Reinforced Leather",
+        "itemTag": "@ITEMS_T7_LEATHER"
+    },
+    {
+        "itemId": "T5_WOOD_LEVEL1@1",
+        "LocalizedNames": "Uncommon Cedar Logs",
+        "itemTag": "@ITEMS_T5_WOOD_LEVEL1"
+    },
+    {
+        "itemId": "TREASURE_SILVERWARE_RARITY1",
+        "LocalizedNames": "Silver Cup",
+        "itemTag": "@ITEMS_TREASURE_SILVERWARE_RARITY1"
+    },
+    {
+        "itemId": "T4_RELIC",
+        "LocalizedNames": "Adept's Relic",
+        "itemTag": "@ITEMS_T4_RELIC"
+    },
+    {
+        "itemId": "T6_FIBER",
+        "LocalizedNames": "Amberleaf Cotton",
+        "itemTag": "@ITEMS_T6_FIBER"
+    },
+    {
+        "itemId": "T6_MAIN_DAGGER",
+        "LocalizedNames": "Master's Dagger",
+        "itemTag": "@ITEMS_T6_MAIN_DAGGER"
+    },
+    {
+        "itemId": "T4_ROCK",
+        "LocalizedNames": "Travertine",
+        "itemTag": "@ITEMS_T4_ROCK"
+    },
+    {
+        "itemId": "T6_FIBER_LEVEL2@2",
+        "LocalizedNames": "Rare Amberleaf Cotton",
+        "itemTag": "@ITEMS_T6_FIBER_LEVEL2"
+    },
+    {
+        "itemId": "T4_FISH_FRESHWATER_ALL_COMMON",
+        "LocalizedNames": "Bluescale Pike",
+        "itemTag": "@ITEMS_T4_FISH_FRESHWATER_ALL_COMMON"
+    },
+    {
+        "itemId": "TREASURE_RITUAL_RARITY3",
+        "LocalizedNames": "Sacrificial Dagger",
+        "itemTag": "@ITEMS_TREASURE_RITUAL_RARITY3"
+    },
+    {
+        "itemId": "T4_LEATHER",
+        "LocalizedNames": "Worked Leather",
+        "itemTag": "@ITEMS_T4_LEATHER"
+    },
+    {
+        "itemId": "T5_ORE_LEVEL1@1",
+        "LocalizedNames": "Uncommon Titanium Ore",
+        "itemTag": "@ITEMS_T5_ORE_LEVEL1"
+    },
+    {
+        "itemId": "T5_FARM_COUGAR_BABY",
+        "LocalizedNames": "Swiftclaw Cub",
+        "itemTag": "@ITEMS_T5_FARM_COUGAR_BABY"
+    },
+    {
+        "itemId": "T8_YARROW",
+        "LocalizedNames": "Ghoul Yarrow",
+        "itemTag": "@ITEMS_T8_YARROW"
+    },
+    {
+        "itemId": "T6_SOUL",
+        "LocalizedNames": "Master's Soul",
+        "itemTag": "@ITEMS_T6_SOUL"
+    },
+    {
+        "itemId": "T5_HIDE",
+        "LocalizedNames": "Heavy Hide",
+        "itemTag": "@ITEMS_T5_HIDE"
+    },
+    {
+        "itemId": "T5_MOUNT_HORSE",
+        "LocalizedNames": "Expert's Riding Horse",
+        "itemTag": "@ITEMS_T5_MOUNT_HORSE"
+    },
+    {
+        "itemId": "T6_BAG_INSIGHT@1",
+        "LocalizedNames": "Master's Satchel of Insight",
+        "itemTag": "@ITEMS_T6_BAG_INSIGHT"
+    },
+    {
+        "itemId": "T1_FISHCHOPS",
+        "LocalizedNames": "Chopped Fish",
+        "itemTag": "@ITEMS_T1_FISHCHOPS"
+    },
+    {
+        "itemId": "T5_FISH_FRESHWATER_HIGHLANDS_RARE",
+        "LocalizedNames": "Rushwater Lurcher",
+        "itemTag": "@ITEMS_T5_FISH_FRESHWATER_HIGHLANDS_RARE"
+    },
+    {
+        "itemId": "T7_POTION_REVIVE",
+        "LocalizedNames": "Major Gigantify Potion",
+        "itemTag": "@ITEMS_T7_POTION_REVIVE"
+    },
+    {
+        "itemId": "T6_ARTEFACT_ARMOR_PLATE_HELL",
+        "LocalizedNames": "Master's Demonic Plates",
+        "itemTag": "@ITEMS_T6_ARTEFACT_ARMOR_PLATE_HELL"
+    },
+    {
+        "itemId": "T7_BAG_INSIGHT",
+        "LocalizedNames": "Grandmaster's Satchel of Insight",
+        "itemTag": "@ITEMS_T7_BAG_INSIGHT"
+    },
+    {
+        "itemId": "T6_MAIN_HOLYSTAFF",
+        "LocalizedNames": "Master's Holy Staff",
+        "itemTag": "@ITEMS_T6_MAIN_HOLYSTAFF"
+    },
+    {
+        "itemId": "T8_FIBER",
+        "LocalizedNames": "Ghost Hemp",
+        "itemTag": "@ITEMS_T8_FIBER"
+    },
+    {
+        "itemId": "T1_FISHSAUCE_LEVEL1",
+        "LocalizedNames": "Basic Fish Sauce",
+        "itemTag": "@ITEMS_T1_FISHSAUCE_LEVEL1"
+    },
+    {
+        "itemId": "T3_MOUNT_OX",
+        "LocalizedNames": "Journeyman's Transport Ox",
+        "itemTag": "@ITEMS_T3_MOUNT_OX"
+    },
+    {
+        "itemId": "T8_JOURNAL_WARRIOR_FULL",
+        "LocalizedNames": "Elder Blacksmith's Journal (Full)",
+        "itemTag": "@ITEMS_T8_JOURNAL_WARRIOR_FULL"
+    },
+    {
+        "itemId": "T3_METALBAR",
+        "LocalizedNames": "Bronze Bar",
+        "itemTag": "@ITEMS_T3_METALBAR"
+    },
+    {
+        "itemId": "TREASURE_RITUAL_RARITY2",
+        "LocalizedNames": "Blood Chalice",
+        "itemTag": "@ITEMS_TREASURE_RITUAL_RARITY2"
+    },
+    {
+        "itemId": "T5_MAIN_SPEAR_KEEPER",
+        "LocalizedNames": "Expert's Heron Spear",
+        "itemTag": "@ITEMS_T5_MAIN_SPEAR_KEEPER"
+    },
+    {
+        "itemId": "QUESTITEM_TOKEN_AVALON",
+        "LocalizedNames": "Avalonian Energy",
+        "itemTag": "@ITEMS_QUESTITEM_TOKEN_AVALON"
+    },
+    {
+        "itemId": "T5_WOOD",
+        "LocalizedNames": "Cedar Logs",
+        "itemTag": "@ITEMS_T5_WOOD"
+    },
+    {
+        "itemId": "T5_ARMOR_PLATE_SET3",
+        "LocalizedNames": "Expert's Guardian Armor",
+        "itemTag": "@ITEMS_T5_ARMOR_PLATE_SET3"
+    },
+    {
+        "itemId": "T4_ARTEFACT_SHOES_CLOTH_KEEPER",
+        "LocalizedNames": "Adept's Druidic Bindings",
+        "itemTag": "@ITEMS_T4_ARTEFACT_SHOES_CLOTH_KEEPER"
+    },
+    {
+        "itemId": "T3_FISH_FRESHWATER_FOREST_RARE",
+        "LocalizedNames": "Greenriver Eel",
+        "itemTag": "@ITEMS_T3_FISH_FRESHWATER_FOREST_RARE"
+    },
+    {
+        "itemId": "T7_PLANKS_LEVEL3@3",
+        "LocalizedNames": "Exceptional Ashenbark Planks",
+        "itemTag": "@ITEMS_T7_PLANKS_LEVEL3"
+    },
+    {
+        "itemId": "T4_STONEBLOCK",
+        "LocalizedNames": "Travertine Block",
+        "itemTag": "@ITEMS_T4_STONEBLOCK"
+    },
+    {
+        "itemId": "T4_FIBER_LEVEL2@2",
+        "LocalizedNames": "Rare Hemp",
+        "itemTag": "@ITEMS_T4_FIBER_LEVEL2"
+    },
+    {
+        "itemId": "T1_WORM",
+        "LocalizedNames": "Earthworm",
+        "itemTag": "@ITEMS_T1_WORM"
+    },
+    {
+        "itemId": "T5_MEAL_SOUP",
+        "LocalizedNames": "Cabbage Soup",
+        "itemTag": "@ITEMS_T5_MEAL_SOUP"
+    },
+    {
+        "itemId": "T6_SHOES_PLATE_SET2",
+        "LocalizedNames": "Master's Knight Boots",
+        "itemTag": "@ITEMS_T6_SHOES_PLATE_SET2"
+    },
+    {
+        "itemId": "T5_FIBER_LEVEL2@2",
+        "LocalizedNames": "Rare Skyflower",
+        "itemTag": "@ITEMS_T5_FIBER_LEVEL2"
+    },
+    {
+        "itemId": "T5_CABBAGE",
+        "LocalizedNames": "Cabbage",
+        "itemTag": "@ITEMS_T5_CABBAGE"
+    },
+    {
+        "itemId": "T4_FIBER_LEVEL3@3",
+        "LocalizedNames": "Exceptional Hemp",
+        "itemTag": "@ITEMS_T4_FIBER_LEVEL3"
+    },
+    {
+        "itemId": "T6_BAG",
+        "LocalizedNames": "Master's Bag",
+        "itemTag": "@ITEMS_T6_BAG"
+    },
+    {
+        "itemId": "TREASURE_DECORATIVE_RARITY2",
+        "LocalizedNames": "Stone Mask",
+        "itemTag": "@ITEMS_TREASURE_DECORATIVE_RARITY2"
+    },
+    {
+        "itemId": "QUESTITEM_TOKEN_ROYAL_T4",
+        "LocalizedNames": "Adept's Royal Sigil",
+        "itemTag": "@ITEMS_QUESTITEM_TOKEN_ROYAL_T4"
+    },
+    {
+        "itemId": "T7_MEAL_OMELETTE_AVALON@1",
+        "LocalizedNames": "Avalonian Pork Omelette",
+        "itemTag": "@ITEMS_T7_MEAL_OMELETTE_AVALON"
+    },
+    {
+        "itemId": "T8_JOURNAL_HUNTER_FULL",
+        "LocalizedNames": "Elder Fletcher's Journal (Full)",
+        "itemTag": "@ITEMS_T8_JOURNAL_HUNTER_FULL"
+    },
+    {
+        "itemId": "T6_LEATHER",
+        "LocalizedNames": "Hardened Leather",
+        "itemTag": "@ITEMS_T6_LEATHER"
+    },
+    {
+        "itemId": "T2_FISH_SALTWATER_ALL_COMMON",
+        "LocalizedNames": "Striped Mackerel",
+        "itemTag": "@ITEMS_T2_FISH_SALTWATER_ALL_COMMON"
+    },
+    {
+        "itemId": "T3_COMFREY",
+        "LocalizedNames": "Brightleaf Comfrey",
+        "itemTag": "@ITEMS_T3_COMFREY"
+    },
+    {
+        "itemId": "T6_HIDE_LEVEL2@2",
+        "LocalizedNames": "Rare Robust Hide",
+        "itemTag": "@ITEMS_T6_HIDE_LEVEL2"
+    },
+    {
+        "itemId": "TREASURE_SILVERWARE_RARITY3",
+        "LocalizedNames": "Silver Candelabrum",
+        "itemTag": "@ITEMS_TREASURE_SILVERWARE_RARITY3"
+    },
+    {
+        "itemId": "T3_WOOD",
+        "LocalizedNames": "Chestnut Logs",
+        "itemTag": "@ITEMS_T3_WOOD"
+    },
+    {
+        "itemId": "T6_HEAD_PLATE_SET2",
+        "LocalizedNames": "Master's Knight Helmet",
+        "itemTag": "@ITEMS_T6_HEAD_PLATE_SET2"
+    },
+    {
+        "itemId": "T7_MOUNT_MONITORLIZARD_ADC",
+        "LocalizedNames": "Pest Lizard",
+        "itemTag": "@ITEMS_T7_MOUNT_MONITORLIZARD_ADC"
+    },
+    {
+        "itemId": "T5_SHARD_AVALONIAN",
+        "LocalizedNames": "Expert's Avalonian Shard",
+        "itemTag": "@ITEMS_T5_SHARD_AVALONIAN"
+    },
+    {
+        "itemId": "TREASURE_CEREMONIAL_RARITY2",
+        "LocalizedNames": "Globus Cruciger",
+        "itemTag": "@ITEMS_TREASURE_CEREMONIAL_RARITY2"
+    },
+    {
+        "itemId": "T1_FARM_CARROT_SEED",
+        "LocalizedNames": "Carrot Seeds",
+        "itemTag": "@ITEMS_T1_FARM_CARROT_SEED"
+    },
+    {
+        "itemId": "T3_WHEAT",
+        "LocalizedNames": "Sheaf of Wheat",
+        "itemTag": "@ITEMS_T3_WHEAT"
+    },
+    {
+        "itemId": "T5_ARMOR_CLOTH_SET3",
+        "LocalizedNames": "Expert's Mage Robe",
+        "itemTag": "@ITEMS_T5_ARMOR_CLOTH_SET3"
+    },
+    {
+        "itemId": "T7_SOUL",
+        "LocalizedNames": "Grandmaster's Soul",
+        "itemTag": "@ITEMS_T7_SOUL"
+    },
+    {
+        "itemId": "T8_LEATHER",
+        "LocalizedNames": "Fortified Leather",
+        "itemTag": "@ITEMS_T8_LEATHER"
+    },
+    {
+        "itemId": "T6_ROCK_LEVEL2@2",
+        "LocalizedNames": "Rare Slate",
+        "itemTag": "@ITEMS_T6_ROCK_LEVEL2"
+    },
+    {
+        "itemId": "T1_FISH_SALTWATER_ALL_COMMON",
+        "LocalizedNames": "Common Herring",
+        "itemTag": "@ITEMS_T1_FISH_SALTWATER_ALL_COMMON"
+    },
+    {
+        "itemId": "T6_FOXGLOVE",
+        "LocalizedNames": "Elusive Foxglove",
+        "itemTag": "@ITEMS_T6_FOXGLOVE"
+    },
+    {
+        "itemId": "T5_2H_DEMONICSTAFF",
+        "LocalizedNames": "Expert's Demonic Staff",
+        "itemTag": "@ITEMS_T5_2H_DEMONICSTAFF"
+    },
+    {
+        "itemId": "T8_WOOD",
+        "LocalizedNames": "Whitewood Logs",
+        "itemTag": "@ITEMS_T8_WOOD"
+    },
+    {
+        "itemId": "T5_FIBER_LEVEL1@1",
+        "LocalizedNames": "Uncommon Skyflower",
+        "itemTag": "@ITEMS_T5_FIBER_LEVEL1"
+    },
+    {
+        "itemId": "T6_SHOES_PLATE_UNDEAD",
+        "LocalizedNames": "Master's Graveguard Boots",
+        "itemTag": "@ITEMS_T6_SHOES_PLATE_UNDEAD"
+    },
+    {
+        "itemId": "T6_HEAD_LEATHER_SET1@1",
+        "LocalizedNames": "Master's Mercenary Hood",
+        "itemTag": "@ITEMS_T6_HEAD_LEATHER_SET1"
+    },
+    {
+        "itemId": "T3_MEAL_SOUP",
+        "LocalizedNames": "Wheat Soup",
+        "itemTag": "@ITEMS_T3_MEAL_SOUP"
+    },
+    {
+        "itemId": "T4_BURDOCK",
+        "LocalizedNames": "Crenellated Burdock",
+        "itemTag": "@ITEMS_T4_BURDOCK"
+    },
+    {
+        "itemId": "T5_FIBER_LEVEL3@3",
+        "LocalizedNames": "Exceptional Skyflower",
+        "itemTag": "@ITEMS_T5_FIBER_LEVEL3"
+    },
+    {
+        "itemId": "T7_METALBAR_LEVEL1@1",
+        "LocalizedNames": "Uncommon Meteorite Steel Bar",
+        "itemTag": "@ITEMS_T7_METALBAR_LEVEL1"
+    },
+    {
+        "itemId": "T6_MAIN_HAMMER",
+        "LocalizedNames": "Master's Hammer",
+        "itemTag": "@ITEMS_T6_MAIN_HAMMER"
+    },
+    {
+        "itemId": "T7_BAG_INSIGHT@1",
+        "LocalizedNames": "Grandmaster's Satchel of Insight",
+        "itemTag": "@ITEMS_T7_BAG_INSIGHT"
+    },
+    {
+        "itemId": "T5_FIBER",
+        "LocalizedNames": "Skyflower",
+        "itemTag": "@ITEMS_T5_FIBER"
+    },
+    {
+        "itemId": "T6_SHOES_CLOTH_SET3",
+        "LocalizedNames": "Master's Mage Sandals",
+        "itemTag": "@ITEMS_T6_SHOES_CLOTH_SET3"
+    },
+    {
+        "itemId": "TREASURE_CEREMONIAL_RARITY1",
+        "LocalizedNames": "Ornamental Scepter",
+        "itemTag": "@ITEMS_TREASURE_CEREMONIAL_RARITY1"
+    },
+    {
+        "itemId": "T7_METALBAR_LEVEL3@3",
+        "LocalizedNames": "Exceptional Meteorite Steel Bar",
+        "itemTag": "@ITEMS_T7_METALBAR_LEVEL3"
+    },
+    {
+        "itemId": "T6_HIDE",
+        "LocalizedNames": "Robust Hide",
+        "itemTag": "@ITEMS_T6_HIDE"
+    },
+    {
+        "itemId": "T5_LEATHER",
+        "LocalizedNames": "Cured Leather",
+        "itemTag": "@ITEMS_T5_LEATHER"
+    },
+    {
+        "itemId": "T7_MOUNT_HUSKY_ADC",
+        "LocalizedNames": "Snow Husky",
+        "itemTag": "@ITEMS_T7_MOUNT_HUSKY_ADC"
+    },
+    {
+        "itemId": "T4_ESSENCE_POTION",
+        "LocalizedNames": "Adept's Arcane Essence",
+        "itemTag": "@ITEMS_T4_ESSENCE_POTION"
+    },
+    {
+        "itemId": "T5_ORE_LEVEL2@2",
+        "LocalizedNames": "Rare Titanium Ore",
+        "itemTag": "@ITEMS_T5_ORE_LEVEL2"
+    },
+    {
+        "itemId": "T5_JOURNAL_MAGE_EMPTY",
+        "LocalizedNames": "Expert Imbuer's Journal (Empty)",
+        "itemTag": "@ITEMS_T5_JOURNAL_MAGE_EMPTY"
+    },
+    {
+        "itemId": "T6_2H_HOLYSTAFF",
+        "LocalizedNames": "Master's Great Holy Staff",
+        "itemTag": "@ITEMS_T6_2H_HOLYSTAFF"
+    },
+    {
+        "itemId": "TREASURE_DECORATIVE_RARITY3",
+        "LocalizedNames": "Stone Idol",
+        "itemTag": "@ITEMS_TREASURE_DECORATIVE_RARITY3"
+    },
+    {
+        "itemId": "T8_METALBAR_LEVEL1@1",
+        "LocalizedNames": "Uncommon Adamantium Steel Bar",
+        "itemTag": "@ITEMS_T8_METALBAR_LEVEL1"
+    },
+    {
+        "itemId": "T7_RELIC",
+        "LocalizedNames": "Grandmaster's Relic",
+        "itemTag": "@ITEMS_T7_RELIC"
+    },
+    {
+        "itemId": "T5_HIDE_LEVEL2@2",
+        "LocalizedNames": "Rare Heavy Hide",
+        "itemTag": "@ITEMS_T5_HIDE_LEVEL2"
+    },
+    {
+        "itemId": "T2_ROCK",
+        "LocalizedNames": "Limestone",
+        "itemTag": "@ITEMS_T2_ROCK"
+    },
+    {
+        "itemId": "T8_CAPE",
+        "LocalizedNames": "Elder's Cape",
+        "itemTag": "@ITEMS_T8_CAPE"
+    },
+    {
+        "itemId": "T3_BAG",
+        "LocalizedNames": "Journeyman's Bag",
+        "itemTag": "@ITEMS_T3_BAG"
+    },
+    {
+        "itemId": "T5_PLANKS",
+        "LocalizedNames": "Cedar Planks",
+        "itemTag": "@ITEMS_T5_PLANKS"
+    },
+    {
+        "itemId": "T4_FISH_SALTWATER_ALL_COMMON",
+        "LocalizedNames": "Bluescale Cod",
+        "itemTag": "@ITEMS_T4_FISH_SALTWATER_ALL_COMMON"
+    },
+    {
+        "itemId": "T7_RUNE",
+        "LocalizedNames": "Grandmaster's Rune",
+        "itemTag": "@ITEMS_T7_RUNE"
+    },
+    {
+        "itemId": "T6_JOURNAL_HUNTER_FULL",
+        "LocalizedNames": "Master Fletcher's Journal (Full)",
+        "itemTag": "@ITEMS_T6_JOURNAL_HUNTER_FULL"
+    },
+    {
+        "itemId": "T6_FIBER_LEVEL3@3",
+        "LocalizedNames": "Exceptional Amberleaf Cotton",
+        "itemTag": "@ITEMS_T6_FIBER_LEVEL3"
+    },
+    {
+        "itemId": "T4_SKILLBOOK_STANDARD",
+        "LocalizedNames": "Adept's Tome of Insight",
+        "itemTag": "@ITEMS_T4_SKILLBOOK_STANDARD"
+    },
+    {
+        "itemId": "T2_2H_BOW",
+        "LocalizedNames": "Novice's Bow",
+        "itemTag": "@ITEMS_T2_2H_BOW"
+    },
+    {
+        "itemId": "TREASURE_CEREMONIAL_RARITY3",
+        "LocalizedNames": "Golden Crown",
+        "itemTag": "@ITEMS_TREASURE_CEREMONIAL_RARITY3"
+    },
+    {
+        "itemId": "T4_PLANKS_LEVEL1@1",
+        "LocalizedNames": "Uncommon Pine Planks",
+        "itemTag": "@ITEMS_T4_PLANKS_LEVEL1"
+    },
+    {
+        "itemId": "T4_POTION_HEAL@1",
+        "LocalizedNames": "Healing Potion",
+        "itemTag": "@ITEMS_T4_POTION_HEAL"
+    },
+    {
+        "itemId": "T6_JOURNAL_MAGE_FULL",
+        "LocalizedNames": "Master Imbuer's Journal (Full)",
+        "itemTag": "@ITEMS_T6_JOURNAL_MAGE_FULL"
+    },
+    {
+        "itemId": "T6_JOURNAL_WARRIOR_FULL",
+        "LocalizedNames": "Master Blacksmith's Journal (Full)",
+        "itemTag": "@ITEMS_T6_JOURNAL_WARRIOR_FULL"
+    },
+    {
+        "itemId": "T4_HEAD_CLOTH_SET1",
+        "LocalizedNames": "Adept's Scholar Cowl",
+        "itemTag": "@ITEMS_T4_HEAD_CLOTH_SET1"
+    },
+    {
+        "itemId": "UNIQUE_MOUNT_ARMORED_EAGLE_SILVER",
+        "LocalizedNames": "Silver Battle Eagle",
+        "itemTag": "@ITEMS_UNIQUE_MOUNT_ARMORED_EAGLE_SILVER"
+    },
+    {
+        "itemId": "T7_FISH_SALTWATER_ALL_RARE",
+        "LocalizedNames": "Deepwater Kraken",
+        "itemTag": "@ITEMS_T7_FISH_SALTWATER_ALL_RARE"
+    },
+    {
+        "itemId": "T4_ARMOR_LEATHER_SET1@2",
+        "LocalizedNames": "Adept's Mercenary Jacket",
+        "itemTag": "@ITEMS_T4_ARMOR_LEATHER_SET1"
+    },
+    {
+        "itemId": "T3_FISH_FRESHWATER_AVALON_RARE",
+        "LocalizedNames": "Whitefog Snapper",
+        "itemTag": "@ITEMS_T3_FISH_FRESHWATER_AVALON_RARE"
+    },
+    {
+        "itemId": "T4_LEATHER_LEVEL1@1",
+        "LocalizedNames": "Uncommon Worked Leather",
+        "itemTag": "@ITEMS_T4_LEATHER_LEVEL1"
+    },
+    {
+        "itemId": "T7_MEAL_OMELETTE_AVALON@2",
+        "LocalizedNames": "Avalonian Pork Omelette",
+        "itemTag": "@ITEMS_T7_MEAL_OMELETTE_AVALON"
+    },
+    {
+        "itemId": "T5_MEAT",
+        "LocalizedNames": "Raw Goose",
+        "itemTag": "@ITEMS_T5_MEAT"
+    },
+    {
+        "itemId": "T7_STONEBLOCK",
+        "LocalizedNames": "Basalt Block",
+        "itemTag": "@ITEMS_T7_STONEBLOCK"
+    },
+    {
+        "itemId": "T4_HIDE_LEVEL1@1",
+        "LocalizedNames": "Uncommon Medium Hide",
+        "itemTag": "@ITEMS_T4_HIDE_LEVEL1"
+    },
+    {
+        "itemId": "T3_FARM_WHEAT_SEED",
+        "LocalizedNames": "Wheat Seeds",
+        "itemTag": "@ITEMS_T3_FARM_WHEAT_SEED"
+    },
+    {
+        "itemId": "T3_LEATHER",
+        "LocalizedNames": "Thick Leather",
+        "itemTag": "@ITEMS_T3_LEATHER"
+    },
+    {
+        "itemId": "T6_CAPE",
+        "LocalizedNames": "Master's Cape",
+        "itemTag": "@ITEMS_T6_CAPE"
+    },
+    {
+        "itemId": "T3_FISH_FRESHWATER_HIGHLANDS_RARE",
+        "LocalizedNames": "Stonestream Lurcher",
+        "itemTag": "@ITEMS_T3_FISH_FRESHWATER_HIGHLANDS_RARE"
+    },
+    {
+        "itemId": "T7_HEAD_LEATHER_SET3@1",
+        "LocalizedNames": "Grandmaster's Assassin Hood",
+        "itemTag": "@ITEMS_T7_HEAD_LEATHER_SET3"
+    },
+    {
+        "itemId": "T4_2H_AXE",
+        "LocalizedNames": "Adept's Greataxe",
+        "itemTag": "@ITEMS_T4_2H_AXE"
+    },
+    {
+        "itemId": "T5_TEASEL",
+        "LocalizedNames": "Dragon Teasel",
+        "itemTag": "@ITEMS_T5_TEASEL"
+    },
+    {
+        "itemId": "T3_ORE",
+        "LocalizedNames": "Tin Ore",
+        "itemTag": "@ITEMS_T3_ORE"
+    },
+    {
+        "itemId": "T2_AGARIC",
+        "LocalizedNames": "Arcane Agaric",
+        "itemTag": "@ITEMS_T2_AGARIC"
+    },
+    {
+        "itemId": "T8_CLOTH",
+        "LocalizedNames": "Baroque Cloth",
+        "itemTag": "@ITEMS_T8_CLOTH"
+    },
+    {
+        "itemId": "T6_POTATO",
+        "LocalizedNames": "Potatoes",
+        "itemTag": "@ITEMS_T6_POTATO"
+    },
+    {
+        "itemId": "T3_FISH_FRESHWATER_STEPPE_RARE",
+        "LocalizedNames": "Lowriver Crab",
+        "itemTag": "@ITEMS_T3_FISH_FRESHWATER_STEPPE_RARE"
+    },
+    {
+        "itemId": "T6_WOOD_LEVEL4@4",
+        "LocalizedNames": "Pristine Bloodoak Logs",
+        "itemTag": "@ITEMS_T6_WOOD_LEVEL4"
+    },
+    {
+        "itemId": "T4_FIBER",
+        "LocalizedNames": "Hemp",
+        "itemTag": "@ITEMS_T4_FIBER"
+    },
+    {
+        "itemId": "T5_FISH_SALTWATER_ALL_COMMON",
+        "LocalizedNames": "Spotted Wolffish",
+        "itemTag": "@ITEMS_T5_FISH_SALTWATER_ALL_COMMON"
+    },
+    {
+        "itemId": "T6_METALBAR",
+        "LocalizedNames": "Runite Steel Bar",
+        "itemTag": "@ITEMS_T6_METALBAR"
+    },
+    {
+        "itemId": "T5_ROCK_LEVEL1@1",
+        "LocalizedNames": "Uncommon Granite",
+        "itemTag": "@ITEMS_T5_ROCK_LEVEL1"
+    },
+    {
+        "itemId": "T5_JOURNAL_HIDE_EMPTY",
+        "LocalizedNames": "Expert Gamekeeper's Journal (Empty)",
+        "itemTag": "@ITEMS_T5_JOURNAL_HIDE_EMPTY"
+    },
+    {
+        "itemId": "T5_EGG",
+        "LocalizedNames": "Goose Eggs",
+        "itemTag": "@ITEMS_T5_EGG"
+    },
+    {
+        "itemId": "T3_FISH_FRESHWATER_SWAMP_RARE",
+        "LocalizedNames": "Greenmoor Clam",
+        "itemTag": "@ITEMS_T3_FISH_FRESHWATER_SWAMP_RARE"
+    },
+    {
+        "itemId": "T5_BAG_INSIGHT",
+        "LocalizedNames": "Expert's Satchel of Insight",
+        "itemTag": "@ITEMS_T5_BAG_INSIGHT"
+    },
+    {
+        "itemId": "T7_WOOD_LEVEL2@2",
+        "LocalizedNames": "Rare Ashenbark Logs",
+        "itemTag": "@ITEMS_T7_WOOD_LEVEL2"
+    },
+    {
+        "itemId": "T6_2H_CROSSBOW",
+        "LocalizedNames": "Master's Crossbow",
+        "itemTag": "@ITEMS_T6_2H_CROSSBOW"
+    },
+    {
+        "itemId": "T6_METALBAR_LEVEL1@1",
+        "LocalizedNames": "Uncommon Runite Steel Bar",
+        "itemTag": "@ITEMS_T6_METALBAR_LEVEL1"
+    },
+    {
+        "itemId": "T5_SOUL",
+        "LocalizedNames": "Expert's Soul",
+        "itemTag": "@ITEMS_T5_SOUL"
+    },
+    {
+        "itemId": "T8_RELIC",
+        "LocalizedNames": "Elder's Relic",
+        "itemTag": "@ITEMS_T8_RELIC"
+    },
+    {
+        "itemId": "T6_RANDOM_DUNGEON_SOLO_TOKEN_1",
+        "LocalizedNames": "Master's Dungeon Map (Solo)",
+        "itemTag": "@ITEMS_T6_RANDOM_DUNGEON_SOLO_TOKEN_1"
+    },
+    {
+        "itemId": "T5_MOUNT_ARMORED_HORSE",
+        "LocalizedNames": "Expert's Armored Horse",
+        "itemTag": "@ITEMS_T5_MOUNT_ARMORED_HORSE"
+    },
+    {
+        "itemId": "T5_BAG@1",
+        "LocalizedNames": "Expert's Bag",
+        "itemTag": "@ITEMS_T5_BAG"
+    },
+    {
+        "itemId": "T6_ARMOR_PLATE_SET3",
+        "LocalizedNames": "Master's Guardian Armor",
+        "itemTag": "@ITEMS_T6_ARMOR_PLATE_SET3"
+    },
+    {
+        "itemId": "T6_ORE",
+        "LocalizedNames": "Runite Ore",
+        "itemTag": "@ITEMS_T6_ORE"
+    },
+    {
+        "itemId": "T7_METALBAR_LEVEL2@2",
+        "LocalizedNames": "Rare Meteorite Steel Bar",
+        "itemTag": "@ITEMS_T7_METALBAR_LEVEL2"
+    },
+    {
+        "itemId": "T4_SOUL",
+        "LocalizedNames": "Adept's Soul",
+        "itemTag": "@ITEMS_T4_SOUL"
+    },
+    {
+        "itemId": "T5_ARMOR_CLOTH_SET1",
+        "LocalizedNames": "Expert's Scholar Robe",
+        "itemTag": "@ITEMS_T5_ARMOR_CLOTH_SET1"
+    },
+    {
+        "itemId": "TREASURE_KNOWLEDGE_RARITY2",
+        "LocalizedNames": "Thin Booklet",
+        "itemTag": "@ITEMS_TREASURE_KNOWLEDGE_RARITY2"
+    },
+    {
+        "itemId": "TREASURE_KNOWLEDGE_RARITY3",
+        "LocalizedNames": "Ancient Tome",
+        "itemTag": "@ITEMS_TREASURE_KNOWLEDGE_RARITY3"
+    },
+    {
+        "itemId": "T6_2H_MACE@1",
+        "LocalizedNames": "Master's Heavy Mace",
+        "itemTag": "@ITEMS_T6_2H_MACE"
+    },
+    {
+        "itemId": "T7_MEAL_PIE@2",
+        "LocalizedNames": "Pork Pie",
+        "itemTag": "@ITEMS_T7_MEAL_PIE"
+    },
+    {
+        "itemId": "T7_MULLEIN",
+        "LocalizedNames": "Firetouched Mullein",
+        "itemTag": "@ITEMS_T7_MULLEIN"
+    },
+    {
+        "itemId": "T6_ARTEFACT_SHOES_LEATHER_AVALON",
+        "LocalizedNames": "Master's Augured Fasteners",
+        "itemTag": "@ITEMS_T6_ARTEFACT_SHOES_LEATHER_AVALON"
+    },
+    {
+        "itemId": "T5_SHOES_LEATHER_SET1@2",
+        "LocalizedNames": "Expert's Mercenary Shoes",
+        "itemTag": "@ITEMS_T5_SHOES_LEATHER_SET1"
+    },
+    {
+        "itemId": "T8_RANDOM_DUNGEON_SOLO_TOKEN_1",
+        "LocalizedNames": "Elder's Dungeon Map (Solo)",
+        "itemTag": "@ITEMS_T8_RANDOM_DUNGEON_SOLO_TOKEN_1"
+    },
+    {
+        "itemId": "T6_PLANKS",
+        "LocalizedNames": "Bloodoak Planks",
+        "itemTag": "@ITEMS_T6_PLANKS"
+    },
+    {
+        "itemId": "T8_PLANKS_LEVEL4@4",
+        "LocalizedNames": "Pristine Whitewood Planks",
+        "itemTag": "@ITEMS_T8_PLANKS_LEVEL4"
+    },
+    {
+        "itemId": "T6_2H_CLAWPAIR",
+        "LocalizedNames": "Master's Claws",
+        "itemTag": "@ITEMS_T6_2H_CLAWPAIR"
+    },
+    {
+        "itemId": "T4_SHOES_CLOTH_SET1",
+        "LocalizedNames": "Adept's Scholar Sandals",
+        "itemTag": "@ITEMS_T4_SHOES_CLOTH_SET1"
+    },
+    {
+        "itemId": "T6_ESSENCE_POTION",
+        "LocalizedNames": "Master's Arcane Essence",
+        "itemTag": "@ITEMS_T6_ESSENCE_POTION"
+    },
+    {
+        "itemId": "T6_MAIN_CURSEDSTAFF",
+        "LocalizedNames": "Master's Cursed Staff",
+        "itemTag": "@ITEMS_T6_MAIN_CURSEDSTAFF"
+    },
+    {
+        "itemId": "QUESTITEM_EXP_TOKEN_D14_T6_EXP_HRD_MORGANA_TORTURER",
+        "LocalizedNames": "",
+        "itemTag": "@EXPEDITION_DIFFICULTY_14"
+    },
+    {
+        "itemId": "T5_ORE",
+        "LocalizedNames": "Titanium Ore",
+        "itemTag": "@ITEMS_T5_ORE"
+    },
+    {
+        "itemId": "T7_MEAT",
+        "LocalizedNames": "Raw Pork",
+        "itemTag": "@ITEMS_T7_MEAT"
+    },
+    {
+        "itemId": "T7_MEAL_PIE",
+        "LocalizedNames": "Pork Pie",
+        "itemTag": "@ITEMS_T7_MEAL_PIE"
+    },
+    {
+        "itemId": "T6_SHOES_PLATE_SET3",
+        "LocalizedNames": "Master's Guardian Boots",
+        "itemTag": "@ITEMS_T6_SHOES_PLATE_SET3"
+    },
+    {
+        "itemId": "T6_HIDE_LEVEL3@3",
+        "LocalizedNames": "Exceptional Robust Hide",
+        "itemTag": "@ITEMS_T6_HIDE_LEVEL3"
+    },
+    {
+        "itemId": "T7_PLANKS",
+        "LocalizedNames": "Ashenbark Planks",
+        "itemTag": "@ITEMS_T7_PLANKS"
+    },
+    {
+        "itemId": "T5_ARMOR_PLATE_UNDEAD",
+        "LocalizedNames": "Expert's Graveguard Armor",
+        "itemTag": "@ITEMS_T5_ARMOR_PLATE_UNDEAD"
+    },
+    {
+        "itemId": "T4_HEAD_PLATE_SET1",
+        "LocalizedNames": "Adept's Soldier Helmet",
+        "itemTag": "@ITEMS_T4_HEAD_PLATE_SET1"
+    },
+    {
+        "itemId": "T8_HIDE",
+        "LocalizedNames": "Resilient Hide",
+        "itemTag": "@ITEMS_T8_HIDE"
+    },
+    {
+        "itemId": "T7_LEATHER_LEVEL3@3",
+        "LocalizedNames": "Exceptional Reinforced Leather",
+        "itemTag": "@ITEMS_T7_LEATHER_LEVEL3"
+    },
+    {
+        "itemId": "T6_ARMOR_LEATHER_SET1@1",
+        "LocalizedNames": "Master's Mercenary Jacket",
+        "itemTag": "@ITEMS_T6_ARMOR_LEATHER_SET1"
+    },
+    {
+        "itemId": "T4_2H_DEMONICSTAFF",
+        "LocalizedNames": "Adept's Demonic Staff",
+        "itemTag": "@ITEMS_T4_2H_DEMONICSTAFF"
+    },
+    {
+        "itemId": "T6_RELIC",
+        "LocalizedNames": "Master's Relic",
+        "itemTag": "@ITEMS_T6_RELIC"
+    },
+    {
+        "itemId": "T5_SHOES_PLATE_SET2",
+        "LocalizedNames": "Expert's Knight Boots",
+        "itemTag": "@ITEMS_T5_SHOES_PLATE_SET2"
+    },
+    {
+        "itemId": "T7_FISH_FRESHWATER_FOREST_RARE",
+        "LocalizedNames": "Deadwater Eel",
+        "itemTag": "@ITEMS_T7_FISH_FRESHWATER_FOREST_RARE"
+    },
+    {
+        "itemId": "T5_CLOTH",
+        "LocalizedNames": "Ornate Cloth",
+        "itemTag": "@ITEMS_T5_CLOTH"
+    },
+    {
+        "itemId": "T4_HIDE_LEVEL3@3",
+        "LocalizedNames": "Exceptional Medium Hide",
+        "itemTag": "@ITEMS_T4_HIDE_LEVEL3"
+    },
+    {
+        "itemId": "T6_MAIN_MACE",
+        "LocalizedNames": "Master's Mace",
+        "itemTag": "@ITEMS_T6_MAIN_MACE"
+    },
+    {
+        "itemId": "T8_JOURNAL_WARRIOR_EMPTY",
+        "LocalizedNames": "Elder Blacksmith's Journal (Empty)",
+        "itemTag": "@ITEMS_T8_JOURNAL_WARRIOR_EMPTY"
+    },
+    {
+        "itemId": "T4_SHOES_LEATHER_SET1",
+        "LocalizedNames": "Adept's Mercenary Shoes",
+        "itemTag": "@ITEMS_T4_SHOES_LEATHER_SET1"
+    },
+    {
+        "itemId": "T7_MEAL_OMELETTE@2",
+        "LocalizedNames": "Pork Omelette",
+        "itemTag": "@ITEMS_T7_MEAL_OMELETTE"
+    },
+    {
+        "itemId": "T4_HIDE_LEVEL2@2",
+        "LocalizedNames": "Rare Medium Hide",
+        "itemTag": "@ITEMS_T4_HIDE_LEVEL2"
+    },
+    {
+        "itemId": "T8_MEAL_STEW@2",
+        "LocalizedNames": "Beef Stew",
+        "itemTag": "@ITEMS_T8_MEAL_STEW"
+    },
+    {
+        "itemId": "T8_MEAT",
+        "LocalizedNames": "Raw Beef",
+        "itemTag": "@ITEMS_T8_MEAT"
+    },
+    {
+        "itemId": "T5_2H_TOOL_PICK",
+        "LocalizedNames": "Expert's Pickaxe",
+        "itemTag": "@ITEMS_T5_2H_TOOL_PICK"
+    },
+    {
+        "itemId": "T8_ORE",
+        "LocalizedNames": "Adamantium Ore",
+        "itemTag": "@ITEMS_T8_ORE"
+    },
+    {
+        "itemId": "T5_SHOES_CLOTH_SET2",
+        "LocalizedNames": "Expert's Cleric Sandals",
+        "itemTag": "@ITEMS_T5_SHOES_CLOTH_SET2"
+    },
+    {
+        "itemId": "T1_FISH_FRESHWATER_ALL_COMMON",
+        "LocalizedNames": "Common Rudd",
+        "itemTag": "@ITEMS_T1_FISH_FRESHWATER_ALL_COMMON"
+    },
+    {
+        "itemId": "T4_SHOES_CLOTH_SET3",
+        "LocalizedNames": "Adept's Mage Sandals",
+        "itemTag": "@ITEMS_T4_SHOES_CLOTH_SET3"
+    },
+    {
+        "itemId": "T7_HIDE_LEVEL1@1",
+        "LocalizedNames": "Uncommon Thick Hide",
+        "itemTag": "@ITEMS_T7_HIDE_LEVEL1"
+    },
+    {
+        "itemId": "T3_FISH_FRESHWATER_MOUNTAIN_RARE",
+        "LocalizedNames": "Upland Coldeye",
+        "itemTag": "@ITEMS_T3_FISH_FRESHWATER_MOUNTAIN_RARE"
+    },
+    {
+        "itemId": "T3_MOUNT_HORSE",
+        "LocalizedNames": "Journeyman's Riding Horse",
+        "itemTag": "@ITEMS_T3_MOUNT_HORSE"
+    },
+    {
+        "itemId": "T4_CAPE",
+        "LocalizedNames": "Adept's Cape",
+        "itemTag": "@ITEMS_T4_CAPE"
+    },
+    {
+        "itemId": "T6_WOOD_LEVEL2@2",
+        "LocalizedNames": "Rare Bloodoak Logs",
+        "itemTag": "@ITEMS_T6_WOOD_LEVEL2"
+    },
+    {
+        "itemId": "T4_ROCK_LEVEL3@3",
+        "LocalizedNames": "Exceptional Travertine",
+        "itemTag": "@ITEMS_T4_ROCK_LEVEL3"
+    },
+    {
+        "itemId": "T4_LEATHER_LEVEL2@2",
+        "LocalizedNames": "Rare Worked Leather",
+        "itemTag": "@ITEMS_T4_LEATHER_LEVEL2"
+    },
+    {
+        "itemId": "T5_HIDE_LEVEL1@1",
+        "LocalizedNames": "Uncommon Heavy Hide",
+        "itemTag": "@ITEMS_T5_HIDE_LEVEL1"
+    },
+    {
+        "itemId": "T7_METALBAR",
+        "LocalizedNames": "Meteorite Steel Bar",
+        "itemTag": "@ITEMS_T7_METALBAR"
+    },
+    {
+        "itemId": "T5_FISH_FRESHWATER_STEPPE_RARE",
+        "LocalizedNames": "Drybrook Crab",
+        "itemTag": "@ITEMS_T5_FISH_FRESHWATER_STEPPE_RARE"
+    },
+    {
+        "itemId": "T8_PLANKS",
+        "LocalizedNames": "Whitewood Planks",
+        "itemTag": "@ITEMS_T8_PLANKS"
+    },
+    {
+        "itemId": "T4_MOUNT_HORSE",
+        "LocalizedNames": "Adept's Riding Horse",
+        "itemTag": "@ITEMS_T4_MOUNT_HORSE"
+    },
+    {
+        "itemId": "T5_ARTEFACT_2H_DAGGER_KATAR_AVALON",
+        "LocalizedNames": "Expert's Bloodstained Antiquities",
+        "itemTag": "@ITEMS_T5_ARTEFACT_2H_DAGGER_KATAR_AVALON"
+    },
+    {
+        "itemId": "T5_HIDE_LEVEL3@3",
+        "LocalizedNames": "Exceptional Heavy Hide",
+        "itemTag": "@ITEMS_T5_HIDE_LEVEL3"
+    },
+    {
+        "itemId": "T6_ROCK",
+        "LocalizedNames": "Slate",
+        "itemTag": "@ITEMS_T6_ROCK"
+    },
+    {
+        "itemId": "T8_MEAL_STEW_AVALON",
+        "LocalizedNames": "Avalonian Beef Stew",
+        "itemTag": "@ITEMS_T8_MEAL_STEW_AVALON"
+    },
+    {
+        "itemId": "T7_ORE_LEVEL1@1",
+        "LocalizedNames": "Uncommon Meteorite Ore",
+        "itemTag": "@ITEMS_T7_ORE_LEVEL1"
+    },
+    {
+        "itemId": "T6_WOOD_LEVEL1@1",
+        "LocalizedNames": "Uncommon Bloodoak Logs",
+        "itemTag": "@ITEMS_T6_WOOD_LEVEL1"
+    },
+    {
+        "itemId": "T6_JOURNAL_WARRIOR_EMPTY",
+        "LocalizedNames": "Master Blacksmith's Journal (Empty)",
+        "itemTag": "@ITEMS_T6_JOURNAL_WARRIOR_EMPTY"
+    },
+    {
+        "itemId": "T6_SHOES_LEATHER_SET3",
+        "LocalizedNames": "Master's Assassin Shoes",
+        "itemTag": "@ITEMS_T6_SHOES_LEATHER_SET3"
+    },
+    {
+        "itemId": "T6_CAPEITEM_MORGANA@2",
+        "LocalizedNames": "Master's Morgana Cape",
+        "itemTag": "@ITEMS_T6_CAPEITEM_MORGANA"
+    },
+    {
+        "itemId": "T5_2H_DUALSWORD",
+        "LocalizedNames": "Expert's Dual Swords",
+        "itemTag": "@ITEMS_T5_2H_DUALSWORD"
+    },
+    {
+        "itemId": "T5_ARMOR_CLOTH_SET2@1",
+        "LocalizedNames": "Expert's Cleric Robe",
+        "itemTag": "@ITEMS_T5_ARMOR_CLOTH_SET2"
+    },
+    {
+        "itemId": "T6_MEAL_SALAD",
+        "LocalizedNames": "Potato Salad",
+        "itemTag": "@ITEMS_T6_MEAL_SALAD"
+    },
+    {
+        "itemId": "T8_WOOD_LEVEL1@1",
+        "LocalizedNames": "Uncommon Whitewood Logs",
+        "itemTag": "@ITEMS_T8_WOOD_LEVEL1"
+    },
+    {
+        "itemId": "T4_ARMOR_CLOTH_SET2",
+        "LocalizedNames": "Adept's Cleric Robe",
+        "itemTag": "@ITEMS_T4_ARMOR_CLOTH_SET2"
+    },
+    {
+        "itemId": "T6_MEAT",
+        "LocalizedNames": "Raw Mutton",
+        "itemTag": "@ITEMS_T6_MEAT"
+    },
+    {
+        "itemId": "T7_SHOES_CLOTH_SET1",
+        "LocalizedNames": "Grandmaster's Scholar Sandals",
+        "itemTag": "@ITEMS_T7_SHOES_CLOTH_SET1"
+    },
+    {
+        "itemId": "T7_JOURNAL_FISHING_EMPTY",
+        "LocalizedNames": "Grandmaster Fisherman's Journal (Empty)",
+        "itemTag": "@ITEMS_T7_JOURNAL_FISHING_EMPTY"
+    },
+    {
+        "itemId": "T7_OFF_TORCH",
+        "LocalizedNames": "Grandmaster's Torch",
+        "itemTag": "@ITEMS_T7_OFF_TORCH"
+    },
+    {
+        "itemId": "T5_2H_INFERNOSTAFF",
+        "LocalizedNames": "Expert's Infernal Staff",
+        "itemTag": "@ITEMS_T5_2H_INFERNOSTAFF"
+    },
+    {
+        "itemId": "T4_CLOTH",
+        "LocalizedNames": "Fine Cloth",
+        "itemTag": "@ITEMS_T4_CLOTH"
+    },
+    {
+        "itemId": "T8_FISH_FRESHWATER_ALL_COMMON",
+        "LocalizedNames": "River Sturgeon",
+        "itemTag": "@ITEMS_T8_FISH_FRESHWATER_ALL_COMMON"
+    },
+    {
+        "itemId": "T4_MAIN_FROSTSTAFF@2",
+        "LocalizedNames": "Adept's Frost Staff",
+        "itemTag": "@ITEMS_T4_MAIN_FROSTSTAFF"
+    },
+    {
+        "itemId": "T4_ORE_LEVEL3@3",
+        "LocalizedNames": "Exceptional Iron Ore",
+        "itemTag": "@ITEMS_T4_ORE_LEVEL3"
+    },
+    {
+        "itemId": "T6_ARTEFACT_SHOES_LEATHER_MORGANA",
+        "LocalizedNames": "Master's Imbued Soles",
+        "itemTag": "@ITEMS_T6_ARTEFACT_SHOES_LEATHER_MORGANA"
+    },
+    {
+        "itemId": "T5_METALBAR_LEVEL3@3",
+        "LocalizedNames": "Exceptional Titanium Steel Bar",
+        "itemTag": "@ITEMS_T5_METALBAR_LEVEL3"
+    },
+    {
+        "itemId": "UNIQUE_GVGTOKEN_GENERIC",
+        "LocalizedNames": "Siphoned Energy",
+        "itemTag": "@ITEMS_UNIQUE_GVGTOKEN_GENERIC"
+    },
+    {
+        "itemId": "T4_POTION_COOLDOWN",
+        "LocalizedNames": "Minor Poison Potion",
+        "itemTag": "@ITEMS_T4_POTION_COOLDOWN"
+    },
+    {
+        "itemId": "T5_2H_DAGGERPAIR",
+        "LocalizedNames": "Expert's Dagger Pair",
+        "itemTag": "@ITEMS_T5_2H_DAGGERPAIR"
+    },
+    {
+        "itemId": "T8_SOUL",
+        "LocalizedNames": "Elder's Soul",
+        "itemTag": "@ITEMS_T8_SOUL"
+    },
+    {
+        "itemId": "T6_ARTEFACT_HEAD_CLOTH_HELL",
+        "LocalizedNames": "Master's Infernal Cloth Visor",
+        "itemTag": "@ITEMS_T6_ARTEFACT_HEAD_CLOTH_HELL"
+    },
+    {
+        "itemId": "T4_MEAT",
+        "LocalizedNames": "Raw Goat",
+        "itemTag": "@ITEMS_T4_MEAT"
+    },
+    {
+        "itemId": "UNIQUE_MOUNT_UNDEAD_DIREBOAR_ADC",
+        "LocalizedNames": "Spectral Direboar",
+        "itemTag": "@ITEMS_UNIQUE_MOUNT_UNDEAD_DIREBOAR_ADC"
+    },
+    {
+        "itemId": "T6_ARMOR_LEATHER_SET1",
+        "LocalizedNames": "Master's Mercenary Jacket",
+        "itemTag": "@ITEMS_T6_ARMOR_LEATHER_SET1"
+    },
+    {
+        "itemId": "T4_HEAD_CLOTH_SET2",
+        "LocalizedNames": "Adept's Cleric Cowl",
+        "itemTag": "@ITEMS_T4_HEAD_CLOTH_SET2"
+    },
+    {
+        "itemId": "T7_ESSENCE_POTION",
+        "LocalizedNames": "Grandmaster's Arcane Essence",
+        "itemTag": "@ITEMS_T7_ESSENCE_POTION"
+    },
+    {
+        "itemId": "T6_MOUNT_GIANTSTAG_MOOSE",
+        "LocalizedNames": "Moose",
+        "itemTag": "@ITEMS_T6_MOUNT_GIANTSTAG_MOOSE"
+    },
+    {
+        "itemId": "T6_ARMOR_CLOTH_SET3",
+        "LocalizedNames": "Master's Mage Robe",
+        "itemTag": "@ITEMS_T6_ARMOR_CLOTH_SET3"
+    },
+    {
+        "itemId": "T6_CAPEITEM_FW_BRIDGEWATCH@1",
+        "LocalizedNames": "Master's Bridgewatch Cape",
+        "itemTag": "@ITEMS_T6_CAPEITEM_FW_BRIDGEWATCH"
+    },
+    {
+        "itemId": "T7_ARMOR_CLOTH_SET2",
+        "LocalizedNames": "Grandmaster's Cleric Robe",
+        "itemTag": "@ITEMS_T7_ARMOR_CLOTH_SET2"
+    },
+    {
+        "itemId": "T7_ARMOR_LEATHER_SET1",
+        "LocalizedNames": "Grandmaster's Mercenary Jacket",
+        "itemTag": "@ITEMS_T7_ARMOR_LEATHER_SET1"
+    },
+    {
+        "itemId": "T5_2H_ARCANESTAFF@1",
+        "LocalizedNames": "Expert's Great Arcane Staff",
+        "itemTag": "@ITEMS_T5_2H_ARCANESTAFF"
+    },
+    {
+        "itemId": "T3_MEAT",
+        "LocalizedNames": "Raw Chicken",
+        "itemTag": "@ITEMS_T3_MEAT"
+    },
+    {
+        "itemId": "T6_MOUNT_DIREWOLF",
+        "LocalizedNames": "Direwolf",
+        "itemTag": "@ITEMS_T6_MOUNT_DIREWOLF"
+    },
+    {
+        "itemId": "T4_CAPEITEM_FW_LYMHURST@3",
+        "LocalizedNames": "Adept's Lymhurst Cape",
+        "itemTag": "@ITEMS_T4_CAPEITEM_FW_LYMHURST"
+    },
+    {
+        "itemId": "T8_2H_TOOL_KNIFE",
+        "LocalizedNames": "Elder's Skinning Knife",
+        "itemTag": "@ITEMS_T8_2H_TOOL_KNIFE"
+    },
+    {
+        "itemId": "T6_2H_AXE",
+        "LocalizedNames": "Master's Greataxe",
+        "itemTag": "@ITEMS_T6_2H_AXE"
+    },
+    {
+        "itemId": "T5_ARTEFACT_TOKEN_FAVOR_2",
+        "LocalizedNames": "Expert's Crystallized Dread",
+        "itemTag": "@ITEMS_T5_ARTEFACT_TOKEN_FAVOR_2"
+    },
+    {
+        "itemId": "T5_MAIN_DAGGER",
+        "LocalizedNames": "Expert's Dagger",
+        "itemTag": "@ITEMS_T5_MAIN_DAGGER"
+    },
+    {
+        "itemId": "T6_JOURNAL_FISHING_FULL",
+        "LocalizedNames": "Master Fisherman's Journal (Full)",
+        "itemTag": "@ITEMS_T6_JOURNAL_FISHING_FULL"
+    },
+    {
+        "itemId": "T3_FISH_SALTWATER_ALL_RARE",
+        "LocalizedNames": "Shallowshore Squid",
+        "itemTag": "@ITEMS_T3_FISH_SALTWATER_ALL_RARE"
+    },
+    {
+        "itemId": "T6_CAPEITEM_FW_THETFORD",
+        "LocalizedNames": "Master's Thetford Cape",
+        "itemTag": "@ITEMS_T6_CAPEITEM_FW_THETFORD"
+    },
+    {
+        "itemId": "T6_OFF_DEMONSKULL_HELL@3",
+        "LocalizedNames": "Master's Muisak",
+        "itemTag": "@ITEMS_T6_OFF_DEMONSKULL_HELL"
+    },
+    {
+        "itemId": "T6_METALBAR_LEVEL3@3",
+        "LocalizedNames": "Exceptional Runite Steel Bar",
+        "itemTag": "@ITEMS_T6_METALBAR_LEVEL3"
+    },
+    {
+        "itemId": "T6_POTION_HEAL",
+        "LocalizedNames": "Major Healing Potion",
+        "itemTag": "@ITEMS_T6_POTION_HEAL"
+    },
+    {
+        "itemId": "UNIQUE_MOUNT_GIANT_HORSE_ADC",
+        "LocalizedNames": "Gallant Horse",
+        "itemTag": "@ITEMS_UNIQUE_MOUNT_GIANT_HORSE_ADC"
+    },
+    {
+        "itemId": "T4_HEAD_LEATHER_HELL@2",
+        "LocalizedNames": "Adept's Hellion Hood",
+        "itemTag": "@ITEMS_T4_HEAD_LEATHER_HELL"
+    },
+    {
+        "itemId": "T7_MEAL_OMELETTE",
+        "LocalizedNames": "Pork Omelette",
+        "itemTag": "@ITEMS_T7_MEAL_OMELETTE"
+    },
+    {
+        "itemId": "T6_LEATHER_LEVEL1@1",
+        "LocalizedNames": "Uncommon Hardened Leather",
+        "itemTag": "@ITEMS_T6_LEATHER_LEVEL1"
+    },
+    {
+        "itemId": "T6_HIDE_LEVEL1@1",
+        "LocalizedNames": "Uncommon Robust Hide",
+        "itemTag": "@ITEMS_T6_HIDE_LEVEL1"
+    },
+    {
+        "itemId": "T6_MEAL_STEW_FISH@2",
+        "LocalizedNames": "Redspring Eel Stew",
+        "itemTag": "@ITEMS_T6_MEAL_STEW_FISH"
+    },
+    {
+        "itemId": "T5_ESSENCE_POTION",
+        "LocalizedNames": "Expert's Arcane Essence",
+        "itemTag": "@ITEMS_T5_ESSENCE_POTION"
+    },
+    {
+        "itemId": "T7_2H_TOOL_KNIFE",
+        "LocalizedNames": "Grandmaster's Skinning Knife",
+        "itemTag": "@ITEMS_T7_2H_TOOL_KNIFE"
+    },
+    {
+        "itemId": "T6_2H_TOOL_SICKLE",
+        "LocalizedNames": "Master's Sickle",
+        "itemTag": "@ITEMS_T6_2H_TOOL_SICKLE"
+    },
+    {
+        "itemId": "T6_2H_NATURESTAFF@1",
+        "LocalizedNames": "Master's Great Nature Staff",
+        "itemTag": "@ITEMS_T6_2H_NATURESTAFF"
+    },
+    {
+        "itemId": "T5_SHOES_CLOTH_KEEPER@2",
+        "LocalizedNames": "Expert's Druid Sandals",
+        "itemTag": "@ITEMS_T5_SHOES_CLOTH_KEEPER"
+    },
+    {
+        "itemId": "T3_STONEBLOCK",
+        "LocalizedNames": "Sandstone Block",
+        "itemTag": "@ITEMS_T3_STONEBLOCK"
+    },
+    {
+        "itemId": "T5_CAPE",
+        "LocalizedNames": "Expert's Cape",
+        "itemTag": "@ITEMS_T5_CAPE"
+    },
+    {
+        "itemId": "T5_2H_TOOL_SICKLE",
+        "LocalizedNames": "Expert's Sickle",
+        "itemTag": "@ITEMS_T5_2H_TOOL_SICKLE"
+    },
+    {
+        "itemId": "T6_POTION_COOLDOWN",
+        "LocalizedNames": "Poison Potion",
+        "itemTag": "@ITEMS_T6_POTION_COOLDOWN"
+    },
+    {
+        "itemId": "T5_ARTEFACT_HEAD_CLOTH_KEEPER",
+        "LocalizedNames": "Expert's Druidic Preserved Beak",
+        "itemTag": "@ITEMS_T5_ARTEFACT_HEAD_CLOTH_KEEPER"
+    },
+    {
+        "itemId": "T5_2H_HARPOON_HELL",
+        "LocalizedNames": "Expert's Spirithunter",
+        "itemTag": "@ITEMS_T5_2H_HARPOON_HELL"
+    },
+    {
+        "itemId": "T8_RANDOM_DUNGEON_TOKEN_3@2",
+        "LocalizedNames": "Rare Elder's Dungeon Map (Group)",
+        "itemTag": "@ITEMS_T8_RANDOM_DUNGEON_TOKEN_3"
+    },
+    {
+        "itemId": "T4_MILK",
+        "LocalizedNames": "Goat's Milk",
+        "itemTag": "@ITEMS_T4_MILK"
+    },
+    {
+        "itemId": "T4_METALBAR_LEVEL1@1",
+        "LocalizedNames": "Uncommon Steel Bar",
+        "itemTag": "@ITEMS_T4_METALBAR_LEVEL1"
+    },
+    {
+        "itemId": "T6_SHOES_LEATHER_SET1",
+        "LocalizedNames": "Master's Mercenary Shoes",
+        "itemTag": "@ITEMS_T6_SHOES_LEATHER_SET1"
+    },
+    {
+        "itemId": "T4_POTION_COOLDOWN@1",
+        "LocalizedNames": "Minor Poison Potion",
+        "itemTag": "@ITEMS_T4_POTION_COOLDOWN"
+    },
+    {
+        "itemId": "T5_STONEBLOCK",
+        "LocalizedNames": "Granite Block",
+        "itemTag": "@ITEMS_T5_STONEBLOCK"
+    },
+    {
+        "itemId": "T8_MOUNT_OX",
+        "LocalizedNames": "Elder's Transport Ox",
+        "itemTag": "@ITEMS_T8_MOUNT_OX"
+    },
+    {
+        "itemId": "T6_FIBER_LEVEL4@4",
+        "LocalizedNames": "Pristine Amberleaf Cotton",
+        "itemTag": "@ITEMS_T6_FIBER_LEVEL4"
+    },
+    {
+        "itemId": "T5_ARTEFACT_ARMOR_LEATHER_MORGANA",
+        "LocalizedNames": "Expert's Imbued Leather Folds",
+        "itemTag": "@ITEMS_T5_ARTEFACT_ARMOR_LEATHER_MORGANA"
+    },
+    {
+        "itemId": "T6_2H_CLEAVER_HELL@1",
+        "LocalizedNames": "Master's Carving Sword",
+        "itemTag": "@ITEMS_T6_2H_CLEAVER_HELL"
+    },
+    {
+        "itemId": "T2_LEATHER",
+        "LocalizedNames": "Stiff Leather",
+        "itemTag": "@ITEMS_T2_LEATHER"
+    },
+    {
+        "itemId": "T5_FISH_FRESHWATER_SWAMP_RARE",
+        "LocalizedNames": "Murkwater Clam",
+        "itemTag": "@ITEMS_T5_FISH_FRESHWATER_SWAMP_RARE"
+    },
+    {
+        "itemId": "T3_2H_BOW",
+        "LocalizedNames": "Journeyman's Bow",
+        "itemTag": "@ITEMS_T3_2H_BOW"
+    },
+    {
+        "itemId": "T6_ARTEFACT_2H_SCYTHE_HELL",
+        "LocalizedNames": "Master's Hellish Sicklehead",
+        "itemTag": "@ITEMS_T6_ARTEFACT_2H_SCYTHE_HELL"
+    },
+    {
+        "itemId": "T4_CAPEITEM_FW_THETFORD",
+        "LocalizedNames": "Adept's Thetford Cape",
+        "itemTag": "@ITEMS_T4_CAPEITEM_FW_THETFORD"
+    },
+    {
+        "itemId": "T4_CLOTH_LEVEL2@2",
+        "LocalizedNames": "Rare Fine Cloth",
+        "itemTag": "@ITEMS_T4_CLOTH_LEVEL2"
+    },
+    {
+        "itemId": "T5_ARMOR_LEATHER_SET3",
+        "LocalizedNames": "Expert's Assassin Jacket",
+        "itemTag": "@ITEMS_T5_ARMOR_LEATHER_SET3"
+    },
+    {
+        "itemId": "T6_MEAL_STEW_FISH",
+        "LocalizedNames": "Redspring Eel Stew",
+        "itemTag": "@ITEMS_T6_MEAL_STEW_FISH"
+    },
+    {
+        "itemId": "T5_2H_FIRESTAFF",
+        "LocalizedNames": "Expert's Great Fire Staff",
+        "itemTag": "@ITEMS_T5_2H_FIRESTAFF"
+    },
+    {
+        "itemId": "T5_HEAD_CLOTH_SET1",
+        "LocalizedNames": "Expert's Scholar Cowl",
+        "itemTag": "@ITEMS_T5_HEAD_CLOTH_SET1"
+    },
+    {
+        "itemId": "T4_2H_DUALAXE_KEEPER@3",
+        "LocalizedNames": "Adept's Bear Paws",
+        "itemTag": "@ITEMS_T4_2H_DUALAXE_KEEPER"
+    },
+    {
+        "itemId": "T8_MEAL_STEW",
+        "LocalizedNames": "Beef Stew",
+        "itemTag": "@ITEMS_T8_MEAL_STEW"
+    },
+    {
+        "itemId": "T5_RELIC",
+        "LocalizedNames": "Expert's Relic",
+        "itemTag": "@ITEMS_T5_RELIC"
+    },
+    {
+        "itemId": "T4_BAG",
+        "LocalizedNames": "Adept's Bag",
+        "itemTag": "@ITEMS_T4_BAG"
+    },
+    {
+        "itemId": "T7_FIBER",
+        "LocalizedNames": "Sunflax",
+        "itemTag": "@ITEMS_T7_FIBER"
+    },
+    {
+        "itemId": "T3_SHOES_LEATHER_SET1",
+        "LocalizedNames": "Journeyman's Mercenary Shoes",
+        "itemTag": "@ITEMS_T3_SHOES_LEATHER_SET1"
+    },
+    {
+        "itemId": "T6_2H_TOOL_KNIFE",
+        "LocalizedNames": "Master's Skinning Knife",
+        "itemTag": "@ITEMS_T6_2H_TOOL_KNIFE"
+    },
+    {
+        "itemId": "T7_OFF_BOOK",
+        "LocalizedNames": "Grandmaster's Tome of Spells",
+        "itemTag": "@ITEMS_T7_OFF_BOOK"
+    },
+    {
+        "itemId": "T8_2H_TOOL_AXE",
+        "LocalizedNames": "Elder's Axe",
+        "itemTag": "@ITEMS_T8_2H_TOOL_AXE"
+    },
+    {
+        "itemId": "T8_MEAL_STEW_FISH",
+        "LocalizedNames": "Deadwater Eel Stew",
+        "itemTag": "@ITEMS_T8_MEAL_STEW_FISH"
+    },
+    {
+        "itemId": "T5_MOUNT_OX",
+        "LocalizedNames": "Expert's Transport Ox",
+        "itemTag": "@ITEMS_T5_MOUNT_OX"
+    },
+    {
+        "itemId": "T4_ARMOR_LEATHER_SET3",
+        "LocalizedNames": "Adept's Assassin Jacket",
+        "itemTag": "@ITEMS_T4_ARMOR_LEATHER_SET3"
+    },
+    {
+        "itemId": "T5_HEAD_CLOTH_SET2",
+        "LocalizedNames": "Expert's Cleric Cowl",
+        "itemTag": "@ITEMS_T5_HEAD_CLOTH_SET2"
+    },
+    {
+        "itemId": "T7_RANDOM_DUNGEON_SOLO_TOKEN_1",
+        "LocalizedNames": "Grandmaster's Dungeon Map (Solo)",
+        "itemTag": "@ITEMS_T7_RANDOM_DUNGEON_SOLO_TOKEN_1"
+    },
+    {
+        "itemId": "T5_SHOES_CLOTH_SET1",
+        "LocalizedNames": "Expert's Scholar Sandals",
+        "itemTag": "@ITEMS_T5_SHOES_CLOTH_SET1"
+    },
+    {
+        "itemId": "T4_SHOES_LEATHER_SET2",
+        "LocalizedNames": "Adept's Hunter Shoes",
+        "itemTag": "@ITEMS_T4_SHOES_LEATHER_SET2"
+    },
+    {
+        "itemId": "T7_MEAL_OMELETTE@1",
+        "LocalizedNames": "Pork Omelette",
+        "itemTag": "@ITEMS_T7_MEAL_OMELETTE"
+    },
+    {
+        "itemId": "T4_CAPEITEM_FW_MARTLOCK@1",
+        "LocalizedNames": "Adept's Martlock Cape",
+        "itemTag": "@ITEMS_T4_CAPEITEM_FW_MARTLOCK"
+    },
+    {
+        "itemId": "T5_SHOES_LEATHER_SET1@1",
+        "LocalizedNames": "Expert's Mercenary Shoes",
+        "itemTag": "@ITEMS_T5_SHOES_LEATHER_SET1"
+    },
+    {
+        "itemId": "T1_WOOD",
+        "LocalizedNames": "Rough Logs",
+        "itemTag": "@ITEMS_T1_WOOD"
+    },
+    {
+        "itemId": "T7_ORE",
+        "LocalizedNames": "Meteorite Ore",
+        "itemTag": "@ITEMS_T7_ORE"
+    },
+    {
+        "itemId": "T6_2H_HALBERD",
+        "LocalizedNames": "Master's Halberd",
+        "itemTag": "@ITEMS_T6_2H_HALBERD"
+    },
+    {
+        "itemId": "T3_ROCK",
+        "LocalizedNames": "Sandstone",
+        "itemTag": "@ITEMS_T3_ROCK"
+    },
+    {
+        "itemId": "T4_ARTEFACT_MAIN_CURSEDSTAFF_UNDEAD",
+        "LocalizedNames": "Adept's Lost Cursed Crystal",
+        "itemTag": "@ITEMS_T4_ARTEFACT_MAIN_CURSEDSTAFF_UNDEAD"
+    },
+    {
+        "itemId": "T7_ARTEFACT_HEAD_CLOTH_HELL",
+        "LocalizedNames": "Grandmaster's Infernal Cloth Visor",
+        "itemTag": "@ITEMS_T7_ARTEFACT_HEAD_CLOTH_HELL"
+    },
+    {
+        "itemId": "T4_MOUNT_GIANTSTAG",
+        "LocalizedNames": "Adept's Giant Stag",
+        "itemTag": "@ITEMS_T4_MOUNT_GIANTSTAG"
+    },
+    {
+        "itemId": "T5_CAPEITEM_UNDEAD@3",
+        "LocalizedNames": "Expert's Undead Cape",
+        "itemTag": "@ITEMS_T5_CAPEITEM_UNDEAD"
+    },
+    {
+        "itemId": "T5_2H_HALBERD",
+        "LocalizedNames": "Expert's Halberd",
+        "itemTag": "@ITEMS_T5_2H_HALBERD"
+    },
+    {
+        "itemId": "T6_FARM_GIANTSTAG_MOOSE_BABY",
+        "LocalizedNames": "Moose Calf",
+        "itemTag": "@ITEMS_T6_FARM_GIANTSTAG_MOOSE_BABY"
+    },
+    {
+        "itemId": "T5_HEAD_CLOTH_SET3@2",
+        "LocalizedNames": "Expert's Mage Cowl",
+        "itemTag": "@ITEMS_T5_HEAD_CLOTH_SET3"
+    },
+    {
+        "itemId": "T8_2H_TOOL_PICK",
+        "LocalizedNames": "Elder's Pickaxe",
+        "itemTag": "@ITEMS_T8_2H_TOOL_PICK"
+    },
+    {
+        "itemId": "T8_ARMOR_PLATE_SET3",
+        "LocalizedNames": "Elder's Guardian Armor",
+        "itemTag": "@ITEMS_T8_ARMOR_PLATE_SET3"
+    },
+    {
+        "itemId": "T8_MEAL_STEW_FISH@2",
+        "LocalizedNames": "Deadwater Eel Stew",
+        "itemTag": "@ITEMS_T8_MEAL_STEW_FISH"
+    },
+    {
+        "itemId": "T5_ARMOR_LEATHER_SET3@1",
+        "LocalizedNames": "Expert's Assassin Jacket",
+        "itemTag": "@ITEMS_T5_ARMOR_LEATHER_SET3"
+    },
+    {
+        "itemId": "T6_ARMOR_CLOTH_SET2@2",
+        "LocalizedNames": "Master's Cleric Robe",
+        "itemTag": "@ITEMS_T6_ARMOR_CLOTH_SET2"
+    },
+    {
+        "itemId": "T6_MOUNT_FROSTRAM_ADC",
+        "LocalizedNames": "Frost Ram",
+        "itemTag": "@ITEMS_T6_MOUNT_FROSTRAM_ADC"
+    },
+    {
+        "itemId": "T5_ARMOR_LEATHER_SET1@3",
+        "LocalizedNames": "Expert's Mercenary Jacket",
+        "itemTag": "@ITEMS_T5_ARMOR_LEATHER_SET1"
+    },
+    {
+        "itemId": "T4_HEAD_LEATHER_SET2",
+        "LocalizedNames": "Adept's Hunter Hood",
+        "itemTag": "@ITEMS_T4_HEAD_LEATHER_SET2"
+    },
+    {
+        "itemId": "T7_RANDOM_DUNGEON_SOLO_TOKEN_2@1",
+        "LocalizedNames": "Uncommon Grandmaster's Dungeon Map (Solo)",
+        "itemTag": "@ITEMS_T7_RANDOM_DUNGEON_SOLO_TOKEN_2"
+    },
+    {
+        "itemId": "T5_METALBAR",
+        "LocalizedNames": "Titanium Steel Bar",
+        "itemTag": "@ITEMS_T5_METALBAR"
+    },
+    {
+        "itemId": "T6_FARM_DIREWOLF_GROWN",
+        "LocalizedNames": "Tame Direwolf",
+        "itemTag": "@ITEMS_T6_FARM_DIREWOLF_GROWN"
+    },
+    {
+        "itemId": "T7_MEAL_ROAST_FISH",
+        "LocalizedNames": "Roasted Puremist Snapper",
+        "itemTag": "@ITEMS_T7_MEAL_ROAST_FISH"
+    },
+    {
+        "itemId": "T5_2H_TOOL_KNIFE",
+        "LocalizedNames": "Expert's Skinning Knife",
+        "itemTag": "@ITEMS_T5_2H_TOOL_KNIFE"
+    },
+    {
+        "itemId": "T7_SHOES_PLATE_SET1",
+        "LocalizedNames": "Grandmaster's Soldier Boots",
+        "itemTag": "@ITEMS_T7_SHOES_PLATE_SET1"
+    },
+    {
+        "itemId": "T5_2H_DUALAXE_KEEPER@3",
+        "LocalizedNames": "Expert's Bear Paws",
+        "itemTag": "@ITEMS_T5_2H_DUALAXE_KEEPER"
+    },
+    {
+        "itemId": "T5_2H_GLACIALSTAFF",
+        "LocalizedNames": "Expert's Glacial Staff",
+        "itemTag": "@ITEMS_T5_2H_GLACIALSTAFF"
+    },
+    {
+        "itemId": "T7_HIDE_LEVEL2@2",
+        "LocalizedNames": "Rare Thick Hide",
+        "itemTag": "@ITEMS_T7_HIDE_LEVEL2"
+    },
+    {
+        "itemId": "T4_HIDE",
+        "LocalizedNames": "Medium Hide",
+        "itemTag": "@ITEMS_T4_HIDE"
+    },
+    {
+        "itemId": "T4_SHOES_PLATE_SET2",
+        "LocalizedNames": "Adept's Knight Boots",
+        "itemTag": "@ITEMS_T4_SHOES_PLATE_SET2"
+    },
+    {
+        "itemId": "T6_ARMOR_CLOTH_SET1",
+        "LocalizedNames": "Master's Scholar Robe",
+        "itemTag": "@ITEMS_T6_ARMOR_CLOTH_SET1"
+    },
+    {
+        "itemId": "T7_MEAL_ROAST",
+        "LocalizedNames": "Roast Pork",
+        "itemTag": "@ITEMS_T7_MEAL_ROAST"
+    },
+    {
+        "itemId": "T6_ARMOR_LEATHER_SET2",
+        "LocalizedNames": "Master's Hunter Jacket",
+        "itemTag": "@ITEMS_T6_ARMOR_LEATHER_SET2"
+    },
+    {
+        "itemId": "T6_PLANKS_LEVEL1@1",
+        "LocalizedNames": "Uncommon Bloodoak Planks",
+        "itemTag": "@ITEMS_T6_PLANKS_LEVEL1"
+    },
+    {
+        "itemId": "T5_ARMOR_CLOTH_SET2",
+        "LocalizedNames": "Expert's Cleric Robe",
+        "itemTag": "@ITEMS_T5_ARMOR_CLOTH_SET2"
+    },
+    {
+        "itemId": "T6_ALCOHOL",
+        "LocalizedNames": "Potato Schnapps",
+        "itemTag": "@ITEMS_T6_ALCOHOL"
+    },
+    {
+        "itemId": "T4_SHOES_LEATHER_SET3",
+        "LocalizedNames": "Adept's Assassin Shoes",
+        "itemTag": "@ITEMS_T4_SHOES_LEATHER_SET3"
+    },
+    {
+        "itemId": "T7_FIBER_LEVEL4@4",
+        "LocalizedNames": "Pristine Sunflax",
+        "itemTag": "@ITEMS_T7_FIBER_LEVEL4"
+    },
+    {
+        "itemId": "T8_ARTEFACT_2H_INFERNOSTAFF_MORGANA",
+        "LocalizedNames": "Elder's Unholy Scroll",
+        "itemTag": "@ITEMS_T8_ARTEFACT_2H_INFERNOSTAFF_MORGANA"
+    },
+    {
+        "itemId": "T8_MAIN_ARCANESTAFF",
+        "LocalizedNames": "Elder's Arcane Staff",
+        "itemTag": "@ITEMS_T8_MAIN_ARCANESTAFF"
+    },
+    {
+        "itemId": "T5_CAPEITEM_FW_CAERLEON@1",
+        "LocalizedNames": "Expert's Caerleon Cape",
+        "itemTag": "@ITEMS_T5_CAPEITEM_FW_CAERLEON"
+    },
+    {
+        "itemId": "T6_MAIN_MACE@2",
+        "LocalizedNames": "Master's Mace",
+        "itemTag": "@ITEMS_T6_MAIN_MACE"
+    },
+    {
+        "itemId": "T8_CLOTH_LEVEL2@2",
+        "LocalizedNames": "Rare Baroque Cloth",
+        "itemTag": "@ITEMS_T8_CLOTH_LEVEL2"
+    },
+    {
+        "itemId": "T7_2H_TOOL_PICK",
+        "LocalizedNames": "Grandmaster's Pickaxe",
+        "itemTag": "@ITEMS_T7_2H_TOOL_PICK"
+    },
+    {
+        "itemId": "T5_SHOES_PLATE_SET1",
+        "LocalizedNames": "Expert's Soldier Boots",
+        "itemTag": "@ITEMS_T5_SHOES_PLATE_SET1"
+    },
+    {
+        "itemId": "T4_CLOTH_LEVEL1@1",
+        "LocalizedNames": "Uncommon Fine Cloth",
+        "itemTag": "@ITEMS_T4_CLOTH_LEVEL1"
+    },
+    {
+        "itemId": "T5_ARMOR_PLATE_SET2",
+        "LocalizedNames": "Expert's Knight Armor",
+        "itemTag": "@ITEMS_T5_ARMOR_PLATE_SET2"
+    },
+    {
+        "itemId": "T4_ARMOR_LEATHER_SET3@1",
+        "LocalizedNames": "Adept's Assassin Jacket",
+        "itemTag": "@ITEMS_T4_ARMOR_LEATHER_SET3"
+    },
+    {
+        "itemId": "T3_HIDE",
+        "LocalizedNames": "Thin Hide",
+        "itemTag": "@ITEMS_T3_HIDE"
+    },
+    {
+        "itemId": "T6_PLANKS_LEVEL3@3",
+        "LocalizedNames": "Exceptional Bloodoak Planks",
+        "itemTag": "@ITEMS_T6_PLANKS_LEVEL3"
+    },
+    {
+        "itemId": "T6_SHOES_CLOTH_MORGANA@2",
+        "LocalizedNames": "Master's Cultist Sandals",
+        "itemTag": "@ITEMS_T6_SHOES_CLOTH_MORGANA"
+    },
+    {
+        "itemId": "T5_BAG@2",
+        "LocalizedNames": "Expert's Bag",
+        "itemTag": "@ITEMS_T5_BAG"
+    },
+    {
+        "itemId": "T6_HEAD_LEATHER_MORGANA",
+        "LocalizedNames": "Master's Stalker Hood",
+        "itemTag": "@ITEMS_T6_HEAD_LEATHER_MORGANA"
+    },
+    {
+        "itemId": "T6_2H_LONGBOW",
+        "LocalizedNames": "Master's Longbow",
+        "itemTag": "@ITEMS_T6_2H_LONGBOW"
+    },
+    {
+        "itemId": "T6_OFF_BOOK",
+        "LocalizedNames": "Master's Tome of Spells",
+        "itemTag": "@ITEMS_T6_OFF_BOOK"
+    },
+    {
+        "itemId": "T6_ARTEFACT_OFF_HORN_KEEPER",
+        "LocalizedNames": "Master's Runed Horn",
+        "itemTag": "@ITEMS_T6_ARTEFACT_OFF_HORN_KEEPER"
+    },
+    {
+        "itemId": "T4_2H_HALBERD_MORGANA",
+        "LocalizedNames": "Adept's Carrioncaller",
+        "itemTag": "@ITEMS_T4_2H_HALBERD_MORGANA"
+    },
+    {
+        "itemId": "T8_RANDOM_DUNGEON_ELITE_TOKEN_4@3",
+        "LocalizedNames": "Exceptional Elder's Dungeon Map (Large Group)",
+        "itemTag": "@ITEMS_T8_RANDOM_DUNGEON_ELITE_TOKEN_4"
+    },
+    {
+        "itemId": "T7_2H_KNUCKLES_SET3",
+        "LocalizedNames": "Grandmaster's Spiked Gauntlets",
+        "itemTag": "@ITEMS_T7_2H_KNUCKLES_SET3"
+    },
+    {
+        "itemId": "T6_ARTEFACT_ARMOR_LEATHER_HELL",
+        "LocalizedNames": "Master's Demonhide Leather",
+        "itemTag": "@ITEMS_T6_ARTEFACT_ARMOR_LEATHER_HELL"
+    },
+    {
+        "itemId": "T4_CAPEITEM_FW_MARTLOCK@3",
+        "LocalizedNames": "Adept's Martlock Cape",
+        "itemTag": "@ITEMS_T4_CAPEITEM_FW_MARTLOCK"
+    },
+    {
+        "itemId": "T8_PLANKS_LEVEL1@1",
+        "LocalizedNames": "Uncommon Whitewood Planks",
+        "itemTag": "@ITEMS_T8_PLANKS_LEVEL1"
+    },
+    {
+        "itemId": "T6_CAPEITEM_UNDEAD",
+        "LocalizedNames": "Master's Undead Cape",
+        "itemTag": "@ITEMS_T6_CAPEITEM_UNDEAD"
+    },
+    {
+        "itemId": "T8_ARTEFACT_2H_HOLYSTAFF_UNDEAD",
+        "LocalizedNames": "Elder's Ghastly Scroll",
+        "itemTag": "@ITEMS_T8_ARTEFACT_2H_HOLYSTAFF_UNDEAD"
+    },
+    {
+        "itemId": "T6_OFF_SHIELD_HELL",
+        "LocalizedNames": "Master's Caitiff Shield",
+        "itemTag": "@ITEMS_T6_OFF_SHIELD_HELL"
+    },
+    {
+        "itemId": "T4_2H_ARCANESTAFF_HELL",
+        "LocalizedNames": "Adept's Occult Staff",
+        "itemTag": "@ITEMS_T4_2H_ARCANESTAFF_HELL"
+    },
+    {
+        "itemId": "T4_CAPEITEM_FW_MARTLOCK",
+        "LocalizedNames": "Adept's Martlock Cape",
+        "itemTag": "@ITEMS_T4_CAPEITEM_FW_MARTLOCK"
+    },
+    {
+        "itemId": "T6_2H_SPEAR",
+        "LocalizedNames": "Master's Pike",
+        "itemTag": "@ITEMS_T6_2H_SPEAR"
+    },
+    {
+        "itemId": "T7_FISH_FRESHWATER_HIGHLANDS_RARE",
+        "LocalizedNames": "Thunderfall Lurcher",
+        "itemTag": "@ITEMS_T7_FISH_FRESHWATER_HIGHLANDS_RARE"
+    },
+    {
+        "itemId": "T7_HEAD_PLATE_SET1",
+        "LocalizedNames": "Grandmaster's Soldier Helmet",
+        "itemTag": "@ITEMS_T7_HEAD_PLATE_SET1"
+    },
+    {
+        "itemId": "T4_2H_DUALAXE_KEEPER@1",
+        "LocalizedNames": "Adept's Bear Paws",
+        "itemTag": "@ITEMS_T4_2H_DUALAXE_KEEPER"
+    },
+    {
+        "itemId": "T3_FISHINGBAIT",
+        "LocalizedNames": "Fancy Fish Bait",
+        "itemTag": "@ITEMS_T3_FISHINGBAIT"
+    },
+    {
+        "itemId": "T4_JOURNAL_MAGE_FULL",
+        "LocalizedNames": "Adept Imbuer's Journal (Full)",
+        "itemTag": "@ITEMS_T4_JOURNAL_MAGE_FULL"
+    },
+    {
+        "itemId": "T5_ARMOR_LEATHER_SET1",
+        "LocalizedNames": "Expert's Mercenary Jacket",
+        "itemTag": "@ITEMS_T5_ARMOR_LEATHER_SET1"
+    },
+    {
+        "itemId": "T5_ARMOR_PLATE_SET2@1",
+        "LocalizedNames": "Expert's Knight Armor",
+        "itemTag": "@ITEMS_T5_ARMOR_PLATE_SET2"
+    },
+    {
+        "itemId": "T8_2H_TOOL_SICKLE",
+        "LocalizedNames": "Elder's Sickle",
+        "itemTag": "@ITEMS_T8_2H_TOOL_SICKLE"
+    },
+    {
+        "itemId": "T4_BAG@1",
+        "LocalizedNames": "Adept's Bag",
+        "itemTag": "@ITEMS_T4_BAG"
+    },
+    {
+        "itemId": "T7_FISH_FRESHWATER_STEPPE_RARE",
+        "LocalizedNames": "Dusthole Crab",
+        "itemTag": "@ITEMS_T7_FISH_FRESHWATER_STEPPE_RARE"
+    },
+    {
+        "itemId": "T4_SHOES_PLATE_SET3",
+        "LocalizedNames": "Adept's Guardian Boots",
+        "itemTag": "@ITEMS_T4_SHOES_PLATE_SET3"
+    },
+    {
+        "itemId": "T5_2H_KNUCKLES_SET2",
+        "LocalizedNames": "Expert's Battle Bracers",
+        "itemTag": "@ITEMS_T5_2H_KNUCKLES_SET2"
+    },
+    {
+        "itemId": "T6_SHOES_CLOTH_SET2",
+        "LocalizedNames": "Master's Cleric Sandals",
+        "itemTag": "@ITEMS_T6_SHOES_CLOTH_SET2"
+    },
+    {
+        "itemId": "T5_ARMOR_CLOTH_SET2@2",
+        "LocalizedNames": "Expert's Cleric Robe",
+        "itemTag": "@ITEMS_T5_ARMOR_CLOTH_SET2"
+    },
+    {
+        "itemId": "T8_FARM_RAM_FW_MARTLOCK_BABY",
+        "LocalizedNames": "Elite Bighorn Ram Lamb",
+        "itemTag": "@ITEMS_T8_FARM_RAM_FW_MARTLOCK_BABY"
+    },
+    {
+        "itemId": "T5_HEAD_PLATE_SET3@2",
+        "LocalizedNames": "Expert's Guardian Helmet",
+        "itemTag": "@ITEMS_T5_HEAD_PLATE_SET3"
+    },
+    {
+        "itemId": "T4_OFF_DEMONSKULL_HELL@1",
+        "LocalizedNames": "Adept's Muisak",
+        "itemTag": "@ITEMS_T4_OFF_DEMONSKULL_HELL"
+    },
+    {
+        "itemId": "T8_MEAL_STEW_FISH@1",
+        "LocalizedNames": "Deadwater Eel Stew",
+        "itemTag": "@ITEMS_T8_MEAL_STEW_FISH"
+    },
+    {
+        "itemId": "T4_RANDOM_DUNGEON_SOLO_TOKEN_1",
+        "LocalizedNames": "Adept's Dungeon Map (Solo)",
+        "itemTag": "@ITEMS_T4_RANDOM_DUNGEON_SOLO_TOKEN_1"
+    },
+    {
+        "itemId": "UNIQUE_MOUNT_JUGGERNAUT_CRYSTAL",
+        "LocalizedNames": "Crystal Juggernaut",
+        "itemTag": "@ITEMS_UNIQUE_MOUNT_JUGGERNAUT_CRYSTAL"
+    },
+    {
+        "itemId": "T4_CAPEITEM_UNDEAD",
+        "LocalizedNames": "Adept's Undead Cape",
+        "itemTag": "@ITEMS_T4_CAPEITEM_UNDEAD"
+    },
+    {
+        "itemId": "T8_ARTEFACT_2H_REPEATINGCROSSBOW_UNDEAD",
+        "LocalizedNames": "Elder's Lost Crossbow Mechanism",
+        "itemTag": "@ITEMS_T8_ARTEFACT_2H_REPEATINGCROSSBOW_UNDEAD"
+    },
+    {
+        "itemId": "T5_MAIN_FIRESTAFF",
+        "LocalizedNames": "Expert's Fire Staff",
+        "itemTag": "@ITEMS_T5_MAIN_FIRESTAFF"
+    },
+    {
+        "itemId": "T5_SHOES_LEATHER_SET1",
+        "LocalizedNames": "Expert's Mercenary Shoes",
+        "itemTag": "@ITEMS_T5_SHOES_LEATHER_SET1"
+    },
+    {
+        "itemId": "T4_SHOES_PLATE_SET1",
+        "LocalizedNames": "Adept's Soldier Boots",
+        "itemTag": "@ITEMS_T4_SHOES_PLATE_SET1"
+    },
+    {
+        "itemId": "T5_2H_DIVINESTAFF",
+        "LocalizedNames": "Expert's Divine Staff",
+        "itemTag": "@ITEMS_T5_2H_DIVINESTAFF"
+    },
+    {
+        "itemId": "T6_ARMOR_LEATHER_SET1@2",
+        "LocalizedNames": "Master's Mercenary Jacket",
+        "itemTag": "@ITEMS_T6_ARMOR_LEATHER_SET1"
+    },
+    {
+        "itemId": "T8_MEAL_STEW_AVALON@1",
+        "LocalizedNames": "Avalonian Beef Stew",
+        "itemTag": "@ITEMS_T8_MEAL_STEW_AVALON"
+    },
+    {
+        "itemId": "T3_FISH_SALTWATER_ALL_COMMON",
+        "LocalizedNames": "Flatshore Plaice",
+        "itemTag": "@ITEMS_T3_FISH_SALTWATER_ALL_COMMON"
+    },
+    {
+        "itemId": "T6_STONEBLOCK",
+        "LocalizedNames": "Slate Block",
+        "itemTag": "@ITEMS_T6_STONEBLOCK"
+    },
+    {
+        "itemId": "T8_BAG_INSIGHT@3",
+        "LocalizedNames": "Elder's Satchel of Insight",
+        "itemTag": "@ITEMS_T8_BAG_INSIGHT"
+    },
+    {
+        "itemId": "T6_2H_CROSSBOWLARGE",
+        "LocalizedNames": "Master's Heavy Crossbow",
+        "itemTag": "@ITEMS_T6_2H_CROSSBOWLARGE"
+    },
+    {
+        "itemId": "T7_OFF_TORCH@1",
+        "LocalizedNames": "Grandmaster's Torch",
+        "itemTag": "@ITEMS_T7_OFF_TORCH"
+    },
+    {
+        "itemId": "T5_2H_LONGBOW",
+        "LocalizedNames": "Expert's Longbow",
+        "itemTag": "@ITEMS_T5_2H_LONGBOW"
+    },
+    {
+        "itemId": "T8_PLANKS_LEVEL2@2",
+        "LocalizedNames": "Rare Whitewood Planks",
+        "itemTag": "@ITEMS_T8_PLANKS_LEVEL2"
+    },
+    {
+        "itemId": "T4_2H_DUALCROSSBOW_HELL",
+        "LocalizedNames": "Adept's Boltcasters",
+        "itemTag": "@ITEMS_T4_2H_DUALCROSSBOW_HELL"
+    },
+    {
+        "itemId": "T5_SHOES_PLATE_SET3",
+        "LocalizedNames": "Expert's Guardian Boots",
+        "itemTag": "@ITEMS_T5_SHOES_PLATE_SET3"
+    },
+    {
+        "itemId": "T7_SHOES_CLOTH_SET3",
+        "LocalizedNames": "Grandmaster's Mage Sandals",
+        "itemTag": "@ITEMS_T7_SHOES_CLOTH_SET3"
+    },
+    {
+        "itemId": "T7_ARMOR_CLOTH_SET1",
+        "LocalizedNames": "Grandmaster's Scholar Robe",
+        "itemTag": "@ITEMS_T7_ARMOR_CLOTH_SET1"
+    },
+    {
+        "itemId": "T4_CAPEITEM_FW_FORTSTERLING@1",
+        "LocalizedNames": "Adept's Fort Sterling Cape",
+        "itemTag": "@ITEMS_T4_CAPEITEM_FW_FORTSTERLING"
+    },
+    {
+        "itemId": "T6_SHOES_CLOTH_KEEPER",
+        "LocalizedNames": "Master's Druid Sandals",
+        "itemTag": "@ITEMS_T6_SHOES_CLOTH_KEEPER"
+    },
+    {
+        "itemId": "T7_FISH_FRESHWATER_SWAMP_RARE",
+        "LocalizedNames": "Blackbog Clam",
+        "itemTag": "@ITEMS_T7_FISH_FRESHWATER_SWAMP_RARE"
+    },
+    {
+        "itemId": "T6_HELLGATE_2V2_LETHAL_1_MAP",
+        "LocalizedNames": "Master's Hellgate Ritual (2v2 - Lethal)",
+        "itemTag": "@ITEMS_T6_HELLGATE_2V2_LETHAL_1_MAP"
+    },
+    {
+        "itemId": "T6_2H_TOOL_HAMMER",
+        "LocalizedNames": "Master's Stone Hammer",
+        "itemTag": "@ITEMS_T6_2H_TOOL_HAMMER"
+    },
+    {
+        "itemId": "T6_ARMOR_LEATHER_SET3",
+        "LocalizedNames": "Master's Assassin Jacket",
+        "itemTag": "@ITEMS_T6_ARMOR_LEATHER_SET3"
+    },
+    {
+        "itemId": "T4_2H_CLAWPAIR",
+        "LocalizedNames": "Adept's Claws",
+        "itemTag": "@ITEMS_T4_2H_CLAWPAIR"
+    },
+    {
+        "itemId": "T7_2H_TOOL_SICKLE",
+        "LocalizedNames": "Grandmaster's Sickle",
+        "itemTag": "@ITEMS_T7_2H_TOOL_SICKLE"
+    },
+    {
+        "itemId": "T7_MAIN_HAMMER",
+        "LocalizedNames": "Grandmaster's Hammer",
+        "itemTag": "@ITEMS_T7_MAIN_HAMMER"
+    },
+    {
+        "itemId": "T4_MAIN_RAPIER_MORGANA@2",
+        "LocalizedNames": "Adept's Bloodletter",
+        "itemTag": "@ITEMS_T4_MAIN_RAPIER_MORGANA"
+    },
+    {
+        "itemId": "T7_HEAD_LEATHER_SET3",
+        "LocalizedNames": "Grandmaster's Assassin Hood",
+        "itemTag": "@ITEMS_T7_HEAD_LEATHER_SET3"
+    },
+    {
+        "itemId": "T5_CAPEITEM_FW_BRIDGEWATCH@1",
+        "LocalizedNames": "Expert's Bridgewatch Cape",
+        "itemTag": "@ITEMS_T5_CAPEITEM_FW_BRIDGEWATCH"
+    },
+    {
+        "itemId": "T5_HEAD_PLATE_KEEPER@3",
+        "LocalizedNames": "Expert's Judicator Helmet",
+        "itemTag": "@ITEMS_T5_HEAD_PLATE_KEEPER"
+    },
+    {
+        "itemId": "T8_MEAL_STEW@1",
+        "LocalizedNames": "Beef Stew",
+        "itemTag": "@ITEMS_T8_MEAL_STEW"
+    },
+    {
+        "itemId": "T5_POTION_REVIVE",
+        "LocalizedNames": "Gigantify Potion",
+        "itemTag": "@ITEMS_T5_POTION_REVIVE"
+    },
+    {
+        "itemId": "T5_2H_NATURESTAFF_HELL@3",
+        "LocalizedNames": "Expert's Blight Staff",
+        "itemTag": "@ITEMS_T5_2H_NATURESTAFF_HELL"
+    },
+    {
+        "itemId": "T8_JOURNAL_HUNTER_EMPTY",
+        "LocalizedNames": "Elder Fletcher's Journal (Empty)",
+        "itemTag": "@ITEMS_T8_JOURNAL_HUNTER_EMPTY"
+    },
+    {
+        "itemId": "T7_HEAD_CLOTH_SET2",
+        "LocalizedNames": "Grandmaster's Cleric Cowl",
+        "itemTag": "@ITEMS_T7_HEAD_CLOTH_SET2"
+    },
+    {
+        "itemId": "T8_MEAL_SANDWICH_AVALON",
+        "LocalizedNames": "Avalonian Beef Sandwich",
+        "itemTag": "@ITEMS_T8_MEAL_SANDWICH_AVALON"
+    },
+    {
+        "itemId": "T6_ARMOR_PLATE_UNDEAD",
+        "LocalizedNames": "Master's Graveguard Armor",
+        "itemTag": "@ITEMS_T6_ARMOR_PLATE_UNDEAD"
+    },
+    {
+        "itemId": "T5_BAG",
+        "LocalizedNames": "Expert's Bag",
+        "itemTag": "@ITEMS_T5_BAG"
+    },
+    {
+        "itemId": "T4_CAPEITEM_FW_LYMHURST",
+        "LocalizedNames": "Adept's Lymhurst Cape",
+        "itemTag": "@ITEMS_T4_CAPEITEM_FW_LYMHURST"
+    },
+    {
+        "itemId": "T5_2H_BOW_KEEPER@1",
+        "LocalizedNames": "Expert's Bow of Badon",
+        "itemTag": "@ITEMS_T5_2H_BOW_KEEPER"
+    },
+    {
+        "itemId": "T2_HIDE",
+        "LocalizedNames": "Rugged Hide",
+        "itemTag": "@ITEMS_T2_HIDE"
+    },
+    {
+        "itemId": "T4_JOURNAL_MAGE_EMPTY",
+        "LocalizedNames": "Adept Imbuer's Journal (Empty)",
+        "itemTag": "@ITEMS_T4_JOURNAL_MAGE_EMPTY"
+    },
+    {
+        "itemId": "T4_2H_ENIGMATICSTAFF",
+        "LocalizedNames": "Adept's Enigmatic Staff",
+        "itemTag": "@ITEMS_T4_2H_ENIGMATICSTAFF"
+    },
+    {
+        "itemId": "T6_SHOES_LEATHER_HELL",
+        "LocalizedNames": "Master's Hellion Shoes",
+        "itemTag": "@ITEMS_T6_SHOES_LEATHER_HELL"
+    },
+    {
+        "itemId": "T5_HEAD_CLOTH_SET3",
+        "LocalizedNames": "Expert's Mage Cowl",
+        "itemTag": "@ITEMS_T5_HEAD_CLOTH_SET3"
+    },
+    {
+        "itemId": "T5_MAIN_CURSEDSTAFF@1",
+        "LocalizedNames": "Expert's Cursed Staff",
+        "itemTag": "@ITEMS_T5_MAIN_CURSEDSTAFF"
+    },
+    {
+        "itemId": "T4_2H_TOOL_HAMMER",
+        "LocalizedNames": "Adept's Stone Hammer",
+        "itemTag": "@ITEMS_T4_2H_TOOL_HAMMER"
+    },
+    {
+        "itemId": "T7_2H_CURSEDSTAFF",
+        "LocalizedNames": "Grandmaster's Great Cursed Staff",
+        "itemTag": "@ITEMS_T7_2H_CURSEDSTAFF"
+    },
+    {
+        "itemId": "T4_CAPEITEM_HERETIC_BP",
+        "LocalizedNames": "Adept's Heretic Crest",
+        "itemTag": "@ITEMS_T4_CAPEITEM_HERETIC_BP"
+    },
+    {
+        "itemId": "T7_SHOES_LEATHER_SET3@1",
+        "LocalizedNames": "Grandmaster's Assassin Shoes",
+        "itemTag": "@ITEMS_T7_SHOES_LEATHER_SET3"
+    },
+    {
+        "itemId": "T6_OFF_TOWERSHIELD_UNDEAD",
+        "LocalizedNames": "Master's Sarcophagus",
+        "itemTag": "@ITEMS_T6_OFF_TOWERSHIELD_UNDEAD"
+    },
+    {
+        "itemId": "T4_ARTEFACT_2H_SKULLORB_HELL",
+        "LocalizedNames": "Adept's Cursed Jawbone",
+        "itemTag": "@ITEMS_T4_ARTEFACT_2H_SKULLORB_HELL"
+    },
+    {
+        "itemId": "T3_2H_TOOL_SICKLE",
+        "LocalizedNames": "Journeyman's Sickle",
+        "itemTag": "@ITEMS_T3_2H_TOOL_SICKLE"
+    },
+    {
+        "itemId": "T6_ARMOR_PLATE_SET2@1",
+        "LocalizedNames": "Master's Knight Armor",
+        "itemTag": "@ITEMS_T6_ARMOR_PLATE_SET2"
+    },
+    {
+        "itemId": "T6_SHOES_CLOTH_SET3@2",
+        "LocalizedNames": "Master's Mage Sandals",
+        "itemTag": "@ITEMS_T6_SHOES_CLOTH_SET3"
+    },
+    {
+        "itemId": "T4_ARMOR_LEATHER_SET1@1",
+        "LocalizedNames": "Adept's Mercenary Jacket",
+        "itemTag": "@ITEMS_T4_ARMOR_LEATHER_SET1"
+    },
+    {
+        "itemId": "T5_ARTEFACT_2H_CROSSBOW_CANNON_AVALON",
+        "LocalizedNames": "Expert's Humming Avalonian Whirligig",
+        "itemTag": "@ITEMS_T5_ARTEFACT_2H_CROSSBOW_CANNON_AVALON"
+    },
+    {
+        "itemId": "T5_MAIN_SPEAR",
+        "LocalizedNames": "Expert's Spear",
+        "itemTag": "@ITEMS_T5_MAIN_SPEAR"
+    },
+    {
+        "itemId": "T8_ARTEFACT_2H_SKULLORB_HELL",
+        "LocalizedNames": "Elder's Cursed Jawbone",
+        "itemTag": "@ITEMS_T8_ARTEFACT_2H_SKULLORB_HELL"
+    },
+    {
+        "itemId": "T8_CLOTH_LEVEL1@1",
+        "LocalizedNames": "Uncommon Baroque Cloth",
+        "itemTag": "@ITEMS_T8_CLOTH_LEVEL1"
+    },
+    {
+        "itemId": "T4_HEAD_PLATE_KEEPER@3",
+        "LocalizedNames": "Adept's Judicator Helmet",
+        "itemTag": "@ITEMS_T4_HEAD_PLATE_KEEPER"
+    },
+    {
+        "itemId": "T7_ARTEFACT_MAIN_SCIMITAR_MORGANA",
+        "LocalizedNames": "Grandmaster's Bloodforged Blade",
+        "itemTag": "@ITEMS_T7_ARTEFACT_MAIN_SCIMITAR_MORGANA"
+    },
+    {
+        "itemId": "T6_HEAD_LEATHER_UNDEAD@2",
+        "LocalizedNames": "Master's Specter Hood",
+        "itemTag": "@ITEMS_T6_HEAD_LEATHER_UNDEAD"
+    },
+    {
+        "itemId": "T4_2H_DUALSWORD",
+        "LocalizedNames": "Adept's Dual Swords",
+        "itemTag": "@ITEMS_T4_2H_DUALSWORD"
+    },
+    {
+        "itemId": "T4_MAIN_AXE",
+        "LocalizedNames": "Adept's Battleaxe",
+        "itemTag": "@ITEMS_T4_MAIN_AXE"
+    },
+    {
+        "itemId": "T7_MEAL_PIE@1",
+        "LocalizedNames": "Pork Pie",
+        "itemTag": "@ITEMS_T7_MEAL_PIE"
+    },
+    {
+        "itemId": "T5_HEAD_LEATHER_HELL",
+        "LocalizedNames": "Expert's Hellion Hood",
+        "itemTag": "@ITEMS_T5_HEAD_LEATHER_HELL"
+    },
+    {
+        "itemId": "T5_MAIN_AXE",
+        "LocalizedNames": "Expert's Battleaxe",
+        "itemTag": "@ITEMS_T5_MAIN_AXE"
+    },
+    {
+        "itemId": "T7_ARMOR_PLATE_SET2",
+        "LocalizedNames": "Grandmaster's Knight Armor",
+        "itemTag": "@ITEMS_T7_ARMOR_PLATE_SET2"
+    },
+    {
+        "itemId": "T5_2H_TOOL_AXE",
+        "LocalizedNames": "Expert's Axe",
+        "itemTag": "@ITEMS_T5_2H_TOOL_AXE"
+    },
+    {
+        "itemId": "T6_2H_CURSEDSTAFF@1",
+        "LocalizedNames": "Master's Great Cursed Staff",
+        "itemTag": "@ITEMS_T6_2H_CURSEDSTAFF"
+    },
+    {
+        "itemId": "T7_2H_ARCANESTAFF",
+        "LocalizedNames": "Grandmaster's Great Arcane Staff",
+        "itemTag": "@ITEMS_T7_2H_ARCANESTAFF"
+    },
+    {
+        "itemId": "T3_2H_KNUCKLES_SET1",
+        "LocalizedNames": "Journeyman's Brawler Gloves",
+        "itemTag": "@ITEMS_T3_2H_KNUCKLES_SET1"
+    },
+    {
+        "itemId": "T2_STONEBLOCK",
+        "LocalizedNames": "Limestone Block",
+        "itemTag": "@ITEMS_T2_STONEBLOCK"
+    },
+    {
+        "itemId": "T2_MOUNT_MULE",
+        "LocalizedNames": "Novice's Mule",
+        "itemTag": "@ITEMS_T2_MOUNT_MULE"
+    },
+    {
+        "itemId": "T4_MAIN_NATURESTAFF_KEEPER",
+        "LocalizedNames": "Adept's Druidic Staff",
+        "itemTag": "@ITEMS_T4_MAIN_NATURESTAFF_KEEPER"
+    },
+    {
+        "itemId": "T5_2H_MACE",
+        "LocalizedNames": "Expert's Heavy Mace",
+        "itemTag": "@ITEMS_T5_2H_MACE"
+    },
+    {
+        "itemId": "T6_FARM_DIREWOLF_BABY",
+        "LocalizedNames": "Direwolf Pup",
+        "itemTag": "@ITEMS_T6_FARM_DIREWOLF_BABY"
+    },
+    {
+        "itemId": "T7_SHOES_PLATE_SET3@1",
+        "LocalizedNames": "Grandmaster's Guardian Boots",
+        "itemTag": "@ITEMS_T7_SHOES_PLATE_SET3"
+    },
+    {
+        "itemId": "T3_MAIN_DAGGER",
+        "LocalizedNames": "Journeyman's Dagger",
+        "itemTag": "@ITEMS_T3_MAIN_DAGGER"
+    },
+    {
+        "itemId": "T7_ARMOR_LEATHER_SET2",
+        "LocalizedNames": "Grandmaster's Hunter Jacket",
+        "itemTag": "@ITEMS_T7_ARMOR_LEATHER_SET2"
+    },
+    {
+        "itemId": "T6_JOURNAL_STONE_EMPTY",
+        "LocalizedNames": "Master Stonecutter's Journal (Empty)",
+        "itemTag": "@ITEMS_T6_JOURNAL_STONE_EMPTY"
+    },
+    {
+        "itemId": "T5_ARTEFACT_SHOES_PLATE_AVALON",
+        "LocalizedNames": "Expert's Exalted Greave",
+        "itemTag": "@ITEMS_T5_ARTEFACT_SHOES_PLATE_AVALON"
+    },
+    {
+        "itemId": "T7_ARTEFACT_OFF_LAMP_UNDEAD",
+        "LocalizedNames": "Grandmaster's Ghastly Candle",
+        "itemTag": "@ITEMS_T7_ARTEFACT_OFF_LAMP_UNDEAD"
+    },
+    {
+        "itemId": "T8_JOURNAL_MAGE_EMPTY",
+        "LocalizedNames": "Elder Imbuer's Journal (Empty)",
+        "itemTag": "@ITEMS_T8_JOURNAL_MAGE_EMPTY"
+    },
+    {
+        "itemId": "T4_CAPEITEM_FW_THETFORD@2",
+        "LocalizedNames": "Adept's Thetford Cape",
+        "itemTag": "@ITEMS_T4_CAPEITEM_FW_THETFORD"
+    },
+    {
+        "itemId": "T5_SHOES_LEATHER_SET2@1",
+        "LocalizedNames": "Expert's Hunter Shoes",
+        "itemTag": "@ITEMS_T5_SHOES_LEATHER_SET2"
+    },
+    {
+        "itemId": "T1_OFF_SHIELD",
+        "LocalizedNames": "Beginner's Shield",
+        "itemTag": "@ITEMS_T1_OFF_SHIELD"
+    },
+    {
+        "itemId": "T6_2H_POLEHAMMER@1",
+        "LocalizedNames": "Master's Polehammer",
+        "itemTag": "@ITEMS_T6_2H_POLEHAMMER"
+    },
+    {
+        "itemId": "T5_HEAD_PLATE_SET2@1",
+        "LocalizedNames": "Expert's Knight Helmet",
+        "itemTag": "@ITEMS_T5_HEAD_PLATE_SET2"
+    },
+    {
+        "itemId": "T4_HEAD_LEATHER_SET3",
+        "LocalizedNames": "Adept's Assassin Hood",
+        "itemTag": "@ITEMS_T4_HEAD_LEATHER_SET3"
+    },
+    {
+        "itemId": "T6_2H_ARCANESTAFF@1",
+        "LocalizedNames": "Master's Great Arcane Staff",
+        "itemTag": "@ITEMS_T6_2H_ARCANESTAFF"
+    },
+    {
+        "itemId": "T6_MAIN_CURSEDSTAFF@1",
+        "LocalizedNames": "Master's Cursed Staff",
+        "itemTag": "@ITEMS_T6_MAIN_CURSEDSTAFF"
+    },
+    {
+        "itemId": "T4_ARMOR_CLOTH_MORGANA",
+        "LocalizedNames": "Adept's Cultist Robe",
+        "itemTag": "@ITEMS_T4_ARMOR_CLOTH_MORGANA"
+    },
+    {
+        "itemId": "T3_MAIN_HAMMER",
+        "LocalizedNames": "Journeyman's Hammer",
+        "itemTag": "@ITEMS_T3_MAIN_HAMMER"
+    },
+    {
+        "itemId": "T4_ARMOR_PLATE_KEEPER",
+        "LocalizedNames": "Adept's Judicator Armor",
+        "itemTag": "@ITEMS_T4_ARMOR_PLATE_KEEPER"
+    },
+    {
+        "itemId": "T7_ARMOR_PLATE_SET1",
+        "LocalizedNames": "Grandmaster's Soldier Armor",
+        "itemTag": "@ITEMS_T7_ARMOR_PLATE_SET1"
+    },
+    {
+        "itemId": "T6_JOURNAL_HUNTER_EMPTY",
+        "LocalizedNames": "Master Fletcher's Journal (Empty)",
+        "itemTag": "@ITEMS_T6_JOURNAL_HUNTER_EMPTY"
+    },
+    {
+        "itemId": "T6_OFF_SHIELD",
+        "LocalizedNames": "Master's Shield",
+        "itemTag": "@ITEMS_T6_OFF_SHIELD"
+    },
+    {
+        "itemId": "T7_HEAD_LEATHER_SET1@1",
+        "LocalizedNames": "Grandmaster's Mercenary Hood",
+        "itemTag": "@ITEMS_T7_HEAD_LEATHER_SET1"
+    },
+    {
+        "itemId": "T7_2H_AXE",
+        "LocalizedNames": "Grandmaster's Greataxe",
+        "itemTag": "@ITEMS_T7_2H_AXE"
+    },
+    {
+        "itemId": "T2_CAPE",
+        "LocalizedNames": "Novice's Cape",
+        "itemTag": "@ITEMS_T2_CAPE"
+    },
+    {
+        "itemId": "T1_2H_TOOL_SICKLE",
+        "LocalizedNames": "Beginner's Sickle",
+        "itemTag": "@ITEMS_T1_2H_TOOL_SICKLE"
+    },
+    {
+        "itemId": "T5_ARTEFACT_ARMOR_LEATHER_HELL",
+        "LocalizedNames": "Expert's Demonhide Leather",
+        "itemTag": "@ITEMS_T5_ARTEFACT_ARMOR_LEATHER_HELL"
+    },
+    {
+        "itemId": "T4_ARMOR_LEATHER_ROYAL",
+        "LocalizedNames": "Adept's Royal Jacket",
+        "itemTag": "@ITEMS_T4_ARMOR_LEATHER_ROYAL"
+    },
+    {
+        "itemId": "T4_JOURNAL_WARRIOR_EMPTY",
+        "LocalizedNames": "Adept Blacksmith's Journal (Empty)",
+        "itemTag": "@ITEMS_T4_JOURNAL_WARRIOR_EMPTY"
+    },
+    {
+        "itemId": "T4_CAPEITEM_FW_LYMHURST@2",
+        "LocalizedNames": "Adept's Lymhurst Cape",
+        "itemTag": "@ITEMS_T4_CAPEITEM_FW_LYMHURST"
+    },
+    {
+        "itemId": "UNIQUE_FURNITUREITEM_KEEPER_CANDLE_A",
+        "LocalizedNames": "Keeper Ceremonial Candle",
+        "itemTag": "@ITEMS_UNIQUE_FURNITUREITEM_KEEPER_CANDLE_A"
+    },
+    {
+        "itemId": "T5_SHOES_PLATE_SET3@1",
+        "LocalizedNames": "Expert's Guardian Boots",
+        "itemTag": "@ITEMS_T5_SHOES_PLATE_SET3"
+    },
+    {
+        "itemId": "T5_JOURNAL_TOOLMAKER_EMPTY",
+        "LocalizedNames": "Expert Tinker's Journal (Empty)",
+        "itemTag": "@ITEMS_T5_JOURNAL_TOOLMAKER_EMPTY"
+    },
+    {
+        "itemId": "T5_HEAD_LEATHER_MORGANA",
+        "LocalizedNames": "Expert's Stalker Hood",
+        "itemTag": "@ITEMS_T5_HEAD_LEATHER_MORGANA"
+    },
+    {
+        "itemId": "T4_CAPEITEM_UNDEAD@1",
+        "LocalizedNames": "Adept's Undead Cape",
+        "itemTag": "@ITEMS_T4_CAPEITEM_UNDEAD"
+    },
+    {
+        "itemId": "T7_MEAL_OMELETTE_AVALON@3",
+        "LocalizedNames": "Avalonian Pork Omelette",
+        "itemTag": "@ITEMS_T7_MEAL_OMELETTE_AVALON"
+    },
+    {
+        "itemId": "T4_CAPEITEM_FW_MARTLOCK@2",
+        "LocalizedNames": "Adept's Martlock Cape",
+        "itemTag": "@ITEMS_T4_CAPEITEM_FW_MARTLOCK"
+    },
+    {
+        "itemId": "T6_OFF_HORN_KEEPER@2",
+        "LocalizedNames": "Master's Mistcaller",
+        "itemTag": "@ITEMS_T6_OFF_HORN_KEEPER"
+    },
+    {
+        "itemId": "T6_SHOES_LEATHER_MORGANA",
+        "LocalizedNames": "Master's Stalker Shoes",
+        "itemTag": "@ITEMS_T6_SHOES_LEATHER_MORGANA"
+    },
+    {
+        "itemId": "T4_ARMOR_LEATHER_HELL@3",
+        "LocalizedNames": "Adept's Hellion Jacket",
+        "itemTag": "@ITEMS_T4_ARMOR_LEATHER_HELL"
+    },
+    {
+        "itemId": "T8_HEAD_LEATHER_SET1",
+        "LocalizedNames": "Elder's Mercenary Hood",
+        "itemTag": "@ITEMS_T8_HEAD_LEATHER_SET1"
+    },
+    {
+        "itemId": "T5_ARTEFACT_MAIN_FIRESTAFF_KEEPER",
+        "LocalizedNames": "Expert's Wildfire Orb",
+        "itemTag": "@ITEMS_T5_ARTEFACT_MAIN_FIRESTAFF_KEEPER"
+    },
+    {
+        "itemId": "T6_JOURNAL_MAGE_EMPTY",
+        "LocalizedNames": "Master Imbuer's Journal (Empty)",
+        "itemTag": "@ITEMS_T6_JOURNAL_MAGE_EMPTY"
+    },
+    {
+        "itemId": "T5_CLOTH_LEVEL1@1",
+        "LocalizedNames": "Uncommon Ornate Cloth",
+        "itemTag": "@ITEMS_T5_CLOTH_LEVEL1"
+    },
+    {
+        "itemId": "T4_ARMOR_CLOTH_SET3",
+        "LocalizedNames": "Adept's Mage Robe",
+        "itemTag": "@ITEMS_T4_ARMOR_CLOTH_SET3"
+    },
+    {
+        "itemId": "T7_POTION_STONESKIN",
+        "LocalizedNames": "Major Resistance Potion",
+        "itemTag": "@ITEMS_T7_POTION_STONESKIN"
+    },
+    {
+        "itemId": "T6_MAIN_MACE_HELL@2",
+        "LocalizedNames": "Master's Incubus Mace",
+        "itemTag": "@ITEMS_T6_MAIN_MACE_HELL"
+    },
+    {
+        "itemId": "T8_LEATHER_LEVEL1@1",
+        "LocalizedNames": "Uncommon Fortified Leather",
+        "itemTag": "@ITEMS_T8_LEATHER_LEVEL1"
+    },
+    {
+        "itemId": "T6_MEAL_STEW",
+        "LocalizedNames": "Mutton Stew",
+        "itemTag": "@ITEMS_T6_MEAL_STEW"
+    },
+    {
+        "itemId": "T5_SHOES_PLATE_SET2@1",
+        "LocalizedNames": "Expert's Knight Boots",
+        "itemTag": "@ITEMS_T5_SHOES_PLATE_SET2"
+    },
+    {
+        "itemId": "T8_2H_HAMMER_UNDEAD",
+        "LocalizedNames": "Elder's Tombhammer",
+        "itemTag": "@ITEMS_T8_2H_HAMMER_UNDEAD"
+    },
+    {
+        "itemId": "T6_2H_DUALAXE_KEEPER@2",
+        "LocalizedNames": "Master's Bear Paws",
+        "itemTag": "@ITEMS_T6_2H_DUALAXE_KEEPER"
+    },
+    {
+        "itemId": "T6_HEAD_CLOTH_SET1",
+        "LocalizedNames": "Master's Scholar Cowl",
+        "itemTag": "@ITEMS_T6_HEAD_CLOTH_SET1"
+    },
+    {
+        "itemId": "T7_JOURNAL_MAGE_EMPTY",
+        "LocalizedNames": "Grandmaster Imbuer's Journal (Empty)",
+        "itemTag": "@ITEMS_T7_JOURNAL_MAGE_EMPTY"
+    },
+    {
+        "itemId": "T7_2H_TOOL_HAMMER",
+        "LocalizedNames": "Grandmaster's Stone Hammer",
+        "itemTag": "@ITEMS_T7_2H_TOOL_HAMMER"
+    },
+    {
+        "itemId": "T7_ARTEFACT_2H_KNUCKLES_KEEPER",
+        "LocalizedNames": "Grandmaster's Ursine Guardian Remains",
+        "itemTag": "@ITEMS_T7_ARTEFACT_2H_KNUCKLES_KEEPER"
+    },
+    {
+        "itemId": "T5_2H_WARBOW",
+        "LocalizedNames": "Expert's Warbow",
+        "itemTag": "@ITEMS_T5_2H_WARBOW"
+    },
+    {
+        "itemId": "T5_2H_DUALAXE_KEEPER@1",
+        "LocalizedNames": "Expert's Bear Paws",
+        "itemTag": "@ITEMS_T5_2H_DUALAXE_KEEPER"
+    },
+    {
+        "itemId": "T7_ARTEFACT_MAIN_HOLYSTAFF_MORGANA",
+        "LocalizedNames": "Grandmaster's Possessed Scroll",
+        "itemTag": "@ITEMS_T7_ARTEFACT_MAIN_HOLYSTAFF_MORGANA"
+    },
+    {
+        "itemId": "T4_2H_BOW@3",
+        "LocalizedNames": "Adept's Bow",
+        "itemTag": "@ITEMS_T4_2H_BOW"
+    },
+    {
+        "itemId": "T1_HIDE",
+        "LocalizedNames": "Scraps of Hide",
+        "itemTag": "@ITEMS_T1_HIDE"
+    },
+    {
+        "itemId": "T7_JOURNAL_WARRIOR_EMPTY",
+        "LocalizedNames": "Grandmaster Blacksmith's Journal (Empty)",
+        "itemTag": "@ITEMS_T7_JOURNAL_WARRIOR_EMPTY"
+    },
+    {
+        "itemId": "T5_HEAD_LEATHER_MORGANA@1",
+        "LocalizedNames": "Expert's Stalker Hood",
+        "itemTag": "@ITEMS_T5_HEAD_LEATHER_MORGANA"
+    },
+    {
+        "itemId": "T5_HEAD_LEATHER_HELL@1",
+        "LocalizedNames": "Expert's Hellion Hood",
+        "itemTag": "@ITEMS_T5_HEAD_LEATHER_HELL"
+    },
+    {
+        "itemId": "T7_2H_TOOL_AXE",
+        "LocalizedNames": "Grandmaster's Axe",
+        "itemTag": "@ITEMS_T7_2H_TOOL_AXE"
+    },
+    {
+        "itemId": "T7_SHOES_CLOTH_SET2",
+        "LocalizedNames": "Grandmaster's Cleric Sandals",
+        "itemTag": "@ITEMS_T7_SHOES_CLOTH_SET2"
+    },
+    {
+        "itemId": "T5_MEAL_OMELETTE",
+        "LocalizedNames": "Goose Omelette",
+        "itemTag": "@ITEMS_T5_MEAL_OMELETTE"
+    },
+    {
+        "itemId": "T4_HEAD_PLATE_SET3",
+        "LocalizedNames": "Adept's Guardian Helmet",
+        "itemTag": "@ITEMS_T4_HEAD_PLATE_SET3"
+    },
+    {
+        "itemId": "T6_ARMOR_PLATE_HELL",
+        "LocalizedNames": "Master's Demon Armor",
+        "itemTag": "@ITEMS_T6_ARMOR_PLATE_HELL"
+    },
+    {
+        "itemId": "T7_ARMOR_CLOTH_SET3",
+        "LocalizedNames": "Grandmaster's Mage Robe",
+        "itemTag": "@ITEMS_T7_ARMOR_CLOTH_SET3"
+    },
+    {
+        "itemId": "T5_2H_TOOL_HAMMER",
+        "LocalizedNames": "Expert's Stone Hammer",
+        "itemTag": "@ITEMS_T5_2H_TOOL_HAMMER"
+    },
+    {
+        "itemId": "T4_2H_DOUBLEBLADEDSTAFF",
+        "LocalizedNames": "Adept's Double Bladed Staff",
+        "itemTag": "@ITEMS_T4_2H_DOUBLEBLADEDSTAFF"
+    },
+    {
+        "itemId": "T7_HEAD_LEATHER_SET1",
+        "LocalizedNames": "Grandmaster's Mercenary Hood",
+        "itemTag": "@ITEMS_T7_HEAD_LEATHER_SET1"
+    },
+    {
+        "itemId": "T7_HEAD_PLATE_SET2",
+        "LocalizedNames": "Grandmaster's Knight Helmet",
+        "itemTag": "@ITEMS_T7_HEAD_PLATE_SET2"
+    },
+    {
+        "itemId": "T7_ARTEFACT_MAIN_CURSEDSTAFF_AVALON",
+        "LocalizedNames": "Grandmaster's Fractured Opaque Orb",
+        "itemTag": "@ITEMS_T7_ARTEFACT_MAIN_CURSEDSTAFF_AVALON"
+    },
+    {
+        "itemId": "T7_JOURNAL_HUNTER_EMPTY",
+        "LocalizedNames": "Grandmaster Fletcher's Journal (Empty)",
+        "itemTag": "@ITEMS_T7_JOURNAL_HUNTER_EMPTY"
+    },
+    {
+        "itemId": "T5_HEAD_LEATHER_SET2",
+        "LocalizedNames": "Expert's Hunter Hood",
+        "itemTag": "@ITEMS_T5_HEAD_LEATHER_SET2"
+    },
+    {
+        "itemId": "T8_ARTEFACT_2H_DUALSCIMITAR_UNDEAD",
+        "LocalizedNames": "Elder's Cursed Blades",
+        "itemTag": "@ITEMS_T8_ARTEFACT_2H_DUALSCIMITAR_UNDEAD"
+    },
+    {
+        "itemId": "T6_SHOES_PLATE_AVALON@2",
+        "LocalizedNames": "Master's Boots of Valor",
+        "itemTag": "@ITEMS_T6_SHOES_PLATE_AVALON"
+    },
+    {
+        "itemId": "T6_MEAL_SALAD_FISH@1",
+        "LocalizedNames": "Deepwater Kraken Salad",
+        "itemTag": "@ITEMS_T6_MEAL_SALAD_FISH"
+    },
+    {
+        "itemId": "T8_2H_GLACIALSTAFF",
+        "LocalizedNames": "Elder's Glacial Staff",
+        "itemTag": "@ITEMS_T8_2H_GLACIALSTAFF"
+    },
+    {
+        "itemId": "T7_2H_ENIGMATICSTAFF",
+        "LocalizedNames": "Grandmaster's Enigmatic Staff",
+        "itemTag": "@ITEMS_T7_2H_ENIGMATICSTAFF"
+    },
+    {
+        "itemId": "T4_SHOES_LEATHER_SET2@1",
+        "LocalizedNames": "Adept's Hunter Shoes",
+        "itemTag": "@ITEMS_T4_SHOES_LEATHER_SET2"
+    },
+    {
+        "itemId": "T8_MAIN_1HCROSSBOW",
+        "LocalizedNames": "Elder's Light Crossbow",
+        "itemTag": "@ITEMS_T8_MAIN_1HCROSSBOW"
+    },
+    {
+        "itemId": "T4_2H_CROSSBOWLARGE_MORGANA@1",
+        "LocalizedNames": "Adept's Siegebow",
+        "itemTag": "@ITEMS_T4_2H_CROSSBOWLARGE_MORGANA"
+    },
+    {
+        "itemId": "T4_ARMOR_LEATHER_SET2",
+        "LocalizedNames": "Adept's Hunter Jacket",
+        "itemTag": "@ITEMS_T4_ARMOR_LEATHER_SET2"
+    },
+    {
+        "itemId": "T4_OFF_TORCH",
+        "LocalizedNames": "Adept's Torch",
+        "itemTag": "@ITEMS_T4_OFF_TORCH"
+    },
+    {
+        "itemId": "T4_ARMOR_LEATHER_HELL@1",
+        "LocalizedNames": "Adept's Hellion Jacket",
+        "itemTag": "@ITEMS_T4_ARMOR_LEATHER_HELL"
+    },
+    {
+        "itemId": "T4_2H_DUALAXE_KEEPER",
+        "LocalizedNames": "Adept's Bear Paws",
+        "itemTag": "@ITEMS_T4_2H_DUALAXE_KEEPER"
+    },
+    {
+        "itemId": "T4_HEAD_PLATE_UNDEAD",
+        "LocalizedNames": "Adept's Graveguard Helmet",
+        "itemTag": "@ITEMS_T4_HEAD_PLATE_UNDEAD"
+    },
+    {
+        "itemId": "T4_ARTEFACT_TOKEN_FAVOR_1",
+        "LocalizedNames": "Adept's Crystallized Spirit",
+        "itemTag": "@ITEMS_T4_ARTEFACT_TOKEN_FAVOR_1"
+    },
+    {
+        "itemId": "UNIQUE_UNLOCK_SKIN_GIANTSTAG_DIVINE",
+        "LocalizedNames": "Stag Skin: Divine Stag",
+        "itemTag": "@ITEMS_UNIQUE_UNLOCK_SKIN_GIANTSTAG_DIVINE"
+    },
+    {
+        "itemId": "T8_OFF_SHIELD",
+        "LocalizedNames": "Elder's Shield",
+        "itemTag": "@ITEMS_T8_OFF_SHIELD"
+    },
+    {
+        "itemId": "T4_HEAD_LEATHER_SET1",
+        "LocalizedNames": "Adept's Mercenary Hood",
+        "itemTag": "@ITEMS_T4_HEAD_LEATHER_SET1"
+    },
+    {
+        "itemId": "T7_2H_BOW",
+        "LocalizedNames": "Grandmaster's Bow",
+        "itemTag": "@ITEMS_T7_2H_BOW"
+    },
+    {
+        "itemId": "T7_2H_MACE",
+        "LocalizedNames": "Grandmaster's Heavy Mace",
+        "itemTag": "@ITEMS_T7_2H_MACE"
+    },
+    {
+        "itemId": "T5_JOURNAL_HUNTER_EMPTY",
+        "LocalizedNames": "Expert Fletcher's Journal (Empty)",
+        "itemTag": "@ITEMS_T5_JOURNAL_HUNTER_EMPTY"
+    },
+    {
+        "itemId": "T6_2H_LONGBOW@1",
+        "LocalizedNames": "Master's Longbow",
+        "itemTag": "@ITEMS_T6_2H_LONGBOW"
+    },
+    {
+        "itemId": "T4_SHOES_CLOTH_ROYAL@1",
+        "LocalizedNames": "Adept's Royal Sandals",
+        "itemTag": "@ITEMS_T4_SHOES_CLOTH_ROYAL"
+    },
+    {
+        "itemId": "T4_HEAD_CLOTH_KEEPER",
+        "LocalizedNames": "Adept's Druid Cowl",
+        "itemTag": "@ITEMS_T4_HEAD_CLOTH_KEEPER"
+    },
+    {
+        "itemId": "T4_ARMOR_LEATHER_SET1",
+        "LocalizedNames": "Adept's Mercenary Jacket",
+        "itemTag": "@ITEMS_T4_ARMOR_LEATHER_SET1"
+    },
+    {
+        "itemId": "T4_JOURNAL_HUNTER_EMPTY",
+        "LocalizedNames": "Adept Fletcher's Journal (Empty)",
+        "itemTag": "@ITEMS_T4_JOURNAL_HUNTER_EMPTY"
+    },
+    {
+        "itemId": "T5_SHOES_LEATHER_MORGANA",
+        "LocalizedNames": "Expert's Stalker Shoes",
+        "itemTag": "@ITEMS_T5_SHOES_LEATHER_MORGANA"
+    },
+    {
+        "itemId": "T5_ARMOR_CLOTH_KEEPER",
+        "LocalizedNames": "Expert's Druid Robe",
+        "itemTag": "@ITEMS_T5_ARMOR_CLOTH_KEEPER"
+    },
+    {
+        "itemId": "T4_OFF_HORN_KEEPER",
+        "LocalizedNames": "Adept's Mistcaller",
+        "itemTag": "@ITEMS_T4_OFF_HORN_KEEPER"
+    },
+    {
+        "itemId": "T4_2H_BOW@1",
+        "LocalizedNames": "Adept's Bow",
+        "itemTag": "@ITEMS_T4_2H_BOW"
+    },
+    {
+        "itemId": "T6_JOURNAL_FIBER_EMPTY",
+        "LocalizedNames": "Master Cropper's Journal (Empty)",
+        "itemTag": "@ITEMS_T6_JOURNAL_FIBER_EMPTY"
+    },
+    {
+        "itemId": "T4_SHOES_CLOTH_SET2@1",
+        "LocalizedNames": "Adept's Cleric Sandals",
+        "itemTag": "@ITEMS_T4_SHOES_CLOTH_SET2"
+    },
+    {
+        "itemId": "T6_ARTEFACT_MAIN_ROCKMACE_KEEPER",
+        "LocalizedNames": "Master's Runed Rock",
+        "itemTag": "@ITEMS_T6_ARTEFACT_MAIN_ROCKMACE_KEEPER"
+    },
+    {
+        "itemId": "UNIQUE_UNLOCK_SKIN_HORSE_FOUNDER_ASIA_GOLD",
+        "LocalizedNames": "Riding Horse Skin: Seafarer's Horse",
+        "itemTag": "@ITEMS_UNIQUE_UNLOCK_SKIN_HORSE_FOUNDER_ASIA_GOLD"
+    },
+    {
+        "itemId": "T4_SHOES_CLOTH_SET2@2",
+        "LocalizedNames": "Adept's Cleric Sandals",
+        "itemTag": "@ITEMS_T4_SHOES_CLOTH_SET2"
+    },
+    {
+        "itemId": "UNIQUE_UNLOCK_SKIN_GIANTSTAG_ALPACA",
+        "LocalizedNames": "Stag Skin: Alpaca",
+        "itemTag": "@ITEMS_UNIQUE_UNLOCK_SKIN_GIANTSTAG_ALPACA"
+    },
+    {
+        "itemId": "T4_SHOES_PLATE_UNDEAD",
+        "LocalizedNames": "Adept's Graveguard Boots",
+        "itemTag": "@ITEMS_T4_SHOES_PLATE_UNDEAD"
+    },
+    {
+        "itemId": "T5_2H_CROSSBOW@1",
+        "LocalizedNames": "Expert's Crossbow",
+        "itemTag": "@ITEMS_T5_2H_CROSSBOW"
+    },
+    {
+        "itemId": "T7_MEAL_ROAST@2",
+        "LocalizedNames": "Roast Pork",
+        "itemTag": "@ITEMS_T7_MEAL_ROAST"
+    },
+    {
+        "itemId": "T5_POTION_SLOWFIELD",
+        "LocalizedNames": "Sticky Potion",
+        "itemTag": "@ITEMS_T5_POTION_SLOWFIELD"
+    },
+    {
+        "itemId": "T5_ARMOR_LEATHER_SET2@1",
+        "LocalizedNames": "Expert's Hunter Jacket",
+        "itemTag": "@ITEMS_T5_ARMOR_LEATHER_SET2"
+    },
+    {
+        "itemId": "T4_HEAD_CLOTH_MORGANA",
+        "LocalizedNames": "Adept's Cultist Cowl",
+        "itemTag": "@ITEMS_T4_HEAD_CLOTH_MORGANA"
+    },
+    {
+        "itemId": "T8_MEAL_SANDWICH_FISH",
+        "LocalizedNames": "Thunderfall Lurcher Sandwich",
+        "itemTag": "@ITEMS_T8_MEAL_SANDWICH_FISH"
+    },
+    {
+        "itemId": "T5_2H_CURSEDSTAFF@3",
+        "LocalizedNames": "Expert's Great Cursed Staff",
+        "itemTag": "@ITEMS_T5_2H_CURSEDSTAFF"
+    },
+    {
+        "itemId": "T4_HEAD_CLOTH_SET3",
+        "LocalizedNames": "Adept's Mage Cowl",
+        "itemTag": "@ITEMS_T4_HEAD_CLOTH_SET3"
+    },
+    {
+        "itemId": "T5_ARTEFACT_2H_BOW_AVALON",
+        "LocalizedNames": "Expert's Immaculately Crafted Riser",
+        "itemTag": "@ITEMS_T5_ARTEFACT_2H_BOW_AVALON"
+    },
+    {
+        "itemId": "T7_SHOES_LEATHER_SET3",
+        "LocalizedNames": "Grandmaster's Assassin Shoes",
+        "itemTag": "@ITEMS_T7_SHOES_LEATHER_SET3"
+    },
+    {
+        "itemId": "T7_HEAD_PLATE_SET3",
+        "LocalizedNames": "Grandmaster's Guardian Helmet",
+        "itemTag": "@ITEMS_T7_HEAD_PLATE_SET3"
+    },
+    {
+        "itemId": "T7_FURNITUREITEM_BED",
+        "LocalizedNames": "Grandmaster's Bed",
+        "itemTag": "@ITEMS_T7_FURNITUREITEM_BED"
+    },
+    {
+        "itemId": "T5_JOURNAL_WARRIOR_EMPTY",
+        "LocalizedNames": "Expert Blacksmith's Journal (Empty)",
+        "itemTag": "@ITEMS_T5_JOURNAL_WARRIOR_EMPTY"
+    },
+    {
+        "itemId": "T6_2H_TOOL_AXE",
+        "LocalizedNames": "Master's Axe",
+        "itemTag": "@ITEMS_T6_2H_TOOL_AXE"
+    },
+    {
+        "itemId": "T4_HEAD_CLOTH_HELL@3",
+        "LocalizedNames": "Adept's Fiend Cowl",
+        "itemTag": "@ITEMS_T4_HEAD_CLOTH_HELL"
+    },
+    {
+        "itemId": "T4_HEAD_PLATE_AVALON",
+        "LocalizedNames": "Adept's Helmet of Valor",
+        "itemTag": "@ITEMS_T4_HEAD_PLATE_AVALON"
+    },
+    {
+        "itemId": "T4_2H_WARBOW@1",
+        "LocalizedNames": "Adept's Warbow",
+        "itemTag": "@ITEMS_T4_2H_WARBOW"
+    },
+    {
+        "itemId": "T6_SHOES_LEATHER_SET2",
+        "LocalizedNames": "Master's Hunter Shoes",
+        "itemTag": "@ITEMS_T6_SHOES_LEATHER_SET2"
+    },
+    {
+        "itemId": "UNIQUE_FURNITUREITEM_MORGANA_SACRIFICE_ALTAR_A",
+        "LocalizedNames": "Raven Standard Shrine (Disciples of Morgana)",
+        "itemTag": "@ITEMS_UNIQUE_FURNITUREITEM_MORGANA_SACRIFICE_ALTAR_A"
+    },
+    {
+        "itemId": "T4_ARTEFACT_2H_HOLYSTAFF_HELL",
+        "LocalizedNames": "Adept's Infernal Scroll",
+        "itemTag": "@ITEMS_T4_ARTEFACT_2H_HOLYSTAFF_HELL"
+    },
+    {
+        "itemId": "T4_MEAL_STEW",
+        "LocalizedNames": "Goat Stew",
+        "itemTag": "@ITEMS_T4_MEAL_STEW"
+    },
+    {
+        "itemId": "T6_HEAD_CLOTH_SET3",
+        "LocalizedNames": "Master's Mage Cowl",
+        "itemTag": "@ITEMS_T6_HEAD_CLOTH_SET3"
+    },
+    {
+        "itemId": "T4_HEAD_LEATHER_SET3@1",
+        "LocalizedNames": "Adept's Assassin Hood",
+        "itemTag": "@ITEMS_T4_HEAD_LEATHER_SET3"
+    },
+    {
+        "itemId": "T4_2H_TOOL_FISHINGROD",
+        "LocalizedNames": "Adept's Fishing Rod",
+        "itemTag": "@ITEMS_T4_2H_TOOL_FISHINGROD"
+    },
+    {
+        "itemId": "T5_OFF_TOWERSHIELD_UNDEAD",
+        "LocalizedNames": "Expert's Sarcophagus",
+        "itemTag": "@ITEMS_T5_OFF_TOWERSHIELD_UNDEAD"
+    },
+    {
+        "itemId": "T7_2H_FROSTSTAFF",
+        "LocalizedNames": "Grandmaster's Great Frost Staff",
+        "itemTag": "@ITEMS_T7_2H_FROSTSTAFF"
+    },
+    {
+        "itemId": "T5_2H_ENIGMATICSTAFF",
+        "LocalizedNames": "Expert's Enigmatic Staff",
+        "itemTag": "@ITEMS_T5_2H_ENIGMATICSTAFF"
+    },
+    {
+        "itemId": "T5_ARTEFACT_MAIN_HOLYSTAFF_MORGANA",
+        "LocalizedNames": "Expert's Possessed Scroll",
+        "itemTag": "@ITEMS_T5_ARTEFACT_MAIN_HOLYSTAFF_MORGANA"
+    },
+    {
+        "itemId": "T3_POTION_STONESKIN",
+        "LocalizedNames": "Minor Resistance Potion",
+        "itemTag": "@ITEMS_T3_POTION_STONESKIN"
+    },
+    {
+        "itemId": "UNIQUE_UNLOCK_SKIN_HORSE_FOUNDER_ASIA_CRYSTAL",
+        "LocalizedNames": "Riding Horse Skin: Sea Captain's Horse",
+        "itemTag": "@ITEMS_UNIQUE_UNLOCK_SKIN_HORSE_FOUNDER_ASIA_CRYSTAL"
+    },
+    {
+        "itemId": "T3_ARMOR_LEATHER_SET1",
+        "LocalizedNames": "Journeyman's Mercenary Jacket",
+        "itemTag": "@ITEMS_T3_ARMOR_LEATHER_SET1"
+    },
+    {
+        "itemId": "T5_OFF_BOOK",
+        "LocalizedNames": "Expert's Tome of Spells",
+        "itemTag": "@ITEMS_T5_OFF_BOOK"
+    },
+    {
+        "itemId": "T4_MAIN_RAPIER_MORGANA",
+        "LocalizedNames": "Adept's Bloodletter",
+        "itemTag": "@ITEMS_T4_MAIN_RAPIER_MORGANA"
+    },
+    {
+        "itemId": "T5_2H_CLAYMORE@1",
+        "LocalizedNames": "Expert's Claymore",
+        "itemTag": "@ITEMS_T5_2H_CLAYMORE"
+    },
+    {
+        "itemId": "T4_HEAD_PLATE_SET2",
+        "LocalizedNames": "Adept's Knight Helmet",
+        "itemTag": "@ITEMS_T4_HEAD_PLATE_SET2"
+    },
+    {
+        "itemId": "T5_HEAD_CLOTH_HELL@1",
+        "LocalizedNames": "Expert's Fiend Cowl",
+        "itemTag": "@ITEMS_T5_HEAD_CLOTH_HELL"
+    },
+    {
+        "itemId": "T5_SHOES_LEATHER_ROYAL@3",
+        "LocalizedNames": "Expert's Royal Shoes",
+        "itemTag": "@ITEMS_T5_SHOES_LEATHER_ROYAL"
+    },
+    {
+        "itemId": "UNIQUE_UNLOCK_CAPE_VANITY_FOUNDER_ASIA_CRYSTAL",
+        "LocalizedNames": "Wardrobe Skin: Sea Captain's Spyglass",
+        "itemTag": "@ITEMS_UNIQUE_UNLOCK_CAPE_VANITY_FOUNDER_ASIA_CRYSTAL"
+    },
+    {
+        "itemId": "T7_HEAD_CLOTH_SET3",
+        "LocalizedNames": "Grandmaster's Mage Cowl",
+        "itemTag": "@ITEMS_T7_HEAD_CLOTH_SET3"
+    },
+    {
+        "itemId": "T5_ARTEFACT_2H_HARPOON_HELL",
+        "LocalizedNames": "Expert's Infernal Harpoon Tip",
+        "itemTag": "@ITEMS_T5_ARTEFACT_2H_HARPOON_HELL"
+    },
+    {
+        "itemId": "T6_ARTEFACT_TOKEN_FAVOR_1",
+        "LocalizedNames": "Master's Crystallized Spirit",
+        "itemTag": "@ITEMS_T6_ARTEFACT_TOKEN_FAVOR_1"
+    },
+    {
+        "itemId": "T3_HEAD_CLOTH_SET1",
+        "LocalizedNames": "Journeyman's Scholar Cowl",
+        "itemTag": "@ITEMS_T3_HEAD_CLOTH_SET1"
+    },
+    {
+        "itemId": "T8_MAIN_FIRESTAFF",
+        "LocalizedNames": "Elder's Fire Staff",
+        "itemTag": "@ITEMS_T8_MAIN_FIRESTAFF"
+    },
+    {
+        "itemId": "T4_CAPEITEM_FW_THETFORD@1",
+        "LocalizedNames": "Adept's Thetford Cape",
+        "itemTag": "@ITEMS_T4_CAPEITEM_FW_THETFORD"
+    },
+    {
+        "itemId": "T3_EGG",
+        "LocalizedNames": "Hen Eggs",
+        "itemTag": "@ITEMS_T3_EGG"
+    },
+    {
+        "itemId": "T5_CAPEITEM_FW_LYMHURST@3",
+        "LocalizedNames": "Expert's Lymhurst Cape",
+        "itemTag": "@ITEMS_T5_CAPEITEM_FW_LYMHURST"
+    },
+    {
+        "itemId": "T6_HEAD_CLOTH_SET1@1",
+        "LocalizedNames": "Master's Scholar Cowl",
+        "itemTag": "@ITEMS_T6_HEAD_CLOTH_SET1"
+    },
+    {
+        "itemId": "T7_HIDE",
+        "LocalizedNames": "Thick Hide",
+        "itemTag": "@ITEMS_T7_HIDE"
+    },
+    {
+        "itemId": "T4_OFF_HORN_KEEPER@2",
+        "LocalizedNames": "Adept's Mistcaller",
+        "itemTag": "@ITEMS_T4_OFF_HORN_KEEPER"
+    },
+    {
+        "itemId": "T4_CAPEITEM_FW_THETFORD@3",
+        "LocalizedNames": "Adept's Thetford Cape",
+        "itemTag": "@ITEMS_T4_CAPEITEM_FW_THETFORD"
+    },
+    {
+        "itemId": "T5_2H_DUALMACE_AVALON@2",
+        "LocalizedNames": "Expert's Oathkeepers",
+        "itemTag": "@ITEMS_T5_2H_DUALMACE_AVALON"
+    },
+    {
+        "itemId": "T4_2H_DUALCROSSBOW_HELL@1",
+        "LocalizedNames": "Adept's Boltcasters",
+        "itemTag": "@ITEMS_T4_2H_DUALCROSSBOW_HELL"
+    },
+    {
+        "itemId": "T4_OFF_BOOK",
+        "LocalizedNames": "Adept's Tome of Spells",
+        "itemTag": "@ITEMS_T4_OFF_BOOK"
+    },
+    {
+        "itemId": "T3_ARMOR_CLOTH_SET1",
+        "LocalizedNames": "Journeyman's Scholar Robe",
+        "itemTag": "@ITEMS_T3_ARMOR_CLOTH_SET1"
+    },
+    {
+        "itemId": "T4_HEAD_CLOTH_ROYAL@2",
+        "LocalizedNames": "Adept's Royal Cowl",
+        "itemTag": "@ITEMS_T4_HEAD_CLOTH_ROYAL"
+    },
+    {
+        "itemId": "T3_2H_TOOL_KNIFE",
+        "LocalizedNames": "Journeyman's Skinning Knife",
+        "itemTag": "@ITEMS_T3_2H_TOOL_KNIFE"
+    },
+    {
+        "itemId": "T2_2H_TOOL_PICK",
+        "LocalizedNames": "Novice's Pickaxe",
+        "itemTag": "@ITEMS_T2_2H_TOOL_PICK"
+    },
+    {
+        "itemId": "T7_MAIN_CURSEDSTAFF",
+        "LocalizedNames": "Grandmaster's Cursed Staff",
+        "itemTag": "@ITEMS_T7_MAIN_CURSEDSTAFF"
+    },
+    {
+        "itemId": "UNIQUE_MOUNT_BEETLE_CRYSTAL",
+        "LocalizedNames": "Crystal Colossus Beetle",
+        "itemTag": "@ITEMS_UNIQUE_MOUNT_BEETLE_CRYSTAL"
+    },
+    {
+        "itemId": "T3_MAIN_NATURESTAFF",
+        "LocalizedNames": "Journeyman's Nature Staff",
+        "itemTag": "@ITEMS_T3_MAIN_NATURESTAFF"
+    },
+    {
+        "itemId": "T4_SHOES_LEATHER_MORGANA",
+        "LocalizedNames": "Adept's Stalker Shoes",
+        "itemTag": "@ITEMS_T4_SHOES_LEATHER_MORGANA"
+    },
+    {
+        "itemId": "T6_HEAD_GATHERER_ROCK",
+        "LocalizedNames": "Master's Quarrier Cap",
+        "itemTag": "@ITEMS_T6_HEAD_GATHERER_ROCK"
+    },
+    {
+        "itemId": "T4_HEAD_LEATHER_MORGANA",
+        "LocalizedNames": "Adept's Stalker Hood",
+        "itemTag": "@ITEMS_T4_HEAD_LEATHER_MORGANA"
+    },
+    {
+        "itemId": "T6_ARTEFACT_ARMOR_LEATHER_MORGANA",
+        "LocalizedNames": "Master's Imbued Leather Folds",
+        "itemTag": "@ITEMS_T6_ARTEFACT_ARMOR_LEATHER_MORGANA"
+    },
+    {
+        "itemId": "T4_HEAD_CLOTH_ROYAL@3",
+        "LocalizedNames": "Adept's Royal Cowl",
+        "itemTag": "@ITEMS_T4_HEAD_CLOTH_ROYAL"
+    },
+    {
+        "itemId": "T6_2H_TOOL_SIEGEHAMMER",
+        "LocalizedNames": "Master's Demolition Hammer",
+        "itemTag": "@ITEMS_T6_2H_TOOL_SIEGEHAMMER"
+    },
+    {
+        "itemId": "T4_ARMOR_GATHERER_ORE",
+        "LocalizedNames": "Adept's Miner Garb",
+        "itemTag": "@ITEMS_T4_ARMOR_GATHERER_ORE"
+    },
+    {
+        "itemId": "T4_SHOES_GATHERER_ORE",
+        "LocalizedNames": "Adept's Miner Workboots",
+        "itemTag": "@ITEMS_T4_SHOES_GATHERER_ORE"
+    },
+    {
+        "itemId": "T6_OFF_TORCH",
+        "LocalizedNames": "Master's Torch",
+        "itemTag": "@ITEMS_T6_OFF_TORCH"
+    },
+    {
+        "itemId": "T3_HEAD_PLATE_SET1",
+        "LocalizedNames": "Journeyman's Soldier Helmet",
+        "itemTag": "@ITEMS_T3_HEAD_PLATE_SET1"
+    },
+    {
+        "itemId": "T6_HEAD_PLATE_SET2@1",
+        "LocalizedNames": "Master's Knight Helmet",
+        "itemTag": "@ITEMS_T6_HEAD_PLATE_SET2"
+    },
+    {
+        "itemId": "T7_HEAD_CLOTH_SET3@1",
+        "LocalizedNames": "Grandmaster's Mage Cowl",
+        "itemTag": "@ITEMS_T7_HEAD_CLOTH_SET3"
+    },
+    {
+        "itemId": "T4_SHOES_CLOTH_ROYAL@3",
+        "LocalizedNames": "Adept's Royal Sandals",
+        "itemTag": "@ITEMS_T4_SHOES_CLOTH_ROYAL"
+    },
+    {
+        "itemId": "T6_HEAD_PLATE_SET1",
+        "LocalizedNames": "Master's Soldier Helmet",
+        "itemTag": "@ITEMS_T6_HEAD_PLATE_SET1"
+    },
+    {
+        "itemId": "T4_ARMOR_CLOTH_SET1",
+        "LocalizedNames": "Adept's Scholar Robe",
+        "itemTag": "@ITEMS_T4_ARMOR_CLOTH_SET1"
+    },
+    {
+        "itemId": "T6_ARMOR_CLOTH_SET2@1",
+        "LocalizedNames": "Master's Cleric Robe",
+        "itemTag": "@ITEMS_T6_ARMOR_CLOTH_SET2"
+    },
+    {
+        "itemId": "T4_2H_IRONCLADEDSTAFF",
+        "LocalizedNames": "Adept's Iron-clad Staff",
+        "itemTag": "@ITEMS_T4_2H_IRONCLADEDSTAFF"
+    },
+    {
+        "itemId": "T4_ARMOR_CLOTH_SET2@1",
+        "LocalizedNames": "Adept's Cleric Robe",
+        "itemTag": "@ITEMS_T4_ARMOR_CLOTH_SET2"
+    },
+    {
+        "itemId": "T5_ARTEFACT_2H_CLEAVER_HELL",
+        "LocalizedNames": "Expert's Demonic Blade",
+        "itemTag": "@ITEMS_T5_ARTEFACT_2H_CLEAVER_HELL"
+    },
+    {
+        "itemId": "T6_ARMOR_PLATE_SET3@1",
+        "LocalizedNames": "Master's Guardian Armor",
+        "itemTag": "@ITEMS_T6_ARMOR_PLATE_SET3"
+    },
+    {
+        "itemId": "T2_2H_TOOL_SICKLE",
+        "LocalizedNames": "Novice's Sickle",
+        "itemTag": "@ITEMS_T2_2H_TOOL_SICKLE"
+    },
+    {
+        "itemId": "T1_ARMOR_LEATHER_SET1",
+        "LocalizedNames": "Beginner's Mercenary Jacket",
+        "itemTag": "@ITEMS_T1_ARMOR_LEATHER_SET1"
+    },
+    {
+        "itemId": "T5_HEAD_PLATE_SET2",
+        "LocalizedNames": "Expert's Knight Helmet",
+        "itemTag": "@ITEMS_T5_HEAD_PLATE_SET2"
+    },
+    {
+        "itemId": "T4_BACKPACK_GATHERER_FISH",
+        "LocalizedNames": "Adept's Fisherman Backpack",
+        "itemTag": "@ITEMS_T4_BACKPACK_GATHERER_FISH"
+    },
+    {
+        "itemId": "T5_HEAD_PLATE_AVALON",
+        "LocalizedNames": "Expert's Helmet of Valor",
+        "itemTag": "@ITEMS_T5_HEAD_PLATE_AVALON"
+    },
+    {
+        "itemId": "T4_2H_DAGGER_KATAR_AVALON@3",
+        "LocalizedNames": "Adept's Bridled Fury",
+        "itemTag": "@ITEMS_T4_2H_DAGGER_KATAR_AVALON"
+    },
+    {
+        "itemId": "T5_2H_KNUCKLES_AVALON@2",
+        "LocalizedNames": "Expert's Fists of Avalon",
+        "itemTag": "@ITEMS_T5_2H_KNUCKLES_AVALON"
+    },
+    {
+        "itemId": "T6_ARMOR_GATHERER_ORE",
+        "LocalizedNames": "Master's Miner Garb",
+        "itemTag": "@ITEMS_T6_ARMOR_GATHERER_ORE"
+    },
+    {
+        "itemId": "T4_HEAD_LEATHER_SET2@2",
+        "LocalizedNames": "Adept's Hunter Hood",
+        "itemTag": "@ITEMS_T4_HEAD_LEATHER_SET2"
+    },
+    {
+        "itemId": "T6_ARTEFACT_2H_DUALMACE_AVALON",
+        "LocalizedNames": "Master's Broken Oaths",
+        "itemTag": "@ITEMS_T6_ARTEFACT_2H_DUALMACE_AVALON"
+    },
+    {
+        "itemId": "T6_ARTEFACT_2H_TWINSCYTHE_HELL",
+        "LocalizedNames": "Master's Hellish Sicklehead Pair",
+        "itemTag": "@ITEMS_T6_ARTEFACT_2H_TWINSCYTHE_HELL"
+    },
+    {
+        "itemId": "T6_HEAD_CLOTH_SET3@1",
+        "LocalizedNames": "Master's Mage Cowl",
+        "itemTag": "@ITEMS_T6_HEAD_CLOTH_SET3"
+    },
+    {
+        "itemId": "T4_SHOES_GATHERER_ROCK",
+        "LocalizedNames": "Adept's Quarrier Workboots",
+        "itemTag": "@ITEMS_T4_SHOES_GATHERER_ROCK"
+    },
+    {
+        "itemId": "T3_TRASH",
+        "LocalizedNames": "Trash",
+        "itemTag": "@ITEMS_T3_TRASH"
+    },
+    {
+        "itemId": "T5_TRASH",
+        "LocalizedNames": "Trash",
+        "itemTag": "@ITEMS_T5_TRASH"
+    },
+    {
+        "itemId": "T1_HEAD_LEATHER_SET1",
+        "LocalizedNames": "Beginner's Mercenary Hood",
+        "itemTag": "@ITEMS_T1_HEAD_LEATHER_SET1"
+    },
+    {
+        "itemId": "UNIQUE_FURNITUREITEM_ADC_STATUE_MOUNTED_DIREWOLF_A",
+        "LocalizedNames": "Wolf Rider Statue (L)",
+        "itemTag": "@ITEMS_UNIQUE_FURNITUREITEM_ADC_STATUE_MOUNTED_DIREWOLF_A"
+    },
+    {
+        "itemId": "T4_SHOES_GATHERER_FIBER",
+        "LocalizedNames": "Adept's Harvester Workboots",
+        "itemTag": "@ITEMS_T4_SHOES_GATHERER_FIBER"
+    },
+    {
+        "itemId": "T4_HEAD_GATHERER_FISH",
+        "LocalizedNames": "Adept's Fisherman Cap",
+        "itemTag": "@ITEMS_T4_HEAD_GATHERER_FISH"
+    },
+    {
+        "itemId": "T5_OFF_TORCH",
+        "LocalizedNames": "Expert's Torch",
+        "itemTag": "@ITEMS_T5_OFF_TORCH"
+    },
+    {
+        "itemId": "T4_HEAD_CLOTH_ROYAL",
+        "LocalizedNames": "Adept's Royal Cowl",
+        "itemTag": "@ITEMS_T4_HEAD_CLOTH_ROYAL"
+    },
+    {
+        "itemId": "T4_ARMOR_LEATHER_SET2@1",
+        "LocalizedNames": "Adept's Hunter Jacket",
+        "itemTag": "@ITEMS_T4_ARMOR_LEATHER_SET2"
+    },
+    {
+        "itemId": "T4_OFF_HORN_KEEPER@1",
+        "LocalizedNames": "Adept's Mistcaller",
+        "itemTag": "@ITEMS_T4_OFF_HORN_KEEPER"
+    },
+    {
+        "itemId": "T1_SHOES_LEATHER_SET1",
+        "LocalizedNames": "Beginner's Mercenary Shoes",
+        "itemTag": "@ITEMS_T1_SHOES_LEATHER_SET1"
+    },
+    {
+        "itemId": "T8_BAG",
+        "LocalizedNames": "Elder's Bag",
+        "itemTag": "@ITEMS_T8_BAG"
+    },
+    {
+        "itemId": "UNIQUE_MOUNT_BEAR_KEEPER_ADC",
+        "LocalizedNames": "Grizzly Bear",
+        "itemTag": "@ITEMS_UNIQUE_MOUNT_BEAR_KEEPER_ADC"
+    },
+    {
+        "itemId": "T4_2H_LONGBOW@1",
+        "LocalizedNames": "Adept's Longbow",
+        "itemTag": "@ITEMS_T4_2H_LONGBOW"
+    },
+    {
+        "itemId": "T4_2H_RAM_KEEPER",
+        "LocalizedNames": "Adept's Grovekeeper",
+        "itemTag": "@ITEMS_T4_2H_RAM_KEEPER"
+    },
+    {
+        "itemId": "T7_MAIN_1HCROSSBOW@1",
+        "LocalizedNames": "Grandmaster's Light Crossbow",
+        "itemTag": "@ITEMS_T7_MAIN_1HCROSSBOW"
+    },
+    {
+        "itemId": "T8_HEAD_PLATE_SET2",
+        "LocalizedNames": "Elder's Knight Helmet",
+        "itemTag": "@ITEMS_T8_HEAD_PLATE_SET2"
+    },
+    {
+        "itemId": "T4_ARMOR_LEATHER_HELL",
+        "LocalizedNames": "Adept's Hellion Jacket",
+        "itemTag": "@ITEMS_T4_ARMOR_LEATHER_HELL"
+    },
+    {
+        "itemId": "T3_POTION_REVIVE",
+        "LocalizedNames": "Minor Gigantify Potion",
+        "itemTag": "@ITEMS_T3_POTION_REVIVE"
+    },
+    {
+        "itemId": "T7_FISH_FRESHWATER_MOUNTAIN_RARE",
+        "LocalizedNames": "Frostpeak Deadeye",
+        "itemTag": "@ITEMS_T7_FISH_FRESHWATER_MOUNTAIN_RARE"
+    },
+    {
+        "itemId": "T5_OFF_SHIELD@1",
+        "LocalizedNames": "Expert's Shield",
+        "itemTag": "@ITEMS_T5_OFF_SHIELD"
+    },
+    {
+        "itemId": "T3_POTION_SLOWFIELD",
+        "LocalizedNames": "Minor Sticky Potion",
+        "itemTag": "@ITEMS_T3_POTION_SLOWFIELD"
+    },
+    {
+        "itemId": "T2_POTION_HEAL",
+        "LocalizedNames": "Minor Healing Potion",
+        "itemTag": "@ITEMS_T2_POTION_HEAL"
+    },
+    {
+        "itemId": "T5_HEAD_LEATHER_SET3@3",
+        "LocalizedNames": "Expert's Assassin Hood",
+        "itemTag": "@ITEMS_T5_HEAD_LEATHER_SET3"
+    },
+    {
+        "itemId": "T4_ARMOR_GATHERER_FISH",
+        "LocalizedNames": "Adept's Fisherman Garb",
+        "itemTag": "@ITEMS_T4_ARMOR_GATHERER_FISH"
+    },
+    {
+        "itemId": "T1_2H_TOOL_PICK",
+        "LocalizedNames": "Beginner's Pickaxe",
+        "itemTag": "@ITEMS_T1_2H_TOOL_PICK"
+    },
+    {
+        "itemId": "T4_POTION_HEAL",
+        "LocalizedNames": "Healing Potion",
+        "itemTag": "@ITEMS_T4_POTION_HEAL"
+    },
+    {
+        "itemId": "T8_MEAL_SANDWICH",
+        "LocalizedNames": "Beef Sandwich",
+        "itemTag": "@ITEMS_T8_MEAL_SANDWICH"
+    },
+    {
+        "itemId": "T1_2H_TOOL_HAMMER",
+        "LocalizedNames": "Beginner's Stone Hammer",
+        "itemTag": "@ITEMS_T1_2H_TOOL_HAMMER"
+    },
+    {
+        "itemId": "T4_ARTEFACT_MAIN_FIRESTAFF_KEEPER",
+        "LocalizedNames": "Adept's Wildfire Orb",
+        "itemTag": "@ITEMS_T4_ARTEFACT_MAIN_FIRESTAFF_KEEPER"
+    },
+    {
+        "itemId": "T4_POTION_ENERGY",
+        "LocalizedNames": "Energy Potion",
+        "itemTag": "@ITEMS_T4_POTION_ENERGY"
+    },
+    {
+        "itemId": "T1_MEAL_SEAWEEDSALAD",
+        "LocalizedNames": "Seaweed Salad",
+        "itemTag": "@ITEMS_T1_MEAL_SEAWEEDSALAD"
+    },
+    {
+        "itemId": "T1_ROCK",
+        "LocalizedNames": "Rough Stone",
+        "itemTag": "@ITEMS_T1_ROCK"
+    },
+    {
+        "itemId": "T5_SHOES_CLOTH_ROYAL@3",
+        "LocalizedNames": "Expert's Royal Sandals",
+        "itemTag": "@ITEMS_T5_SHOES_CLOTH_ROYAL"
+    },
+    {
+        "itemId": "T2_POTION_ENERGY",
+        "LocalizedNames": "Minor Energy Potion",
+        "itemTag": "@ITEMS_T2_POTION_ENERGY"
+    },
+    {
+        "itemId": "T4_ARMOR_LEATHER_MORGANA",
+        "LocalizedNames": "Adept's Stalker Jacket",
+        "itemTag": "@ITEMS_T4_ARMOR_LEATHER_MORGANA"
+    },
+    {
+        "itemId": "T1_MEAL_SOUP",
+        "LocalizedNames": "Carrot Soup",
+        "itemTag": "@ITEMS_T1_MEAL_SOUP"
+    },
+    {
+        "itemId": "T5_OFF_TORCH@1",
+        "LocalizedNames": "Expert's Torch",
+        "itemTag": "@ITEMS_T5_OFF_TORCH"
+    },
+    {
+        "itemId": "T8_METALBAR",
+        "LocalizedNames": "Adamantium Steel Bar",
+        "itemTag": "@ITEMS_T8_METALBAR"
+    },
+    {
+        "itemId": "T5_ARTEFACT_2H_KNUCKLES_KEEPER",
+        "LocalizedNames": "Expert's Ursine Guardian Remains",
+        "itemTag": "@ITEMS_T5_ARTEFACT_2H_KNUCKLES_KEEPER"
+    },
+    {
+        "itemId": "T4_ARTEFACT_HEAD_LEATHER_MORGANA",
+        "LocalizedNames": "Adept's Imbued Visor",
+        "itemTag": "@ITEMS_T4_ARTEFACT_HEAD_LEATHER_MORGANA"
+    },
+    {
+        "itemId": "T5_POTION_REVIVE@1",
+        "LocalizedNames": "Gigantify Potion",
+        "itemTag": "@ITEMS_T5_POTION_REVIVE"
+    },
+    {
+        "itemId": "T8_POTION_COOLDOWN",
+        "LocalizedNames": "Major Poison Potion",
+        "itemTag": "@ITEMS_T8_POTION_COOLDOWN"
+    },
+    {
+        "itemId": "T5_FISH_FRESHWATER_ALL_COMMON",
+        "LocalizedNames": "Spotted Trout",
+        "itemTag": "@ITEMS_T5_FISH_FRESHWATER_ALL_COMMON"
+    },
+    {
+        "itemId": "T5_ARTEFACT_SHOES_LEATHER_MORGANA",
+        "LocalizedNames": "Expert's Imbued Soles",
+        "itemTag": "@ITEMS_T5_ARTEFACT_SHOES_LEATHER_MORGANA"
+    },
+    {
+        "itemId": "T5_FISH_FRESHWATER_MOUNTAIN_RARE",
+        "LocalizedNames": "Mountain Blindeye",
+        "itemTag": "@ITEMS_T5_FISH_FRESHWATER_MOUNTAIN_RARE"
+    },
+    {
+        "itemId": "T5_FISH_FRESHWATER_AVALON_RARE",
+        "LocalizedNames": "Clearhaze Snapper",
+        "itemTag": "@ITEMS_T5_FISH_FRESHWATER_AVALON_RARE"
+    },
+    {
+        "itemId": "T4_ARMOR_CLOTH_SET1@1",
+        "LocalizedNames": "Adept's Scholar Robe",
+        "itemTag": "@ITEMS_T4_ARMOR_CLOTH_SET1"
+    },
+    {
+        "itemId": "T4_MAIN_1HCROSSBOW@2",
+        "LocalizedNames": "Adept's Light Crossbow",
+        "itemTag": "@ITEMS_T4_MAIN_1HCROSSBOW"
+    },
+    {
+        "itemId": "T6_FISH_FRESHWATER_ALL_COMMON",
+        "LocalizedNames": "Brightscale Zander",
+        "itemTag": "@ITEMS_T6_FISH_FRESHWATER_ALL_COMMON"
+    },
+    {
+        "itemId": "T6_FISH_SALTWATER_ALL_COMMON",
+        "LocalizedNames": "Strongfin Salmon",
+        "itemTag": "@ITEMS_T6_FISH_SALTWATER_ALL_COMMON"
+    },
+    {
+        "itemId": "T7_MEAL_ROAST_FISH@2",
+        "LocalizedNames": "Roasted Puremist Snapper",
+        "itemTag": "@ITEMS_T7_MEAL_ROAST_FISH"
+    },
+    {
+        "itemId": "T7_POTION_REVIVE@1",
+        "LocalizedNames": "Major Gigantify Potion",
+        "itemTag": "@ITEMS_T7_POTION_REVIVE"
+    },
+    {
+        "itemId": "T7_FISH_FRESHWATER_ALL_COMMON",
+        "LocalizedNames": "Danglemouth Catfish",
+        "itemTag": "@ITEMS_T7_FISH_FRESHWATER_ALL_COMMON"
+    },
+    {
+        "itemId": "T7_FISH_SALTWATER_ALL_COMMON",
+        "LocalizedNames": "Bluefin Tuna",
+        "itemTag": "@ITEMS_T7_FISH_SALTWATER_ALL_COMMON"
+    },
+    {
+        "itemId": "T5_POTION_STONESKIN",
+        "LocalizedNames": "Resistance Potion",
+        "itemTag": "@ITEMS_T5_POTION_STONESKIN"
+    },
+    {
+        "itemId": "T4_POTION_ENERGY@1",
+        "LocalizedNames": "Energy Potion",
+        "itemTag": "@ITEMS_T4_POTION_ENERGY"
+    },
+    {
+        "itemId": "T4_JOURNAL_HUNTER_FULL",
+        "LocalizedNames": "Adept Fletcher's Journal (Full)",
+        "itemTag": "@ITEMS_T4_JOURNAL_HUNTER_FULL"
+    },
+    {
+        "itemId": "T4_ARTEFACT_OFF_JESTERCANE_HELL",
+        "LocalizedNames": "Adept's Hellish Handle",
+        "itemTag": "@ITEMS_T4_ARTEFACT_OFF_JESTERCANE_HELL"
+    },
+    {
+        "itemId": "T5_ARTEFACT_OFF_JESTERCANE_HELL",
+        "LocalizedNames": "Expert's Hellish Handle",
+        "itemTag": "@ITEMS_T5_ARTEFACT_OFF_JESTERCANE_HELL"
+    },
+    {
+        "itemId": "T6_FARM_GIANTSTAG_GROWN",
+        "LocalizedNames": "Master's Tame Giant Stag",
+        "itemTag": "@ITEMS_T6_FARM_GIANTSTAG_GROWN"
+    },
+    {
+        "itemId": "T5_ARTEFACT_2H_KNUCKLES_HELL",
+        "LocalizedNames": "Expert's Severed Demonic Horns",
+        "itemTag": "@ITEMS_T5_ARTEFACT_2H_KNUCKLES_HELL"
+    },
+    {
+        "itemId": "T5_SHOES_PLATE_SET1@1",
+        "LocalizedNames": "Expert's Soldier Boots",
+        "itemTag": "@ITEMS_T5_SHOES_PLATE_SET1"
+    },
+    {
+        "itemId": "T5_POTION_STONESKIN@1",
+        "LocalizedNames": "Resistance Potion",
+        "itemTag": "@ITEMS_T5_POTION_STONESKIN"
+    },
+    {
+        "itemId": "T7_2H_TOOL_SIEGEHAMMER",
+        "LocalizedNames": "Grandmaster's Demolition Hammer",
+        "itemTag": "@ITEMS_T7_2H_TOOL_SIEGEHAMMER"
+    },
+    {
+        "itemId": "T4_2H_DUALAXE_KEEPER@2",
+        "LocalizedNames": "Adept's Bear Paws",
+        "itemTag": "@ITEMS_T4_2H_DUALAXE_KEEPER"
+    },
+    {
+        "itemId": "T4_CAPEITEM_FW_CAERLEON",
+        "LocalizedNames": "Adept's Caerleon Cape",
+        "itemTag": "@ITEMS_T4_CAPEITEM_FW_CAERLEON"
+    },
+    {
+        "itemId": "T1_FISHSAUCE_LEVEL2",
+        "LocalizedNames": "Fancy Fish Sauce",
+        "itemTag": "@ITEMS_T1_FISHSAUCE_LEVEL2"
+    },
+    {
+        "itemId": "T5_ARTEFACT_OFF_HORN_KEEPER",
+        "LocalizedNames": "Expert's Runed Horn",
+        "itemTag": "@ITEMS_T5_ARTEFACT_OFF_HORN_KEEPER"
+    },
+    {
+        "itemId": "T6_SHOES_LEATHER_SET3@1",
+        "LocalizedNames": "Master's Assassin Shoes",
+        "itemTag": "@ITEMS_T6_SHOES_LEATHER_SET3"
+    },
+    {
+        "itemId": "T8_POTION_CLEANSE",
+        "LocalizedNames": "Invisibility Potion",
+        "itemTag": "@ITEMS_T8_POTION_CLEANSE"
+    },
+    {
+        "itemId": "T4_OFF_DEMONSKULL_HELL@2",
+        "LocalizedNames": "Adept's Muisak",
+        "itemTag": "@ITEMS_T4_OFF_DEMONSKULL_HELL"
+    },
+    {
+        "itemId": "T6_2H_TOOL_PICK",
+        "LocalizedNames": "Master's Pickaxe",
+        "itemTag": "@ITEMS_T6_2H_TOOL_PICK"
+    },
+    {
+        "itemId": "T8_POTION_CLEANSE@1",
+        "LocalizedNames": "Invisibility Potion",
+        "itemTag": "@ITEMS_T8_POTION_CLEANSE"
+    },
+    {
+        "itemId": "T1_FISHSAUCE_LEVEL3",
+        "LocalizedNames": "Special Fish Sauce",
+        "itemTag": "@ITEMS_T1_FISHSAUCE_LEVEL3"
+    },
+    {
+        "itemId": "T6_POTION_HEAL@1",
+        "LocalizedNames": "Major Healing Potion",
+        "itemTag": "@ITEMS_T6_POTION_HEAL"
+    },
+    {
+        "itemId": "T6_SHOES_CLOTH_SET2@3",
+        "LocalizedNames": "Master's Cleric Sandals",
+        "itemTag": "@ITEMS_T6_SHOES_CLOTH_SET2"
+    },
+    {
+        "itemId": "T1_FACTION_STEPPE_TOKEN_1",
+        "LocalizedNames": "Beastheart",
+        "itemTag": "@ITEMS_T1_FACTION_STEPPE_TOKEN_1"
+    },
+    {
+        "itemId": "T7_POTION_STONESKIN@1",
+        "LocalizedNames": "Major Resistance Potion",
+        "itemTag": "@ITEMS_T7_POTION_STONESKIN"
+    },
+    {
+        "itemId": "T4_CAPEITEM_FW_BRIDGEWATCH@1",
+        "LocalizedNames": "Adept's Bridgewatch Cape",
+        "itemTag": "@ITEMS_T4_CAPEITEM_FW_BRIDGEWATCH"
+    },
+    {
+        "itemId": "TREASURE_KNOWLEDGE_RARITY1",
+        "LocalizedNames": "Corrupted Scroll",
+        "itemTag": "@ITEMS_TREASURE_KNOWLEDGE_RARITY1"
+    },
+    {
+        "itemId": "T5_MOUNT_COUGAR_KEEPER@1",
+        "LocalizedNames": "Swiftclaw",
+        "itemTag": "@ITEMS_T5_MOUNT_COUGAR_KEEPER"
+    },
+    {
+        "itemId": "T7_FARM_SWAMPDRAGON_GROWN",
+        "LocalizedNames": "Tame Swamp Dragon",
+        "itemTag": "@ITEMS_T7_FARM_SWAMPDRAGON_GROWN"
+    },
+    {
+        "itemId": "T8_FARM_SWAMPDRAGON_FW_THETFORD_BABY",
+        "LocalizedNames": "Baby Elite Swamp Salamander",
+        "itemTag": "@ITEMS_T8_FARM_SWAMPDRAGON_FW_THETFORD_BABY"
+    },
+    {
+        "itemId": "UNIQUE_HIDEOUT",
+        "LocalizedNames": "Hideout Construction Kit",
+        "itemTag": "@ITEMS_UNIQUE_HIDEOUT"
+    },
+    {
+        "itemId": "T8_FARM_MAMMOTH_GROWN",
+        "LocalizedNames": "Tame Mammoth",
+        "itemTag": "@ITEMS_T8_FARM_MAMMOTH_GROWN"
+    },
+    {
+        "itemId": "T8_FARM_MAMMOTH_BABY",
+        "LocalizedNames": "Mammoth Calf",
+        "itemTag": "@ITEMS_T8_FARM_MAMMOTH_BABY"
+    },
+    {
+        "itemId": "T8_MOUNT_MAMMOTH_BATTLE@1",
+        "LocalizedNames": "Elder's Command Mammoth",
+        "itemTag": "@ITEMS_T8_MOUNT_MAMMOTH_BATTLE"
+    }
+]

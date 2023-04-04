@@ -1,0 +1,182 @@
+[
+  {
+    "itemId": "Carrot Seeds",
+    "buyFrom": 1,
+    "sellTo": 3,
+    "itemName": "Carrot Seeds",
+    "Buying_Price": 1776,
+    "Selling_Price": 4557,
+    "ratio": 0.6102699144173799,
+    "difference": 2781
+  },
+  {
+    "itemId": "Carrot Seeds",
+    "buyFrom": 1,
+    "sellTo": 5,
+    "itemName": "Carrot Seeds",
+    "Buying_Price": 1776,
+    "Selling_Price": 7101,
+    "ratio": 0.7498943810730883,
+    "difference": 5325
+  },
+  {
+    "itemId": "Wheat Seeds",
+    "buyFrom": 3,
+    "sellTo": 1,
+    "itemName": "Wheat Seeds",
+    "Buying_Price": 4557,
+    "Selling_Price": 1776,
+    "ratio": -1.5658783783783783,
+    "difference": -2781
+  },
+  {
+    "itemId": "Wheat Seeds",
+    "buyFrom": 3,
+    "sellTo": 5,
+    "itemName": "Wheat Seeds",
+    "Buying_Price": 4557,
+    "Selling_Price": 7101,
+    "ratio": 0.35825940008449514,
+    "difference": 2544
+  },
+  {
+    "itemId": "Cabbage Seeds",
+    "buyFrom": 5,
+    "sellTo": 1,
+    "itemName": "Cabbage Seeds",
+    "Buying_Price": 7101,
+    "Selling_Price": 1776,
+    "ratio": -2.998310810810811,
+    "difference": -5325
+  },
+  {
+    "itemId": "Cabbage Seeds",
+    "buyFrom": 5,
+    "sellTo": 3,
+    "itemName": "Cabbage Seeds",
+    "Buying_Price": 7101,
+    "Selling_Price": 4557,
+    "ratio": -0.5582620144832127,
+    "difference": -2544
+  },
+  {
+    "itemId": "Tame Spring Cottontail",
+    "buyFrom": 2,
+    "sellTo": 3,
+    "itemName": "Tame Spring Cottontail",
+    "Buying_Price": 2888888,
+    "Selling_Price": 15001,
+    "ratio": -191.57969468702086,
+    "difference": -2873887
+  },
+  {
+    "itemId": "Tame Spring Cottontail",
+    "buyFrom": 2,
+    "sellTo": 5,
+    "itemName": "Tame Spring Cottontail",
+    "Buying_Price": 2888888,
+    "Selling_Price": 32004,
+    "ratio": -89.26646669166354,
+    "difference": -2856884
+  },
+  {
+    "itemId": "\"Tame\" Caerleon Cottontail",
+    "buyFrom": 3,
+    "sellTo": 2,
+    "itemName": "\"Tame\" Caerleon Cottontail",
+    "Buying_Price": 15001,
+    "Selling_Price": 2888888,
+    "ratio": 0.994807344556106,
+    "difference": 2873887
+  },
+  {
+    "itemId": "\"Tame\" Caerleon Cottontail",
+    "buyFrom": 3,
+    "sellTo": 5,
+    "itemName": "\"Tame\" Caerleon Cottontail",
+    "Buying_Price": 15001,
+    "Selling_Price": 32004,
+    "ratio": 0.5312773403324584,
+    "difference": 17003
+  },
+  {
+    "itemId": "Winter Bear Cub",
+    "buyFrom": 5,
+    "sellTo": 2,
+    "itemName": "Winter Bear Cub",
+    "Buying_Price": 32004,
+    "Selling_Price": 2888888,
+    "ratio": 0.9889216888989812,
+    "difference": 2856884
+  },
+  {
+    "itemId": "Winter Bear Cub",
+    "buyFrom": 5,
+    "sellTo": 3,
+    "itemName": "Winter Bear Cub",
+    "Buying_Price": 32004,
+    "Selling_Price": 15001,
+    "ratio": -1.1334577694820345,
+    "difference": -17003
+  },
+  {
+    "itemId": "Thunderfall Lurcher",
+    "buyFrom": 1,
+    "sellTo": 2,
+    "itemName": "Thunderfall Lurcher",
+    "Buying_Price": 4424,
+    "Selling_Price": 1600,
+    "ratio": -1.765,
+    "difference": -2824
+  },
+  {
+    "itemId": "Thunderfall Lurcher",
+    "buyFrom": 1,
+    "sellTo": 3,
+    "itemName": "Thunderfall Lurcher",
+    "Buying_Price": 4424,
+    "Selling_Price": 3421,
+    "ratio": -0.29318912598655367,
+    "difference": -1003
+  },
+  {
+    "itemId": "Lowriver Crab",
+    "buyFrom": 2,
+    "sellTo": 1,
+    "itemName": "Lowriver Crab",
+    "Buying_Price": 1600,
+    "Selling_Price": 4424,
+    "ratio": 0.6383363471971067,
+    "difference": 2824
+  },
+  {
+    "itemId": "Lowriver Crab",
+    "buyFrom": 2,
+    "sellTo": 3,
+    "itemName": "Lowriver Crab",
+    "Buying_Price": 1600,
+    "Selling_Price": 3421,
+    "ratio": 0.532300496930722,
+    "difference": 1821
+  },
+  {
+    "itemId": "Drybrook Crab",
+    "buyFrom": 3,
+    "sellTo": 1,
+    "itemName": "Drybrook Crab",
+    "Buying_Price": 3421,
+    "Selling_Price": 4424,
+    "ratio": 0.22671790235081374,
+    "difference": 1003
+  },
+  {
+    "itemId": "Drybrook Crab",
+    "buyFrom": 3,
+    "sellTo": 2,
+    "itemName": "Drybrook Crab",
+    "Buying_Price": 3421,
+    "Selling_Price": 1600,
+    "ratio": -1.138125,
+    "difference": -1821
+  }
+]

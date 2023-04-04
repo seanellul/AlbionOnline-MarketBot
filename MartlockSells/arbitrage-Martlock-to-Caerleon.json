@@ -1,0 +1,5385 @@
+[
+  {
+    "itemId": "Expert's Hood of Tenacity",
+    "Buying_Price": 22999,
+    "ratio": 0.5819731724163001,
+    "Selling_Price": 55018,
+    "difference": 32019
+  },
+  {
+    "itemId": "Expert's Holy Staff",
+    "Buying_Price": 7993,
+    "ratio": 0.7716285714285714,
+    "Selling_Price": 35000,
+    "difference": 27007
+  },
+  {
+    "itemId": "Master's Spiked Gauntlets",
+    "Buying_Price": 52944,
+    "ratio": 0.2944092756713534,
+    "Selling_Price": 75035,
+    "difference": 22091
+  },
+  {
+    "itemId": "Elder's Possessed Scroll",
+    "Buying_Price": 20000,
+    "ratio": 0.3333333333333333,
+    "Selling_Price": 30000,
+    "difference": 10000
+  },
+  {
+    "itemId": "Adept's Claws",
+    "Buying_Price": 16989,
+    "ratio": 0.3349123081741309,
+    "Selling_Price": 25544,
+    "difference": 8555
+  },
+  {
+    "itemId": "Master's Holy Staff",
+    "Buying_Price": 21987,
+    "ratio": 0.2579480256496794,
+    "Selling_Price": 29630,
+    "difference": 7643
+  },
+  {
+    "itemId": "Pork Omelette",
+    "Buying_Price": 3167,
+    "ratio": 0.6834582708645677,
+    "Selling_Price": 10005,
+    "difference": 6838
+  },
+  {
+    "itemId": "Expert's Exalted Visor",
+    "Buying_Price": 16894,
+    "ratio": 0.2873534126381507,
+    "Selling_Price": 23706,
+    "difference": 6812
+  },
+  {
+    "itemId": "Adept's Mage Robe",
+    "Buying_Price": 8963,
+    "ratio": 0.42445257818018367,
+    "Selling_Price": 15573,
+    "difference": 6610
+  },
+  {
+    "itemId": "Elder's Ursine Guardian Remains",
+    "Buying_Price": 23498,
+    "ratio": 0.21688995534226488,
+    "Selling_Price": 30006,
+    "difference": 6508
+  },
+  {
+    "itemId": "Redspring Eel Stew",
+    "Buying_Price": 54993,
+    "ratio": 0.08369434817382032,
+    "Selling_Price": 60016,
+    "difference": 5023
+  },
+  {
+    "itemId": "Expert's Remnants of the Old King",
+    "Buying_Price": 13985,
+    "ratio": 0.26398610599442135,
+    "Selling_Price": 19001,
+    "difference": 5016
+  },
+  {
+    "itemId": "Expert's Eye of Secrets",
+    "Buying_Price": 4399,
+    "ratio": 0.5320212765957447,
+    "Selling_Price": 9400,
+    "difference": 5001
+  },
+  {
+    "itemId": "Master's Knight Boots",
+    "Buying_Price": 16377,
+    "ratio": 0.213022585295531,
+    "Selling_Price": 20810,
+    "difference": 4433
+  },
+  {
+    "itemId": "Adept's Scholar Robe",
+    "Buying_Price": 11000,
+    "ratio": 0.28394740268194246,
+    "Selling_Price": 15362,
+    "difference": 4362
+  },
+  {
+    "itemId": "Expert's Hellish Hammer Heads",
+    "Buying_Price": 1998,
+    "ratio": 0.6823529411764706,
+    "Selling_Price": 6290,
+    "difference": 4292
+  },
+  {
+    "itemId": "Master's Weeping Repeater",
+    "Buying_Price": 28997,
+    "ratio": 0.10783951756814965,
+    "Selling_Price": 32502,
+    "difference": 3505
+  },
+  {
+    "itemId": "Grandmaster's Mage Robe",
+    "Buying_Price": 44987,
+    "ratio": 0.06667911454119209,
+    "Selling_Price": 48201,
+    "difference": 3214
+  },
+  {
+    "itemId": "Expert's Hunter Jacket",
+    "Buying_Price": 5000,
+    "ratio": 0.3772574417735708,
+    "Selling_Price": 8029,
+    "difference": 3029
+  },
+  {
+    "itemId": "Sacrificial Dagger",
+    "Buying_Price": 22059,
+    "ratio": 0.11764,
+    "Selling_Price": 25000,
+    "difference": 2941
+  },
+  {
+    "itemId": "Master's Guardian Boots",
+    "Buying_Price": 18728,
+    "ratio": 0.13480550679109304,
+    "Selling_Price": 21646,
+    "difference": 2918
+  },
+  {
+    "itemId": "Grandmaster's Cleric Sandals",
+    "Buying_Price": 24118,
+    "ratio": 0.100276057599045,
+    "Selling_Price": 26806,
+    "difference": 2688
+  },
+  {
+    "itemId": "Master's Assassin Hood",
+    "Buying_Price": 13000,
+    "ratio": 0.14943732007327926,
+    "Selling_Price": 15284,
+    "difference": 2284
+  },
+  {
+    "itemId": "Expert's Warbow",
+    "Buying_Price": 3893,
+    "ratio": 0.36295205367370315,
+    "Selling_Price": 6111,
+    "difference": 2218
+  },
+  {
+    "itemId": "Expert's Satchel of Insight",
+    "Buying_Price": 20887,
+    "ratio": 0.09301315732337488,
+    "Selling_Price": 23029,
+    "difference": 2142
+  },
+  {
+    "itemId": "Expert's Battle Bracers",
+    "Buying_Price": 13991,
+    "ratio": 0.12572642629506967,
+    "Selling_Price": 16003,
+    "difference": 2012
+  },
+  {
+    "itemId": "Exceptional Lavish Cloth",
+    "Buying_Price": 47996,
+    "ratio": 0.04008,
+    "Selling_Price": 50000,
+    "difference": 2004
+  },
+  {
+    "itemId": "Master's Shield",
+    "Buying_Price": 5492,
+    "ratio": 0.2636095467953875,
+    "Selling_Price": 7458,
+    "difference": 1966
+  },
+  {
+    "itemId": "Baroque Cloth",
+    "Buying_Price": 21982,
+    "ratio": 0.08032800602460045,
+    "Selling_Price": 23902,
+    "difference": 1920
+  },
+  {
+    "itemId": "Stone Mask",
+    "Buying_Price": 1993,
+    "ratio": 0.48923628908252176,
+    "Selling_Price": 3902,
+    "difference": 1909
+  },
+  {
+    "itemId": "Expert's Cursed Jawbone",
+    "Buying_Price": 4433,
+    "ratio": 0.2879858657243816,
+    "Selling_Price": 6226,
+    "difference": 1793
+  },
+  {
+    "itemId": "Adept's Mercenary Shoes",
+    "Buying_Price": 6500,
+    "ratio": 0.2161119150988905,
+    "Selling_Price": 8292,
+    "difference": 1792
+  },
+  {
+    "itemId": "Master's Tome of Spells",
+    "Buying_Price": 8888,
+    "ratio": 0.1619047619047619,
+    "Selling_Price": 10605,
+    "difference": 1717
+  },
+  {
+    "itemId": "Expert's Wildfire Orb",
+    "Buying_Price": 676,
+    "ratio": 0.7153684210526315,
+    "Selling_Price": 2375,
+    "difference": 1699
+  },
+  {
+    "itemId": "Master's Druid Sandals",
+    "Buying_Price": 11988,
+    "ratio": 0.11917707567964732,
+    "Selling_Price": 13610,
+    "difference": 1622
+  },
+  {
+    "itemId": "Elder's Knight Boots",
+    "Buying_Price": 59995,
+    "ratio": 0.02607100534082239,
+    "Selling_Price": 61601,
+    "difference": 1606
+  },
+  {
+    "itemId": "Expert's Demonic Filling",
+    "Buying_Price": 4959,
+    "ratio": 0.2413951353832033,
+    "Selling_Price": 6537,
+    "difference": 1578
+  },
+  {
+    "itemId": "Expert's Assassin Jacket",
+    "Buying_Price": 6945,
+    "ratio": 0.18294117647058825,
+    "Selling_Price": 8500,
+    "difference": 1555
+  },
+  {
+    "itemId": "Expert's Guardian Armor",
+    "Buying_Price": 5529,
+    "ratio": 0.21451910782781644,
+    "Selling_Price": 7039,
+    "difference": 1510
+  },
+  {
+    "itemId": "Expert's Demonic Scraps",
+    "Buying_Price": 2497,
+    "ratio": 0.3766849725411882,
+    "Selling_Price": 4006,
+    "difference": 1509
+  },
+  {
+    "itemId": "Expert's Assassin Hood",
+    "Buying_Price": 1997,
+    "ratio": 0.42942857142857144,
+    "Selling_Price": 3500,
+    "difference": 1503
+  },
+  {
+    "itemId": "Elder's Ancient Hammer Head",
+    "Buying_Price": 20098,
+    "ratio": 0.06672858137915022,
+    "Selling_Price": 21535,
+    "difference": 1437
+  },
+  {
+    "itemId": "Deadwater Eel",
+    "Buying_Price": 119693,
+    "ratio": 0.01084252716829883,
+    "Selling_Price": 121005,
+    "difference": 1312
+  },
+  {
+    "itemId": "Master's Mage Robe",
+    "Buying_Price": 15558,
+    "ratio": 0.07700522069292834,
+    "Selling_Price": 16856,
+    "difference": 1298
+  },
+  {
+    "itemId": "Expert's Scholar Sandals",
+    "Buying_Price": 1699,
+    "ratio": 0.3975177304964539,
+    "Selling_Price": 2820,
+    "difference": 1121
+  },
+  {
+    "itemId": "Expert's Knight Armor",
+    "Buying_Price": 5725,
+    "ratio": 0.1601877658794191,
+    "Selling_Price": 6817,
+    "difference": 1092
+  },
+  {
+    "itemId": "Expert's Battle Bracers",
+    "Buying_Price": 29959,
+    "ratio": 0.034266004770807816,
+    "Selling_Price": 31022,
+    "difference": 1063
+  },
+  {
+    "itemId": "Pest Lizard",
+    "Buying_Price": 319000,
+    "ratio": 0.0031841859389598742,
+    "Selling_Price": 320019,
+    "difference": 1019
+  },
+  {
+    "itemId": "Expert's Soldier Helmet",
+    "Buying_Price": 2100,
+    "ratio": 0.31596091205211724,
+    "Selling_Price": 3070,
+    "difference": 970
+  },
+  {
+    "itemId": "Master's Soldier Boots",
+    "Buying_Price": 6953,
+    "ratio": 0.12242837309100088,
+    "Selling_Price": 7923,
+    "difference": 970
+  },
+  {
+    "itemId": "Master's Mercenary Hood",
+    "Buying_Price": 13864,
+    "ratio": 0.06501213919611545,
+    "Selling_Price": 14828,
+    "difference": 964
+  },
+  {
+    "itemId": "Expert's Cape",
+    "Buying_Price": 3870,
+    "ratio": 0.1935819962492186,
+    "Selling_Price": 4799,
+    "difference": 929
+  },
+  {
+    "itemId": "Blood Chalice",
+    "Buying_Price": 4075,
+    "ratio": 0.185,
+    "Selling_Price": 5000,
+    "difference": 925
+  },
+  {
+    "itemId": "Expert's Arcane Essence",
+    "Buying_Price": 4194,
+    "ratio": 0.17909571344685848,
+    "Selling_Price": 5109,
+    "difference": 915
+  },
+  {
+    "itemId": "Expert's Ancient Padding",
+    "Buying_Price": 757,
+    "ratio": 0.5434258142340169,
+    "Selling_Price": 1658,
+    "difference": 901
+  },
+  {
+    "itemId": "Expert's Mage Sandals",
+    "Buying_Price": 1985,
+    "ratio": 0.28416877028489,
+    "Selling_Price": 2773,
+    "difference": 788
+  },
+  {
+    "itemId": "Expert's Cleric Sandals",
+    "Buying_Price": 2088,
+    "ratio": 0.2737391304347826,
+    "Selling_Price": 2875,
+    "difference": 787
+  },
+  {
+    "itemId": "Grandmaster's Bag",
+    "Buying_Price": 183000,
+    "ratio": 0.004016588838454756,
+    "Selling_Price": 183738,
+    "difference": 738
+  },
+  {
+    "itemId": "Adept's Royal Sigil",
+    "Buying_Price": 5000,
+    "ratio": 0.1270949720670391,
+    "Selling_Price": 5728,
+    "difference": 728
+  },
+  {
+    "itemId": "Adept's Guardian Armor",
+    "Buying_Price": 840,
+    "ratio": 0.4601542416452442,
+    "Selling_Price": 1556,
+    "difference": 716
+  },
+  {
+    "itemId": "Expert's Mercenary Hood",
+    "Buying_Price": 3995,
+    "ratio": 0.151984716620675,
+    "Selling_Price": 4711,
+    "difference": 716
+  },
+  {
+    "itemId": "Expert's Ancient Hammer Head",
+    "Buying_Price": 149,
+    "ratio": 0.8267441860465117,
+    "Selling_Price": 860,
+    "difference": 711
+  },
+  {
+    "itemId": "Master's Occult Orb",
+    "Buying_Price": 9110,
+    "ratio": 0.06764916589908915,
+    "Selling_Price": 9771,
+    "difference": 661
+  },
+  {
+    "itemId": "Grandmaster's Guardian Boots",
+    "Buying_Price": 15359,
+    "ratio": 0.04024245453977379,
+    "Selling_Price": 16003,
+    "difference": 644
+  },
+  {
+    "itemId": "Expert's Ursine Guardian Remains",
+    "Buying_Price": 568,
+    "ratio": 0.5178268251273345,
+    "Selling_Price": 1178,
+    "difference": 610
+  },
+  {
+    "itemId": "Journeyman's Transport Ox",
+    "Buying_Price": 10000,
+    "ratio": 0.05651476554391924,
+    "Selling_Price": 10599,
+    "difference": 599
+  },
+  {
+    "itemId": "Master's Mercenary Jacket",
+    "Buying_Price": 29986,
+    "ratio": 0.01698137949121427,
+    "Selling_Price": 30504,
+    "difference": 518
+  },
+  {
+    "itemId": "Grandmaster's Soul",
+    "Buying_Price": 2081,
+    "ratio": 0.18583724569640062,
+    "Selling_Price": 2556,
+    "difference": 475
+  },
+  {
+    "itemId": "Adept's Assassin Jacket",
+    "Buying_Price": 980,
+    "ratio": 0.32085932085932084,
+    "Selling_Price": 1443,
+    "difference": 463
+  },
+  {
+    "itemId": "Master's Morgana Halberd Head",
+    "Buying_Price": 2000,
+    "ratio": 0.18032786885245902,
+    "Selling_Price": 2440,
+    "difference": 440
+  },
+  {
+    "itemId": "Adept's Ancient Padding",
+    "Buying_Price": 183,
+    "ratio": 0.7,
+    "Selling_Price": 610,
+    "difference": 427
+  },
+  {
+    "itemId": "Adept's Assassin Shoes",
+    "Buying_Price": 4999,
+    "ratio": 0.07614119386435039,
+    "Selling_Price": 5411,
+    "difference": 412
+  },
+  {
+    "itemId": "Master's Bloodforged Blade",
+    "Buying_Price": 2000,
+    "ratio": 0.1683991683991684,
+    "Selling_Price": 2405,
+    "difference": 405
+  },
+  {
+    "itemId": "Redspring Eel Stew",
+    "Buying_Price": 5698,
+    "ratio": 0.06298306199638218,
+    "Selling_Price": 6081,
+    "difference": 383
+  },
+  {
+    "itemId": "Expert's Possessed Scroll",
+    "Buying_Price": 624,
+    "ratio": 0.3772455089820359,
+    "Selling_Price": 1002,
+    "difference": 378
+  },
+  {
+    "itemId": "Expert's Burning Orb",
+    "Buying_Price": 2989,
+    "ratio": 0.1098868374032162,
+    "Selling_Price": 3358,
+    "difference": 369
+  },
+  {
+    "itemId": "Expert's Lost Cursed Crystal",
+    "Buying_Price": 512,
+    "ratio": 0.40877598152424943,
+    "Selling_Price": 866,
+    "difference": 354
+  },
+  {
+    "itemId": "Basic Fish Sauce",
+    "Buying_Price": 2590,
+    "ratio": 0.1178474114441417,
+    "Selling_Price": 2936,
+    "difference": 346
+  },
+  {
+    "itemId": "Expert's Lost Arcane Crystal",
+    "Buying_Price": 485,
+    "ratio": 0.4128329297820823,
+    "Selling_Price": 826,
+    "difference": 341
+  },
+  {
+    "itemId": "Adept's Knight Helmet",
+    "Buying_Price": 464,
+    "ratio": 0.42144638403990026,
+    "Selling_Price": 802,
+    "difference": 338
+  },
+  {
+    "itemId": "Ritual Candles",
+    "Buying_Price": 679,
+    "ratio": 0.321,
+    "Selling_Price": 1000,
+    "difference": 321
+  },
+  {
+    "itemId": "Grandmaster's Ancient Shield Core",
+    "Buying_Price": 7187,
+    "ratio": 0.042754395311667553,
+    "Selling_Price": 7508,
+    "difference": 321
+  },
+  {
+    "itemId": "Expert's Lost Crossbow Mechanism",
+    "Buying_Price": 500,
+    "ratio": 0.3834771886559803,
+    "Selling_Price": 811,
+    "difference": 311
+  },
+  {
+    "itemId": "Journeyman's Brawler Gloves",
+    "Buying_Price": 2700,
+    "ratio": 0.10299003322259136,
+    "Selling_Price": 3010,
+    "difference": 310
+  },
+  {
+    "itemId": "Uncommon Cured Leather",
+    "Buying_Price": 1430,
+    "ratio": 0.17626728110599077,
+    "Selling_Price": 1736,
+    "difference": 306
+  },
+  {
+    "itemId": "Grandmaster's Knight Armor",
+    "Buying_Price": 34995,
+    "ratio": 0.008668309679612475,
+    "Selling_Price": 35301,
+    "difference": 306
+  },
+  {
+    "itemId": "Expert's Hoarfrost Orb",
+    "Buying_Price": 536,
+    "ratio": 0.3619047619047619,
+    "Selling_Price": 840,
+    "difference": 304
+  },
+  {
+    "itemId": "Rare Fine Cloth",
+    "Buying_Price": 1249,
+    "ratio": 0.1952319587628866,
+    "Selling_Price": 1552,
+    "difference": 303
+  },
+  {
+    "itemId": "Grandmaster Fisherman's Journal (Full)",
+    "Buying_Price": 98700,
+    "ratio": 0.0030303030303030303,
+    "Selling_Price": 99000,
+    "difference": 300
+  },
+  {
+    "itemId": "Major Energy Potion",
+    "Buying_Price": 6136,
+    "ratio": 0.04139978128417435,
+    "Selling_Price": 6401,
+    "difference": 265
+  },
+  {
+    "itemId": "Novice's Bag",
+    "Buying_Price": 381,
+    "ratio": 0.4102167182662539,
+    "Selling_Price": 646,
+    "difference": 265
+  },
+  {
+    "itemId": "Expert's Demonhide Padding",
+    "Buying_Price": 2994,
+    "ratio": 0.08103130755064457,
+    "Selling_Price": 3258,
+    "difference": 264
+  },
+  {
+    "itemId": "Master's Symbol of Blight",
+    "Buying_Price": 9937,
+    "ratio": 0.025784313725490195,
+    "Selling_Price": 10200,
+    "difference": 263
+  },
+  {
+    "itemId": "Adept's Crystallized Spirit",
+    "Buying_Price": 2965,
+    "ratio": 0.08147459727385378,
+    "Selling_Price": 3228,
+    "difference": 263
+  },
+  {
+    "itemId": "Master's Severed Demonic Horns",
+    "Buying_Price": 7998,
+    "ratio": 0.02960446493569522,
+    "Selling_Price": 8242,
+    "difference": 244
+  },
+  {
+    "itemId": "Adept's Mercenary Jacket",
+    "Buying_Price": 3098,
+    "ratio": 0.0705070507050705,
+    "Selling_Price": 3333,
+    "difference": 235
+  },
+  {
+    "itemId": "Rare Ornate Cloth",
+    "Buying_Price": 3269,
+    "ratio": 0.06679988581216101,
+    "Selling_Price": 3503,
+    "difference": 234
+  },
+  {
+    "itemId": "Adept's Scholar Cowl",
+    "Buying_Price": 614,
+    "ratio": 0.26730310262529833,
+    "Selling_Price": 838,
+    "difference": 224
+  },
+  {
+    "itemId": "Expert's Morgana Halberd Head",
+    "Buying_Price": 668,
+    "ratio": 0.24943820224719102,
+    "Selling_Price": 890,
+    "difference": 222
+  },
+  {
+    "itemId": "Adept's Arcane Essence",
+    "Buying_Price": 569,
+    "ratio": 0.2806573957016435,
+    "Selling_Price": 791,
+    "difference": 222
+  },
+  {
+    "itemId": "Master's Soul",
+    "Buying_Price": 969,
+    "ratio": 0.18434343434343434,
+    "Selling_Price": 1188,
+    "difference": 219
+  },
+  {
+    "itemId": "Grandmaster's Rune",
+    "Buying_Price": 750,
+    "ratio": 0.21548117154811716,
+    "Selling_Price": 956,
+    "difference": 206
+  },
+  {
+    "itemId": "Expert's Imbued Soles",
+    "Buying_Price": 795,
+    "ratio": 0.205,
+    "Selling_Price": 1000,
+    "difference": 205
+  },
+  {
+    "itemId": "Expert's Severed Demonic Horns",
+    "Buying_Price": 3128,
+    "ratio": 0.05783132530120482,
+    "Selling_Price": 3320,
+    "difference": 192
+  },
+  {
+    "itemId": "Hardened Leather",
+    "Buying_Price": 3576,
+    "ratio": 0.05070347756835678,
+    "Selling_Price": 3767,
+    "difference": 191
+  },
+  {
+    "itemId": "Expert's Assassin Shoes",
+    "Buying_Price": 4975,
+    "ratio": 0.03529183633895676,
+    "Selling_Price": 5157,
+    "difference": 182
+  },
+  {
+    "itemId": "Expert's Icicle Orb",
+    "Buying_Price": 2596,
+    "ratio": 0.0628158844765343,
+    "Selling_Price": 2770,
+    "difference": 174
+  },
+  {
+    "itemId": "Cured Leather",
+    "Buying_Price": 950,
+    "ratio": 0.14645103324348607,
+    "Selling_Price": 1113,
+    "difference": 163
+  },
+  {
+    "itemId": "Avalonian Energy",
+    "Buying_Price": 3143,
+    "ratio": 0.048728813559322036,
+    "Selling_Price": 3304,
+    "difference": 161
+  },
+  {
+    "itemId": "Uncommon Ashenbark Logs",
+    "Buying_Price": 2497,
+    "ratio": 0.06021829130598419,
+    "Selling_Price": 2657,
+    "difference": 160
+  },
+  {
+    "itemId": "Expert Gamekeeper's Journal (Empty)",
+    "Buying_Price": 4344,
+    "ratio": 0.034666666666666665,
+    "Selling_Price": 4500,
+    "difference": 156
+  },
+  {
+    "itemId": "Master's Mage Sandals",
+    "Buying_Price": 7932,
+    "ratio": 0.017100371747211896,
+    "Selling_Price": 8070,
+    "difference": 138
+  },
+  {
+    "itemId": "Rare Worked Leather",
+    "Buying_Price": 1272,
+    "ratio": 0.09272467902995721,
+    "Selling_Price": 1402,
+    "difference": 130
+  },
+  {
+    "itemId": "Strongfin Salmon",
+    "Buying_Price": 1291,
+    "ratio": 0.09020436927413672,
+    "Selling_Price": 1419,
+    "difference": 128
+  },
+  {
+    "itemId": "Healing Potion",
+    "Buying_Price": 1888,
+    "ratio": 0.056,
+    "Selling_Price": 2000,
+    "difference": 112
+  },
+  {
+    "itemId": "Adept's Guardian Boots",
+    "Buying_Price": 491,
+    "ratio": 0.1857379767827529,
+    "Selling_Price": 603,
+    "difference": 112
+  },
+  {
+    "itemId": "Cedar Planks",
+    "Buying_Price": 500,
+    "ratio": 0.18166939443535188,
+    "Selling_Price": 611,
+    "difference": 111
+  },
+  {
+    "itemId": "Goat's Milk",
+    "Buying_Price": 270,
+    "ratio": 0.2894736842105263,
+    "Selling_Price": 380,
+    "difference": 110
+  },
+  {
+    "itemId": "Albion Perch",
+    "Buying_Price": 471,
+    "ratio": 0.18932874354561102,
+    "Selling_Price": 581,
+    "difference": 110
+  },
+  {
+    "itemId": "Master's Druidic Inscriptions",
+    "Buying_Price": 2497,
+    "ratio": 0.04219409282700422,
+    "Selling_Price": 2607,
+    "difference": 110
+  },
+  {
+    "itemId": "Uncommon Titanium Steel Bar",
+    "Buying_Price": 1193,
+    "ratio": 0.0837173579109063,
+    "Selling_Price": 1302,
+    "difference": 109
+  },
+  {
+    "itemId": "Opulent Cloth",
+    "Buying_Price": 7393,
+    "ratio": 0.014266666666666667,
+    "Selling_Price": 7500,
+    "difference": 107
+  },
+  {
+    "itemId": "Meteorite Steel Bar",
+    "Buying_Price": 5095,
+    "ratio": 0.020380696019996154,
+    "Selling_Price": 5201,
+    "difference": 106
+  },
+  {
+    "itemId": "Adept's Bag",
+    "Buying_Price": 4350,
+    "ratio": 0.022911051212938006,
+    "Selling_Price": 4452,
+    "difference": 102
+  },
+  {
+    "itemId": "Expert's Judicator Boots",
+    "Buying_Price": 18953,
+    "ratio": 0.005091863517060367,
+    "Selling_Price": 19050,
+    "difference": 97
+  },
+  {
+    "itemId": "Uncommon Fine Cloth",
+    "Buying_Price": 235,
+    "ratio": 0.2857142857142857,
+    "Selling_Price": 329,
+    "difference": 94
+  },
+  {
+    "itemId": "Novice's Tome of Spells",
+    "Buying_Price": 39,
+    "ratio": 0.706766917293233,
+    "Selling_Price": 133,
+    "difference": 94
+  },
+  {
+    "itemId": "Uncommon Steel Bar",
+    "Buying_Price": 184,
+    "ratio": 0.326007326007326,
+    "Selling_Price": 273,
+    "difference": 89
+  },
+  {
+    "itemId": "Lavish Cloth",
+    "Buying_Price": 2090,
+    "ratio": 0.03952205882352941,
+    "Selling_Price": 2176,
+    "difference": 86
+  },
+  {
+    "itemId": "Ornate Cloth",
+    "Buying_Price": 580,
+    "ratio": 0.12518853695324283,
+    "Selling_Price": 663,
+    "difference": 83
+  },
+  {
+    "itemId": "Expert's Ghastly Scroll",
+    "Buying_Price": 10000,
+    "ratio": 0.007148530579825258,
+    "Selling_Price": 10072,
+    "difference": 72
+  },
+  {
+    "itemId": "Master's Rune",
+    "Buying_Price": 185,
+    "ratio": 0.27734375,
+    "Selling_Price": 256,
+    "difference": 71
+  },
+  {
+    "itemId": "Expert's Soldier Boots",
+    "Buying_Price": 2177,
+    "ratio": 0.030721282279608193,
+    "Selling_Price": 2246,
+    "difference": 69
+  },
+  {
+    "itemId": "Expert's Soul",
+    "Buying_Price": 265,
+    "ratio": 0.2042042042042042,
+    "Selling_Price": 333,
+    "difference": 68
+  },
+  {
+    "itemId": "Uncommon Pine Planks",
+    "Buying_Price": 216,
+    "ratio": 0.23674911660777384,
+    "Selling_Price": 283,
+    "difference": 67
+  },
+  {
+    "itemId": "Runite Steel Bar",
+    "Buying_Price": 2066,
+    "ratio": 0.03050211168465509,
+    "Selling_Price": 2131,
+    "difference": 65
+  },
+  {
+    "itemId": "Master's Knight Boots",
+    "Buying_Price": 7867,
+    "ratio": 0.008194654563792234,
+    "Selling_Price": 7932,
+    "difference": 65
+  },
+  {
+    "itemId": "Worked Leather",
+    "Buying_Price": 138,
+    "ratio": 0.31683168316831684,
+    "Selling_Price": 202,
+    "difference": 64
+  },
+  {
+    "itemId": "Adept's Mage Cowl",
+    "Buying_Price": 658,
+    "ratio": 0.08737864077669903,
+    "Selling_Price": 721,
+    "difference": 63
+  },
+  {
+    "itemId": "Expert's Battleaxe",
+    "Buying_Price": 11000,
+    "ratio": 0.0048851094626379595,
+    "Selling_Price": 11054,
+    "difference": 54
+  },
+  {
+    "itemId": "Thick Leather",
+    "Buying_Price": 110,
+    "ratio": 0.3167701863354037,
+    "Selling_Price": 161,
+    "difference": 51
+  },
+  {
+    "itemId": "Brightscale Zander",
+    "Buying_Price": 1308,
+    "ratio": 0.036818851251840944,
+    "Selling_Price": 1358,
+    "difference": 50
+  },
+  {
+    "itemId": "Pumpkin",
+    "Buying_Price": 368,
+    "ratio": 0.11538461538461539,
+    "Selling_Price": 416,
+    "difference": 48
+  },
+  {
+    "itemId": "Adept's Cape",
+    "Buying_Price": 882,
+    "ratio": 0.046486486486486484,
+    "Selling_Price": 925,
+    "difference": 43
+  },
+  {
+    "itemId": "Spotted Trout",
+    "Buying_Price": 942,
+    "ratio": 0.04073319755600815,
+    "Selling_Price": 982,
+    "difference": 40
+  },
+  {
+    "itemId": "Hen Eggs",
+    "Buying_Price": 16,
+    "ratio": 0.6981132075471698,
+    "Selling_Price": 53,
+    "difference": 37
+  },
+  {
+    "itemId": "Fine Cloth",
+    "Buying_Price": 135,
+    "ratio": 0.19642857142857142,
+    "Selling_Price": 168,
+    "difference": 33
+  },
+  {
+    "itemId": "Bundle of Corn",
+    "Buying_Price": 368,
+    "ratio": 0.08,
+    "Selling_Price": 400,
+    "difference": 32
+  },
+  {
+    "itemId": "Master's Bow",
+    "Buying_Price": 19990,
+    "ratio": 0.0014486238073829862,
+    "Selling_Price": 20019,
+    "difference": 29
+  },
+  {
+    "itemId": "Pine Planks",
+    "Buying_Price": 141,
+    "ratio": 0.16568047337278108,
+    "Selling_Price": 169,
+    "difference": 28
+  },
+  {
+    "itemId": "Steel Bar",
+    "Buying_Price": 114,
+    "ratio": 0.19718309859154928,
+    "Selling_Price": 142,
+    "difference": 28
+  },
+  {
+    "itemId": "Bronze Bar",
+    "Buying_Price": 87,
+    "ratio": 0.21621621621621623,
+    "Selling_Price": 111,
+    "difference": 24
+  },
+  {
+    "itemId": "Adept's Avalonian Shard",
+    "Buying_Price": 764,
+    "ratio": 0.027989821882951654,
+    "Selling_Price": 786,
+    "difference": 22
+  },
+  {
+    "itemId": "Sheep's Milk",
+    "Buying_Price": 288,
+    "ratio": 0.06796116504854369,
+    "Selling_Price": 309,
+    "difference": 21
+  },
+  {
+    "itemId": "Adept's Hunter Jacket",
+    "Buying_Price": 11987,
+    "ratio": 0.001333000083312505,
+    "Selling_Price": 12003,
+    "difference": 16
+  },
+  {
+    "itemId": "Carrots",
+    "Buying_Price": 370,
+    "ratio": 0.036458333333333336,
+    "Selling_Price": 384,
+    "difference": 14
+  },
+  {
+    "itemId": "Uncommon Opulent Cloth",
+    "Buying_Price": 17998,
+    "ratio": 0.0006108057082569826,
+    "Selling_Price": 18009,
+    "difference": 11
+  },
+  {
+    "itemId": "Chopped Fish",
+    "Buying_Price": 176,
+    "ratio": 0.053763440860215055,
+    "Selling_Price": 186,
+    "difference": 10
+  },
+  {
+    "itemId": "Adept's Graveguard Helmet",
+    "Buying_Price": 1840,
+    "ratio": 0.005405405405405406,
+    "Selling_Price": 1850,
+    "difference": 10
+  },
+  {
+    "itemId": "Birch Logs",
+    "Buying_Price": 20,
+    "ratio": 0.3103448275862069,
+    "Selling_Price": 29,
+    "difference": 9
+  },
+  {
+    "itemId": "Expert's Rune",
+    "Buying_Price": 48,
+    "ratio": 0.12727272727272726,
+    "Selling_Price": 55,
+    "difference": 7
+  },
+  {
+    "itemId": "Rare Opulent Cloth",
+    "Buying_Price": 44998,
+    "ratio": 0.00008888493844718013,
+    "Selling_Price": 45002,
+    "difference": 4
+  },
+  {
+    "itemId": "Trash",
+    "Buying_Price": 6,
+    "ratio": 0.4,
+    "Selling_Price": 10,
+    "difference": 4
+  },
+  {
+    "itemId": "Simple Cloth",
+    "Buying_Price": 19,
+    "ratio": 0.09523809523809523,
+    "Selling_Price": 21,
+    "difference": 2
+  },
+  {
+    "itemId": "Birch Planks",
+    "Buying_Price": 14,
+    "ratio": 0.06666666666666667,
+    "Selling_Price": 15,
+    "difference": 1
+  },
+  {
+    "itemId": "Adept's Rune",
+    "Buying_Price": 14,
+    "ratio": 0.06666666666666667,
+    "Selling_Price": 15,
+    "difference": 1
+  },
+  {
+    "itemId": "Expert's Infernal Cloth Folds",
+    "Buying_Price": 8100,
+    "ratio": 0,
+    "Selling_Price": 8100,
+    "difference": 0
+  },
+  {
+    "itemId": "Carrot Seeds",
+    "Buying_Price": 1880,
+    "ratio": -0.0005321979776476849,
+    "Selling_Price": 1879,
+    "difference": -1
+  },
+  {
+    "itemId": "Adventurer's Handbook",
+    "Buying_Price": 8,
+    "ratio": -3,
+    "Selling_Price": 2,
+    "difference": -6
+  },
+  {
+    "itemId": "Hemp",
+    "Buying_Price": 41,
+    "ratio": -0.20588235294117646,
+    "Selling_Price": 34,
+    "difference": -7
+  },
+  {
+    "itemId": "Adept's Soul",
+    "Buying_Price": 162,
+    "ratio": -0.06578947368421052,
+    "Selling_Price": 152,
+    "difference": -10
+  },
+  {
+    "itemId": "Goose Eggs",
+    "Buying_Price": 393,
+    "ratio": -0.031496062992125984,
+    "Selling_Price": 381,
+    "difference": -12
+  },
+  {
+    "itemId": "Rough Logs",
+    "Buying_Price": 19,
+    "ratio": -2.1666666666666665,
+    "Selling_Price": 6,
+    "difference": -13
+  },
+  {
+    "itemId": "Tome of Knowledge",
+    "Buying_Price": 16,
+    "ratio": -15,
+    "Selling_Price": 1,
+    "difference": -15
+  },
+  {
+    "itemId": "Uncommon Pine Logs",
+    "Buying_Price": 87,
+    "ratio": -0.22535211267605634,
+    "Selling_Price": 71,
+    "difference": -16
+  },
+  {
+    "itemId": "Travertine",
+    "Buying_Price": 43,
+    "ratio": -0.5925925925925926,
+    "Selling_Price": 27,
+    "difference": -16
+  },
+  {
+    "itemId": "Expert's Reinforced Morgana Pole",
+    "Buying_Price": 422,
+    "ratio": -0.03940886699507389,
+    "Selling_Price": 406,
+    "difference": -16
+  },
+  {
+    "itemId": "Uncommon Hemp",
+    "Buying_Price": 105,
+    "ratio": -0.19318181818181818,
+    "Selling_Price": 88,
+    "difference": -17
+  },
+  {
+    "itemId": "Neat Cloth",
+    "Buying_Price": 119,
+    "ratio": -0.19,
+    "Selling_Price": 100,
+    "difference": -19
+  },
+  {
+    "itemId": "Common Herring",
+    "Buying_Price": 169,
+    "ratio": -0.1342281879194631,
+    "Selling_Price": 149,
+    "difference": -20
+  },
+  {
+    "itemId": "Earthworm",
+    "Buying_Price": 177,
+    "ratio": -0.12738853503184713,
+    "Selling_Price": 157,
+    "difference": -20
+  },
+  {
+    "itemId": "Expert's Demonic Arrowheads",
+    "Buying_Price": 2700,
+    "ratio": -0.007462686567164179,
+    "Selling_Price": 2680,
+    "difference": -20
+  },
+  {
+    "itemId": "Uncommon Worked Leather",
+    "Buying_Price": 352,
+    "ratio": -0.0634441087613293,
+    "Selling_Price": 331,
+    "difference": -21
+  },
+  {
+    "itemId": "Arcane Agaric",
+    "Buying_Price": 389,
+    "ratio": -0.05994550408719346,
+    "Selling_Price": 367,
+    "difference": -22
+  },
+  {
+    "itemId": "Medium Hide",
+    "Buying_Price": 57,
+    "ratio": -0.78125,
+    "Selling_Price": 32,
+    "difference": -25
+  },
+  {
+    "itemId": "Elusive Foxglove",
+    "Buying_Price": 489,
+    "ratio": -0.06304347826086956,
+    "Selling_Price": 460,
+    "difference": -29
+  },
+  {
+    "itemId": "Sandstone",
+    "Buying_Price": 31,
+    "ratio": -30,
+    "Selling_Price": 1,
+    "difference": -30
+  },
+  {
+    "itemId": "Master's Druidic Bindings",
+    "Buying_Price": 2495,
+    "ratio": -0.012581168831168832,
+    "Selling_Price": 2464,
+    "difference": -31
+  },
+  {
+    "itemId": "Limestone Block",
+    "Buying_Price": 33,
+    "ratio": -32,
+    "Selling_Price": 1,
+    "difference": -32
+  },
+  {
+    "itemId": "Titanium Ore",
+    "Buying_Price": 184,
+    "ratio": -0.2185430463576159,
+    "Selling_Price": 151,
+    "difference": -33
+  },
+  {
+    "itemId": "Limestone",
+    "Buying_Price": 36,
+    "ratio": -35,
+    "Selling_Price": 1,
+    "difference": -35
+  },
+  {
+    "itemId": "Uncommon Amberleaf Cotton",
+    "Buying_Price": 972,
+    "ratio": -0.04403866809881848,
+    "Selling_Price": 931,
+    "difference": -41
+  },
+  {
+    "itemId": "Uncommon Medium Hide",
+    "Buying_Price": 214,
+    "ratio": -0.2441860465116279,
+    "Selling_Price": 172,
+    "difference": -42
+  },
+  {
+    "itemId": "Potatoes",
+    "Buying_Price": 400,
+    "ratio": -0.12044817927170869,
+    "Selling_Price": 357,
+    "difference": -43
+  },
+  {
+    "itemId": "Crenellated Burdock",
+    "Buying_Price": 462,
+    "ratio": -0.10526315789473684,
+    "Selling_Price": 418,
+    "difference": -44
+  },
+  {
+    "itemId": "Pumpkin Moonshine",
+    "Buying_Price": 361,
+    "ratio": -0.14240506329113925,
+    "Selling_Price": 316,
+    "difference": -45
+  },
+  {
+    "itemId": "Heavy Hide",
+    "Buying_Price": 405,
+    "ratio": -0.125,
+    "Selling_Price": 360,
+    "difference": -45
+  },
+  {
+    "itemId": "Novice's Skinning Knife",
+    "Buying_Price": 99,
+    "ratio": -0.98,
+    "Selling_Price": 50,
+    "difference": -49
+  },
+  {
+    "itemId": "Firetouched Mullein",
+    "Buying_Price": 528,
+    "ratio": -0.1069182389937107,
+    "Selling_Price": 477,
+    "difference": -51
+  },
+  {
+    "itemId": "Adept Imbuer's Journal (Full)",
+    "Buying_Price": 2589,
+    "ratio": -0.022511848341232227,
+    "Selling_Price": 2532,
+    "difference": -57
+  },
+  {
+    "itemId": "Ghoul Yarrow",
+    "Buying_Price": 463,
+    "ratio": -0.1517412935323383,
+    "Selling_Price": 402,
+    "difference": -61
+  },
+  {
+    "itemId": "Adept's Relic",
+    "Buying_Price": 660,
+    "ratio": -0.10738255033557047,
+    "Selling_Price": 596,
+    "difference": -64
+  },
+  {
+    "itemId": "Uncommon Bloodoak Logs",
+    "Buying_Price": 958,
+    "ratio": -0.07519640852974187,
+    "Selling_Price": 891,
+    "difference": -67
+  },
+  {
+    "itemId": "Master's Ancient Shield Core",
+    "Buying_Price": 2488,
+    "ratio": -0.027674514663362248,
+    "Selling_Price": 2421,
+    "difference": -67
+  },
+  {
+    "itemId": "Master's Possessed Scroll",
+    "Buying_Price": 2295,
+    "ratio": -0.03285328532853286,
+    "Selling_Price": 2222,
+    "difference": -73
+  },
+  {
+    "itemId": "Expert's Mercenary Jacket",
+    "Buying_Price": 51000,
+    "ratio": -0.0015317544479792624,
+    "Selling_Price": 50922,
+    "difference": -78
+  },
+  {
+    "itemId": "Expert's Avalonian Shard",
+    "Buying_Price": 874,
+    "ratio": -0.10773130544993663,
+    "Selling_Price": 789,
+    "difference": -85
+  },
+  {
+    "itemId": "Grilled Fish",
+    "Buying_Price": 190,
+    "ratio": -0.9,
+    "Selling_Price": 100,
+    "difference": -90
+  },
+  {
+    "itemId": "Raw Beef",
+    "Buying_Price": 369,
+    "ratio": -0.3273381294964029,
+    "Selling_Price": 278,
+    "difference": -91
+  },
+  {
+    "itemId": "Adept's Assassin Shoes",
+    "Buying_Price": 784,
+    "ratio": -0.13131313131313133,
+    "Selling_Price": 693,
+    "difference": -91
+  },
+  {
+    "itemId": "Raw Pork",
+    "Buying_Price": 367,
+    "ratio": -0.33454545454545453,
+    "Selling_Price": 275,
+    "difference": -92
+  },
+  {
+    "itemId": "Chicken Omelette",
+    "Buying_Price": 390,
+    "ratio": -0.31756756756756754,
+    "Selling_Price": 296,
+    "difference": -94
+  },
+  {
+    "itemId": "Meteorite Ore",
+    "Buying_Price": 976,
+    "ratio": -0.1141552511415525,
+    "Selling_Price": 876,
+    "difference": -100
+  },
+  {
+    "itemId": "Exceptional Hemp",
+    "Buying_Price": 3997,
+    "ratio": -0.025660764690787787,
+    "Selling_Price": 3897,
+    "difference": -100
+  },
+  {
+    "itemId": "Adept's Bag",
+    "Buying_Price": 2138,
+    "ratio": -0.04906771344455348,
+    "Selling_Price": 2038,
+    "difference": -100
+  },
+  {
+    "itemId": "Journeyman Imbuer's Journal (Full)",
+    "Buying_Price": 1988,
+    "ratio": -0.05296610169491525,
+    "Selling_Price": 1888,
+    "difference": -100
+  },
+  {
+    "itemId": "Rare Pine Logs",
+    "Buying_Price": 307,
+    "ratio": -0.5123152709359606,
+    "Selling_Price": 203,
+    "difference": -104
+  },
+  {
+    "itemId": "Dragon Teasel",
+    "Buying_Price": 471,
+    "ratio": -0.29395604395604397,
+    "Selling_Price": 364,
+    "difference": -107
+  },
+  {
+    "itemId": "Journeyman's Fishing Rod",
+    "Buying_Price": 234,
+    "ratio": -0.9338842975206612,
+    "Selling_Price": 121,
+    "difference": -113
+  },
+  {
+    "itemId": "Amberleaf Cotton",
+    "Buying_Price": 600,
+    "ratio": -0.23711340206185566,
+    "Selling_Price": 485,
+    "difference": -115
+  },
+  {
+    "itemId": "Expert's Demonhide Bindings",
+    "Buying_Price": 2846,
+    "ratio": -0.04287284719677537,
+    "Selling_Price": 2729,
+    "difference": -117
+  },
+  {
+    "itemId": "Raw Goat",
+    "Buying_Price": 365,
+    "ratio": -0.5020576131687243,
+    "Selling_Price": 243,
+    "difference": -122
+  },
+  {
+    "itemId": "Expert's Infernal Shield Core",
+    "Buying_Price": 3396,
+    "ratio": -0.03853211009174312,
+    "Selling_Price": 3270,
+    "difference": -126
+  },
+  {
+    "itemId": "Master's Icicle Orb",
+    "Buying_Price": 9592,
+    "ratio": -0.014167900190315077,
+    "Selling_Price": 9458,
+    "difference": -134
+  },
+  {
+    "itemId": "Uncommon Heavy Hide",
+    "Buying_Price": 619,
+    "ratio": -0.27892561983471076,
+    "Selling_Price": 484,
+    "difference": -135
+  },
+  {
+    "itemId": "Expert's Ghastly Arrows",
+    "Buying_Price": 655,
+    "ratio": -0.2644787644787645,
+    "Selling_Price": 518,
+    "difference": -137
+  },
+  {
+    "itemId": "Avalonian Beef Stew",
+    "Buying_Price": 40150,
+    "ratio": -0.003524207053412982,
+    "Selling_Price": 40009,
+    "difference": -141
+  },
+  {
+    "itemId": "Bloodoak Logs",
+    "Buying_Price": 611,
+    "ratio": -0.3083511777301927,
+    "Selling_Price": 467,
+    "difference": -144
+  },
+  {
+    "itemId": "Rare Hemp",
+    "Buying_Price": 718,
+    "ratio": -0.2596491228070175,
+    "Selling_Price": 570,
+    "difference": -148
+  },
+  {
+    "itemId": "Minor Poison Potion",
+    "Buying_Price": 877,
+    "ratio": -0.21636615811373092,
+    "Selling_Price": 721,
+    "difference": -156
+  },
+  {
+    "itemId": "Silver Cup",
+    "Buying_Price": 958,
+    "ratio": -0.1975,
+    "Selling_Price": 800,
+    "difference": -158
+  },
+  {
+    "itemId": "Master's Ancient Hammer Head",
+    "Buying_Price": 2396,
+    "ratio": -0.07059874888293119,
+    "Selling_Price": 2238,
+    "difference": -158
+  },
+  {
+    "itemId": "Uncommon Cedar Logs",
+    "Buying_Price": 350,
+    "ratio": -0.9021739130434783,
+    "Selling_Price": 184,
+    "difference": -166
+  },
+  {
+    "itemId": "Expert's Broken Demonic Fang",
+    "Buying_Price": 2890,
+    "ratio": -0.06171932402645114,
+    "Selling_Price": 2722,
+    "difference": -168
+  },
+  {
+    "itemId": "Uncommon Ornate Cloth",
+    "Buying_Price": 1287,
+    "ratio": -0.15529622980251345,
+    "Selling_Price": 1114,
+    "difference": -173
+  },
+  {
+    "itemId": "Thick Hide",
+    "Buying_Price": 2877,
+    "ratio": -0.06476683937823834,
+    "Selling_Price": 2702,
+    "difference": -175
+  },
+  {
+    "itemId": "Goat Stew",
+    "Buying_Price": 490,
+    "ratio": -0.6171617161716172,
+    "Selling_Price": 303,
+    "difference": -187
+  },
+  {
+    "itemId": "Adept Blacksmith's Journal (Full)",
+    "Buying_Price": 2190,
+    "ratio": -0.0944527736131934,
+    "Selling_Price": 2001,
+    "difference": -189
+  },
+  {
+    "itemId": "Exceptional Fine Cloth",
+    "Buying_Price": 5998,
+    "ratio": -0.033425223983459686,
+    "Selling_Price": 5804,
+    "difference": -194
+  },
+  {
+    "itemId": "Runite Ore",
+    "Buying_Price": 642,
+    "ratio": -0.436241610738255,
+    "Selling_Price": 447,
+    "difference": -195
+  },
+  {
+    "itemId": "Rare Medium Hide",
+    "Buying_Price": 947,
+    "ratio": -0.25930851063829785,
+    "Selling_Price": 752,
+    "difference": -195
+  },
+  {
+    "itemId": "Sunflax",
+    "Buying_Price": 1546,
+    "ratio": -0.1451851851851852,
+    "Selling_Price": 1350,
+    "difference": -196
+  },
+  {
+    "itemId": "Rare Steel Bar",
+    "Buying_Price": 1058,
+    "ratio": -0.22880371660859466,
+    "Selling_Price": 861,
+    "difference": -197
+  },
+  {
+    "itemId": "Expert's Infernal Harpoon Tip",
+    "Buying_Price": 3963,
+    "ratio": -0.05398936170212766,
+    "Selling_Price": 3760,
+    "difference": -203
+  },
+  {
+    "itemId": "Expert's Relic",
+    "Buying_Price": 1154,
+    "ratio": -0.2160168598524763,
+    "Selling_Price": 949,
+    "difference": -205
+  },
+  {
+    "itemId": "Simple Stone Toy",
+    "Buying_Price": 876,
+    "ratio": -0.3074626865671642,
+    "Selling_Price": 670,
+    "difference": -206
+  },
+  {
+    "itemId": "Rare Cured Leather",
+    "Buying_Price": 5232,
+    "ratio": -0.041401273885350316,
+    "Selling_Price": 5024,
+    "difference": -208
+  },
+  {
+    "itemId": "Feather Talisman",
+    "Buying_Price": 920,
+    "ratio": -0.32756132756132755,
+    "Selling_Price": 693,
+    "difference": -227
+  },
+  {
+    "itemId": "Master's Relic",
+    "Buying_Price": 2621,
+    "ratio": -0.1007979840403192,
+    "Selling_Price": 2381,
+    "difference": -240
+  },
+  {
+    "itemId": "Master's Guardian Boots",
+    "Buying_Price": 7883,
+    "ratio": -0.0316712472189504,
+    "Selling_Price": 7641,
+    "difference": -242
+  },
+  {
+    "itemId": "Master's Keeper Spearhead",
+    "Buying_Price": 2467,
+    "ratio": -0.11026102610261027,
+    "Selling_Price": 2222,
+    "difference": -245
+  },
+  {
+    "itemId": "Adept's Guardian Boots",
+    "Buying_Price": 1334,
+    "ratio": -0.23977695167286245,
+    "Selling_Price": 1076,
+    "difference": -258
+  },
+  {
+    "itemId": "Expert's Hellish Bolts",
+    "Buying_Price": 6285,
+    "ratio": -0.04401993355481727,
+    "Selling_Price": 6020,
+    "difference": -265
+  },
+  {
+    "itemId": "Master's Hellish Bolts",
+    "Buying_Price": 9973,
+    "ratio": -0.027297074577667904,
+    "Selling_Price": 9708,
+    "difference": -265
+  },
+  {
+    "itemId": "Uncommon Runite Ore",
+    "Buying_Price": 1650,
+    "ratio": -0.2,
+    "Selling_Price": 1375,
+    "difference": -275
+  },
+  {
+    "itemId": "Ornamental Scepter",
+    "Buying_Price": 881,
+    "ratio": -0.46102819237147596,
+    "Selling_Price": 603,
+    "difference": -278
+  },
+  {
+    "itemId": "Minor Gigantify Potion",
+    "Buying_Price": 481,
+    "ratio": -1.405,
+    "Selling_Price": 200,
+    "difference": -281
+  },
+  {
+    "itemId": "Master's Reinforced Morgana Pole",
+    "Buying_Price": 2453,
+    "ratio": -0.13145756457564575,
+    "Selling_Price": 2168,
+    "difference": -285
+  },
+  {
+    "itemId": "Master Blacksmith's Journal (Full)",
+    "Buying_Price": 15000,
+    "ratio": -0.02013057671381937,
+    "Selling_Price": 14704,
+    "difference": -296
+  },
+  {
+    "itemId": "Adept Lumberjack's Journal (Full)",
+    "Buying_Price": 2598,
+    "ratio": -0.12956521739130436,
+    "Selling_Price": 2300,
+    "difference": -298
+  },
+  {
+    "itemId": "Adept's Demon Crest",
+    "Buying_Price": 491,
+    "ratio": -1.5572916666666667,
+    "Selling_Price": 192,
+    "difference": -299
+  },
+  {
+    "itemId": "Adept's Brawler Gloves",
+    "Buying_Price": 2879,
+    "ratio": -0.11632415664986429,
+    "Selling_Price": 2579,
+    "difference": -300
+  },
+  {
+    "itemId": "Bloodoak Planks",
+    "Buying_Price": 2077,
+    "ratio": -0.17080045095828636,
+    "Selling_Price": 1774,
+    "difference": -303
+  },
+  {
+    "itemId": "Master's Avalonian Shard",
+    "Buying_Price": 2103,
+    "ratio": -0.16833333333333333,
+    "Selling_Price": 1800,
+    "difference": -303
+  },
+  {
+    "itemId": "Expert's Mage Cowl",
+    "Buying_Price": 2888,
+    "ratio": -0.12461059190031153,
+    "Selling_Price": 2568,
+    "difference": -320
+  },
+  {
+    "itemId": "Master's Infernal Cloth Bindings",
+    "Buying_Price": 9000,
+    "ratio": -0.03842159916926272,
+    "Selling_Price": 8667,
+    "difference": -333
+  },
+  {
+    "itemId": "Robust Hide",
+    "Buying_Price": 1303,
+    "ratio": -0.3530633437175493,
+    "Selling_Price": 963,
+    "difference": -340
+  },
+  {
+    "itemId": "Expert's Scholar Cowl",
+    "Buying_Price": 5890,
+    "ratio": -0.06183522624842257,
+    "Selling_Price": 5547,
+    "difference": -343
+  },
+  {
+    "itemId": "Adept's Claws",
+    "Buying_Price": 2850,
+    "ratio": -0.13681691264459514,
+    "Selling_Price": 2507,
+    "difference": -343
+  },
+  {
+    "itemId": "Master's Soldier Helmet",
+    "Buying_Price": 17998,
+    "ratio": -0.019601178336732382,
+    "Selling_Price": 17652,
+    "difference": -346
+  },
+  {
+    "itemId": "Adept's Possessed Scroll",
+    "Buying_Price": 599,
+    "ratio": -1.396,
+    "Selling_Price": 250,
+    "difference": -349
+  },
+  {
+    "itemId": "Uncommon Runite Steel Bar",
+    "Buying_Price": 5396,
+    "ratio": -0.07468631746664012,
+    "Selling_Price": 5021,
+    "difference": -375
+  },
+  {
+    "itemId": "Adept's Sickle",
+    "Buying_Price": 1393,
+    "ratio": -0.3724137931034483,
+    "Selling_Price": 1015,
+    "difference": -378
+  },
+  {
+    "itemId": "Grandmaster's Knight Boots",
+    "Buying_Price": 16995,
+    "ratio": -0.02299404081141275,
+    "Selling_Price": 16613,
+    "difference": -382
+  },
+  {
+    "itemId": "Slate Block",
+    "Buying_Price": 1385,
+    "ratio": -0.385,
+    "Selling_Price": 1000,
+    "difference": -385
+  },
+  {
+    "itemId": "Journeyman's Frost Staff",
+    "Buying_Price": 1392,
+    "ratio": -0.38783649052841473,
+    "Selling_Price": 1003,
+    "difference": -389
+  },
+  {
+    "itemId": "River Sturgeon",
+    "Buying_Price": 3600,
+    "ratio": -0.12149532710280374,
+    "Selling_Price": 3210,
+    "difference": -390
+  },
+  {
+    "itemId": "Master's Mage Cowl",
+    "Buying_Price": 15555,
+    "ratio": -0.0257847533632287,
+    "Selling_Price": 15164,
+    "difference": -391
+  },
+  {
+    "itemId": "Rare Skyflower",
+    "Buying_Price": 1067,
+    "ratio": -0.6045112781954888,
+    "Selling_Price": 665,
+    "difference": -402
+  },
+  {
+    "itemId": "Elder's Rune",
+    "Buying_Price": 2427,
+    "ratio": -0.2026759167492567,
+    "Selling_Price": 2018,
+    "difference": -409
+  },
+  {
+    "itemId": "Rare Granite",
+    "Buying_Price": 412,
+    "ratio": -411,
+    "Selling_Price": 1,
+    "difference": -411
+  },
+  {
+    "itemId": "Fancy Fish Bait",
+    "Buying_Price": 1185,
+    "ratio": -0.5778961384820239,
+    "Selling_Price": 751,
+    "difference": -434
+  },
+  {
+    "itemId": "Minor Poison Potion",
+    "Buying_Price": 1781,
+    "ratio": -0.327123695976155,
+    "Selling_Price": 1342,
+    "difference": -439
+  },
+  {
+    "itemId": "Master's Imbued Soles",
+    "Buying_Price": 2792,
+    "ratio": -0.1967423917702529,
+    "Selling_Price": 2333,
+    "difference": -459
+  },
+  {
+    "itemId": "Novice Imbuer's Journal (Empty)",
+    "Buying_Price": 487,
+    "ratio": -20.17391304347826,
+    "Selling_Price": 23,
+    "difference": -464
+  },
+  {
+    "itemId": "Master's Assassin Jacket",
+    "Buying_Price": 28993,
+    "ratio": -0.016691797874951782,
+    "Selling_Price": 28517,
+    "difference": -476
+  },
+  {
+    "itemId": "Adept Tinker's Journal (Full)",
+    "Buying_Price": 2498,
+    "ratio": -0.2458852867830424,
+    "Selling_Price": 2005,
+    "difference": -493
+  },
+  {
+    "itemId": "Expert's Stone Hammer",
+    "Buying_Price": 4050,
+    "ratio": -0.14052379611377078,
+    "Selling_Price": 3551,
+    "difference": -499
+  },
+  {
+    "itemId": "Exceptional Pine Logs",
+    "Buying_Price": 1880,
+    "ratio": -0.3722627737226277,
+    "Selling_Price": 1370,
+    "difference": -510
+  },
+  {
+    "itemId": "Adept's Dungeon Map (Solo)",
+    "Buying_Price": 3013,
+    "ratio": -0.20423661071143084,
+    "Selling_Price": 2502,
+    "difference": -511
+  },
+  {
+    "itemId": "Adept's Great Holy Staff",
+    "Buying_Price": 2766,
+    "ratio": -0.22715173025732033,
+    "Selling_Price": 2254,
+    "difference": -512
+  },
+  {
+    "itemId": "Master's Soldier Helmet",
+    "Buying_Price": 8974,
+    "ratio": -0.06201183431952663,
+    "Selling_Price": 8450,
+    "difference": -524
+  },
+  {
+    "itemId": "Reinforced Leather",
+    "Buying_Price": 11455,
+    "ratio": -0.04908874439051195,
+    "Selling_Price": 10919,
+    "difference": -536
+  },
+  {
+    "itemId": "Globus Cruciger",
+    "Buying_Price": 4547,
+    "ratio": -0.13504742885671492,
+    "Selling_Price": 4006,
+    "difference": -541
+  },
+  {
+    "itemId": "Expert's Uprooted Perennial Sapling",
+    "Buying_Price": 13249,
+    "ratio": -0.0427357154100425,
+    "Selling_Price": 12706,
+    "difference": -543
+  },
+  {
+    "itemId": "Rare Heavy Hide",
+    "Buying_Price": 2196,
+    "ratio": -0.32929782082324455,
+    "Selling_Price": 1652,
+    "difference": -544
+  },
+  {
+    "itemId": "Rare Pine Planks",
+    "Buying_Price": 591,
+    "ratio": -13.414634146341463,
+    "Selling_Price": 41,
+    "difference": -550
+  },
+  {
+    "itemId": "Elder's Soldier Boots",
+    "Buying_Price": 63893,
+    "ratio": -0.0088262228818644,
+    "Selling_Price": 63334,
+    "difference": -559
+  },
+  {
+    "itemId": "Adept's Mercenary Hood",
+    "Buying_Price": 4720,
+    "ratio": -0.13652781122080423,
+    "Selling_Price": 4153,
+    "difference": -567
+  },
+  {
+    "itemId": "Adept Cropper's Journal (Full)",
+    "Buying_Price": 3490,
+    "ratio": -0.1943874058863792,
+    "Selling_Price": 2922,
+    "difference": -568
+  },
+  {
+    "itemId": "Expert's Infernal Cloth Bindings",
+    "Buying_Price": 2695,
+    "ratio": -0.2736294896030246,
+    "Selling_Price": 2116,
+    "difference": -579
+  },
+  {
+    "itemId": "Expert's Mercenary Hood",
+    "Buying_Price": 6655,
+    "ratio": -0.09727947238252267,
+    "Selling_Price": 6065,
+    "difference": -590
+  },
+  {
+    "itemId": "Siphoned Energy",
+    "Buying_Price": 10201,
+    "ratio": -0.06615802675585285,
+    "Selling_Price": 9568,
+    "difference": -633
+  },
+  {
+    "itemId": "Mutton Stew",
+    "Buying_Price": 1697,
+    "ratio": -0.6539961013645225,
+    "Selling_Price": 1026,
+    "difference": -671
+  },
+  {
+    "itemId": "Adept Fletcher's Journal (Full)",
+    "Buying_Price": 2676,
+    "ratio": -0.338,
+    "Selling_Price": 2000,
+    "difference": -676
+  },
+  {
+    "itemId": "Journeyman's Riding Horse",
+    "Buying_Price": 11425,
+    "ratio": -0.06298846296985486,
+    "Selling_Price": 10748,
+    "difference": -677
+  },
+  {
+    "itemId": "Adept's Double Bladed Staff",
+    "Buying_Price": 3782,
+    "ratio": -0.22197092084006462,
+    "Selling_Price": 3095,
+    "difference": -687
+  },
+  {
+    "itemId": "Chicken",
+    "Buying_Price": 7529,
+    "ratio": -0.10057009209179944,
+    "Selling_Price": 6841,
+    "difference": -688
+  },
+  {
+    "itemId": "Adept's Soldier Boots",
+    "Buying_Price": 1877,
+    "ratio": -0.6265164644714039,
+    "Selling_Price": 1154,
+    "difference": -723
+  },
+  {
+    "itemId": "Master's Cleric Sandals",
+    "Buying_Price": 8991,
+    "ratio": -0.08836702578380341,
+    "Selling_Price": 8261,
+    "difference": -730
+  },
+  {
+    "itemId": "Adept's Holy Staff",
+    "Buying_Price": 2174,
+    "ratio": -0.5055401662049861,
+    "Selling_Price": 1444,
+    "difference": -730
+  },
+  {
+    "itemId": "Dreamcatcher",
+    "Buying_Price": 4787,
+    "ratio": -0.181683534929647,
+    "Selling_Price": 4051,
+    "difference": -736
+  },
+  {
+    "itemId": "Rare Amberleaf Cotton",
+    "Buying_Price": 4875,
+    "ratio": -0.18584286061785454,
+    "Selling_Price": 4111,
+    "difference": -764
+  },
+  {
+    "itemId": "Simple Brazier (Disciples of Morgana)",
+    "Buying_Price": 885,
+    "ratio": -7.85,
+    "Selling_Price": 100,
+    "difference": -785
+  },
+  {
+    "itemId": "Beef Stew",
+    "Buying_Price": 3949,
+    "ratio": -0.2484982611444831,
+    "Selling_Price": 3163,
+    "difference": -786
+  },
+  {
+    "itemId": "Silver Mirror",
+    "Buying_Price": 4896,
+    "ratio": -0.1938551572787125,
+    "Selling_Price": 4101,
+    "difference": -795
+  },
+  {
+    "itemId": "Expert's Pickaxe",
+    "Buying_Price": 3897,
+    "ratio": -0.262799740764744,
+    "Selling_Price": 3086,
+    "difference": -811
+  },
+  {
+    "itemId": "Adept Imbuer's Journal (Empty)",
+    "Buying_Price": 1944,
+    "ratio": -0.7249334516415262,
+    "Selling_Price": 1127,
+    "difference": -817
+  },
+  {
+    "itemId": "Uncommon Lavish Cloth",
+    "Buying_Price": 4884,
+    "ratio": -0.2035485460818137,
+    "Selling_Price": 4058,
+    "difference": -826
+  },
+  {
+    "itemId": "Master's Dungeon Map (Solo)",
+    "Buying_Price": 5658,
+    "ratio": -0.17385892116182572,
+    "Selling_Price": 4820,
+    "difference": -838
+  },
+  {
+    "itemId": "Expert's Infernal Mace Head",
+    "Buying_Price": 2974,
+    "ratio": -0.3955889253871422,
+    "Selling_Price": 2131,
+    "difference": -843
+  },
+  {
+    "itemId": "Avalonian Pork Omelette",
+    "Buying_Price": 50988,
+    "ratio": -0.0170749222053778,
+    "Selling_Price": 50132,
+    "difference": -856
+  },
+  {
+    "itemId": "Pork Pie",
+    "Buying_Price": 4100,
+    "ratio": -0.2646514497223936,
+    "Selling_Price": 3242,
+    "difference": -858
+  },
+  {
+    "itemId": "Expert Imbuer's Journal (Empty)",
+    "Buying_Price": 2696,
+    "ratio": -0.48131868131868133,
+    "Selling_Price": 1820,
+    "difference": -876
+  },
+  {
+    "itemId": "Sealed Royal Sigil",
+    "Buying_Price": 8854,
+    "ratio": -0.11497292532426646,
+    "Selling_Price": 7941,
+    "difference": -913
+  },
+  {
+    "itemId": "Master's Knight Armor",
+    "Buying_Price": 19689,
+    "ratio": -0.049352448968715025,
+    "Selling_Price": 18763,
+    "difference": -926
+  },
+  {
+    "itemId": "Adept Tinker's Journal (Empty)",
+    "Buying_Price": 1769,
+    "ratio": -1.1546894031668697,
+    "Selling_Price": 821,
+    "difference": -948
+  },
+  {
+    "itemId": "Potato Salad",
+    "Buying_Price": 3649,
+    "ratio": -0.3514814814814815,
+    "Selling_Price": 2700,
+    "difference": -949
+  },
+  {
+    "itemId": "Ashenbark Planks",
+    "Buying_Price": 5851,
+    "ratio": -0.19359445124439004,
+    "Selling_Price": 4902,
+    "difference": -949
+  },
+  {
+    "itemId": "Expert's Massive Metallic Hand",
+    "Buying_Price": 6999,
+    "ratio": -0.1595427435387674,
+    "Selling_Price": 6036,
+    "difference": -963
+  },
+  {
+    "itemId": "Expert's Alluring Bolts",
+    "Buying_Price": 10000,
+    "ratio": -0.10803324099722991,
+    "Selling_Price": 9025,
+    "difference": -975
+  },
+  {
+    "itemId": "Roasted Clearhaze Snapper",
+    "Buying_Price": 5384,
+    "ratio": -0.22363636363636363,
+    "Selling_Price": 4400,
+    "difference": -984
+  },
+  {
+    "itemId": "Rare Hardened Leather",
+    "Buying_Price": 23991,
+    "ratio": -0.043086956521739134,
+    "Selling_Price": 23000,
+    "difference": -991
+  },
+  {
+    "itemId": "Adept's Martlock Cape",
+    "Buying_Price": 68000,
+    "ratio": -0.014819347232378707,
+    "Selling_Price": 67007,
+    "difference": -993
+  },
+  {
+    "itemId": "Thin Booklet",
+    "Buying_Price": 5001,
+    "ratio": -0.25087543771885945,
+    "Selling_Price": 3998,
+    "difference": -1003
+  },
+  {
+    "itemId": "Pig",
+    "Buying_Price": 7626,
+    "ratio": -0.15248602085537252,
+    "Selling_Price": 6617,
+    "difference": -1009
+  },
+  {
+    "itemId": "Grandmaster's Bloodforged Blade",
+    "Buying_Price": 7184,
+    "ratio": -0.16340080971659918,
+    "Selling_Price": 6175,
+    "difference": -1009
+  },
+  {
+    "itemId": "Roast Pork",
+    "Buying_Price": 4024,
+    "ratio": -0.3413333333333333,
+    "Selling_Price": 3000,
+    "difference": -1024
+  },
+  {
+    "itemId": "Journeyman Blacksmith's Journal (Empty)",
+    "Buying_Price": 1300,
+    "ratio": -4.284552845528455,
+    "Selling_Price": 246,
+    "difference": -1054
+  },
+  {
+    "itemId": "Master's Guardian Armor",
+    "Buying_Price": 18446,
+    "ratio": -0.06115169993671978,
+    "Selling_Price": 17383,
+    "difference": -1063
+  },
+  {
+    "itemId": "Adamantium Ore",
+    "Buying_Price": 6124,
+    "ratio": -0.21099466086612617,
+    "Selling_Price": 5057,
+    "difference": -1067
+  },
+  {
+    "itemId": "Grandmaster's Runed Rock",
+    "Buying_Price": 7754,
+    "ratio": -0.16164794007490638,
+    "Selling_Price": 6675,
+    "difference": -1079
+  },
+  {
+    "itemId": "Energy Potion",
+    "Buying_Price": 2726,
+    "ratio": -0.6662591687041565,
+    "Selling_Price": 1636,
+    "difference": -1090
+  },
+  {
+    "itemId": "Expert's Skinning Knife",
+    "Buying_Price": 4416,
+    "ratio": -0.34184138559708294,
+    "Selling_Price": 3291,
+    "difference": -1125
+  },
+  {
+    "itemId": "Master's Mage Cowl",
+    "Buying_Price": 8899,
+    "ratio": -0.14471314638538718,
+    "Selling_Price": 7774,
+    "difference": -1125
+  },
+  {
+    "itemId": "Journeyman Fletcher's Journal (Empty)",
+    "Buying_Price": 1250,
+    "ratio": -14.822784810126583,
+    "Selling_Price": 79,
+    "difference": -1171
+  },
+  {
+    "itemId": "Uncommon Hardened Leather",
+    "Buying_Price": 9488,
+    "ratio": -0.14271949897627365,
+    "Selling_Price": 8303,
+    "difference": -1185
+  },
+  {
+    "itemId": "Expert Blacksmith's Journal (Full)",
+    "Buying_Price": 5289,
+    "ratio": -0.2893710385177962,
+    "Selling_Price": 4102,
+    "difference": -1187
+  },
+  {
+    "itemId": "Expert's Axe",
+    "Buying_Price": 4401,
+    "ratio": -0.37145528201932065,
+    "Selling_Price": 3209,
+    "difference": -1192
+  },
+  {
+    "itemId": "Adept Blacksmith's Journal (Empty)",
+    "Buying_Price": 2000,
+    "ratio": -1.4875621890547264,
+    "Selling_Price": 804,
+    "difference": -1196
+  },
+  {
+    "itemId": "Adept's Spirithunter",
+    "Buying_Price": 5496,
+    "ratio": -0.27873429502094,
+    "Selling_Price": 4298,
+    "difference": -1198
+  },
+  {
+    "itemId": "Master's Assassin Shoes",
+    "Buying_Price": 12994,
+    "ratio": -0.10212044105173876,
+    "Selling_Price": 11790,
+    "difference": -1204
+  },
+  {
+    "itemId": "Major Healing Potion",
+    "Buying_Price": 8727,
+    "ratio": -0.1636,
+    "Selling_Price": 7500,
+    "difference": -1227
+  },
+  {
+    "itemId": "Poison Potion",
+    "Buying_Price": 4562,
+    "ratio": -0.38033282904689864,
+    "Selling_Price": 3305,
+    "difference": -1257
+  },
+  {
+    "itemId": "Master's Hardened Debole",
+    "Buying_Price": 11297,
+    "ratio": -0.12924830067972812,
+    "Selling_Price": 10004,
+    "difference": -1293
+  },
+  {
+    "itemId": "Grandmaster's Hoarfrost Orb",
+    "Buying_Price": 7174,
+    "ratio": -0.22548684660061497,
+    "Selling_Price": 5854,
+    "difference": -1320
+  },
+  {
+    "itemId": "Rare Titanium Steel Bar",
+    "Buying_Price": 5134,
+    "ratio": -0.34963196635120924,
+    "Selling_Price": 3804,
+    "difference": -1330
+  },
+  {
+    "itemId": "Adept's Greataxe",
+    "Buying_Price": 2998,
+    "ratio": -0.8092939046469523,
+    "Selling_Price": 1657,
+    "difference": -1341
+  },
+  {
+    "itemId": "Grandmaster's Lost Cursed Crystal",
+    "Buying_Price": 7377,
+    "ratio": -0.22338308457711442,
+    "Selling_Price": 6030,
+    "difference": -1347
+  },
+  {
+    "itemId": "Expert Blacksmith's Journal (Empty)",
+    "Buying_Price": 3400,
+    "ratio": -0.6577279375914188,
+    "Selling_Price": 2051,
+    "difference": -1349
+  },
+  {
+    "itemId": "Expert's Infernal Scroll",
+    "Buying_Price": 4410,
+    "ratio": -0.44448083851948905,
+    "Selling_Price": 3053,
+    "difference": -1357
+  },
+  {
+    "itemId": "Master's Cleric Cowl",
+    "Buying_Price": 9479,
+    "ratio": -0.16779598373783416,
+    "Selling_Price": 8117,
+    "difference": -1362
+  },
+  {
+    "itemId": "Expert's Cleric Robe",
+    "Buying_Price": 13491,
+    "ratio": -0.11311881188118812,
+    "Selling_Price": 12120,
+    "difference": -1371
+  },
+  {
+    "itemId": "Reinforced Brazier (Disciples of Morgana)",
+    "Buying_Price": 1478,
+    "ratio": -15.606741573033707,
+    "Selling_Price": 89,
+    "difference": -1389
+  },
+  {
+    "itemId": "Expert's Demon Crest",
+    "Buying_Price": 1794,
+    "ratio": -3.4405940594059405,
+    "Selling_Price": 404,
+    "difference": -1390
+  },
+  {
+    "itemId": "Expert's Soldier Boots",
+    "Buying_Price": 6491,
+    "ratio": -0.2935432443204464,
+    "Selling_Price": 5018,
+    "difference": -1473
+  },
+  {
+    "itemId": "Resistance Potion",
+    "Buying_Price": 4432,
+    "ratio": -0.5141783395968569,
+    "Selling_Price": 2927,
+    "difference": -1505
+  },
+  {
+    "itemId": "Expert's Hellish Sicklehead Pair",
+    "Buying_Price": 2990,
+    "ratio": -1.0437457279562543,
+    "Selling_Price": 1463,
+    "difference": -1527
+  },
+  {
+    "itemId": "Expert's Scholar Robe",
+    "Buying_Price": 11670,
+    "ratio": -0.1565906838453915,
+    "Selling_Price": 10090,
+    "difference": -1580
+  },
+  {
+    "itemId": "Rare Cedar Planks",
+    "Buying_Price": 3490,
+    "ratio": -0.8339464004203888,
+    "Selling_Price": 1903,
+    "difference": -1587
+  },
+  {
+    "itemId": "Gigantify Potion",
+    "Buying_Price": 8069,
+    "ratio": -0.24752628324056897,
+    "Selling_Price": 6468,
+    "difference": -1601
+  },
+  {
+    "itemId": "Rare Runite Ore",
+    "Buying_Price": 7111,
+    "ratio": -0.30309693971046364,
+    "Selling_Price": 5457,
+    "difference": -1654
+  },
+  {
+    "itemId": "Danglemouth Catfish",
+    "Buying_Price": 1682,
+    "ratio": -1681,
+    "Selling_Price": 1,
+    "difference": -1681
+  },
+  {
+    "itemId": "Expert's Occult Orb",
+    "Buying_Price": 3387,
+    "ratio": -1.00177304964539,
+    "Selling_Price": 1692,
+    "difference": -1695
+  },
+  {
+    "itemId": "Expert's Heavy Crossbow",
+    "Buying_Price": 11856,
+    "ratio": -0.16923076923076924,
+    "Selling_Price": 10140,
+    "difference": -1716
+  },
+  {
+    "itemId": "Journeyman Imbuer's Journal (Empty)",
+    "Buying_Price": 1945,
+    "ratio": -7.840909090909091,
+    "Selling_Price": 220,
+    "difference": -1725
+  },
+  {
+    "itemId": "Master's Druidic Feathers",
+    "Buying_Price": 3979,
+    "ratio": -0.784304932735426,
+    "Selling_Price": 2230,
+    "difference": -1749
+  },
+  {
+    "itemId": "Gigantify Potion",
+    "Buying_Price": 4792,
+    "ratio": -0.5909694555112882,
+    "Selling_Price": 3012,
+    "difference": -1780
+  },
+  {
+    "itemId": "Expert's Assassin Jacket",
+    "Buying_Price": 12929,
+    "ratio": -0.16100933908045978,
+    "Selling_Price": 11136,
+    "difference": -1793
+  },
+  {
+    "itemId": "Grandmaster's Relic",
+    "Buying_Price": 8867,
+    "ratio": -0.25951704545454546,
+    "Selling_Price": 7040,
+    "difference": -1827
+  },
+  {
+    "itemId": "Adept's Tome of Insight",
+    "Buying_Price": 18206,
+    "ratio": -0.11467580971040225,
+    "Selling_Price": 16333,
+    "difference": -1873
+  },
+  {
+    "itemId": "Silver Candelabrum",
+    "Buying_Price": 23886,
+    "ratio": -0.0855299036538811,
+    "Selling_Price": 22004,
+    "difference": -1882
+  },
+  {
+    "itemId": "Expert's Hellgate Ritual (2v2 - Nonlethal)",
+    "Buying_Price": 4886,
+    "ratio": -0.6286666666666667,
+    "Selling_Price": 3000,
+    "difference": -1886
+  },
+  {
+    "itemId": "Pork Omelette",
+    "Buying_Price": 18888,
+    "ratio": -0.11099347097229574,
+    "Selling_Price": 17001,
+    "difference": -1887
+  },
+  {
+    "itemId": "Expert's Veilweaver Mandibles",
+    "Buying_Price": 7999,
+    "ratio": -0.3089510718376698,
+    "Selling_Price": 6111,
+    "difference": -1888
+  },
+  {
+    "itemId": "Master's Infernal Scroll",
+    "Buying_Price": 9495,
+    "ratio": -0.2490134175217048,
+    "Selling_Price": 7602,
+    "difference": -1893
+  },
+  {
+    "itemId": "Expert's Mage Cowl",
+    "Buying_Price": 4944,
+    "ratio": -0.6338400528750826,
+    "Selling_Price": 3026,
+    "difference": -1918
+  },
+  {
+    "itemId": "Adept's Cape",
+    "Buying_Price": 9984,
+    "ratio": -0.2478440194975628,
+    "Selling_Price": 8001,
+    "difference": -1983
+  },
+  {
+    "itemId": "Elder's Lost Arcane Crystal",
+    "Buying_Price": 22110,
+    "ratio": -0.09857895259862864,
+    "Selling_Price": 20126,
+    "difference": -1984
+  },
+  {
+    "itemId": "Expert's Demonic Blade",
+    "Buying_Price": 26991,
+    "ratio": -0.07964,
+    "Selling_Price": 25000,
+    "difference": -1991
+  },
+  {
+    "itemId": "Master Blacksmith's Journal (Empty)",
+    "Buying_Price": 4499,
+    "ratio": -0.7988804478208716,
+    "Selling_Price": 2501,
+    "difference": -1998
+  },
+  {
+    "itemId": "Grandmaster's Possessed Scroll",
+    "Buying_Price": 7170,
+    "ratio": -0.40836770771950504,
+    "Selling_Price": 5091,
+    "difference": -2079
+  },
+  {
+    "itemId": "Major Sticky Potion",
+    "Buying_Price": 13419,
+    "ratio": -0.186891915796922,
+    "Selling_Price": 11306,
+    "difference": -2113
+  },
+  {
+    "itemId": "Master Imbuer's Journal (Empty)",
+    "Buying_Price": 5089,
+    "ratio": -0.7134680134680135,
+    "Selling_Price": 2970,
+    "difference": -2119
+  },
+  {
+    "itemId": "Grandmaster's Ghastly Arrows",
+    "Buying_Price": 7197,
+    "ratio": -0.4203670811130847,
+    "Selling_Price": 5067,
+    "difference": -2130
+  },
+  {
+    "itemId": "Major Resistance Potion",
+    "Buying_Price": 13837,
+    "ratio": -0.18548663468128856,
+    "Selling_Price": 11672,
+    "difference": -2165
+  },
+  {
+    "itemId": "Adept's Longbow",
+    "Buying_Price": 4187,
+    "ratio": -1.0789473684210527,
+    "Selling_Price": 2014,
+    "difference": -2173
+  },
+  {
+    "itemId": "Adept's Assassin Hood",
+    "Buying_Price": 6891,
+    "ratio": -0.46617021276595744,
+    "Selling_Price": 4700,
+    "difference": -2191
+  },
+  {
+    "itemId": "Grandmaster's Morgana Halberd Head",
+    "Buying_Price": 7299,
+    "ratio": -0.4522483087942698,
+    "Selling_Price": 5026,
+    "difference": -2273
+  },
+  {
+    "itemId": "Master's Bag",
+    "Buying_Price": 59485,
+    "ratio": -0.03987483392769736,
+    "Selling_Price": 57204,
+    "difference": -2281
+  },
+  {
+    "itemId": "Golden Crown",
+    "Buying_Price": 23896,
+    "ratio": -0.10650120392665309,
+    "Selling_Price": 21596,
+    "difference": -2300
+  },
+  {
+    "itemId": "Grandmaster's Ancient Padding",
+    "Buying_Price": 7376,
+    "ratio": -0.46175188267934997,
+    "Selling_Price": 5046,
+    "difference": -2330
+  },
+  {
+    "itemId": "Elder's Soul",
+    "Buying_Price": 11448,
+    "ratio": -0.25774555042847724,
+    "Selling_Price": 9102,
+    "difference": -2346
+  },
+  {
+    "itemId": "Expert's Hypnotic Harmonic Ring",
+    "Buying_Price": 8997,
+    "ratio": -0.36318181818181816,
+    "Selling_Price": 6600,
+    "difference": -2397
+  },
+  {
+    "itemId": "Adept's Assassin Jacket",
+    "Buying_Price": 14999,
+    "ratio": -0.19266857506361323,
+    "Selling_Price": 12576,
+    "difference": -2423
+  },
+  {
+    "itemId": "Exceptional Steel Bar",
+    "Buying_Price": 5796,
+    "ratio": -0.724486759892889,
+    "Selling_Price": 3361,
+    "difference": -2435
+  },
+  {
+    "itemId": "Grandmaster's Ancient Hammer Head",
+    "Buying_Price": 7495,
+    "ratio": -0.4865132883776279,
+    "Selling_Price": 5042,
+    "difference": -2453
+  },
+  {
+    "itemId": "Grandmaster's Imbued Leather Folds",
+    "Buying_Price": 6998,
+    "ratio": -0.5475453339230429,
+    "Selling_Price": 4522,
+    "difference": -2476
+  },
+  {
+    "itemId": "Grandmaster's Avalonian Shard",
+    "Buying_Price": 11069,
+    "ratio": -0.29325855824278535,
+    "Selling_Price": 8559,
+    "difference": -2510
+  },
+  {
+    "itemId": "Grandmaster's Druidic Bindings",
+    "Buying_Price": 7695,
+    "ratio": -0.48580807105618845,
+    "Selling_Price": 5179,
+    "difference": -2516
+  },
+  {
+    "itemId": "Grandmaster Tinker's Journal (Empty)",
+    "Buying_Price": 9873,
+    "ratio": -0.3526510480887793,
+    "Selling_Price": 7299,
+    "difference": -2574
+  },
+  {
+    "itemId": "Major Poison Potion",
+    "Buying_Price": 12915,
+    "ratio": -0.24927452118398144,
+    "Selling_Price": 10338,
+    "difference": -2577
+  },
+  {
+    "itemId": "Expert's Demonic Plates",
+    "Buying_Price": 6278,
+    "ratio": -0.6967567567567567,
+    "Selling_Price": 3700,
+    "difference": -2578
+  },
+  {
+    "itemId": "Master's Druidic Preserved Beak",
+    "Buying_Price": 2588,
+    "ratio": -2587,
+    "Selling_Price": 1,
+    "difference": -2587
+  },
+  {
+    "itemId": "Resistance Potion",
+    "Buying_Price": 7872,
+    "ratio": -0.5028636884306987,
+    "Selling_Price": 5238,
+    "difference": -2634
+  },
+  {
+    "itemId": "Exceptional Titanium Ore",
+    "Buying_Price": 9417,
+    "ratio": -0.3938721136767318,
+    "Selling_Price": 6756,
+    "difference": -2661
+  },
+  {
+    "itemId": "Exceptional Skyflower",
+    "Buying_Price": 6737,
+    "ratio": -0.6838290427393152,
+    "Selling_Price": 4001,
+    "difference": -2736
+  },
+  {
+    "itemId": "Grandmaster's Mage Sandals",
+    "Buying_Price": 24864,
+    "ratio": -0.1248133906356028,
+    "Selling_Price": 22105,
+    "difference": -2759
+  },
+  {
+    "itemId": "Invisibility Potion",
+    "Buying_Price": 13397,
+    "ratio": -0.2752974773917182,
+    "Selling_Price": 10505,
+    "difference": -2892
+  },
+  {
+    "itemId": "Expert's Symbol of Blight",
+    "Buying_Price": 7986,
+    "ratio": -0.5972,
+    "Selling_Price": 5000,
+    "difference": -2986
+  },
+  {
+    "itemId": "Uncommon Baroque Cloth",
+    "Buying_Price": 47998,
+    "ratio": -0.06662222222222222,
+    "Selling_Price": 45000,
+    "difference": -2998
+  },
+  {
+    "itemId": "Ancient Tome",
+    "Buying_Price": 25001,
+    "ratio": -0.13946492867234858,
+    "Selling_Price": 21941,
+    "difference": -3060
+  },
+  {
+    "itemId": "Stone Idol",
+    "Buying_Price": 23880,
+    "ratio": -0.14851866102347056,
+    "Selling_Price": 20792,
+    "difference": -3088
+  },
+  {
+    "itemId": "Rockheart",
+    "Buying_Price": 40997,
+    "ratio": -0.08794416580420879,
+    "Selling_Price": 37683,
+    "difference": -3314
+  },
+  {
+    "itemId": "Rare Bloodoak Logs",
+    "Buying_Price": 4842,
+    "ratio": -2.3485477178423237,
+    "Selling_Price": 1446,
+    "difference": -3396
+  },
+  {
+    "itemId": "Elder's Morgana Halberd Head",
+    "Buying_Price": 23555,
+    "ratio": -0.16886661373560938,
+    "Selling_Price": 20152,
+    "difference": -3403
+  },
+  {
+    "itemId": "Expert's Dungeon Map (Solo)",
+    "Buying_Price": 9587,
+    "ratio": -0.5570894916355368,
+    "Selling_Price": 6157,
+    "difference": -3430
+  },
+  {
+    "itemId": "Master's Cleric Robe",
+    "Buying_Price": 20496,
+    "ratio": -0.20140679953106683,
+    "Selling_Price": 17060,
+    "difference": -3436
+  },
+  {
+    "itemId": "Energy Potion",
+    "Buying_Price": 4550,
+    "ratio": -3.091726618705036,
+    "Selling_Price": 1112,
+    "difference": -3438
+  },
+  {
+    "itemId": "Grandmaster's Cape",
+    "Buying_Price": 39999,
+    "ratio": -0.0942740677919733,
+    "Selling_Price": 36553,
+    "difference": -3446
+  },
+  {
+    "itemId": "Major Gigantify Potion",
+    "Buying_Price": 13536,
+    "ratio": -0.3463298189775214,
+    "Selling_Price": 10054,
+    "difference": -3482
+  },
+  {
+    "itemId": "Beef Stew",
+    "Buying_Price": 23440,
+    "ratio": -0.17458408498697134,
+    "Selling_Price": 19956,
+    "difference": -3484
+  },
+  {
+    "itemId": "Elder's Alluring Crystal",
+    "Buying_Price": 23317,
+    "ratio": -0.17649730057015994,
+    "Selling_Price": 19819,
+    "difference": -3498
+  },
+  {
+    "itemId": "Grandmaster's Ursine Guardian Remains",
+    "Buying_Price": 7486,
+    "ratio": -0.9459318949831037,
+    "Selling_Price": 3847,
+    "difference": -3639
+  },
+  {
+    "itemId": "Grandmaster's Assassin Shoes",
+    "Buying_Price": 37763,
+    "ratio": -0.10719207200867857,
+    "Selling_Price": 34107,
+    "difference": -3656
+  },
+  {
+    "itemId": "Holy Fetish",
+    "Buying_Price": 23940,
+    "ratio": -0.18497252883235163,
+    "Selling_Price": 20203,
+    "difference": -3737
+  },
+  {
+    "itemId": "Cabbage Soup",
+    "Buying_Price": 3742,
+    "ratio": -3741,
+    "Selling_Price": 1,
+    "difference": -3741
+  },
+  {
+    "itemId": "Expert's Mercenary Hood",
+    "Buying_Price": 20493,
+    "ratio": -0.23155048076923077,
+    "Selling_Price": 16640,
+    "difference": -3853
+  },
+  {
+    "itemId": "Master's Dungeon Map (Group)",
+    "Buying_Price": 26996,
+    "ratio": -0.1676470588235294,
+    "Selling_Price": 23120,
+    "difference": -3876
+  },
+  {
+    "itemId": "Elder's Lost Crossbow Mechanism",
+    "Buying_Price": 23954,
+    "ratio": -0.1976401179941003,
+    "Selling_Price": 20001,
+    "difference": -3953
+  },
+  {
+    "itemId": "Major Resistance Potion",
+    "Buying_Price": 41999,
+    "ratio": -0.10407465825446897,
+    "Selling_Price": 38040,
+    "difference": -3959
+  },
+  {
+    "itemId": "Grandmaster's Glowing Harmonic Ring",
+    "Buying_Price": 109999,
+    "ratio": -0.037657890516663996,
+    "Selling_Price": 106007,
+    "difference": -3992
+  },
+  {
+    "itemId": "Rare Lavish Cloth",
+    "Buying_Price": 18999,
+    "ratio": -0.26626233004532124,
+    "Selling_Price": 15004,
+    "difference": -3995
+  },
+  {
+    "itemId": "Healing Potion",
+    "Buying_Price": 4091,
+    "ratio": -77.67307692307692,
+    "Selling_Price": 52,
+    "difference": -4039
+  },
+  {
+    "itemId": "Adept's Knight Boots",
+    "Buying_Price": 5290,
+    "ratio": -3.276475343573161,
+    "Selling_Price": 1237,
+    "difference": -4053
+  },
+  {
+    "itemId": "Adept's Bag",
+    "Buying_Price": 22364,
+    "ratio": -0.2420994168286587,
+    "Selling_Price": 18005,
+    "difference": -4359
+  },
+  {
+    "itemId": "Grandmaster's Lost Crossbow Mechanism",
+    "Buying_Price": 7446,
+    "ratio": -1.4501480750246791,
+    "Selling_Price": 3039,
+    "difference": -4407
+  },
+  {
+    "itemId": "Adept's Martlock Cape",
+    "Buying_Price": 106000,
+    "ratio": -0.043604965984385305,
+    "Selling_Price": 101571,
+    "difference": -4429
+  },
+  {
+    "itemId": "Adept Stonecutter's Journal (Full)",
+    "Buying_Price": 4489,
+    "ratio": -4488,
+    "Selling_Price": 1,
+    "difference": -4488
+  },
+  {
+    "itemId": "Master's Hunter Shoes",
+    "Buying_Price": 24998,
+    "ratio": -0.22215703529871908,
+    "Selling_Price": 20454,
+    "difference": -4544
+  },
+  {
+    "itemId": "Grandmaster's Lost Arcane Crystal",
+    "Buying_Price": 7477,
+    "ratio": -1.5544926545951485,
+    "Selling_Price": 2927,
+    "difference": -4550
+  },
+  {
+    "itemId": "Grandmaster's Soldier Boots",
+    "Buying_Price": 20887,
+    "ratio": -0.29523750465087434,
+    "Selling_Price": 16126,
+    "difference": -4761
+  },
+  {
+    "itemId": "Master's Hellion Shoes",
+    "Buying_Price": 22992,
+    "ratio": -0.2628803691090849,
+    "Selling_Price": 18206,
+    "difference": -4786
+  },
+  {
+    "itemId": "Expert Gamekeeper's Journal (Full)",
+    "Buying_Price": 20833,
+    "ratio": -0.3020625,
+    "Selling_Price": 16000,
+    "difference": -4833
+  },
+  {
+    "itemId": "Redspring Eel Stew",
+    "Buying_Price": 21995,
+    "ratio": -0.28814055636896047,
+    "Selling_Price": 17075,
+    "difference": -4920
+  },
+  {
+    "itemId": "Invisibility Potion",
+    "Buying_Price": 21949,
+    "ratio": -0.2892217327459618,
+    "Selling_Price": 17025,
+    "difference": -4924
+  },
+  {
+    "itemId": "Grandmaster's Remnants of the Old King",
+    "Buying_Price": 90000,
+    "ratio": -0.057877662325450184,
+    "Selling_Price": 85076,
+    "difference": -4924
+  },
+  {
+    "itemId": "Avalonian Pork Omelette",
+    "Buying_Price": 79977,
+    "ratio": -0.06606150277922182,
+    "Selling_Price": 75021,
+    "difference": -4956
+  },
+  {
+    "itemId": "Grandmaster's Infernal Harpoon Tip",
+    "Buying_Price": 22970,
+    "ratio": -0.2755442025766326,
+    "Selling_Price": 18008,
+    "difference": -4962
+  },
+  {
+    "itemId": "Grandmaster's Demonic Arrowheads",
+    "Buying_Price": 23000,
+    "ratio": -0.2762179558317612,
+    "Selling_Price": 18022,
+    "difference": -4978
+  },
+  {
+    "itemId": "Dusthole Crab Omelette",
+    "Buying_Price": 14794,
+    "ratio": -0.5074383533727328,
+    "Selling_Price": 9814,
+    "difference": -4980
+  },
+  {
+    "itemId": "Expert's Imbued Leather Folds",
+    "Buying_Price": 10286,
+    "ratio": -0.9407547169811321,
+    "Selling_Price": 5300,
+    "difference": -4986
+  },
+  {
+    "itemId": "Grandmaster Fletcher's Journal (Empty)",
+    "Buying_Price": 11848,
+    "ratio": -0.7423529411764705,
+    "Selling_Price": 6800,
+    "difference": -5048
+  },
+  {
+    "itemId": "Elder's Lost Cursed Crystal",
+    "Buying_Price": 22996,
+    "ratio": -0.2961334686055687,
+    "Selling_Price": 17742,
+    "difference": -5254
+  },
+  {
+    "itemId": "Adept's Hunter Shoes",
+    "Buying_Price": 7474,
+    "ratio": -2.3742663656884875,
+    "Selling_Price": 2215,
+    "difference": -5259
+  },
+  {
+    "itemId": "Grandmaster's Dungeon Map (Solo)",
+    "Buying_Price": 20275,
+    "ratio": -0.3792517006802721,
+    "Selling_Price": 14700,
+    "difference": -5575
+  },
+  {
+    "itemId": "Pork Omelette",
+    "Buying_Price": 50709,
+    "ratio": -0.12362065145136272,
+    "Selling_Price": 45130,
+    "difference": -5579
+  },
+  {
+    "itemId": "Exceptional Heavy Hide",
+    "Buying_Price": 13330,
+    "ratio": -0.7311688311688311,
+    "Selling_Price": 7700,
+    "difference": -5630
+  },
+  {
+    "itemId": "Uncommon Ashenbark Planks",
+    "Buying_Price": 15962,
+    "ratio": -0.5782084239667787,
+    "Selling_Price": 10114,
+    "difference": -5848
+  },
+  {
+    "itemId": "Adept's Royal Shoes",
+    "Buying_Price": 17489,
+    "ratio": -0.5067631601619712,
+    "Selling_Price": 11607,
+    "difference": -5882
+  },
+  {
+    "itemId": "Master's Imbued Leather Folds",
+    "Buying_Price": 18197,
+    "ratio": -0.4871690094802223,
+    "Selling_Price": 12236,
+    "difference": -5961
+  },
+  {
+    "itemId": "Beef Stew",
+    "Buying_Price": 52000,
+    "ratio": -0.12972256620826,
+    "Selling_Price": 46029,
+    "difference": -5971
+  },
+  {
+    "itemId": "Grandmaster's Demonhide Bindings",
+    "Buying_Price": 23997,
+    "ratio": -0.33139147802929425,
+    "Selling_Price": 18024,
+    "difference": -5973
+  },
+  {
+    "itemId": "Expert's Augured Padding",
+    "Buying_Price": 29900,
+    "ratio": -0.2609117361784675,
+    "Selling_Price": 23713,
+    "difference": -6187
+  },
+  {
+    "itemId": "Master's Hypnotic Harmonic Ring",
+    "Buying_Price": 23451,
+    "ratio": -0.36058250174054307,
+    "Selling_Price": 17236,
+    "difference": -6215
+  },
+  {
+    "itemId": "Master's Knight Helmet",
+    "Buying_Price": 19897,
+    "ratio": -0.4580829547120035,
+    "Selling_Price": 13646,
+    "difference": -6251
+  },
+  {
+    "itemId": "Grandmaster's Knight Armor",
+    "Buying_Price": 125865,
+    "ratio": -0.052779055664756803,
+    "Selling_Price": 119555,
+    "difference": -6310
+  },
+  {
+    "itemId": "Rare Meteorite Steel Bar",
+    "Buying_Price": 47395,
+    "ratio": -0.15521485850781194,
+    "Selling_Price": 41027,
+    "difference": -6368
+  },
+  {
+    "itemId": "Avalonian Beef Sandwich",
+    "Buying_Price": 36500,
+    "ratio": -0.21202058774696994,
+    "Selling_Price": 30115,
+    "difference": -6385
+  },
+  {
+    "itemId": "Adept's Royal Sandals",
+    "Buying_Price": 15998,
+    "ratio": -0.672556194458965,
+    "Selling_Price": 9565,
+    "difference": -6433
+  },
+  {
+    "itemId": "Grandmaster's Soldier Helmet",
+    "Buying_Price": 17997,
+    "ratio": -0.5655010438413361,
+    "Selling_Price": 11496,
+    "difference": -6501
+  },
+  {
+    "itemId": "Grandmaster's Infernal Scroll",
+    "Buying_Price": 25519,
+    "ratio": -0.34218692473570717,
+    "Selling_Price": 19013,
+    "difference": -6506
+  },
+  {
+    "itemId": "Master's Ghastly Scroll",
+    "Buying_Price": 24563,
+    "ratio": -0.36150989413003715,
+    "Selling_Price": 18041,
+    "difference": -6522
+  },
+  {
+    "itemId": "Master's Sickle",
+    "Buying_Price": 14980,
+    "ratio": -0.8155375106047752,
+    "Selling_Price": 8251,
+    "difference": -6729
+  },
+  {
+    "itemId": "Adept's Ironroot Staff",
+    "Buying_Price": 40988,
+    "ratio": -0.19676486904727145,
+    "Selling_Price": 34249,
+    "difference": -6739
+  },
+  {
+    "itemId": "Expert's Imbued Mace Head",
+    "Buying_Price": 13000,
+    "ratio": -1.0876826722338204,
+    "Selling_Price": 6227,
+    "difference": -6773
+  },
+  {
+    "itemId": "Expert's Miner Garb",
+    "Buying_Price": 6863,
+    "ratio": -3430.5,
+    "Selling_Price": 2,
+    "difference": -6861
+  },
+  {
+    "itemId": "Expert's Double Bladed Staff",
+    "Buying_Price": 26872,
+    "ratio": -0.3429956519566195,
+    "Selling_Price": 20009,
+    "difference": -6863
+  },
+  {
+    "itemId": "Grandmaster's Mercenary Jacket",
+    "Buying_Price": 91976,
+    "ratio": -0.08078635973725339,
+    "Selling_Price": 85101,
+    "difference": -6875
+  },
+  {
+    "itemId": "Adept's Mage Sandals",
+    "Buying_Price": 7293,
+    "ratio": -19.09090909090909,
+    "Selling_Price": 363,
+    "difference": -6930
+  },
+  {
+    "itemId": "Master's Bag",
+    "Buying_Price": 34000,
+    "ratio": -0.25921262175474985,
+    "Selling_Price": 27001,
+    "difference": -6999
+  },
+  {
+    "itemId": "Uncommon Resilient Hide",
+    "Buying_Price": 21087,
+    "ratio": -0.5057840616966581,
+    "Selling_Price": 14004,
+    "difference": -7083
+  },
+  {
+    "itemId": "Elder's Dungeon Map (Solo)",
+    "Buying_Price": 43813,
+    "ratio": -0.19365209099577715,
+    "Selling_Price": 36705,
+    "difference": -7108
+  },
+  {
+    "itemId": "Exceptional Robust Hide",
+    "Buying_Price": 24457,
+    "ratio": -0.41157797529724116,
+    "Selling_Price": 17326,
+    "difference": -7131
+  },
+  {
+    "itemId": "Grandmaster's Broken Demonic Fang",
+    "Buying_Price": 24397,
+    "ratio": -0.43301027900146843,
+    "Selling_Price": 17025,
+    "difference": -7372
+  },
+  {
+    "itemId": "Adept's Mercenary Jacket",
+    "Buying_Price": 18395,
+    "ratio": -0.670298737855262,
+    "Selling_Price": 11013,
+    "difference": -7382
+  },
+  {
+    "itemId": "Master's Skinning Knife",
+    "Buying_Price": 15991,
+    "ratio": -0.8637529137529137,
+    "Selling_Price": 8580,
+    "difference": -7411
+  },
+  {
+    "itemId": "Master's Inscribed Bindings",
+    "Buying_Price": 27700,
+    "ratio": -0.3727822380810784,
+    "Selling_Price": 20178,
+    "difference": -7522
+  },
+  {
+    "itemId": "Master's Torch",
+    "Buying_Price": 17691,
+    "ratio": -0.7410687924416888,
+    "Selling_Price": 10161,
+    "difference": -7530
+  },
+  {
+    "itemId": "Expert's Quarterstaff",
+    "Buying_Price": 32999,
+    "ratio": -0.3178514376996805,
+    "Selling_Price": 25040,
+    "difference": -7959
+  },
+  {
+    "itemId": "Grandmaster's Severed Demonic Horns",
+    "Buying_Price": 22996,
+    "ratio": -0.5321473782397228,
+    "Selling_Price": 15009,
+    "difference": -7987
+  },
+  {
+    "itemId": "Grandmaster Imbuer's Journal (Empty)",
+    "Buying_Price": 14496,
+    "ratio": -1.229467856044294,
+    "Selling_Price": 6502,
+    "difference": -7994
+  },
+  {
+    "itemId": "Exceptional Titanium Steel Bar",
+    "Buying_Price": 22497,
+    "ratio": -0.5515172413793104,
+    "Selling_Price": 14500,
+    "difference": -7997
+  },
+  {
+    "itemId": "Grandmaster's Pickaxe",
+    "Buying_Price": 44944,
+    "ratio": -0.22027639759984796,
+    "Selling_Price": 36831,
+    "difference": -8113
+  },
+  {
+    "itemId": "Master's Hunter Hood",
+    "Buying_Price": 38970,
+    "ratio": -0.2721990075737791,
+    "Selling_Price": 30632,
+    "difference": -8338
+  },
+  {
+    "itemId": "Adept's Royal Sandals",
+    "Buying_Price": 25492,
+    "ratio": -0.49882408278457196,
+    "Selling_Price": 17008,
+    "difference": -8484
+  },
+  {
+    "itemId": "Adept's Giant Stag",
+    "Buying_Price": 72971,
+    "ratio": -0.1317895585817539,
+    "Selling_Price": 64474,
+    "difference": -8497
+  },
+  {
+    "itemId": "Elder's Relic",
+    "Buying_Price": 43999,
+    "ratio": -0.23937353877355566,
+    "Selling_Price": 35501,
+    "difference": -8498
+  },
+  {
+    "itemId": "Expert's Bag",
+    "Buying_Price": 18660,
+    "ratio": -0.8658134186581342,
+    "Selling_Price": 10001,
+    "difference": -8659
+  },
+  {
+    "itemId": "Expert's Demon Helmet",
+    "Buying_Price": 24896,
+    "ratio": -0.5374544556289755,
+    "Selling_Price": 16193,
+    "difference": -8703
+  },
+  {
+    "itemId": "Elder's Soldier Armor",
+    "Buying_Price": 104992,
+    "ratio": -0.09363249065133382,
+    "Selling_Price": 96003,
+    "difference": -8989
+  },
+  {
+    "itemId": "Grandmaster's Demonhide Padding",
+    "Buying_Price": 24066,
+    "ratio": -0.6005586592178771,
+    "Selling_Price": 15036,
+    "difference": -9030
+  },
+  {
+    "itemId": "Master's Hellgate Ritual (2v2 - Lethal)",
+    "Buying_Price": 24600,
+    "ratio": -0.6155513233072831,
+    "Selling_Price": 15227,
+    "difference": -9373
+  },
+  {
+    "itemId": "Adept's Cursed Skull",
+    "Buying_Price": 21899,
+    "ratio": -0.790596892886345,
+    "Selling_Price": 12230,
+    "difference": -9669
+  },
+  {
+    "itemId": "Master's Timeworn Walking Staff",
+    "Buying_Price": 26883,
+    "ratio": -0.5803303744635824,
+    "Selling_Price": 17011,
+    "difference": -9872
+  },
+  {
+    "itemId": "Grandmaster's Infernal Cloth Folds",
+    "Buying_Price": 26993,
+    "ratio": -0.5808491947291362,
+    "Selling_Price": 17075,
+    "difference": -9918
+  },
+  {
+    "itemId": "Adept's Demon Helmet",
+    "Buying_Price": 18964,
+    "ratio": -1.0973236009732361,
+    "Selling_Price": 9042,
+    "difference": -9922
+  },
+  {
+    "itemId": "Pork Pie",
+    "Buying_Price": 27964,
+    "ratio": -0.5521758436944938,
+    "Selling_Price": 18016,
+    "difference": -9948
+  },
+  {
+    "itemId": "Expert's Druid Robe",
+    "Buying_Price": 12555,
+    "ratio": -3.853111712408195,
+    "Selling_Price": 2587,
+    "difference": -9968
+  },
+  {
+    "itemId": "Expert's Bedrock Mace",
+    "Buying_Price": 10332,
+    "ratio": -10331,
+    "Selling_Price": 1,
+    "difference": -10331
+  },
+  {
+    "itemId": "Avalonian Beef Sandwich",
+    "Buying_Price": 55878,
+    "ratio": -0.2360748573198248,
+    "Selling_Price": 45206,
+    "difference": -10672
+  },
+  {
+    "itemId": "Master's Hunter Hood",
+    "Buying_Price": 120969,
+    "ratio": -0.09845994588017362,
+    "Selling_Price": 110126,
+    "difference": -10843
+  },
+  {
+    "itemId": "Adept's Fiend Cowl",
+    "Buying_Price": 53996,
+    "ratio": -0.25528304079972103,
+    "Selling_Price": 43015,
+    "difference": -10981
+  },
+  {
+    "itemId": "Swiftclaw Cub",
+    "Buying_Price": 53991,
+    "ratio": -0.2554586675967911,
+    "Selling_Price": 43005,
+    "difference": -10986
+  },
+  {
+    "itemId": "Adept's Duskweaver Boots",
+    "Buying_Price": 13280,
+    "ratio": -5.381547333012975,
+    "Selling_Price": 2081,
+    "difference": -11199
+  },
+  {
+    "itemId": "Deepwater Kraken Salad",
+    "Buying_Price": 27224,
+    "ratio": -0.7004372267332917,
+    "Selling_Price": 16010,
+    "difference": -11214
+  },
+  {
+    "itemId": "Adept's Transport Ox",
+    "Buying_Price": 20975,
+    "ratio": -1.1988678058496698,
+    "Selling_Price": 9539,
+    "difference": -11436
+  },
+  {
+    "itemId": "Adept's Cleric Robe",
+    "Buying_Price": 19498,
+    "ratio": -1.4287493771798705,
+    "Selling_Price": 8028,
+    "difference": -11470
+  },
+  {
+    "itemId": "Major Poison Potion",
+    "Buying_Price": 22071,
+    "ratio": -1.0904527372608448,
+    "Selling_Price": 10558,
+    "difference": -11513
+  },
+  {
+    "itemId": "Master's Remnants of the Old King",
+    "Buying_Price": 27990,
+    "ratio": -0.7260730143068574,
+    "Selling_Price": 16216,
+    "difference": -11774
+  },
+  {
+    "itemId": "Elder's Stone Hammer",
+    "Buying_Price": 96888,
+    "ratio": -0.13924229240646238,
+    "Selling_Price": 85046,
+    "difference": -11842
+  },
+  {
+    "itemId": "Major Gigantify Potion",
+    "Buying_Price": 45634,
+    "ratio": -0.36862309930120263,
+    "Selling_Price": 33343,
+    "difference": -12291
+  },
+  {
+    "itemId": "Uncommon Master's Dungeon Map (Solo)",
+    "Buying_Price": 37000,
+    "ratio": -0.510080809729818,
+    "Selling_Price": 24502,
+    "difference": -12498
+  },
+  {
+    "itemId": "Adept's Lymhurst Cape",
+    "Buying_Price": 67774,
+    "ratio": -0.22687858655708623,
+    "Selling_Price": 55241,
+    "difference": -12533
+  },
+  {
+    "itemId": "Avalonian Beef Stew",
+    "Buying_Price": 58779,
+    "ratio": -0.2776376994305091,
+    "Selling_Price": 46006,
+    "difference": -12773
+  },
+  {
+    "itemId": "Elder Imbuer's Journal (Empty)",
+    "Buying_Price": 23897,
+    "ratio": -1.1714675147660154,
+    "Selling_Price": 11005,
+    "difference": -12892
+  },
+  {
+    "itemId": "Adept's Boltcasters",
+    "Buying_Price": 28960,
+    "ratio": -0.8068380334414774,
+    "Selling_Price": 16028,
+    "difference": -12932
+  },
+  {
+    "itemId": "Master's Ruined Ancestral Vamplate",
+    "Buying_Price": 25867,
+    "ratio": -1.0527735893976669,
+    "Selling_Price": 12601,
+    "difference": -13266
+  },
+  {
+    "itemId": "Expert's Mercenary Shoes",
+    "Buying_Price": 15997,
+    "ratio": -5.335445544554456,
+    "Selling_Price": 2525,
+    "difference": -13472
+  },
+  {
+    "itemId": "Master's Battleaxe",
+    "Buying_Price": 39986,
+    "ratio": -0.5082795820602769,
+    "Selling_Price": 26511,
+    "difference": -13475
+  },
+  {
+    "itemId": "Exceptional Fortified Leather",
+    "Buying_Price": 238599,
+    "ratio": -0.06040700955970259,
+    "Selling_Price": 225007,
+    "difference": -13592
+  },
+  {
+    "itemId": "Avalonian Pork Omelette",
+    "Buying_Price": 38981,
+    "ratio": -0.5581181549284515,
+    "Selling_Price": 25018,
+    "difference": -13963
+  },
+  {
+    "itemId": "Exceptional Opulent Cloth",
+    "Buying_Price": 113996,
+    "ratio": -0.13992580222593323,
+    "Selling_Price": 100003,
+    "difference": -13993
+  },
+  {
+    "itemId": "Pork Omelette",
+    "Buying_Price": 144396,
+    "ratio": -0.11057614656319462,
+    "Selling_Price": 130019,
+    "difference": -14377
+  },
+  {
+    "itemId": "Expert's Armored Horse",
+    "Buying_Price": 62763,
+    "ratio": -0.29796298211146727,
+    "Selling_Price": 48355,
+    "difference": -14408
+  },
+  {
+    "itemId": "Grandmaster's Hunter Shoes",
+    "Buying_Price": 39966,
+    "ratio": -0.5886000476985452,
+    "Selling_Price": 25158,
+    "difference": -14808
+  },
+  {
+    "itemId": "Master's Demon Boots",
+    "Buying_Price": 26993,
+    "ratio": -1.220366866825697,
+    "Selling_Price": 12157,
+    "difference": -14836
+  },
+  {
+    "itemId": "Elder's Bow",
+    "Buying_Price": 247994,
+    "ratio": -0.063808612768586,
+    "Selling_Price": 233119,
+    "difference": -14875
+  },
+  {
+    "itemId": "Expert's Deathgivers",
+    "Buying_Price": 104000,
+    "ratio": -0.1681455689093564,
+    "Selling_Price": 89030,
+    "difference": -14970
+  },
+  {
+    "itemId": "Elder's Avalonian Shard",
+    "Buying_Price": 64999,
+    "ratio": -0.2999280028798848,
+    "Selling_Price": 50002,
+    "difference": -14997
+  },
+  {
+    "itemId": "Elder's Cape",
+    "Buying_Price": 87992,
+    "ratio": -0.21847261649241848,
+    "Selling_Price": 72215,
+    "difference": -15777
+  },
+  {
+    "itemId": "Elder's Assassin Shoes",
+    "Buying_Price": 87966,
+    "ratio": -0.2200385570241744,
+    "Selling_Price": 72101,
+    "difference": -15865
+  },
+  {
+    "itemId": "Grandmaster's Sickle",
+    "Buying_Price": 42962,
+    "ratio": -0.5909494889645979,
+    "Selling_Price": 27004,
+    "difference": -15958
+  },
+  {
+    "itemId": "Expert's Torch",
+    "Buying_Price": 18985,
+    "ratio": -5.276033057851239,
+    "Selling_Price": 3025,
+    "difference": -15960
+  },
+  {
+    "itemId": "Uncommon Fortified Leather",
+    "Buying_Price": 60998,
+    "ratio": -0.3546682064493204,
+    "Selling_Price": 45028,
+    "difference": -15970
+  },
+  {
+    "itemId": "Master's Guardian Armor",
+    "Buying_Price": 38987,
+    "ratio": -0.7807975151875028,
+    "Selling_Price": 21893,
+    "difference": -17094
+  },
+  {
+    "itemId": "Expert's Sanctified Belt",
+    "Buying_Price": 150883,
+    "ratio": -0.13114176474998127,
+    "Selling_Price": 133390,
+    "difference": -17493
+  },
+  {
+    "itemId": "Elder's Hellgate Ritual (10v10 - Lethal)",
+    "Buying_Price": 410992,
+    "ratio": -0.04473377834944102,
+    "Selling_Price": 393394,
+    "difference": -17598
+  },
+  {
+    "itemId": "Grandmaster's Cleric Sandals",
+    "Buying_Price": 64498,
+    "ratio": -0.37869265956992004,
+    "Selling_Price": 46782,
+    "difference": -17716
+  },
+  {
+    "itemId": "Major Healing Potion",
+    "Buying_Price": 48892,
+    "ratio": -0.5770086765796858,
+    "Selling_Price": 31003,
+    "difference": -17889
+  },
+  {
+    "itemId": "Grandmaster's Mage Cowl",
+    "Buying_Price": 69886,
+    "ratio": -0.351368075026588,
+    "Selling_Price": 51715,
+    "difference": -18171
+  },
+  {
+    "itemId": "Master's Miner Garb",
+    "Buying_Price": 21888,
+    "ratio": -5.268041237113402,
+    "Selling_Price": 3492,
+    "difference": -18396
+  },
+  {
+    "itemId": "Adept's Thetford Cape",
+    "Buying_Price": 71956,
+    "ratio": -0.34915813552330593,
+    "Selling_Price": 53334,
+    "difference": -18622
+  },
+  {
+    "itemId": "Grandmaster's Satchel of Insight",
+    "Buying_Price": 118975,
+    "ratio": -0.18571855690651784,
+    "Selling_Price": 100340,
+    "difference": -18635
+  },
+  {
+    "itemId": "Adept's Carving Sword",
+    "Buying_Price": 36000,
+    "ratio": -1.1172734223372347,
+    "Selling_Price": 17003,
+    "difference": -18997
+  },
+  {
+    "itemId": "Master's Longbow",
+    "Buying_Price": 60151,
+    "ratio": -0.46196286214271826,
+    "Selling_Price": 41144,
+    "difference": -19007
+  },
+  {
+    "itemId": "Exceptional Meteorite Steel Bar",
+    "Buying_Price": 109040,
+    "ratio": -0.2115286326970512,
+    "Selling_Price": 90002,
+    "difference": -19038
+  },
+  {
+    "itemId": "Deadwater Eel Stew",
+    "Buying_Price": 82936,
+    "ratio": -0.30603760511479955,
+    "Selling_Price": 63502,
+    "difference": -19434
+  },
+  {
+    "itemId": "Elder's Imbued Visor",
+    "Buying_Price": 39868,
+    "ratio": -0.9725891841076642,
+    "Selling_Price": 20211,
+    "difference": -19657
+  },
+  {
+    "itemId": "Expert's Transport Ox",
+    "Buying_Price": 46353,
+    "ratio": -0.7383461466341646,
+    "Selling_Price": 26665,
+    "difference": -19688
+  },
+  {
+    "itemId": "Beef Stew",
+    "Buying_Price": 145000,
+    "ratio": -0.15867447639899954,
+    "Selling_Price": 125143,
+    "difference": -19857
+  },
+  {
+    "itemId": "Elder's Soldier Helmet",
+    "Buying_Price": 72997,
+    "ratio": -0.37587409292243895,
+    "Selling_Price": 53055,
+    "difference": -19942
+  },
+  {
+    "itemId": "Elder's Pickaxe",
+    "Buying_Price": 120127,
+    "ratio": -0.20056166861551686,
+    "Selling_Price": 100059,
+    "difference": -20068
+  },
+  {
+    "itemId": "Swiftclaw",
+    "Buying_Price": 112981,
+    "ratio": -0.21926766886459537,
+    "Selling_Price": 92663,
+    "difference": -20318
+  },
+  {
+    "itemId": "Expert's Dungeon Map (Group)",
+    "Buying_Price": 51995,
+    "ratio": -0.6641062570011201,
+    "Selling_Price": 31245,
+    "difference": -20750
+  },
+  {
+    "itemId": "Elder's Hunter Hood",
+    "Buying_Price": 124983,
+    "ratio": -0.21323872019880408,
+    "Selling_Price": 103016,
+    "difference": -21967
+  },
+  {
+    "itemId": "Master's Bag",
+    "Buying_Price": 171999,
+    "ratio": -0.14666,
+    "Selling_Price": 150000,
+    "difference": -21999
+  },
+  {
+    "itemId": "Elder's Sickle",
+    "Buying_Price": 114997,
+    "ratio": -0.2493291470661727,
+    "Selling_Price": 92047,
+    "difference": -22950
+  },
+  {
+    "itemId": "Expert's Miner Workboots",
+    "Buying_Price": 23997,
+    "ratio": -22.595870206489675,
+    "Selling_Price": 1017,
+    "difference": -22980
+  },
+  {
+    "itemId": "Grandmaster's Guardian Helmet",
+    "Buying_Price": 58795,
+    "ratio": -0.6433742348436147,
+    "Selling_Price": 35777,
+    "difference": -23018
+  },
+  {
+    "itemId": "Adept's Fort Sterling Cape",
+    "Buying_Price": 67899,
+    "ratio": -0.5405331820760068,
+    "Selling_Price": 44075,
+    "difference": -23824
+  },
+  {
+    "itemId": "Roast Pork",
+    "Buying_Price": 53934,
+    "ratio": -0.7915296462381665,
+    "Selling_Price": 30105,
+    "difference": -23829
+  },
+  {
+    "itemId": "Adept's Caerleon Cape",
+    "Buying_Price": 74967,
+    "ratio": -0.46623247080912983,
+    "Selling_Price": 51129,
+    "difference": -23838
+  },
+  {
+    "itemId": "Uncommon Grandmaster's Dungeon Map (Solo)",
+    "Buying_Price": 92279,
+    "ratio": -0.35692438902449786,
+    "Selling_Price": 68006,
+    "difference": -24273
+  },
+  {
+    "itemId": "Grandmaster's Flawless Griffin Beak",
+    "Buying_Price": 78995,
+    "ratio": -0.4473780644215618,
+    "Selling_Price": 54578,
+    "difference": -24417
+  },
+  {
+    "itemId": "Expert's Fists of Avalon",
+    "Buying_Price": 59998,
+    "ratio": -0.6866162539004301,
+    "Selling_Price": 35573,
+    "difference": -24425
+  },
+  {
+    "itemId": "Rare Adept's Dungeon Map (Solo)",
+    "Buying_Price": 43000,
+    "ratio": -1.3882254929186337,
+    "Selling_Price": 18005,
+    "difference": -24995
+  },
+  {
+    "itemId": "Grandmaster's Assassin Hood",
+    "Buying_Price": 56993,
+    "ratio": -0.8093015873015873,
+    "Selling_Price": 31500,
+    "difference": -25493
+  },
+  {
+    "itemId": "Master's Mercenary Jacket",
+    "Buying_Price": 68974,
+    "ratio": -0.5884208829422196,
+    "Selling_Price": 43423,
+    "difference": -25551
+  },
+  {
+    "itemId": "Elder's Cleric Robe",
+    "Buying_Price": 182598,
+    "ratio": -0.16304458598726115,
+    "Selling_Price": 157000,
+    "difference": -25598
+  },
+  {
+    "itemId": "Grandmaster's Carved Bone",
+    "Buying_Price": 100978,
+    "ratio": -0.3424890649720143,
+    "Selling_Price": 75217,
+    "difference": -25761
+  },
+  {
+    "itemId": "Elder's Whispering Bow",
+    "Buying_Price": 399995,
+    "ratio": -0.06950534759358289,
+    "Selling_Price": 374000,
+    "difference": -25995
+  },
+  {
+    "itemId": "Uncommon Elder's Dungeon Map (Solo)",
+    "Buying_Price": 155100,
+    "ratio": -0.20230694097765925,
+    "Selling_Price": 129002,
+    "difference": -26098
+  },
+  {
+    "itemId": "Grandmaster's Soldier Helmet",
+    "Buying_Price": 54987,
+    "ratio": -0.9478214665249735,
+    "Selling_Price": 28230,
+    "difference": -26757
+  },
+  {
+    "itemId": "Expert's Demon Cape",
+    "Buying_Price": 68946,
+    "ratio": -0.639385581129922,
+    "Selling_Price": 42056,
+    "difference": -26890
+  },
+  {
+    "itemId": "Expert's Crushed Avalonian Heirloom",
+    "Buying_Price": 40999,
+    "ratio": -1.9314314314314314,
+    "Selling_Price": 13986,
+    "difference": -27013
+  },
+  {
+    "itemId": "Expert's Fey Dragonscales",
+    "Buying_Price": 69997,
+    "ratio": -0.6357114481340406,
+    "Selling_Price": 42793,
+    "difference": -27204
+  },
+  {
+    "itemId": "Master's Fractured Opaque Orb",
+    "Buying_Price": 27487,
+    "ratio": -13742.5,
+    "Selling_Price": 2,
+    "difference": -27485
+  },
+  {
+    "itemId": "Rare Adamantium Steel Bar",
+    "Buying_Price": 117890,
+    "ratio": -0.3098743347296141,
+    "Selling_Price": 90001,
+    "difference": -27889
+  },
+  {
+    "itemId": "Grandmaster's Mage Cowl",
+    "Buying_Price": 28365,
+    "ratio": -5672,
+    "Selling_Price": 5,
+    "difference": -28360
+  },
+  {
+    "itemId": "Grandmaster's Torch",
+    "Buying_Price": 72992,
+    "ratio": -0.6406752230888534,
+    "Selling_Price": 44489,
+    "difference": -28503
+  },
+  {
+    "itemId": "Deadwater Eel Stew",
+    "Buying_Price": 139000,
+    "ratio": -0.2636363636363636,
+    "Selling_Price": 110000,
+    "difference": -29000
+  },
+  {
+    "itemId": "Expert's Ghastly Visor",
+    "Buying_Price": 95983,
+    "ratio": -0.43674220878364217,
+    "Selling_Price": 66806,
+    "difference": -29177
+  },
+  {
+    "itemId": "Exceptional Reinforced Leather",
+    "Buying_Price": 128378,
+    "ratio": -0.2966950830269484,
+    "Selling_Price": 99004,
+    "difference": -29374
+  },
+  {
+    "itemId": "Expert's Demonhide Leather",
+    "Buying_Price": 124992,
+    "ratio": -0.30874823307680227,
+    "Selling_Price": 95505,
+    "difference": -29487
+  },
+  {
+    "itemId": "Adept's Demon Cape",
+    "Buying_Price": 69999,
+    "ratio": -0.7486198196397792,
+    "Selling_Price": 40031,
+    "difference": -29968
+  },
+  {
+    "itemId": "Stonestream Lurcher Sandwich",
+    "Buying_Price": 29998,
+    "ratio": -29997,
+    "Selling_Price": 1,
+    "difference": -29997
+  },
+  {
+    "itemId": "Master's Ghastly Visor",
+    "Buying_Price": 95977,
+    "ratio": -0.46969557760627223,
+    "Selling_Price": 65304,
+    "difference": -30673
+  },
+  {
+    "itemId": "Adept's Redemption Staff",
+    "Buying_Price": 41888,
+    "ratio": -2.7689400755803493,
+    "Selling_Price": 11114,
+    "difference": -30774
+  },
+  {
+    "itemId": "Grandmaster's Bloodstained Antiquities",
+    "Buying_Price": 111081,
+    "ratio": -0.3884604327337725,
+    "Selling_Price": 80003,
+    "difference": -31078
+  },
+  {
+    "itemId": "Elder's Bloodforged Catalyst",
+    "Buying_Price": 421886,
+    "ratio": -0.08125438897745155,
+    "Selling_Price": 390182,
+    "difference": -31704
+  },
+  {
+    "itemId": "Adept's Great Holy Staff",
+    "Buying_Price": 36999,
+    "ratio": -6.319287833827893,
+    "Selling_Price": 5055,
+    "difference": -31944
+  },
+  {
+    "itemId": "Master's Augured Fasteners",
+    "Buying_Price": 222000,
+    "ratio": -0.16839030551827583,
+    "Selling_Price": 190005,
+    "difference": -31995
+  },
+  {
+    "itemId": "Elder's Knight Armor",
+    "Buying_Price": 119987,
+    "ratio": -0.3704029421170451,
+    "Selling_Price": 87556,
+    "difference": -32431
+  },
+  {
+    "itemId": "Grandmaster's Ghastly Scroll",
+    "Buying_Price": 75000,
+    "ratio": -0.7739303200170298,
+    "Selling_Price": 42279,
+    "difference": -32721
+  },
+  {
+    "itemId": "Pork Pie",
+    "Buying_Price": 69893,
+    "ratio": -0.8825890211711469,
+    "Selling_Price": 37126,
+    "difference": -32767
+  },
+  {
+    "itemId": "Elder's Scholar Cowl",
+    "Buying_Price": 87083,
+    "ratio": -0.6086265816939134,
+    "Selling_Price": 54135,
+    "difference": -32948
+  },
+  {
+    "itemId": "Major Energy Potion",
+    "Buying_Price": 64997,
+    "ratio": -1.03115625,
+    "Selling_Price": 32000,
+    "difference": -32997
+  },
+  {
+    "itemId": "Elder's Skinning Knife",
+    "Buying_Price": 118471,
+    "ratio": -0.39318641516534175,
+    "Selling_Price": 85036,
+    "difference": -33435
+  },
+  {
+    "itemId": "Master's Satchel of Insight",
+    "Buying_Price": 186916,
+    "ratio": -0.21813821328953886,
+    "Selling_Price": 153444,
+    "difference": -33472
+  },
+  {
+    "itemId": "Master's Divine Staff",
+    "Buying_Price": 88883,
+    "ratio": -0.6284604532712849,
+    "Selling_Price": 54581,
+    "difference": -34302
+  },
+  {
+    "itemId": "Elder's Axe",
+    "Buying_Price": 119980,
+    "ratio": -0.4062188675707036,
+    "Selling_Price": 85321,
+    "difference": -34659
+  },
+  {
+    "itemId": "Expert's Keeper Axeheads",
+    "Buying_Price": 124996,
+    "ratio": -0.3885667310982248,
+    "Selling_Price": 90018,
+    "difference": -34978
+  },
+  {
+    "itemId": "Expert's Exalted Greave",
+    "Buying_Price": 112887,
+    "ratio": -0.4641064550017509,
+    "Selling_Price": 77103,
+    "difference": -35784
+  },
+  {
+    "itemId": "Expert's Infernal Cloth Visor",
+    "Buying_Price": 79992,
+    "ratio": -0.8175456135966008,
+    "Selling_Price": 44011,
+    "difference": -35981
+  },
+  {
+    "itemId": "Expert's Bloodforged Spikes",
+    "Buying_Price": 68989,
+    "ratio": -1.14932394541716,
+    "Selling_Price": 32098,
+    "difference": -36891
+  },
+  {
+    "itemId": "Expert's Carved Skull Padding",
+    "Buying_Price": 93949,
+    "ratio": -0.6510667463358054,
+    "Selling_Price": 56902,
+    "difference": -37047
+  },
+  {
+    "itemId": "Pristine Cedar Planks",
+    "Buying_Price": 59978,
+    "ratio": -1.6373230146864832,
+    "Selling_Price": 22742,
+    "difference": -37236
+  },
+  {
+    "itemId": "Master's Icicle Staff",
+    "Buying_Price": 37665,
+    "ratio": -37664,
+    "Selling_Price": 1,
+    "difference": -37664
+  },
+  {
+    "itemId": "Expert's Great Holy Staff",
+    "Buying_Price": 88494,
+    "ratio": -0.7695260947810438,
+    "Selling_Price": 50010,
+    "difference": -38484
+  },
+  {
+    "itemId": "Elder's Satchel of Insight",
+    "Buying_Price": 199960,
+    "ratio": -0.2391168287136014,
+    "Selling_Price": 161373,
+    "difference": -38587
+  },
+  {
+    "itemId": "Avalonian Pork Omelette",
+    "Buying_Price": 189793,
+    "ratio": -0.25565163313507683,
+    "Selling_Price": 151151,
+    "difference": -38642
+  },
+  {
+    "itemId": "Expert's Bag",
+    "Buying_Price": 169988,
+    "ratio": -0.2947915238486967,
+    "Selling_Price": 131286,
+    "difference": -38702
+  },
+  {
+    "itemId": "Grandmaster's Ghastly Leather",
+    "Buying_Price": 88868,
+    "ratio": -0.7768980065183052,
+    "Selling_Price": 50013,
+    "difference": -38855
+  },
+  {
+    "itemId": "Exceptional Baroque Cloth",
+    "Buying_Price": 219981,
+    "ratio": -0.21468683220965096,
+    "Selling_Price": 181101,
+    "difference": -38880
+  },
+  {
+    "itemId": "Expert's Augured Fasteners",
+    "Buying_Price": 221998,
+    "ratio": -0.21233535026977435,
+    "Selling_Price": 183116,
+    "difference": -38882
+  },
+  {
+    "itemId": "Grandmaster's Arcane Essence",
+    "Buying_Price": 84894,
+    "ratio": -0.8864914113019711,
+    "Selling_Price": 45001,
+    "difference": -39893
+  },
+  {
+    "itemId": "Master's Mercenary Jacket",
+    "Buying_Price": 194945,
+    "ratio": -0.2601160926672872,
+    "Selling_Price": 154704,
+    "difference": -40241
+  },
+  {
+    "itemId": "Master's Graveguard Helmet",
+    "Buying_Price": 111887,
+    "ratio": -0.5646780779772893,
+    "Selling_Price": 71508,
+    "difference": -40379
+  },
+  {
+    "itemId": "Expert's Inscribed Stone",
+    "Buying_Price": 124086,
+    "ratio": -0.5131700892639384,
+    "Selling_Price": 82004,
+    "difference": -42082
+  },
+  {
+    "itemId": "Expert's Royal Cowl",
+    "Buying_Price": 113993,
+    "ratio": -0.5861219719211342,
+    "Selling_Price": 71869,
+    "difference": -42124
+  },
+  {
+    "itemId": "Expert's Messianic Curio",
+    "Buying_Price": 243992,
+    "ratio": -0.21018173160860248,
+    "Selling_Price": 201616,
+    "difference": -42376
+  },
+  {
+    "itemId": "Saddled Bighorn Ram",
+    "Buying_Price": 178935,
+    "ratio": -0.3156985294117647,
+    "Selling_Price": 136000,
+    "difference": -42935
+  },
+  {
+    "itemId": "Major Sticky Potion",
+    "Buying_Price": 65400,
+    "ratio": -1.9266982905217935,
+    "Selling_Price": 22346,
+    "difference": -43054
+  },
+  {
+    "itemId": "Grandmaster's Griffin Underfur",
+    "Buying_Price": 88688,
+    "ratio": -0.9687444503640561,
+    "Selling_Price": 45048,
+    "difference": -43640
+  },
+  {
+    "itemId": "Master's Bag",
+    "Buying_Price": 429000,
+    "ratio": -0.1137910174961251,
+    "Selling_Price": 385171,
+    "difference": -43829
+  },
+  {
+    "itemId": "Adept's Deathgivers",
+    "Buying_Price": 142695,
+    "ratio": -0.4501082284076705,
+    "Selling_Price": 98403,
+    "difference": -44292
+  },
+  {
+    "itemId": "Adept's Specter Hood",
+    "Buying_Price": 99988,
+    "ratio": -0.8137754639287463,
+    "Selling_Price": 55127,
+    "difference": -44861
+  },
+  {
+    "itemId": "Elder's Infernal Harpoon Tip",
+    "Buying_Price": 124997,
+    "ratio": -0.5624429694628817,
+    "Selling_Price": 80001,
+    "difference": -44996
+  },
+  {
+    "itemId": "Elder's Infernal Shield Core",
+    "Buying_Price": 120983,
+    "ratio": -0.6112805487114603,
+    "Selling_Price": 75085,
+    "difference": -45898
+  },
+  {
+    "itemId": "Elder's Mage Robe",
+    "Buying_Price": 157850,
+    "ratio": -0.42202082807826746,
+    "Selling_Price": 111004,
+    "difference": -46846
+  },
+  {
+    "itemId": "Elder's Undead Crest",
+    "Buying_Price": 69990,
+    "ratio": -2.323993161094225,
+    "Selling_Price": 21056,
+    "difference": -48934
+  },
+  {
+    "itemId": "Adept's Fort Sterling Cape",
+    "Buying_Price": 119994,
+    "ratio": -0.7112419959783802,
+    "Selling_Price": 70121,
+    "difference": -49873
+  },
+  {
+    "itemId": "Elder's Hellish Hammer Heads",
+    "Buying_Price": 119984,
+    "ratio": -0.7115631508373513,
+    "Selling_Price": 70102,
+    "difference": -49882
+  },
+  {
+    "itemId": "Elder's Hellish Sicklehead",
+    "Buying_Price": 119989,
+    "ratio": -0.7125627997259648,
+    "Selling_Price": 70064,
+    "difference": -49925
+  },
+  {
+    "itemId": "Master's Keeper Axeheads",
+    "Buying_Price": 134965,
+    "ratio": -0.5875060282061235,
+    "Selling_Price": 85017,
+    "difference": -49948
+  },
+  {
+    "itemId": "Master's Hunter Shoes",
+    "Buying_Price": 94983,
+    "ratio": -1.1102643856920684,
+    "Selling_Price": 45010,
+    "difference": -49973
+  },
+  {
+    "itemId": "Grizzly Bear",
+    "Buying_Price": 750000,
+    "ratio": -0.07139336850360631,
+    "Selling_Price": 700023,
+    "difference": -49977
+  },
+  {
+    "itemId": "Deadwater Eel Stew",
+    "Buying_Price": 228488,
+    "ratio": -0.2928209306536303,
+    "Selling_Price": 176736,
+    "difference": -51752
+  },
+  {
+    "itemId": "Rare Expert's Dungeon Map (Solo)",
+    "Buying_Price": 108995,
+    "ratio": -0.9445683395479118,
+    "Selling_Price": 56051,
+    "difference": -52944
+  },
+  {
+    "itemId": "Adept's Fiend Cowl",
+    "Buying_Price": 127526,
+    "ratio": -0.7155810261791374,
+    "Selling_Price": 74334,
+    "difference": -53192
+  },
+  {
+    "itemId": "Morgana Raven",
+    "Buying_Price": 249998,
+    "ratio": -0.27113533631967784,
+    "Selling_Price": 196673,
+    "difference": -53325
+  },
+  {
+    "itemId": "Expert's Hellion Jacket",
+    "Buying_Price": 309986,
+    "ratio": -0.21298658611028504,
+    "Selling_Price": 255556,
+    "difference": -54430
+  },
+  {
+    "itemId": "Adept's Specter Hood",
+    "Buying_Price": 100000,
+    "ratio": -1.2108730737768345,
+    "Selling_Price": 45231,
+    "difference": -54769
+  },
+  {
+    "itemId": "Master's Carved Skull Padding",
+    "Buying_Price": 104884,
+    "ratio": -1.0929916985951469,
+    "Selling_Price": 50112,
+    "difference": -54772
+  },
+  {
+    "itemId": "Adept's Hellion Jacket",
+    "Buying_Price": 94969,
+    "ratio": -1.4943268372117455,
+    "Selling_Price": 38074,
+    "difference": -56895
+  },
+  {
+    "itemId": "Divine Owl",
+    "Buying_Price": 233991,
+    "ratio": -0.32827170445385495,
+    "Selling_Price": 176162,
+    "difference": -57829
+  },
+  {
+    "itemId": "Elder's Bag",
+    "Buying_Price": 209000,
+    "ratio": -0.3839593155692112,
+    "Selling_Price": 151016,
+    "difference": -57984
+  },
+  {
+    "itemId": "Adept's Bear Paws",
+    "Buying_Price": 214882,
+    "ratio": -0.380971966941299,
+    "Selling_Price": 155602,
+    "difference": -59280
+  },
+  {
+    "itemId": "Master's Sanctified Belt",
+    "Buying_Price": 119993,
+    "ratio": -0.9964228670304806,
+    "Selling_Price": 60104,
+    "difference": -59889
+  },
+  {
+    "itemId": "Grandmaster's Soldier Boots",
+    "Buying_Price": 65999,
+    "ratio": -12.131516116195781,
+    "Selling_Price": 5026,
+    "difference": -60973
+  },
+  {
+    "itemId": "Elder's Occult Orb",
+    "Buying_Price": 127993,
+    "ratio": -0.9360318252635719,
+    "Selling_Price": 66111,
+    "difference": -61882
+  },
+  {
+    "itemId": "Pristine Titanium Steel Bar",
+    "Buying_Price": 62998,
+    "ratio": -56.2188919164396,
+    "Selling_Price": 1101,
+    "difference": -61897
+  },
+  {
+    "itemId": "Grandmaster's Uprooted Perennial Sapling",
+    "Buying_Price": 113999,
+    "ratio": -1.1906033820138355,
+    "Selling_Price": 52040,
+    "difference": -61959
+  },
+  {
+    "itemId": "Elder's Hellish Handle",
+    "Buying_Price": 131575,
+    "ratio": -0.9071604580373968,
+    "Selling_Price": 68990,
+    "difference": -62585
+  },
+  {
+    "itemId": "Elder's Infernal Scroll",
+    "Buying_Price": 144660,
+    "ratio": -0.7808252905259011,
+    "Selling_Price": 81232,
+    "difference": -63428
+  },
+  {
+    "itemId": "Elder's Scholar Robe",
+    "Buying_Price": 177994,
+    "ratio": -0.5612960948738641,
+    "Selling_Price": 114004,
+    "difference": -63990
+  },
+  {
+    "itemId": "Grandmaster's Severed Celestial Keepsake",
+    "Buying_Price": 114996,
+    "ratio": -1.2998280068797248,
+    "Selling_Price": 50002,
+    "difference": -64994
+  },
+  {
+    "itemId": "Master's Infernal Cloth Visor",
+    "Buying_Price": 105096,
+    "ratio": -1.6825259073970085,
+    "Selling_Price": 39178,
+    "difference": -65918
+  },
+  {
+    "itemId": "Saddled Greywolf",
+    "Buying_Price": 319963,
+    "ratio": -0.2601036555108342,
+    "Selling_Price": 253918,
+    "difference": -66045
+  },
+  {
+    "itemId": "Master's Crushed Avalonian Heirloom",
+    "Buying_Price": 78968,
+    "ratio": -6.176951740434427,
+    "Selling_Price": 11003,
+    "difference": -67965
+  },
+  {
+    "itemId": "Expert's Avalonian Battle Memoir",
+    "Buying_Price": 211997,
+    "ratio": -0.4721911653391296,
+    "Selling_Price": 144001,
+    "difference": -67996
+  },
+  {
+    "itemId": "Master's Torch",
+    "Buying_Price": 69531,
+    "ratio": -8690.375,
+    "Selling_Price": 8,
+    "difference": -69523
+  },
+  {
+    "itemId": "Elder's Carved bone",
+    "Buying_Price": 470000,
+    "ratio": -0.17492069285323242,
+    "Selling_Price": 400027,
+    "difference": -69973
+  },
+  {
+    "itemId": "Expert's Royal Sandals",
+    "Buying_Price": 170970,
+    "ratio": -0.7173249226565953,
+    "Selling_Price": 99556,
+    "difference": -71414
+  },
+  {
+    "itemId": "Elder's Icicle Orb",
+    "Buying_Price": 140663,
+    "ratio": -1.0313226565771803,
+    "Selling_Price": 69247,
+    "difference": -71416
+  },
+  {
+    "itemId": "Master's Soldier Boots",
+    "Buying_Price": 88000,
+    "ratio": -4.850674822152782,
+    "Selling_Price": 15041,
+    "difference": -72959
+  },
+  {
+    "itemId": "Adept's Morgana Cape",
+    "Buying_Price": 129985,
+    "ratio": -1.3476556855945672,
+    "Selling_Price": 55368,
+    "difference": -74617
+  },
+  {
+    "itemId": "Elder's Cursed Jawbone",
+    "Buying_Price": 149699,
+    "ratio": -1.0062855994103062,
+    "Selling_Price": 74615,
+    "difference": -75084
+  },
+  {
+    "itemId": "Adept's Realmbreaker",
+    "Buying_Price": 230878,
+    "ratio": -0.4883064308184209,
+    "Selling_Price": 155128,
+    "difference": -75750
+  },
+  {
+    "itemId": "Grandmaster Fisherman's Trophy Journal (Full)",
+    "Buying_Price": 85999,
+    "ratio": -7.5999,
+    "Selling_Price": 10000,
+    "difference": -75999
+  },
+  {
+    "itemId": "Elder's Hellish Bolts",
+    "Buying_Price": 147992,
+    "ratio": -1.1005478752093565,
+    "Selling_Price": 70454,
+    "difference": -77538
+  },
+  {
+    "itemId": "Adept's Shoes of Tenacity",
+    "Buying_Price": 299999,
+    "ratio": -0.3627584139256204,
+    "Selling_Price": 220141,
+    "difference": -79858
+  },
+  {
+    "itemId": "Expert's Druid Sandals",
+    "Buying_Price": 80997,
+    "ratio": -2453.4545454545455,
+    "Selling_Price": 33,
+    "difference": -80964
+  },
+  {
+    "itemId": "Master's Exalted Greave",
+    "Buying_Price": 167999,
+    "ratio": -0.9308898236903203,
+    "Selling_Price": 87006,
+    "difference": -80993
+  },
+  {
+    "itemId": "Grandmaster's Messianic Curio",
+    "Buying_Price": 264000,
+    "ratio": -0.46665851856378576,
+    "Selling_Price": 180001,
+    "difference": -83999
+  },
+  {
+    "itemId": "Master's Assassin Shoes",
+    "Buying_Price": 84975,
+    "ratio": -84974,
+    "Selling_Price": 1,
+    "difference": -84974
+  },
+  {
+    "itemId": "Master's Soldier Boots",
+    "Buying_Price": 84996,
+    "ratio": -42497,
+    "Selling_Price": 2,
+    "difference": -84994
+  },
+  {
+    "itemId": "Elder's Hellish Sicklehead Pair",
+    "Buying_Price": 126980,
+    "ratio": -2.0860087005127954,
+    "Selling_Price": 41147,
+    "difference": -85833
+  },
+  {
+    "itemId": "Elder's Assassin Jacket",
+    "Buying_Price": 216994,
+    "ratio": -0.6691332574382327,
+    "Selling_Price": 130004,
+    "difference": -86990
+  },
+  {
+    "itemId": "Grandmaster's Bag",
+    "Buying_Price": 92000,
+    "ratio": -584.9872611464968,
+    "Selling_Price": 157,
+    "difference": -91843
+  },
+  {
+    "itemId": "Elder's Warped Raven Plate",
+    "Buying_Price": 469944,
+    "ratio": -0.25317731638764596,
+    "Selling_Price": 375002,
+    "difference": -94942
+  },
+  {
+    "itemId": "Elder's Hunter Hood",
+    "Buying_Price": 245990,
+    "ratio": -0.6309414096945507,
+    "Selling_Price": 150827,
+    "difference": -95163
+  },
+  {
+    "itemId": "Grandmaster's Mercenary Jacket",
+    "Buying_Price": 199992,
+    "ratio": -0.9993401913445101,
+    "Selling_Price": 100029,
+    "difference": -99963
+  },
+  {
+    "itemId": "Pork Pie",
+    "Buying_Price": 159995,
+    "ratio": -1.6664944501849939,
+    "Selling_Price": 60002,
+    "difference": -99993
+  },
+  {
+    "itemId": "Saddled Wild Boar",
+    "Buying_Price": 361991,
+    "ratio": -0.39163078579117333,
+    "Selling_Price": 260120,
+    "difference": -101871
+  },
+  {
+    "itemId": "Grandmaster's Transport Ox",
+    "Buying_Price": 308000,
+    "ratio": -0.5005578372479379,
+    "Selling_Price": 205257,
+    "difference": -102743
+  },
+  {
+    "itemId": "Master's Messianic Curio",
+    "Buying_Price": 279951,
+    "ratio": -0.5814207032904957,
+    "Selling_Price": 177025,
+    "difference": -102926
+  },
+  {
+    "itemId": "Adept's Fort Sterling Cape",
+    "Buying_Price": 150004,
+    "ratio": -2.70188297426026,
+    "Selling_Price": 40521,
+    "difference": -109483
+  },
+  {
+    "itemId": "Elder's Fey Dragonscales",
+    "Buying_Price": 445617,
+    "ratio": -0.37105751391465674,
+    "Selling_Price": 325017,
+    "difference": -120600
+  },
+  {
+    "itemId": "Expert's Specter Hood",
+    "Buying_Price": 178985,
+    "ratio": -2.3256224451876624,
+    "Selling_Price": 53820,
+    "difference": -125165
+  },
+  {
+    "itemId": "Expert's Avalonian Sickle",
+    "Buying_Price": 346949,
+    "ratio": -0.5768545535527619,
+    "Selling_Price": 220026,
+    "difference": -126923
+  },
+  {
+    "itemId": "Moose",
+    "Buying_Price": 435991,
+    "ratio": -0.4150314493985992,
+    "Selling_Price": 308114,
+    "difference": -127877
+  },
+  {
+    "itemId": "Saddled Winter Bear",
+    "Buying_Price": 299896,
+    "ratio": -0.7711892935819371,
+    "Selling_Price": 169319,
+    "difference": -130577
+  },
+  {
+    "itemId": "Black Panther",
+    "Buying_Price": 661881,
+    "ratio": -0.2488320754716981,
+    "Selling_Price": 530000,
+    "difference": -131881
+  },
+  {
+    "itemId": "Adept's Bear Paws",
+    "Buying_Price": 147486,
+    "ratio": -12.509755427315197,
+    "Selling_Price": 10917,
+    "difference": -136569
+  },
+  {
+    "itemId": "Elder's Unholy Scroll",
+    "Buying_Price": 458890,
+    "ratio": -0.42799351491973003,
+    "Selling_Price": 321353,
+    "difference": -137537
+  },
+  {
+    "itemId": "Elder's Ghastly Scroll",
+    "Buying_Price": 469945,
+    "ratio": -0.41446596155814136,
+    "Selling_Price": 332242,
+    "difference": -137703
+  },
+  {
+    "itemId": "Master's Inscribed Stone",
+    "Buying_Price": 229999,
+    "ratio": -1.5272393635724333,
+    "Selling_Price": 91008,
+    "difference": -138991
+  },
+  {
+    "itemId": "Elder's Carved Skull Padding",
+    "Buying_Price": 450000,
+    "ratio": -0.44943874510814424,
+    "Selling_Price": 310465,
+    "difference": -139535
+  },
+  {
+    "itemId": "Spectral Direboar",
+    "Buying_Price": 769999,
+    "ratio": -0.22195102985214374,
+    "Selling_Price": 630139,
+    "difference": -139860
+  },
+  {
+    "itemId": "Adept's Mistwalker Jacket",
+    "Buying_Price": 409993,
+    "ratio": -0.5374775936939843,
+    "Selling_Price": 266666,
+    "difference": -143327
+  },
+  {
+    "itemId": "Grandmaster's Ghastly Candle",
+    "Buying_Price": 349992,
+    "ratio": -0.7412277428695094,
+    "Selling_Price": 201003,
+    "difference": -148989
+  },
+  {
+    "itemId": "Elder's Possessed Catalyst",
+    "Buying_Price": 449966,
+    "ratio": -0.49910713095856823,
+    "Selling_Price": 300156,
+    "difference": -149810
+  },
+  {
+    "itemId": "Elder's Imbued Mace Head",
+    "Buying_Price": 469955,
+    "ratio": -0.46837535267816693,
+    "Selling_Price": 320051,
+    "difference": -149904
+  },
+  {
+    "itemId": "Adept's Deathgivers",
+    "Buying_Price": 335000,
+    "ratio": -0.8108010226971746,
+    "Selling_Price": 185001,
+    "difference": -149999
+  },
+  {
+    "itemId": "Master's Caerleon Cape",
+    "Buying_Price": 209979,
+    "ratio": -2.5974404221418905,
+    "Selling_Price": 58369,
+    "difference": -151610
+  },
+  {
+    "itemId": "Elder's Preserved Rocks",
+    "Buying_Price": 495400,
+    "ratio": -0.5008619200974318,
+    "Selling_Price": 330077,
+    "difference": -165323
+  },
+  {
+    "itemId": "Elder's Ghastly Bindings",
+    "Buying_Price": 439986,
+    "ratio": -0.6264453644832175,
+    "Selling_Price": 270520,
+    "difference": -169466
+  },
+  {
+    "itemId": "Grandmaster's Ghastly Visor",
+    "Buying_Price": 399999,
+    "ratio": -0.738952191737348,
+    "Selling_Price": 230023,
+    "difference": -169976
+  },
+  {
+    "itemId": "Elder's Engraved Log",
+    "Buying_Price": 495000,
+    "ratio": -0.5442883170689096,
+    "Selling_Price": 320536,
+    "difference": -174464
+  },
+  {
+    "itemId": "Elder's Cursed Barbs",
+    "Buying_Price": 469881,
+    "ratio": -0.5940002917420051,
+    "Selling_Price": 294781,
+    "difference": -175100
+  },
+  {
+    "itemId": "Grandmaster's Demon Helmet",
+    "Buying_Price": 180998,
+    "ratio": -1945.215053763441,
+    "Selling_Price": 93,
+    "difference": -180905
+  },
+  {
+    "itemId": "Adept's Hallowfall",
+    "Buying_Price": 249966,
+    "ratio": -3.1032518590259195,
+    "Selling_Price": 60919,
+    "difference": -189047
+  },
+  {
+    "itemId": "Grandmaster's Augured Fasteners",
+    "Buying_Price": 432981,
+    "ratio": -0.8040499156267578,
+    "Selling_Price": 240005,
+    "difference": -192976
+  },
+  {
+    "itemId": "Elder's Preserved Log",
+    "Buying_Price": 448997,
+    "ratio": -0.788455027424488,
+    "Selling_Price": 251053,
+    "difference": -197944
+  },
+  {
+    "itemId": "Elder's Transport Ox",
+    "Buying_Price": 953993,
+    "ratio": -0.3093651865515954,
+    "Selling_Price": 728592,
+    "difference": -225401
+  },
+  {
+    "itemId": "Elder's Royal Shoes",
+    "Buying_Price": 829999,
+    "ratio": -0.3776968864012854,
+    "Selling_Price": 602454,
+    "difference": -227545
+  },
+  {
+    "itemId": "Elder's Veilweaver Claws",
+    "Buying_Price": 450094,
+    "ratio": -1.045705143646685,
+    "Selling_Price": 220019,
+    "difference": -230075
+  },
+  {
+    "itemId": "Pristine Bloodoak Planks",
+    "Buying_Price": 259998,
+    "ratio": -1312.121212121212,
+    "Selling_Price": 198,
+    "difference": -259800
+  },
+  {
+    "itemId": "Elder's Inscribed Bindings",
+    "Buying_Price": 600000,
+    "ratio": -0.9021532374648101,
+    "Selling_Price": 315432,
+    "difference": -284568
+  },
+  {
+    "itemId": "Adept's Carving Sword",
+    "Buying_Price": 300000,
+    "ratio": -22.957834211787254,
+    "Selling_Price": 12522,
+    "difference": -287478
+  },
+  {
+    "itemId": "Elder's Keeper Axeheads",
+    "Buying_Price": 1680000,
+    "ratio": -0.22004002893237784,
+    "Selling_Price": 1377004,
+    "difference": -302996
+  },
+  {
+    "itemId": "Elder's Flawless Griffin Beak",
+    "Buying_Price": 430000,
+    "ratio": -9.744627686156921,
+    "Selling_Price": 40020,
+    "difference": -389980
+  },
+  {
+    "itemId": "Elder's Crushed Avalonian Heirloom",
+    "Buying_Price": 1105986,
+    "ratio": -0.701516923076923,
+    "Selling_Price": 650000,
+    "difference": -455986
+  },
+  {
+    "itemId": "Elder's Ghastly Leather",
+    "Buying_Price": 529999,
+    "ratio": -9.594047333493243,
+    "Selling_Price": 50028,
+    "difference": -479971
+  },
+  {
+    "itemId": "Unknown",
+    "Buying_Price": 1999972,
+    "ratio": -0.33331466666666665,
+    "Selling_Price": 1500000,
+    "difference": -499972
+  },
+  {
+    "itemId": "Master's Fists of Avalon",
+    "Buying_Price": 564000,
+    "ratio": -563999,
+    "Selling_Price": 1,
+    "difference": -563999
+  },
+  {
+    "itemId": "Elder's Knight Helmet",
+    "Buying_Price": 839973,
+    "ratio": -7.393015587529976,
+    "Selling_Price": 100080,
+    "difference": -739893
+  },
+  {
+    "itemId": "Elder's Messianic Curio",
+    "Buying_Price": 2300000,
+    "ratio": -0.5333098225827204,
+    "Selling_Price": 1500023,
+    "difference": -799977
+  },
+  {
+    "itemId": "Elder's Demonic Jawbone",
+    "Buying_Price": 2418863,
+    "ratio": -0.5117865404002367,
+    "Selling_Price": 1600003,
+    "difference": -818860
+  },
+  {
+    "itemId": "Elder's Royal Shoes",
+    "Buying_Price": 1229998,
+    "ratio": -5.117414766369085,
+    "Selling_Price": 201065,
+    "difference": -1028933
+  },
+  {
+    "itemId": "Elder's Mercenary Jacket",
+    "Buying_Price": 1833318,
+    "ratio": -3.571717126377449,
+    "Selling_Price": 401013,
+    "difference": -1432305
+  },
+  {
+    "itemId": "Grandmaster's Royal Cowl",
+    "Buying_Price": 1558884,
+    "ratio": -43.20986358866737,
+    "Selling_Price": 35261,
+    "difference": -1523623
+  },
+  {
+    "itemId": "Elder's Warbow",
+    "Buying_Price": 1809995,
+    "ratio": -59.01508670711894,
+    "Selling_Price": 30159,
+    "difference": -1779836
+  },
+  {
+    "itemId": "Elder's Whispering Bow",
+    "Buying_Price": 2799992,
+    "ratio": -4.5445056762039036,
+    "Selling_Price": 505003,
+    "difference": -2294989
+  },
+  {
+    "itemId": "Elder's Cursed Blades",
+    "Buying_Price": 3000000,
+    "ratio": -8.64385252620717,
+    "Selling_Price": 311079,
+    "difference": -2688921
+  },
+  {
+    "itemId": "Elder's Augured Fasteners",
+    "Buying_Price": 12500000,
+    "ratio": -0.4062501406250141,
+    "Selling_Price": 8888888,
+    "difference": -3611112
+  },
+  {
+    "itemId": "Direwolf Skin: Snow Fox",
+    "Buying_Price": 15749989,
+    "ratio": -0.4318171818181818,
+    "Selling_Price": 11000000,
+    "difference": -4749989
+  },
+  {
+    "itemId": "Stag Skin: Divine Stag",
+    "Buying_Price": 34999999,
+    "ratio": -0.7500000375000019,
+    "Selling_Price": 19999999,
+    "difference": -15000000
+  },
+  {
+    "itemId": "Recruiter's Sarcophagus Chest",
+    "Buying_Price": 38888888,
+    "ratio": -0.8041237166011267,
+    "Selling_Price": 21555555,
+    "difference": -17333333
+  },
+  {
+    "itemId": "Swiftclaw Skin: Steelplate Cougar",
+    "Buying_Price": 42999997,
+    "ratio": -1.14999985,
+    "Selling_Price": 20000000,
+    "difference": -22999997
+  },
+  {
+    "itemId": "Recruiter's Storage-Barrel",
+    "Buying_Price": 59999999,
+    "ratio": -1.3478260988657849,
+    "Selling_Price": 25555555,
+    "difference": -34444444
+  },
+  {
+    "itemId": "Riding Horse Skin: Seafarer's Horse",
+    "Buying_Price": 59999999,
+    "ratio": -3.3795619708029196,
+    "Selling_Price": 13700000,
+    "difference": -46299999
+  },
+  {
+    "itemId": "Stag Skin: Alpaca",
+    "Buying_Price": 88888882,
+    "ratio": -1.22222205,
+    "Selling_Price": 40000000,
+    "difference": -48888882
+  },
+  {
+    "itemId": "Riding Horse Skin: Sea Captain's Horse",
+    "Buying_Price": 154999997,
+    "ratio": -1.5619834214876034,
+    "Selling_Price": 60500000,
+    "difference": -94499997
+  },
+  {
+    "itemId": "Corrupted Scroll",
+    "Buying_Price": 100000000,
+    "ratio": -150149.15015015015,
+    "Selling_Price": 666,
+    "difference": -99999334
+  },
+  {
+    "itemId": "Mammoth Calf",
+    "Buying_Price": 175999999,
+    "ratio": -8.777778265432126,
+    "Selling_Price": 17999999,
+    "difference": -158000000
+  },
+  {
+    "itemId": "Elder's Command Mammoth",
+    "Buying_Price": 210000000,
+    "ratio": -40.99999160000168,
+    "Selling_Price": 5000001,
+    "difference": -204999999
+  }
+]

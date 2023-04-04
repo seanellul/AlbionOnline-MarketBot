@@ -1,0 +1,4182 @@
+[
+    {
+        "itemId": "T4_HEAD_CLOTH_SET3@2",
+        "itemName": "Adept's Mage Cowl"
+    },
+    {
+        "itemId": "T5_MAIN_DAGGER_HELL",
+        "itemName": "Expert's Demonfang"
+    },
+    {
+        "itemId": "T6_2H_NATURESTAFF_KEEPER",
+        "itemName": "Master's Rampant Staff"
+    },
+    {
+        "itemId": "T5_ARMOR_PLATE_SET3@1",
+        "itemName": "Expert's Guardian Armor"
+    },
+    {
+        "itemId": "T4_2H_HALBERD_MORGANA@1",
+        "itemName": "Adept's Carrioncaller"
+    },
+    {
+        "itemId": "T5_OFF_SHIELD",
+        "itemName": "Expert's Shield"
+    },
+    {
+        "itemId": "T5_SHOES_CLOTH_KEEPER",
+        "itemName": "Expert's Druid Sandals"
+    },
+    {
+        "itemId": "T5_ARMOR_PLATE_SET2@2",
+        "itemName": "Expert's Knight Armor"
+    },
+    {
+        "itemId": "T5_MAIN_FROSTSTAFF",
+        "itemName": "Expert's Frost Staff"
+    },
+    {
+        "itemId": "T5_2H_HARPOON_HELL",
+        "itemName": "Expert's Spirithunter"
+    },
+    {
+        "itemId": "T4_2H_HALBERD@2",
+        "itemName": "Adept's Halberd"
+    },
+    {
+        "itemId": "T5_HEAD_PLATE_SET1@2",
+        "itemName": "Expert's Soldier Helmet"
+    },
+    {
+        "itemId": "T5_ARMOR_CLOTH_SET3@2",
+        "itemName": "Expert's Mage Robe"
+    },
+    {
+        "itemId": "T6_OFF_TOWERSHIELD_UNDEAD",
+        "itemName": "Master's Sarcophagus"
+    },
+    {
+        "itemId": "T4_SHOES_CLOTH_KEEPER",
+        "itemName": "Adept's Druid Sandals"
+    },
+    {
+        "itemId": "T3_2H_TOOL_KNIFE",
+        "itemName": "Journeyman's Skinning Knife"
+    },
+    {
+        "itemId": "T5_MAIN_NATURESTAFF_KEEPER",
+        "itemName": "Expert's Druidic Staff"
+    },
+    {
+        "itemId": "T6_2H_REPEATINGCROSSBOW_UNDEAD",
+        "itemName": "Master's Weeping Repeater"
+    },
+    {
+        "itemId": "T5_SHOES_CLOTH_SET2",
+        "itemName": "Expert's Cleric Sandals"
+    },
+    {
+        "itemId": "T5_SHOES_LEATHER_SET3@2",
+        "itemName": "Expert's Assassin Shoes"
+    },
+    {
+        "itemId": "T5_2H_AXE",
+        "itemName": "Expert's Greataxe"
+    },
+    {
+        "itemId": "T4_SHOES_LEATHER_SET2",
+        "itemName": "Adept's Hunter Shoes"
+    },
+    {
+        "itemId": "T5_ARMOR_CLOTH_KEEPER@1",
+        "itemName": "Expert's Druid Robe"
+    },
+    {
+        "itemId": "T5_HEAD_LEATHER_SET3",
+        "itemName": "Expert's Assassin Hood"
+    },
+    {
+        "itemId": "T4_ARMOR_PLATE_SET2@2",
+        "itemName": "Adept's Knight Armor"
+    },
+    {
+        "itemId": "T4_MAIN_HOLYSTAFF@1",
+        "itemName": "Adept's Holy Staff"
+    },
+    {
+        "itemId": "T5_MAIN_HOLYSTAFF_MORGANA",
+        "itemName": "Expert's Lifetouch Staff"
+    },
+    {
+        "itemId": "T5_HEAD_LEATHER_SET1@1",
+        "itemName": "Expert's Mercenary Hood"
+    },
+    {
+        "itemId": "T6_HEAD_PLATE_SET2@2",
+        "itemName": "Master's Knight Helmet"
+    },
+    {
+        "itemId": "T6_SHOES_PLATE_UNDEAD",
+        "itemName": "Master's Graveguard Boots"
+    },
+    {
+        "itemId": "T4_SHOES_LEATHER_SET3",
+        "itemName": "Adept's Assassin Shoes"
+    },
+    {
+        "itemId": "T5_HEAD_CLOTH_SET2",
+        "itemName": "Expert's Cleric Cowl"
+    },
+    {
+        "itemId": "T6_ARMOR_CLOTH_SET1@1",
+        "itemName": "Master's Scholar Robe"
+    },
+    {
+        "itemId": "T4_SHOES_LEATHER_FEY",
+        "itemName": "Adept's Mistwalker Shoes"
+    },
+    {
+        "itemId": "T5_SHOES_PLATE_SET3@2",
+        "itemName": "Expert's Guardian Boots"
+    },
+    {
+        "itemId": "T6_HEAD_PLATE_KEEPER@1",
+        "itemName": "Master's Judicator Helmet"
+    },
+    {
+        "itemId": "T5_MAIN_NATURESTAFF",
+        "itemName": "Expert's Nature Staff"
+    },
+    {
+        "itemId": "T5_MAIN_DAGGER",
+        "itemName": "Expert's Dagger"
+    },
+    {
+        "itemId": "T6_HEAD_CLOTH_SET2",
+        "itemName": "Master's Cleric Cowl"
+    },
+    {
+        "itemId": "T6_SHOES_LEATHER_HELL",
+        "itemName": "Master's Hellion Shoes"
+    },
+    {
+        "itemId": "T6_SHOES_LEATHER_SET3@1",
+        "itemName": "Master's Assassin Shoes"
+    },
+    {
+        "itemId": "T5_2H_FROSTSTAFF",
+        "itemName": "Expert's Great Frost Staff"
+    },
+    {
+        "itemId": "T4_MAIN_SPEAR_KEEPER",
+        "itemName": "Adept's Heron Spear"
+    },
+    {
+        "itemId": "T5_OFF_ORB_MORGANA",
+        "itemName": "Expert's Eye of Secrets"
+    },
+    {
+        "itemId": "T5_MAIN_HOLYSTAFF",
+        "itemName": "Expert's Holy Staff"
+    },
+    {
+        "itemId": "T5_2H_LONGBOW",
+        "itemName": "Expert's Longbow"
+    },
+    {
+        "itemId": "T5_HEAD_CLOTH_SET1@2",
+        "itemName": "Expert's Scholar Cowl"
+    },
+    {
+        "itemId": "T5_2H_SPEAR",
+        "itemName": "Expert's Pike"
+    },
+    {
+        "itemId": "T4_HEAD_LEATHER_ROYAL@3",
+        "itemName": "Adept's Royal Hood"
+    },
+    {
+        "itemId": "T6_ARMOR_PLATE_SET3@1",
+        "itemName": "Master's Guardian Armor"
+    },
+    {
+        "itemId": "T5_HEAD_CLOTH_KEEPER",
+        "itemName": "Expert's Druid Cowl"
+    },
+    {
+        "itemId": "T5_2H_CURSEDSTAFF",
+        "itemName": "Expert's Great Cursed Staff"
+    },
+    {
+        "itemId": "T6_CAPEITEM_FW_THETFORD",
+        "itemName": "Master's Thetford Cape"
+    },
+    {
+        "itemId": "T5_ARMOR_LEATHER_SET2@2",
+        "itemName": "Expert's Hunter Jacket"
+    },
+    {
+        "itemId": "T6_2H_HALBERD_MORGANA",
+        "itemName": "Master's Carrioncaller"
+    },
+    {
+        "itemId": "T4_2H_NATURESTAFF@2",
+        "itemName": "Adept's Great Nature Staff"
+    },
+    {
+        "itemId": "T6_SHOES_CLOTH_SET1",
+        "itemName": "Master's Scholar Sandals"
+    },
+    {
+        "itemId": "T5_2H_DUALSWORD",
+        "itemName": "Expert's Dual Swords"
+    },
+    {
+        "itemId": "T5_HEAD_PLATE_SET2",
+        "itemName": "Expert's Knight Helmet"
+    },
+    {
+        "itemId": "T5_ARMOR_PLATE_AVALON@1",
+        "itemName": "Expert's Armor of Valor"
+    },
+    {
+        "itemId": "T6_HEAD_PLATE_UNDEAD",
+        "itemName": "Master's Graveguard Helmet"
+    },
+    {
+        "itemId": "T7_2H_REPEATINGCROSSBOW_UNDEAD",
+        "itemName": "Grandmaster's Weeping Repeater"
+    },
+    {
+        "itemId": "T5_ARMOR_PLATE_SET1@1",
+        "itemName": "Expert's Soldier Armor"
+    },
+    {
+        "itemId": "T5_2H_MACE",
+        "itemName": "Expert's Heavy Mace"
+    },
+    {
+        "itemId": "T5_2H_CROSSBOWLARGE",
+        "itemName": "Expert's Heavy Crossbow"
+    },
+    {
+        "itemId": "T5_HEAD_PLATE_SET2@1",
+        "itemName": "Expert's Knight Helmet"
+    },
+    {
+        "itemId": "T5_SHOES_CLOTH_SET2@1",
+        "itemName": "Expert's Cleric Sandals"
+    },
+    {
+        "itemId": "T6_MAIN_SWORD@1",
+        "itemName": "Master's Broadsword"
+    },
+    {
+        "itemId": "T4_MAIN_ARCANESTAFF_UNDEAD",
+        "itemName": "Adept's Witchwork Staff"
+    },
+    {
+        "itemId": "T4_2H_LONGBOW_UNDEAD",
+        "itemName": "Adept's Whispering Bow"
+    },
+    {
+        "itemId": "T6_HEAD_CLOTH_KEEPER",
+        "itemName": "Master's Druid Cowl"
+    },
+    {
+        "itemId": "T6_MAIN_SCIMITAR_MORGANA",
+        "itemName": "Master's Clarent Blade"
+    },
+    {
+        "itemId": "T6_OFF_SHIELD@1",
+        "itemName": "Master's Shield"
+    },
+    {
+        "itemId": "T6_BAG@2",
+        "itemName": "Master's Bag"
+    },
+    {
+        "itemId": "T5_SHOES_LEATHER_SET2@1",
+        "itemName": "Expert's Hunter Shoes"
+    },
+    {
+        "itemId": "T6_MAIN_NATURESTAFF",
+        "itemName": "Master's Nature Staff"
+    },
+    {
+        "itemId": "T5_SHOES_LEATHER_SET1",
+        "itemName": "Expert's Mercenary Shoes"
+    },
+    {
+        "itemId": "T6_SHOES_CLOTH_KEEPER",
+        "itemName": "Master's Druid Sandals"
+    },
+    {
+        "itemId": "T4_2H_GLACIALSTAFF@2",
+        "itemName": "Adept's Glacial Staff"
+    },
+    {
+        "itemId": "T6_ARMOR_PLATE_SET1",
+        "itemName": "Master's Soldier Armor"
+    },
+    {
+        "itemId": "T4_CAPEITEM_FW_FORTSTERLING@1",
+        "itemName": "Adept's Fort Sterling Cape"
+    },
+    {
+        "itemId": "T5_BAG_INSIGHT@2",
+        "itemName": "Expert's Satchel of Insight"
+    },
+    {
+        "itemId": "T6_2H_COMBATSTAFF_MORGANA",
+        "itemName": "Master's Black Monk Stave"
+    },
+    {
+        "itemId": "T5_2H_CLAYMORE",
+        "itemName": "Expert's Claymore"
+    },
+    {
+        "itemId": "T8_CAPEITEM_MORGANA@4",
+        "itemName": "Elder's Morgana Cape"
+    },
+    {
+        "itemId": "T5_HEAD_LEATHER_SET1",
+        "itemName": "Expert's Mercenary Hood"
+    },
+    {
+        "itemId": "T6_MAIN_FROSTSTAFF",
+        "itemName": "Master's Frost Staff"
+    },
+    {
+        "itemId": "T4_2H_HARPOON_HELL",
+        "itemName": "Adept's Spirithunter"
+    },
+    {
+        "itemId": "T5_2H_KNUCKLES_SET3",
+        "itemName": "Expert's Spiked Gauntlets"
+    },
+    {
+        "itemId": "T6_SHOES_CLOTH_SET1@1",
+        "itemName": "Master's Scholar Sandals"
+    },
+    {
+        "itemId": "T6_SHOES_PLATE_SET2@1",
+        "itemName": "Master's Knight Boots"
+    },
+    {
+        "itemId": "T7_ARMOR_PLATE_SET3@1",
+        "itemName": "Grandmaster's Guardian Armor"
+    },
+    {
+        "itemId": "T5_2H_ENIGMATICORB_MORGANA",
+        "itemName": "Expert's Malevolent Locus"
+    },
+    {
+        "itemId": "T4_HEAD_CLOTH_SET1",
+        "itemName": "Adept's Scholar Cowl"
+    },
+    {
+        "itemId": "T6_2H_POLEHAMMER",
+        "itemName": "Master's Polehammer"
+    },
+    {
+        "itemId": "T4_HEAD_CLOTH_SET2",
+        "itemName": "Adept's Cleric Cowl"
+    },
+    {
+        "itemId": "T6_SHOES_LEATHER_SET3",
+        "itemName": "Master's Assassin Shoes"
+    },
+    {
+        "itemId": "T6_HEAD_CLOTH_SET3",
+        "itemName": "Master's Mage Cowl"
+    },
+    {
+        "itemId": "T5_HEAD_CLOTH_SET3@2",
+        "itemName": "Expert's Mage Cowl"
+    },
+    {
+        "itemId": "T5_ARMOR_PLATE_SET3",
+        "itemName": "Expert's Guardian Armor"
+    },
+    {
+        "itemId": "T8_CAPEITEM_KEEPER",
+        "itemName": "Elder's Keeper Cape"
+    },
+    {
+        "itemId": "T4_MAIN_SCIMITAR_MORGANA",
+        "itemName": "Adept's Clarent Blade"
+    },
+    {
+        "itemId": "T5_2H_REPEATINGCROSSBOW_UNDEAD",
+        "itemName": "Expert's Weeping Repeater"
+    },
+    {
+        "itemId": "T6_HEAD_LEATHER_MORGANA",
+        "itemName": "Master's Stalker Hood"
+    },
+    {
+        "itemId": "T7_ARMOR_LEATHER_SET1",
+        "itemName": "Grandmaster's Mercenary Jacket"
+    },
+    {
+        "itemId": "T5_ARMOR_LEATHER_SET2@1",
+        "itemName": "Expert's Hunter Jacket"
+    },
+    {
+        "itemId": "T6_OFF_TORCH@1",
+        "itemName": "Master's Torch"
+    },
+    {
+        "itemId": "T6_MAIN_ROCKMACE_KEEPER",
+        "itemName": "Master's Bedrock Mace"
+    },
+    {
+        "itemId": "T5_2H_NATURESTAFF",
+        "itemName": "Expert's Great Nature Staff"
+    },
+    {
+        "itemId": "T7_ARMOR_CLOTH_SET3@1",
+        "itemName": "Grandmaster's Mage Robe"
+    },
+    {
+        "itemId": "T4_HEAD_PLATE_SET3",
+        "itemName": "Adept's Guardian Helmet"
+    },
+    {
+        "itemId": "T4_CAPE",
+        "itemName": "Adept's Cape"
+    },
+    {
+        "itemId": "T8_CAPE",
+        "itemName": "Elder's Cape"
+    },
+    {
+        "itemId": "T4_2H_WILDSTAFF",
+        "itemName": "Adept's Wild Staff"
+    },
+    {
+        "itemId": "T8_HEAD_LEATHER_ROYAL@1",
+        "itemName": "Elder's Royal Hood"
+    },
+    {
+        "itemId": "T6_SHOES_PLATE_SET2",
+        "itemName": "Master's Knight Boots"
+    },
+    {
+        "itemId": "T6_HEAD_PLATE_SET2",
+        "itemName": "Master's Knight Helmet"
+    },
+    {
+        "itemId": "T5_2H_WILDSTAFF",
+        "itemName": "Expert's Wild Staff"
+    },
+    {
+        "itemId": "T5_MAIN_CURSEDSTAFF_AVALON",
+        "itemName": "Expert's Shadowcaller"
+    },
+    {
+        "itemId": "T4_ARMOR_CLOTH_SET1@1",
+        "itemName": "Adept's Scholar Robe"
+    },
+    {
+        "itemId": "T4_2H_BOW@1",
+        "itemName": "Adept's Bow"
+    },
+    {
+        "itemId": "T6_BAG_INSIGHT@2",
+        "itemName": "Master's Satchel of Insight"
+    },
+    {
+        "itemId": "T6_ARMOR_LEATHER_MORGANA",
+        "itemName": "Master's Stalker Jacket"
+    },
+    {
+        "itemId": "T7_HEAD_CLOTH_KEEPER",
+        "itemName": "Grandmaster's Druid Cowl"
+    },
+    {
+        "itemId": "T6_HEAD_CLOTH_SET1",
+        "itemName": "Master's Scholar Cowl"
+    },
+    {
+        "itemId": "T5_2H_QUARTERSTAFF",
+        "itemName": "Expert's Quarterstaff"
+    },
+    {
+        "itemId": "T7_ARMOR_LEATHER_SET2",
+        "itemName": "Grandmaster's Hunter Jacket"
+    },
+    {
+        "itemId": "T4_CAPEITEM_FW_FORTSTERLING",
+        "itemName": "Adept's Fort Sterling Cape"
+    },
+    {
+        "itemId": "T4_HEAD_LEATHER_SET3",
+        "itemName": "Adept's Assassin Hood"
+    },
+    {
+        "itemId": "T4_HEAD_LEATHER_SET3@1",
+        "itemName": "Adept's Assassin Hood"
+    },
+    {
+        "itemId": "T8_CAPEITEM_DEMON",
+        "itemName": "Elder's Demon Cape"
+    },
+    {
+        "itemId": "T7_BAG_INSIGHT@1",
+        "itemName": "Grandmaster's Satchel of Insight"
+    },
+    {
+        "itemId": "T6_2H_CROSSBOWLARGE",
+        "itemName": "Master's Heavy Crossbow"
+    },
+    {
+        "itemId": "T6_ARMOR_CLOTH_SET1",
+        "itemName": "Master's Scholar Robe"
+    },
+    {
+        "itemId": "T5_HEAD_CLOTH_SET1",
+        "itemName": "Expert's Scholar Cowl"
+    },
+    {
+        "itemId": "T7_ARMOR_PLATE_SET3",
+        "itemName": "Grandmaster's Guardian Armor"
+    },
+    {
+        "itemId": "T4_MAIN_NATURESTAFF",
+        "itemName": "Adept's Nature Staff"
+    },
+    {
+        "itemId": "T6_2H_ENIGMATICSTAFF",
+        "itemName": "Master's Enigmatic Staff"
+    },
+    {
+        "itemId": "T4_HEAD_LEATHER_SET1@2",
+        "itemName": "Adept's Mercenary Hood"
+    },
+    {
+        "itemId": "T4_2H_LONGBOW@1",
+        "itemName": "Adept's Longbow"
+    },
+    {
+        "itemId": "T4_BAG_INSIGHT@1",
+        "itemName": "Adept's Satchel of Insight"
+    },
+    {
+        "itemId": "T7_2H_CLAYMORE",
+        "itemName": "Grandmaster's Claymore"
+    },
+    {
+        "itemId": "T6_SHOES_CLOTH_SET3",
+        "itemName": "Master's Mage Sandals"
+    },
+    {
+        "itemId": "T7_HEAD_PLATE_SET1@1",
+        "itemName": "Grandmaster's Soldier Helmet"
+    },
+    {
+        "itemId": "T6_HEAD_PLATE_SET1",
+        "itemName": "Master's Soldier Helmet"
+    },
+    {
+        "itemId": "T4_2H_HOLYSTAFF",
+        "itemName": "Adept's Great Holy Staff"
+    },
+    {
+        "itemId": "T6_SHOES_LEATHER_SET2",
+        "itemName": "Master's Hunter Shoes"
+    },
+    {
+        "itemId": "T5_2H_CLAWPAIR",
+        "itemName": "Expert's Claws"
+    },
+    {
+        "itemId": "T7_SHOES_CLOTH_SET1",
+        "itemName": "Grandmaster's Scholar Sandals"
+    },
+    {
+        "itemId": "T4_2H_GLAIVE",
+        "itemName": "Adept's Glaive"
+    },
+    {
+        "itemId": "T4_MAIN_DAGGER",
+        "itemName": "Adept's Dagger"
+    },
+    {
+        "itemId": "T6_HEAD_PLATE_SET3",
+        "itemName": "Master's Guardian Helmet"
+    },
+    {
+        "itemId": "T4_OFF_BOOK@2",
+        "itemName": "Adept's Tome of Spells"
+    },
+    {
+        "itemId": "T5_HEAD_LEATHER_MORGANA",
+        "itemName": "Expert's Stalker Hood"
+    },
+    {
+        "itemId": "T8_HEAD_CLOTH_SET2@1",
+        "itemName": "Elder's Cleric Cowl"
+    },
+    {
+        "itemId": "T5_ARMOR_LEATHER_SET1",
+        "itemName": "Expert's Mercenary Jacket"
+    },
+    {
+        "itemId": "T5_SHOES_PLATE_SET2@2",
+        "itemName": "Expert's Knight Boots"
+    },
+    {
+        "itemId": "T6_OFF_DEMONSKULL_HELL",
+        "itemName": "Master's Muisak"
+    },
+    {
+        "itemId": "T5_MAIN_DAGGER_HELL@1",
+        "itemName": "Expert's Demonfang"
+    },
+    {
+        "itemId": "T5_CAPEITEM_FW_CAERLEON@2",
+        "itemName": "Expert's Caerleon Cape"
+    },
+    {
+        "itemId": "T6_SHOES_LEATHER_SET2@1",
+        "itemName": "Master's Hunter Shoes"
+    },
+    {
+        "itemId": "T5_2H_CROSSBOWLARGE_MORGANA",
+        "itemName": "Expert's Siegebow"
+    },
+    {
+        "itemId": "T2_HEAD_LEATHER_SET1",
+        "itemName": "Novice's Mercenary Hood"
+    },
+    {
+        "itemId": "T5_HEAD_PLATE_SET1",
+        "itemName": "Expert's Soldier Helmet"
+    },
+    {
+        "itemId": "T5_ARMOR_PLATE_SET2@1",
+        "itemName": "Expert's Knight Armor"
+    },
+    {
+        "itemId": "T6_BAG",
+        "itemName": "Master's Bag"
+    },
+    {
+        "itemId": "T6_CAPEITEM_MORGANA",
+        "itemName": "Master's Morgana Cape"
+    },
+    {
+        "itemId": "T7_CAPEITEM_FW_BRIDGEWATCH",
+        "itemName": "Grandmaster's Bridgewatch Cape"
+    },
+    {
+        "itemId": "T5_2H_CROSSBOW_CANNON_AVALON@1",
+        "itemName": "Expert's Energy Shaper"
+    },
+    {
+        "itemId": "T4_OFF_TALISMAN_AVALON@2",
+        "itemName": "Adept's Sacred Scepter"
+    },
+    {
+        "itemId": "T4_ARMOR_CLOTH_SET1",
+        "itemName": "Adept's Scholar Robe"
+    },
+    {
+        "itemId": "T6_ARMOR_CLOTH_ROYAL@1",
+        "itemName": "Master's Royal Robe"
+    },
+    {
+        "itemId": "T6_OFF_HORN_KEEPER",
+        "itemName": "Master's Mistcaller"
+    },
+    {
+        "itemId": "T5_BAG_INSIGHT@1",
+        "itemName": "Expert's Satchel of Insight"
+    },
+    {
+        "itemId": "T6_2H_AXE",
+        "itemName": "Master's Greataxe"
+    },
+    {
+        "itemId": "T8_CAPEITEM_FW_MARTLOCK",
+        "itemName": "Elder's Martlock Cape"
+    },
+    {
+        "itemId": "T4_ARMOR_PLATE_SET3@2",
+        "itemName": "Adept's Guardian Armor"
+    },
+    {
+        "itemId": "T7_SHOES_LEATHER_SET2",
+        "itemName": "Grandmaster's Hunter Shoes"
+    },
+    {
+        "itemId": "T2_SHOES_LEATHER_SET1",
+        "itemName": "Novice's Mercenary Shoes"
+    },
+    {
+        "itemId": "T6_ARMOR_LEATHER_SET1",
+        "itemName": "Master's Mercenary Jacket"
+    },
+    {
+        "itemId": "T4_HEAD_LEATHER_HELL",
+        "itemName": "Adept's Hellion Hood"
+    },
+    {
+        "itemId": "T6_CAPEITEM_FW_LYMHURST@3",
+        "itemName": "Master's Lymhurst Cape"
+    },
+    {
+        "itemId": "T7_HEAD_PLATE_SET1",
+        "itemName": "Grandmaster's Soldier Helmet"
+    },
+    {
+        "itemId": "T8_SHOES_CLOTH_SET1",
+        "itemName": "Elder's Scholar Sandals"
+    },
+    {
+        "itemId": "T8_HEAD_LEATHER_SET1@1",
+        "itemName": "Elder's Mercenary Hood"
+    },
+    {
+        "itemId": "T5_ARMOR_LEATHER_SET1@2",
+        "itemName": "Expert's Mercenary Jacket"
+    },
+    {
+        "itemId": "T5_BAG",
+        "itemName": "Expert's Bag"
+    },
+    {
+        "itemId": "T5_MAIN_HAMMER@2",
+        "itemName": "Expert's Hammer"
+    },
+    {
+        "itemId": "T8_SHOES_CLOTH_SET3",
+        "itemName": "Elder's Mage Sandals"
+    },
+    {
+        "itemId": "T6_2H_CROSSBOW@1",
+        "itemName": "Master's Crossbow"
+    },
+    {
+        "itemId": "T6_ARMOR_PLATE_SET2@1",
+        "itemName": "Master's Knight Armor"
+    },
+    {
+        "itemId": "T4_ARMOR_LEATHER_SET1",
+        "itemName": "Adept's Mercenary Jacket"
+    },
+    {
+        "itemId": "T4_ARMOR_LEATHER_SET3@2",
+        "itemName": "Adept's Assassin Jacket"
+    },
+    {
+        "itemId": "T5_2H_ICEGAUNTLETS_HELL",
+        "itemName": "Expert's Icicle Staff"
+    },
+    {
+        "itemId": "T5_HEAD_CLOTH_HELL",
+        "itemName": "Expert's Fiend Cowl"
+    },
+    {
+        "itemId": "T6_SHOES_LEATHER_AVALON",
+        "itemName": "Master's Shoes of Tenacity"
+    },
+    {
+        "itemId": "T4_ARMOR_PLATE_HELL@2",
+        "itemName": "Adept's Demon Armor"
+    },
+    {
+        "itemId": "T4_OFF_LAMP_UNDEAD",
+        "itemName": "Adept's Cryptcandle"
+    },
+    {
+        "itemId": "T7_HEAD_PLATE_SET2",
+        "itemName": "Grandmaster's Knight Helmet"
+    },
+    {
+        "itemId": "T6_MAIN_FIRESTAFF",
+        "itemName": "Master's Fire Staff"
+    },
+    {
+        "itemId": "T5_2H_DUALHAMMER_HELL",
+        "itemName": "Expert's Forge Hammers"
+    },
+    {
+        "itemId": "T4_2H_ENIGMATICORB_MORGANA",
+        "itemName": "Adept's Malevolent Locus"
+    },
+    {
+        "itemId": "T6_SHOES_PLATE_KEEPER",
+        "itemName": "Master's Judicator Boots"
+    },
+    {
+        "itemId": "T7_SHOES_CLOTH_ROYAL",
+        "itemName": "Grandmaster's Royal Sandals"
+    },
+    {
+        "itemId": "T8_SHOES_PLATE_SET3@2",
+        "itemName": "Elder's Guardian Boots"
+    },
+    {
+        "itemId": "T4_SHOES_LEATHER_HELL",
+        "itemName": "Adept's Hellion Shoes"
+    },
+    {
+        "itemId": "T4_SHOES_LEATHER_HELL@1",
+        "itemName": "Adept's Hellion Shoes"
+    },
+    {
+        "itemId": "T6_ARMOR_LEATHER_UNDEAD",
+        "itemName": "Master's Specter Jacket"
+    },
+    {
+        "itemId": "T8_ARMOR_CLOTH_SET1@3",
+        "itemName": "Elder's Scholar Robe"
+    },
+    {
+        "itemId": "T5_CAPEITEM_KEEPER",
+        "itemName": "Expert's Keeper Cape"
+    },
+    {
+        "itemId": "T5_HEAD_LEATHER_HELL@2",
+        "itemName": "Expert's Hellion Hood"
+    },
+    {
+        "itemId": "T4_2H_LONGBOW",
+        "itemName": "Adept's Longbow"
+    },
+    {
+        "itemId": "T4_OFF_SPIKEDSHIELD_MORGANA",
+        "itemName": "Adept's Facebreaker"
+    },
+    {
+        "itemId": "T4_HEAD_PLATE_FEY@2",
+        "itemName": "Adept's Duskweaver Helmet"
+    },
+    {
+        "itemId": "T6_2H_DEMONICSTAFF",
+        "itemName": "Master's Demonic Staff"
+    },
+    {
+        "itemId": "T5_MAIN_SWORD",
+        "itemName": "Expert's Broadsword"
+    },
+    {
+        "itemId": "T5_CAPEITEM_FW_BRIDGEWATCH",
+        "itemName": "Expert's Bridgewatch Cape"
+    },
+    {
+        "itemId": "T5_2H_LONGBOW_UNDEAD",
+        "itemName": "Expert's Whispering Bow"
+    },
+    {
+        "itemId": "T5_HEAD_PLATE_SET1@1",
+        "itemName": "Expert's Soldier Helmet"
+    },
+    {
+        "itemId": "T6_BAG_INSIGHT",
+        "itemName": "Master's Satchel of Insight"
+    },
+    {
+        "itemId": "T8_ARMOR_PLATE_SET1@3",
+        "itemName": "Elder's Soldier Armor"
+    },
+    {
+        "itemId": "T6_BAG_INSIGHT@1",
+        "itemName": "Master's Satchel of Insight"
+    },
+    {
+        "itemId": "T4_MAIN_AXE",
+        "itemName": "Adept's Battleaxe"
+    },
+    {
+        "itemId": "T4_ARMOR_LEATHER_MORGANA",
+        "itemName": "Adept's Stalker Jacket"
+    },
+    {
+        "itemId": "T5_CAPEITEM_KEEPER@1",
+        "itemName": "Expert's Keeper Cape"
+    },
+    {
+        "itemId": "T6_2H_TRIDENT_UNDEAD",
+        "itemName": "Master's Trinity Spear"
+    },
+    {
+        "itemId": "T4_ARMOR_LEATHER_AVALON",
+        "itemName": "Adept's Jacket of Tenacity"
+    },
+    {
+        "itemId": "T6_CAPEITEM_HERETIC",
+        "itemName": "Master's Heretic Cape"
+    },
+    {
+        "itemId": "T6_2H_AXE_AVALON@1",
+        "itemName": "Master's Realmbreaker"
+    },
+    {
+        "itemId": "T4_2H_DUALSWORD",
+        "itemName": "Adept's Dual Swords"
+    },
+    {
+        "itemId": "T8_2H_DEMONICSTAFF",
+        "itemName": "Elder's Demonic Staff"
+    },
+    {
+        "itemId": "T5_CAPE@1",
+        "itemName": "Expert's Cape"
+    },
+    {
+        "itemId": "T4_BAG_INSIGHT",
+        "itemName": "Adept's Satchel of Insight"
+    },
+    {
+        "itemId": "T8_CAPEITEM_FW_CAERLEON",
+        "itemName": "Elder's Caerleon Cape"
+    },
+    {
+        "itemId": "T5_OFF_SHIELD@1",
+        "itemName": "Expert's Shield"
+    },
+    {
+        "itemId": "T8_2H_HALBERD",
+        "itemName": "Elder's Halberd"
+    },
+    {
+        "itemId": "T7_CAPEITEM_FW_BRIDGEWATCH@2",
+        "itemName": "Grandmaster's Bridgewatch Cape"
+    },
+    {
+        "itemId": "T6_SHOES_PLATE_SET3@1",
+        "itemName": "Master's Guardian Boots"
+    },
+    {
+        "itemId": "T8_SHOES_PLATE_SET1",
+        "itemName": "Elder's Soldier Boots"
+    },
+    {
+        "itemId": "T4_2H_DOUBLEBLADEDSTAFF",
+        "itemName": "Adept's Double Bladed Staff"
+    },
+    {
+        "itemId": "T6_ARMOR_LEATHER_SET2@3",
+        "itemName": "Master's Hunter Jacket"
+    },
+    {
+        "itemId": "T4_ARMOR_LEATHER_ROYAL",
+        "itemName": "Adept's Royal Jacket"
+    },
+    {
+        "itemId": "T4_ARMOR_LEATHER_HELL@1",
+        "itemName": "Adept's Hellion Jacket"
+    },
+    {
+        "itemId": "T7_CAPEITEM_FW_LYMHURST",
+        "itemName": "Grandmaster's Lymhurst Cape"
+    },
+    {
+        "itemId": "T5_HEAD_CLOTH_SET1@1",
+        "itemName": "Expert's Scholar Cowl"
+    },
+    {
+        "itemId": "T4_2H_HALBERD_MORGANA",
+        "itemName": "Adept's Carrioncaller"
+    },
+    {
+        "itemId": "T5_ARMOR_CLOTH_SET1@1",
+        "itemName": "Expert's Scholar Robe"
+    },
+    {
+        "itemId": "T6_CAPE@3",
+        "itemName": "Master's Cape"
+    },
+    {
+        "itemId": "T6_MAIN_AXE@1",
+        "itemName": "Master's Battleaxe"
+    },
+    {
+        "itemId": "T5_2H_CLAYMORE@3",
+        "itemName": "Expert's Claymore"
+    },
+    {
+        "itemId": "T8_SHOES_LEATHER_SET2@2",
+        "itemName": "Elder's Hunter Shoes"
+    },
+    {
+        "itemId": "T8_2H_HALBERD@1",
+        "itemName": "Elder's Halberd"
+    },
+    {
+        "itemId": "T4_2H_DOUBLEBLADEDSTAFF@1",
+        "itemName": "Adept's Double Bladed Staff"
+    },
+    {
+        "itemId": "T5_ARMOR_LEATHER_MORGANA",
+        "itemName": "Expert's Stalker Jacket"
+    },
+    {
+        "itemId": "T7_ARMOR_LEATHER_UNDEAD@1",
+        "itemName": "Grandmaster's Specter Jacket"
+    },
+    {
+        "itemId": "T5_2H_DUALSWORD@1",
+        "itemName": "Expert's Dual Swords"
+    },
+    {
+        "itemId": "T4_MAIN_RAPIER_MORGANA",
+        "itemName": "Adept's Bloodletter"
+    },
+    {
+        "itemId": "T8_2H_DIVINESTAFF",
+        "itemName": "Elder's Divine Staff"
+    },
+    {
+        "itemId": "T4_SHOES_CLOTH_SET3@2",
+        "itemName": "Adept's Mage Sandals"
+    },
+    {
+        "itemId": "T5_2H_DUALSWORD@2",
+        "itemName": "Expert's Dual Swords"
+    },
+    {
+        "itemId": "T4_ARMOR_LEATHER_SET3",
+        "itemName": "Adept's Assassin Jacket"
+    },
+    {
+        "itemId": "T6_ARMOR_PLATE_SET3@2",
+        "itemName": "Master's Guardian Armor"
+    },
+    {
+        "itemId": "T4_2H_CROSSBOWLARGE@2",
+        "itemName": "Adept's Heavy Crossbow"
+    },
+    {
+        "itemId": "T4_OFF_TALISMAN_AVALON@1",
+        "itemName": "Adept's Sacred Scepter"
+    },
+    {
+        "itemId": "T4_CAPEITEM_KEEPER@2",
+        "itemName": "Adept's Keeper Cape"
+    },
+    {
+        "itemId": "T5_BAG@2",
+        "itemName": "Expert's Bag"
+    },
+    {
+        "itemId": "T8_HEAD_LEATHER_SET1",
+        "itemName": "Elder's Mercenary Hood"
+    },
+    {
+        "itemId": "T5_ARMOR_PLATE_SET1@2",
+        "itemName": "Expert's Soldier Armor"
+    },
+    {
+        "itemId": "T4_ARMOR_PLATE_SET3",
+        "itemName": "Adept's Guardian Armor"
+    },
+    {
+        "itemId": "T8_CAPEITEM_MORGANA",
+        "itemName": "Elder's Morgana Cape"
+    },
+    {
+        "itemId": "T3_MAIN_AXE",
+        "itemName": "Journeyman's Battleaxe"
+    },
+    {
+        "itemId": "T5_BAG_INSIGHT@3",
+        "itemName": "Expert's Satchel of Insight"
+    },
+    {
+        "itemId": "T7_SHOES_CLOTH_SET3",
+        "itemName": "Grandmaster's Mage Sandals"
+    },
+    {
+        "itemId": "T6_HEAD_PLATE_SET3@1",
+        "itemName": "Master's Guardian Helmet"
+    },
+    {
+        "itemId": "T4_CAPEITEM_HERETIC",
+        "itemName": "Adept's Heretic Cape"
+    },
+    {
+        "itemId": "T5_SHOES_PLATE_SET3@1",
+        "itemName": "Expert's Guardian Boots"
+    },
+    {
+        "itemId": "T6_ARMOR_CLOTH_SET2@1",
+        "itemName": "Master's Cleric Robe"
+    },
+    {
+        "itemId": "T4_OFF_TALISMAN_AVALON",
+        "itemName": "Adept's Sacred Scepter"
+    },
+    {
+        "itemId": "T6_ARMOR_LEATHER_SET3@1",
+        "itemName": "Master's Assassin Jacket"
+    },
+    {
+        "itemId": "T4_SHOES_CLOTH_ROYAL",
+        "itemName": "Adept's Royal Sandals"
+    },
+    {
+        "itemId": "T7_MAIN_RAPIER_MORGANA",
+        "itemName": "Grandmaster's Bloodletter"
+    },
+    {
+        "itemId": "T8_ARMOR_LEATHER_MORGANA@1",
+        "itemName": "Elder's Stalker Jacket"
+    },
+    {
+        "itemId": "T4_HEAD_PLATE_SET2@1",
+        "itemName": "Adept's Knight Helmet"
+    },
+    {
+        "itemId": "T8_HEAD_CLOTH_SET1@2",
+        "itemName": "Elder's Scholar Cowl"
+    },
+    {
+        "itemId": "T6_MAIN_DAGGER_HELL@3",
+        "itemName": "Master's Demonfang"
+    },
+    {
+        "itemId": "T6_SHOES_PLATE_SET3@2",
+        "itemName": "Master's Guardian Boots"
+    },
+    {
+        "itemId": "T4_OFF_LAMP_UNDEAD@1",
+        "itemName": "Adept's Cryptcandle"
+    },
+    {
+        "itemId": "T5_ARMOR_PLATE_UNDEAD@1",
+        "itemName": "Expert's Graveguard Armor"
+    },
+    {
+        "itemId": "T4_MAIN_HOLYSTAFF@3",
+        "itemName": "Adept's Holy Staff"
+    },
+    {
+        "itemId": "T4_ARMOR_CLOTH_SET3",
+        "itemName": "Adept's Mage Robe"
+    },
+    {
+        "itemId": "T4_2H_QUARTERSTAFF",
+        "itemName": "Adept's Quarterstaff"
+    },
+    {
+        "itemId": "T8_SHOES_LEATHER_FEY@1",
+        "itemName": "Elder's Mistwalker Shoes"
+    },
+    {
+        "itemId": "T8_HEAD_CLOTH_SET2",
+        "itemName": "Elder's Cleric Cowl"
+    },
+    {
+        "itemId": "T4_2H_DAGGERPAIR",
+        "itemName": "Adept's Dagger Pair"
+    },
+    {
+        "itemId": "T6_CAPEITEM_FW_MARTLOCK@1",
+        "itemName": "Master's Martlock Cape"
+    },
+    {
+        "itemId": "T4_CAPEITEM_MORGANA",
+        "itemName": "Adept's Morgana Cape"
+    },
+    {
+        "itemId": "T4_2H_KNUCKLES_SET1",
+        "itemName": "Adept's Brawler Gloves"
+    },
+    {
+        "itemId": "T4_BAG@3",
+        "itemName": "Adept's Bag"
+    },
+    {
+        "itemId": "T4_CAPEITEM_DEMON",
+        "itemName": "Adept's Demon Cape"
+    },
+    {
+        "itemId": "T4_ARMOR_LEATHER_ROYAL@1",
+        "itemName": "Adept's Royal Jacket"
+    },
+    {
+        "itemId": "T4_CAPEITEM_UNDEAD@1",
+        "itemName": "Adept's Undead Cape"
+    },
+    {
+        "itemId": "T5_2H_ARCANESTAFF",
+        "itemName": "Expert's Great Arcane Staff"
+    },
+    {
+        "itemId": "T4_2H_KNUCKLES_SET2",
+        "itemName": "Adept's Battle Bracers"
+    },
+    {
+        "itemId": "T4_CAPE@2",
+        "itemName": "Adept's Cape"
+    },
+    {
+        "itemId": "T4_ARMOR_LEATHER_UNDEAD@1",
+        "itemName": "Adept's Specter Jacket"
+    },
+    {
+        "itemId": "T5_HEAD_PLATE_AVALON@1",
+        "itemName": "Expert's Helmet of Valor"
+    },
+    {
+        "itemId": "T7_SHOES_LEATHER_SET2@1",
+        "itemName": "Grandmaster's Hunter Shoes"
+    },
+    {
+        "itemId": "T7_ARMOR_LEATHER_ROYAL@2",
+        "itemName": "Grandmaster's Royal Jacket"
+    },
+    {
+        "itemId": "T6_ARMOR_LEATHER_SET1@1",
+        "itemName": "Master's Mercenary Jacket"
+    },
+    {
+        "itemId": "T4_ARMOR_CLOTH_SET2@1",
+        "itemName": "Adept's Cleric Robe"
+    },
+    {
+        "itemId": "T5_ARMOR_LEATHER_SET2",
+        "itemName": "Expert's Hunter Jacket"
+    },
+    {
+        "itemId": "T7_BAG@2",
+        "itemName": "Grandmaster's Bag"
+    },
+    {
+        "itemId": "T8_BAG_INSIGHT@2",
+        "itemName": "Elder's Satchel of Insight"
+    },
+    {
+        "itemId": "T5_SHOES_PLATE_FEY",
+        "itemName": "Expert's Duskweaver Boots"
+    },
+    {
+        "itemId": "T4_CAPEITEM_FW_LYMHURST@2",
+        "itemName": "Adept's Lymhurst Cape"
+    },
+    {
+        "itemId": "T6_HEAD_PLATE_ROYAL@1",
+        "itemName": "Master's Royal Helmet"
+    },
+    {
+        "itemId": "T4_ARMOR_CLOTH_HELL",
+        "itemName": "Adept's Fiend Robe"
+    },
+    {
+        "itemId": "T8_2H_DUALSWORD@2",
+        "itemName": "Elder's Dual Swords"
+    },
+    {
+        "itemId": "T6_SHOES_CLOTH_SET2@1",
+        "itemName": "Master's Cleric Sandals"
+    },
+    {
+        "itemId": "T5_CAPEITEM_FW_THETFORD@2",
+        "itemName": "Expert's Thetford Cape"
+    },
+    {
+        "itemId": "T6_2H_KNUCKLES_SET3",
+        "itemName": "Master's Spiked Gauntlets"
+    },
+    {
+        "itemId": "T6_ARMOR_PLATE_SET2",
+        "itemName": "Master's Knight Armor"
+    },
+    {
+        "itemId": "T3_ARMOR_LEATHER_SET1",
+        "itemName": "Journeyman's Mercenary Jacket"
+    },
+    {
+        "itemId": "T4_ARMOR_CLOTH_SET3@1",
+        "itemName": "Adept's Mage Robe"
+    },
+    {
+        "itemId": "T6_CAPEITEM_HERETIC@3",
+        "itemName": "Master's Heretic Cape"
+    },
+    {
+        "itemId": "T4_ARMOR_LEATHER_SET1@2",
+        "itemName": "Adept's Mercenary Jacket"
+    },
+    {
+        "itemId": "T5_2H_COMBATSTAFF_MORGANA@2",
+        "itemName": "Expert's Black Monk Stave"
+    },
+    {
+        "itemId": "T6_2H_DUALSWORD",
+        "itemName": "Master's Dual Swords"
+    },
+    {
+        "itemId": "T5_2H_SKULLORB_HELL",
+        "itemName": "Expert's Cursed Skull"
+    },
+    {
+        "itemId": "T6_2H_CROSSBOWLARGE_MORGANA",
+        "itemName": "Master's Siegebow"
+    },
+    {
+        "itemId": "T8_2H_KNUCKLES_KEEPER@1",
+        "itemName": "Elder's Ursine Maulers"
+    },
+    {
+        "itemId": "T4_2H_AXE_AVALON",
+        "itemName": "Adept's Realmbreaker"
+    },
+    {
+        "itemId": "T8_2H_FROSTSTAFF@1",
+        "itemName": "Elder's Great Frost Staff"
+    },
+    {
+        "itemId": "T8_SHOES_LEATHER_ROYAL@3",
+        "itemName": "Elder's Royal Shoes"
+    },
+    {
+        "itemId": "T4_HEAD_CLOTH_SET3@1",
+        "itemName": "Adept's Mage Cowl"
+    },
+    {
+        "itemId": "T8_2H_LONGBOW_UNDEAD",
+        "itemName": "Elder's Whispering Bow"
+    },
+    {
+        "itemId": "T8_SHOES_PLATE_SET2@4",
+        "itemName": "Elder's Knight Boots"
+    },
+    {
+        "itemId": "T4_CAPE@1",
+        "itemName": "Adept's Cape"
+    },
+    {
+        "itemId": "T7_SHOES_CLOTH_HELL@1",
+        "itemName": "Grandmaster's Fiend Sandals"
+    },
+    {
+        "itemId": "T5_2H_CROSSBOW_CANNON_AVALON",
+        "itemName": "Expert's Energy Shaper"
+    },
+    {
+        "itemId": "T5_CAPEITEM_FW_THETFORD",
+        "itemName": "Expert's Thetford Cape"
+    },
+    {
+        "itemId": "T5_HEAD_PLATE_SET3",
+        "itemName": "Expert's Guardian Helmet"
+    },
+    {
+        "itemId": "T5_CAPEITEM_FW_LYMHURST",
+        "itemName": "Expert's Lymhurst Cape"
+    },
+    {
+        "itemId": "T4_BAG@2",
+        "itemName": "Adept's Bag"
+    },
+    {
+        "itemId": "T5_HEAD_LEATHER_UNDEAD",
+        "itemName": "Expert's Specter Hood"
+    },
+    {
+        "itemId": "T8_2H_HOLYSTAFF@3",
+        "itemName": "Elder's Great Holy Staff"
+    },
+    {
+        "itemId": "T2_MAIN_SWORD",
+        "itemName": "Novice's Broadsword"
+    },
+    {
+        "itemId": "T5_ARMOR_LEATHER_SET1@3",
+        "itemName": "Expert's Mercenary Jacket"
+    },
+    {
+        "itemId": "T4_SHOES_CLOTH_HELL",
+        "itemName": "Adept's Fiend Sandals"
+    },
+    {
+        "itemId": "T6_2H_GLAIVE",
+        "itemName": "Master's Glaive"
+    },
+    {
+        "itemId": "T4_ARMOR_PLATE_KEEPER",
+        "itemName": "Adept's Judicator Armor"
+    },
+    {
+        "itemId": "T4_CAPEITEM_UNDEAD@2",
+        "itemName": "Adept's Undead Cape"
+    },
+    {
+        "itemId": "T4_CAPEITEM_FW_BRIDGEWATCH@1",
+        "itemName": "Adept's Bridgewatch Cape"
+    },
+    {
+        "itemId": "T4_CAPEITEM_UNDEAD",
+        "itemName": "Adept's Undead Cape"
+    },
+    {
+        "itemId": "T8_2H_CLAYMORE",
+        "itemName": "Elder's Claymore"
+    },
+    {
+        "itemId": "T6_2H_CLEAVER_HELL@2",
+        "itemName": "Master's Carving Sword"
+    },
+    {
+        "itemId": "T4_CAPEITEM_MORGANA@1",
+        "itemName": "Adept's Morgana Cape"
+    },
+    {
+        "itemId": "T4_2H_ENIGMATICORB_MORGANA@1",
+        "itemName": "Adept's Malevolent Locus"
+    },
+    {
+        "itemId": "T4_SHOES_LEATHER_MORGANA@1",
+        "itemName": "Adept's Stalker Shoes"
+    },
+    {
+        "itemId": "T5_HEAD_PLATE_HELL@1",
+        "itemName": "Expert's Demon Helmet"
+    },
+    {
+        "itemId": "T5_CAPE",
+        "itemName": "Expert's Cape"
+    },
+    {
+        "itemId": "T6_HEAD_LEATHER_SET2@1",
+        "itemName": "Master's Hunter Hood"
+    },
+    {
+        "itemId": "T6_HEAD_LEATHER_SET1",
+        "itemName": "Master's Mercenary Hood"
+    },
+    {
+        "itemId": "T4_CAPEITEM_FW_LYMHURST@1",
+        "itemName": "Adept's Lymhurst Cape"
+    },
+    {
+        "itemId": "T4_2H_DAGGERPAIR@1",
+        "itemName": "Adept's Dagger Pair"
+    },
+    {
+        "itemId": "T8_2H_DOUBLEBLADEDSTAFF",
+        "itemName": "Elder's Double Bladed Staff"
+    },
+    {
+        "itemId": "T8_SOUL",
+        "itemName": "Elder's Soul"
+    },
+    {
+        "itemId": "T5_ARMOR_PLATE_SET2",
+        "itemName": "Expert's Knight Armor"
+    },
+    {
+        "itemId": "T4_HEAD_LEATHER_SET3@3",
+        "itemName": "Adept's Assassin Hood"
+    },
+    {
+        "itemId": "T8_RUNE",
+        "itemName": "Elder's Rune"
+    },
+    {
+        "itemId": "T6_ARMOR_LEATHER_SET1@2",
+        "itemName": "Master's Mercenary Jacket"
+    },
+    {
+        "itemId": "T4_ARMOR_LEATHER_HELL@2",
+        "itemName": "Adept's Hellion Jacket"
+    },
+    {
+        "itemId": "T8_2H_WILDSTAFF",
+        "itemName": "Elder's Wild Staff"
+    },
+    {
+        "itemId": "T6_MAIN_HOLYSTAFF",
+        "itemName": "Master's Holy Staff"
+    },
+    {
+        "itemId": "T5_ARMOR_LEATHER_MORGANA@2",
+        "itemName": "Expert's Stalker Jacket"
+    },
+    {
+        "itemId": "T5_SHOES_CLOTH_AVALON",
+        "itemName": "Expert's Sandals of Purity"
+    },
+    {
+        "itemId": "T7_ARMOR_PLATE_SET2@1",
+        "itemName": "Grandmaster's Knight Armor"
+    },
+    {
+        "itemId": "T6_OFF_ORB_MORGANA",
+        "itemName": "Master's Eye of Secrets"
+    },
+    {
+        "itemId": "T6_ARMOR_LEATHER_HELL",
+        "itemName": "Master's Hellion Jacket"
+    },
+    {
+        "itemId": "T4_OFF_ORB_MORGANA",
+        "itemName": "Adept's Eye of Secrets"
+    },
+    {
+        "itemId": "T5_SHOES_PLATE_ROYAL",
+        "itemName": "Expert's Royal Boots"
+    },
+    {
+        "itemId": "T4_CAPEITEM_FW_CAERLEON",
+        "itemName": "Adept's Caerleon Cape"
+    },
+    {
+        "itemId": "T6_HEAD_PLATE_SET2@1",
+        "itemName": "Master's Knight Helmet"
+    },
+    {
+        "itemId": "T5_HEAD_CLOTH_HELL@1",
+        "itemName": "Expert's Fiend Cowl"
+    },
+    {
+        "itemId": "T6_2H_CLAWPAIR",
+        "itemName": "Master's Claws"
+    },
+    {
+        "itemId": "T7_HEAD_LEATHER_HELL@2",
+        "itemName": "Grandmaster's Hellion Hood"
+    },
+    {
+        "itemId": "T5_2H_DUALHAMMER_HELL@2",
+        "itemName": "Expert's Forge Hammers"
+    },
+    {
+        "itemId": "T2_2H_TOOL_KNIFE",
+        "itemName": "Novice's Skinning Knife"
+    },
+    {
+        "itemId": "T4_2H_DUALAXE_KEEPER@1",
+        "itemName": "Adept's Bear Paws"
+    },
+    {
+        "itemId": "T4_CAPEITEM_FW_CAERLEON@3",
+        "itemName": "Adept's Caerleon Cape"
+    },
+    {
+        "itemId": "T6_SHOES_PLATE_SET1@1",
+        "itemName": "Master's Soldier Boots"
+    },
+    {
+        "itemId": "T8_CAPEITEM_FW_LYMHURST",
+        "itemName": "Elder's Lymhurst Cape"
+    },
+    {
+        "itemId": "T4_2H_DUALHAMMER_HELL@2",
+        "itemName": "Adept's Forge Hammers"
+    },
+    {
+        "itemId": "T5_SHOES_LEATHER_SET3@1",
+        "itemName": "Expert's Assassin Shoes"
+    },
+    {
+        "itemId": "T4_2H_HOLYSTAFF_HELL@1",
+        "itemName": "Adept's Fallen Staff"
+    },
+    {
+        "itemId": "T4_2H_DUALSICKLE_UNDEAD",
+        "itemName": "Adept's Deathgivers"
+    },
+    {
+        "itemId": "T8_SHOES_LEATHER_MORGANA@3",
+        "itemName": "Elder's Stalker Shoes"
+    },
+    {
+        "itemId": "T4_HEAD_LEATHER_MORGANA",
+        "itemName": "Adept's Stalker Hood"
+    },
+    {
+        "itemId": "T6_2H_KNUCKLES_SET2",
+        "itemName": "Master's Battle Bracers"
+    },
+    {
+        "itemId": "T5_HEAD_LEATHER_SET1@3",
+        "itemName": "Expert's Mercenary Hood"
+    },
+    {
+        "itemId": "T8_MAIN_SPEAR_KEEPER@1",
+        "itemName": "Elder's Heron Spear"
+    },
+    {
+        "itemId": "T6_2H_CLAYMORE@1",
+        "itemName": "Master's Claymore"
+    },
+    {
+        "itemId": "T5_SHOES_LEATHER_MORGANA@2",
+        "itemName": "Expert's Stalker Shoes"
+    },
+    {
+        "itemId": "T7_ARMOR_PLATE_ROYAL@2",
+        "itemName": "Grandmaster's Royal Armor"
+    },
+    {
+        "itemId": "T8_CAPEITEM_FW_FORTSTERLING@1",
+        "itemName": "Elder's Fort Sterling Cape"
+    },
+    {
+        "itemId": "T5_OFF_HORN_KEEPER@1",
+        "itemName": "Expert's Mistcaller"
+    },
+    {
+        "itemId": "T4_CAPEITEM_FW_THETFORD@1",
+        "itemName": "Adept's Thetford Cape"
+    },
+    {
+        "itemId": "T6_SHOES_CLOTH_SET2",
+        "itemName": "Master's Cleric Sandals"
+    },
+    {
+        "itemId": "T8_ARMOR_CLOTH_KEEPER@2",
+        "itemName": "Elder's Druid Robe"
+    },
+    {
+        "itemId": "T4_OFF_JESTERCANE_HELL",
+        "itemName": "Adept's Leering Cane"
+    },
+    {
+        "itemId": "T6_HEAD_CLOTH_SET2@1",
+        "itemName": "Master's Cleric Cowl"
+    },
+    {
+        "itemId": "T6_MAIN_FROSTSTAFF_KEEPER",
+        "itemName": "Master's Hoarfrost Staff"
+    },
+    {
+        "itemId": "T6_ARMOR_CLOTH_AVALON",
+        "itemName": "Master's Robe of Purity"
+    },
+    {
+        "itemId": "T4_2H_AXE",
+        "itemName": "Adept's Greataxe"
+    },
+    {
+        "itemId": "T6_ARMOR_PLATE_SET1@2",
+        "itemName": "Master's Soldier Armor"
+    },
+    {
+        "itemId": "T8_2H_FLAIL",
+        "itemName": "Elder's Morning Star"
+    },
+    {
+        "itemId": "T7_MAIN_CURSEDSTAFF_UNDEAD",
+        "itemName": "Grandmaster's Lifecurse Staff"
+    },
+    {
+        "itemId": "T4_BAG@1",
+        "itemName": "Adept's Bag"
+    },
+    {
+        "itemId": "T7_HEAD_PLATE_SET3@1",
+        "itemName": "Grandmaster's Guardian Helmet"
+    },
+    {
+        "itemId": "T8_CAPEITEM_KEEPER@3",
+        "itemName": "Elder's Keeper Cape"
+    },
+    {
+        "itemId": "T4_ARMOR_CLOTH_KEEPER",
+        "itemName": "Adept's Druid Robe"
+    },
+    {
+        "itemId": "T6_HEAD_LEATHER_SET3",
+        "itemName": "Master's Assassin Hood"
+    },
+    {
+        "itemId": "T6_2H_HARPOON_HELL@1",
+        "itemName": "Master's Spirithunter"
+    },
+    {
+        "itemId": "T4_ARMOR_CLOTH_SET2@2",
+        "itemName": "Adept's Cleric Robe"
+    },
+    {
+        "itemId": "T6_2H_WILDSTAFF",
+        "itemName": "Master's Wild Staff"
+    },
+    {
+        "itemId": "T7_HEAD_LEATHER_AVALON",
+        "itemName": "Grandmaster's Hood of Tenacity"
+    },
+    {
+        "itemId": "T8_HEAD_CLOTH_KEEPER",
+        "itemName": "Elder's Druid Cowl"
+    },
+    {
+        "itemId": "T4_MAIN_CURSEDSTAFF_AVALON",
+        "itemName": "Adept's Shadowcaller"
+    },
+    {
+        "itemId": "T8_2H_CLEAVER_HELL",
+        "itemName": "Elder's Carving Sword"
+    },
+    {
+        "itemId": "T4_2H_DUALHAMMER_HELL@3",
+        "itemName": "Adept's Forge Hammers"
+    },
+    {
+        "itemId": "T5_SHOES_PLATE_AVALON@2",
+        "itemName": "Expert's Boots of Valor"
+    },
+    {
+        "itemId": "T6_HEAD_CLOTH_HELL@1",
+        "itemName": "Master's Fiend Cowl"
+    },
+    {
+        "itemId": "T4_ARMOR_LEATHER_SET3@3",
+        "itemName": "Adept's Assassin Jacket"
+    },
+    {
+        "itemId": "T4_HEAD_LEATHER_UNDEAD",
+        "itemName": "Adept's Specter Hood"
+    },
+    {
+        "itemId": "T4_BAG",
+        "itemName": "Adept's Bag"
+    },
+    {
+        "itemId": "T8_2H_SCYTHE_HELL@1",
+        "itemName": "Elder's Infernal Scythe"
+    },
+    {
+        "itemId": "T4_ARMOR_CLOTH_HELL@3",
+        "itemName": "Adept's Fiend Robe"
+    },
+    {
+        "itemId": "T6_HEAD_PLATE_SET1@1",
+        "itemName": "Master's Soldier Helmet"
+    },
+    {
+        "itemId": "T7_2H_NATURESTAFF_HELL",
+        "itemName": "Grandmaster's Blight Staff"
+    },
+    {
+        "itemId": "T4_MAIN_FROSTSTAFF",
+        "itemName": "Adept's Frost Staff"
+    },
+    {
+        "itemId": "T5_MAIN_1HCROSSBOW@2",
+        "itemName": "Expert's Light Crossbow"
+    },
+    {
+        "itemId": "T6_2H_QUARTERSTAFF@1",
+        "itemName": "Master's Quarterstaff"
+    },
+    {
+        "itemId": "T4_SHOES_CLOTH_SET1@2",
+        "itemName": "Adept's Scholar Sandals"
+    },
+    {
+        "itemId": "T8_HEAD_CLOTH_KEEPER@3",
+        "itemName": "Elder's Druid Cowl"
+    },
+    {
+        "itemId": "T4_CAPEITEM_FW_MARTLOCK@1",
+        "itemName": "Adept's Martlock Cape"
+    },
+    {
+        "itemId": "T8_2H_WILDSTAFF@2",
+        "itemName": "Elder's Wild Staff"
+    },
+    {
+        "itemId": "T5_HEAD_PLATE_SET3@2",
+        "itemName": "Expert's Guardian Helmet"
+    },
+    {
+        "itemId": "T4_CAPEITEM_KEEPER@1",
+        "itemName": "Adept's Keeper Cape"
+    },
+    {
+        "itemId": "T4_2H_CLAYMORE",
+        "itemName": "Adept's Claymore"
+    },
+    {
+        "itemId": "T5_2H_DUALSICKLE_UNDEAD",
+        "itemName": "Expert's Deathgivers"
+    },
+    {
+        "itemId": "T7_2H_DUALAXE_KEEPER",
+        "itemName": "Grandmaster's Bear Paws"
+    },
+    {
+        "itemId": "T5_CAPEITEM_FW_LYMHURST@3",
+        "itemName": "Expert's Lymhurst Cape"
+    },
+    {
+        "itemId": "T4_2H_INFERNOSTAFF_MORGANA@1",
+        "itemName": "Adept's Blazing Staff"
+    },
+    {
+        "itemId": "T5_ARMOR_CLOTH_AVALON@1",
+        "itemName": "Expert's Robe of Purity"
+    },
+    {
+        "itemId": "T8_SHOES_CLOTH_SET2",
+        "itemName": "Elder's Cleric Sandals"
+    },
+    {
+        "itemId": "T5_2H_QUARTERSTAFF_AVALON",
+        "itemName": "Expert's Grailseeker"
+    },
+    {
+        "itemId": "T5_ARMOR_PLATE_HELL@3",
+        "itemName": "Expert's Demon Armor"
+    },
+    {
+        "itemId": "T5_HEAD_PLATE_SET3@1",
+        "itemName": "Expert's Guardian Helmet"
+    },
+    {
+        "itemId": "T4_SHOES_LEATHER_SET1@2",
+        "itemName": "Adept's Mercenary Shoes"
+    },
+    {
+        "itemId": "T4_2H_BOW",
+        "itemName": "Adept's Bow"
+    },
+    {
+        "itemId": "T6_2H_CLAYMORE@3",
+        "itemName": "Master's Claymore"
+    },
+    {
+        "itemId": "T6_2H_CLEAVER_HELL@3",
+        "itemName": "Master's Carving Sword"
+    },
+    {
+        "itemId": "T7_BAG",
+        "itemName": "Grandmaster's Bag"
+    },
+    {
+        "itemId": "T6_2H_REPEATINGCROSSBOW_UNDEAD@1",
+        "itemName": "Master's Weeping Repeater"
+    },
+    {
+        "itemId": "T4_2H_REPEATINGCROSSBOW_UNDEAD@2",
+        "itemName": "Adept's Weeping Repeater"
+    },
+    {
+        "itemId": "T8_BAG_INSIGHT",
+        "itemName": "Elder's Satchel of Insight"
+    },
+    {
+        "itemId": "T4_HEAD_LEATHER_SET2",
+        "itemName": "Adept's Hunter Hood"
+    },
+    {
+        "itemId": "T4_2H_SKULLORB_HELL",
+        "itemName": "Adept's Cursed Skull"
+    },
+    {
+        "itemId": "T4_2H_HARPOON_HELL@1",
+        "itemName": "Adept's Spirithunter"
+    },
+    {
+        "itemId": "T4_ARMOR_CLOTH_SET2",
+        "itemName": "Adept's Cleric Robe"
+    },
+    {
+        "itemId": "T6_2H_AXE_AVALON",
+        "itemName": "Master's Realmbreaker"
+    },
+    {
+        "itemId": "T5_ARMOR_CLOTH_AVALON",
+        "itemName": "Expert's Robe of Purity"
+    },
+    {
+        "itemId": "T8_CAPEITEM_FW_CAERLEON@1",
+        "itemName": "Elder's Caerleon Cape"
+    },
+    {
+        "itemId": "T4_SHOES_CLOTH_SET1",
+        "itemName": "Adept's Scholar Sandals"
+    },
+    {
+        "itemId": "T7_HEAD_PLATE_HELL",
+        "itemName": "Grandmaster's Demon Helmet"
+    },
+    {
+        "itemId": "T5_MAIN_SPEAR_LANCE_AVALON",
+        "itemName": "Expert's Daybreaker"
+    },
+    {
+        "itemId": "T4_2H_CROSSBOW_CANNON_AVALON@1",
+        "itemName": "Adept's Energy Shaper"
+    },
+    {
+        "itemId": "T8_ARMOR_PLATE_UNDEAD@1",
+        "itemName": "Elder's Graveguard Armor"
+    },
+    {
+        "itemId": "T8_SHOES_LEATHER_ROYAL@1",
+        "itemName": "Elder's Royal Shoes"
+    },
+    {
+        "itemId": "T4_MAIN_CURSEDSTAFF_AVALON@1",
+        "itemName": "Adept's Shadowcaller"
+    },
+    {
+        "itemId": "T5_ARMOR_LEATHER_UNDEAD@1",
+        "itemName": "Expert's Specter Jacket"
+    },
+    {
+        "itemId": "T5_BAG_INSIGHT",
+        "itemName": "Expert's Satchel of Insight"
+    },
+    {
+        "itemId": "T8_MAIN_HAMMER",
+        "itemName": "Elder's Hammer"
+    },
+    {
+        "itemId": "T5_2H_QUARTERSTAFF_AVALON@1",
+        "itemName": "Expert's Grailseeker"
+    },
+    {
+        "itemId": "T6_CAPEITEM_DEMON@3",
+        "itemName": "Master's Demon Cape"
+    },
+    {
+        "itemId": "T7_ARMOR_PLATE_SET2",
+        "itemName": "Grandmaster's Knight Armor"
+    },
+    {
+        "itemId": "T4_SHOES_LEATHER_SET2@2",
+        "itemName": "Adept's Hunter Shoes"
+    },
+    {
+        "itemId": "T6_2H_QUARTERSTAFF",
+        "itemName": "Master's Quarterstaff"
+    },
+    {
+        "itemId": "T5_ARMOR_CLOTH_KEEPER",
+        "itemName": "Expert's Druid Robe"
+    },
+    {
+        "itemId": "T8_SHOES_LEATHER_SET1@3",
+        "itemName": "Elder's Mercenary Shoes"
+    },
+    {
+        "itemId": "T6_2H_DUALSICKLE_UNDEAD",
+        "itemName": "Master's Deathgivers"
+    },
+    {
+        "itemId": "T6_ARMOR_CLOTH_ROYAL@2",
+        "itemName": "Master's Royal Robe"
+    },
+    {
+        "itemId": "T8_SHOES_CLOTH_SET3@3",
+        "itemName": "Elder's Mage Sandals"
+    },
+    {
+        "itemId": "T4_HEAD_CLOTH_HELL",
+        "itemName": "Adept's Fiend Cowl"
+    },
+    {
+        "itemId": "T8_CAPEITEM_FW_BRIDGEWATCH@1",
+        "itemName": "Elder's Bridgewatch Cape"
+    },
+    {
+        "itemId": "T4_2H_HOLYSTAFF_UNDEAD@2",
+        "itemName": "Adept's Redemption Staff"
+    },
+    {
+        "itemId": "T7_BAG@1",
+        "itemName": "Grandmaster's Bag"
+    },
+    {
+        "itemId": "T6_2H_BOW",
+        "itemName": "Master's Bow"
+    },
+    {
+        "itemId": "T8_2H_ENIGMATICSTAFF@1",
+        "itemName": "Elder's Enigmatic Staff"
+    },
+    {
+        "itemId": "T4_OFF_LAMP_UNDEAD@2",
+        "itemName": "Adept's Cryptcandle"
+    },
+    {
+        "itemId": "T5_ARMOR_CLOTH_FEY@2",
+        "itemName": "Expert's Feyscale Robe"
+    },
+    {
+        "itemId": "T6_BAG_INSIGHT@3",
+        "itemName": "Master's Satchel of Insight"
+    },
+    {
+        "itemId": "T5_2H_HOLYSTAFF_HELL@2",
+        "itemName": "Expert's Fallen Staff"
+    },
+    {
+        "itemId": "T5_ARMOR_LEATHER_SET3",
+        "itemName": "Expert's Assassin Jacket"
+    },
+    {
+        "itemId": "T4_ARMOR_PLATE_SET1",
+        "itemName": "Adept's Soldier Armor"
+    },
+    {
+        "itemId": "T6_CAPEITEM_KEEPER@3",
+        "itemName": "Master's Keeper Cape"
+    },
+    {
+        "itemId": "T4_SHOES_LEATHER_AVALON",
+        "itemName": "Adept's Shoes of Tenacity"
+    },
+    {
+        "itemId": "T4_OFF_DEMONSKULL_HELL",
+        "itemName": "Adept's Muisak"
+    },
+    {
+        "itemId": "T7_HEAD_PLATE_SET3",
+        "itemName": "Grandmaster's Guardian Helmet"
+    },
+    {
+        "itemId": "T8_ARMOR_PLATE_SET3",
+        "itemName": "Elder's Guardian Armor"
+    },
+    {
+        "itemId": "T6_ARMOR_PLATE_SET2@2",
+        "itemName": "Master's Knight Armor"
+    },
+    {
+        "itemId": "T8_CAPEITEM_UNDEAD@2",
+        "itemName": "Elder's Undead Cape"
+    },
+    {
+        "itemId": "T4_2H_POLEHAMMER@2",
+        "itemName": "Adept's Polehammer"
+    },
+    {
+        "itemId": "T6_ARMOR_LEATHER_UNDEAD@2",
+        "itemName": "Master's Specter Jacket"
+    },
+    {
+        "itemId": "T2_BAG",
+        "itemName": "Novice's Bag"
+    },
+    {
+        "itemId": "T7_ARMOR_CLOTH_ROYAL@2",
+        "itemName": "Grandmaster's Royal Robe"
+    },
+    {
+        "itemId": "T8_2H_AXE@1",
+        "itemName": "The Hand of Khor"
+    },
+    {
+        "itemId": "T5_2H_DOUBLEBLADEDSTAFF@3",
+        "itemName": "Expert's Double Bladed Staff"
+    },
+    {
+        "itemId": "T5_ARMOR_CLOTH_AVALON@2",
+        "itemName": "Expert's Robe of Purity"
+    },
+    {
+        "itemId": "T5_ARMOR_CLOTH_ROYAL@2",
+        "itemName": "Expert's Royal Robe"
+    },
+    {
+        "itemId": "T5_SHOES_CLOTH_MORGANA@2",
+        "itemName": "Expert's Cultist Sandals"
+    },
+    {
+        "itemId": "T4_MAIN_DAGGER_HELL@2",
+        "itemName": "Adept's Demonfang"
+    },
+    {
+        "itemId": "T4_ARMOR_CLOTH_FEY@1",
+        "itemName": "Adept's Feyscale Robe"
+    },
+    {
+        "itemId": "T8_CAPEITEM_UNDEAD",
+        "itemName": "Elder's Undead Cape"
+    },
+    {
+        "itemId": "T4_HEAD_LEATHER_SET2@2",
+        "itemName": "Adept's Hunter Hood"
+    },
+    {
+        "itemId": "T8_OFF_BOOK@1",
+        "itemName": "Rosalia's Diary"
+    },
+    {
+        "itemId": "T6_HEAD_LEATHER_AVALON@1",
+        "itemName": "Master's Hood of Tenacity"
+    },
+    {
+        "itemId": "T8_2H_POLEHAMMER@1",
+        "itemName": "Elder's Polehammer"
+    },
+    {
+        "itemId": "T5_OFF_SHIELD@2",
+        "itemName": "Expert's Shield"
+    },
+    {
+        "itemId": "T4_2H_WARBOW",
+        "itemName": "Adept's Warbow"
+    },
+    {
+        "itemId": "T4_2H_DUALAXE_KEEPER",
+        "itemName": "Adept's Bear Paws"
+    },
+    {
+        "itemId": "T6_MAIN_FIRESTAFF_KEEPER@1",
+        "itemName": "Master's Wildfire Staff"
+    },
+    {
+        "itemId": "T4_ARMOR_LEATHER_SET2",
+        "itemName": "Adept's Hunter Jacket"
+    },
+    {
+        "itemId": "T4_ARMOR_CLOTH_FEY@2",
+        "itemName": "Adept's Feyscale Robe"
+    },
+    {
+        "itemId": "T4_MAIN_HOLYSTAFF",
+        "itemName": "Adept's Holy Staff"
+    },
+    {
+        "itemId": "T4_ARMOR_CLOTH_ROYAL",
+        "itemName": "Adept's Royal Robe"
+    },
+    {
+        "itemId": "T4_OFF_HORN_KEEPER",
+        "itemName": "Adept's Mistcaller"
+    },
+    {
+        "itemId": "T4_SHOES_PLATE_SET1@2",
+        "itemName": "Adept's Soldier Boots"
+    },
+    {
+        "itemId": "T5_2H_CROSSBOWLARGE@3",
+        "itemName": "Expert's Heavy Crossbow"
+    },
+    {
+        "itemId": "T4_MAIN_FROSTSTAFF@2",
+        "itemName": "Adept's Frost Staff"
+    },
+    {
+        "itemId": "T8_MAIN_RAPIER_MORGANA",
+        "itemName": "Elder's Bloodletter"
+    },
+    {
+        "itemId": "T4_SHOES_LEATHER_SET3@1",
+        "itemName": "Adept's Assassin Shoes"
+    },
+    {
+        "itemId": "T8_SHOES_LEATHER_ROYAL@2",
+        "itemName": "Elder's Royal Shoes"
+    },
+    {
+        "itemId": "T8_MAIN_NATURESTAFF",
+        "itemName": "Elder's Nature Staff"
+    },
+    {
+        "itemId": "T8_SHOES_CLOTH_HELL@2",
+        "itemName": "Elder's Fiend Sandals"
+    },
+    {
+        "itemId": "T4_2H_ROCKSTAFF_KEEPER@1",
+        "itemName": "Adept's Staff of Balance"
+    },
+    {
+        "itemId": "T5_2H_KNUCKLES_AVALON",
+        "itemName": "Expert's Fists of Avalon"
+    },
+    {
+        "itemId": "T5_SHOES_LEATHER_SET3",
+        "itemName": "Expert's Assassin Shoes"
+    },
+    {
+        "itemId": "T5_2H_DUALAXE_KEEPER@3",
+        "itemName": "Expert's Bear Paws"
+    },
+    {
+        "itemId": "T7_ARMOR_PLATE_SET1@1",
+        "itemName": "Grandmaster's Soldier Armor"
+    },
+    {
+        "itemId": "T5_HEAD_LEATHER_AVALON",
+        "itemName": "Expert's Hood of Tenacity"
+    },
+    {
+        "itemId": "T4_ARMOR_CLOTH_SET1@2",
+        "itemName": "Adept's Scholar Robe"
+    },
+    {
+        "itemId": "T4_OFF_DEMONSKULL_HELL@1",
+        "itemName": "Adept's Muisak"
+    },
+    {
+        "itemId": "T5_OFF_DEMONSKULL_HELL@1",
+        "itemName": "Expert's Muisak"
+    },
+    {
+        "itemId": "T4_2H_HOLYSTAFF_HELL",
+        "itemName": "Adept's Fallen Staff"
+    },
+    {
+        "itemId": "T6_ARMOR_PLATE_UNDEAD",
+        "itemName": "Master's Graveguard Armor"
+    },
+    {
+        "itemId": "T4_2H_DUALHAMMER_HELL",
+        "itemName": "Adept's Forge Hammers"
+    },
+    {
+        "itemId": "T4_2H_NATURESTAFF_HELL",
+        "itemName": "Adept's Blight Staff"
+    },
+    {
+        "itemId": "T6_SHOES_LEATHER_SET1",
+        "itemName": "Master's Mercenary Shoes"
+    },
+    {
+        "itemId": "T8_HEAD_CLOTH_SET3@1",
+        "itemName": "Elder's Mage Cowl"
+    },
+    {
+        "itemId": "T2_ARMOR_PLATE_SET1",
+        "itemName": "Novice's Soldier Armor"
+    },
+    {
+        "itemId": "T8_2H_GLAIVE",
+        "itemName": "Elder's Glaive"
+    },
+    {
+        "itemId": "T4_2H_QUARTERSTAFF@1",
+        "itemName": "Adept's Quarterstaff"
+    },
+    {
+        "itemId": "T5_ARMOR_PLATE_SET3@2",
+        "itemName": "Expert's Guardian Armor"
+    },
+    {
+        "itemId": "T8_ARMOR_PLATE_HELL@1",
+        "itemName": "Elder's Demon Armor"
+    },
+    {
+        "itemId": "T6_SHOES_CLOTH_ROYAL",
+        "itemName": "Master's Royal Sandals"
+    },
+    {
+        "itemId": "T8_ARMOR_PLATE_SET3@1",
+        "itemName": "Elder's Guardian Armor"
+    },
+    {
+        "itemId": "T5_CAPEITEM_FW_FORTSTERLING",
+        "itemName": "Expert's Fort Sterling Cape"
+    },
+    {
+        "itemId": "T6_ARMOR_PLATE_SET3",
+        "itemName": "Master's Guardian Armor"
+    },
+    {
+        "itemId": "T4_ARMOR_PLATE_UNDEAD@2",
+        "itemName": "Adept's Graveguard Armor"
+    },
+    {
+        "itemId": "T2_ARMOR_LEATHER_SET1",
+        "itemName": "Novice's Mercenary Jacket"
+    },
+    {
+        "itemId": "T6_2H_DOUBLEBLADEDSTAFF",
+        "itemName": "Master's Double Bladed Staff"
+    },
+    {
+        "itemId": "T8_CAPEITEM_FW_FORTSTERLING",
+        "itemName": "Elder's Fort Sterling Cape"
+    },
+    {
+        "itemId": "T4_MAIN_RAPIER_MORGANA@1",
+        "itemName": "Adept's Bloodletter"
+    },
+    {
+        "itemId": "T5_2H_CLEAVER_HELL@1",
+        "itemName": "Expert's Carving Sword"
+    },
+    {
+        "itemId": "T8_2H_HOLYSTAFF",
+        "itemName": "Elder's Great Holy Staff"
+    },
+    {
+        "itemId": "T4_SHOES_CLOTH_ROYAL@2",
+        "itemName": "Adept's Royal Sandals"
+    },
+    {
+        "itemId": "T4_2H_CLEAVER_HELL",
+        "itemName": "Adept's Carving Sword"
+    },
+    {
+        "itemId": "T8_MAIN_SPEAR_KEEPER",
+        "itemName": "Elder's Heron Spear"
+    },
+    {
+        "itemId": "T6_MAIN_DAGGER_HELL",
+        "itemName": "Master's Demonfang"
+    },
+    {
+        "itemId": "T4_HEAD_CLOTH_ROYAL",
+        "itemName": "Adept's Royal Cowl"
+    },
+    {
+        "itemId": "T5_OFF_HORN_KEEPER@3",
+        "itemName": "Expert's Mistcaller"
+    },
+    {
+        "itemId": "T8_HEAD_LEATHER_SET1@3",
+        "itemName": "Elder's Mercenary Hood"
+    },
+    {
+        "itemId": "T4_HEAD_CLOTH_HELL@1",
+        "itemName": "Adept's Fiend Cowl"
+    },
+    {
+        "itemId": "T6_HEAD_CLOTH_HELL@2",
+        "itemName": "Master's Fiend Cowl"
+    },
+    {
+        "itemId": "T6_2H_FROSTSTAFF",
+        "itemName": "Master's Great Frost Staff"
+    },
+    {
+        "itemId": "T4_CAPEITEM_FW_THETFORD",
+        "itemName": "Adept's Thetford Cape"
+    },
+    {
+        "itemId": "T2_SHOES_PLATE_SET1",
+        "itemName": "Novice's Soldier Boots"
+    },
+    {
+        "itemId": "T6_HEAD_PLATE_SET1@2",
+        "itemName": "Master's Soldier Helmet"
+    },
+    {
+        "itemId": "T4_CAPEITEM_FW_THETFORD@3",
+        "itemName": "Adept's Thetford Cape"
+    },
+    {
+        "itemId": "T2_ARMOR_CLOTH_SET1",
+        "itemName": "Novice's Scholar Robe"
+    },
+    {
+        "itemId": "T8_MAIN_CURSEDSTAFF@2",
+        "itemName": "Elder's Cursed Staff"
+    },
+    {
+        "itemId": "T6_HEAD_LEATHER_SET1@1",
+        "itemName": "Master's Mercenary Hood"
+    },
+    {
+        "itemId": "T5_2H_HAMMER@2",
+        "itemName": "Expert's Great Hammer"
+    },
+    {
+        "itemId": "T8_2H_DIVINESTAFF@1",
+        "itemName": "Elder's Divine Staff"
+    },
+    {
+        "itemId": "T4_CAPEITEM_FW_LYMHURST",
+        "itemName": "Adept's Lymhurst Cape"
+    },
+    {
+        "itemId": "T3_MAIN_NATURESTAFF",
+        "itemName": "Journeyman's Nature Staff"
+    },
+    {
+        "itemId": "T4_ARMOR_CLOTH_MORGANA@2",
+        "itemName": "Adept's Cultist Robe"
+    },
+    {
+        "itemId": "T4_SHOES_CLOTH_SET2@2",
+        "itemName": "Adept's Cleric Sandals"
+    },
+    {
+        "itemId": "T4_BAG_INSIGHT@2",
+        "itemName": "Adept's Satchel of Insight"
+    },
+    {
+        "itemId": "T5_SHOES_PLATE_ROYAL@1",
+        "itemName": "Expert's Royal Boots"
+    },
+    {
+        "itemId": "T8_2H_TWINSCYTHE_HELL",
+        "itemName": "Elder's Soulscythe"
+    },
+    {
+        "itemId": "T5_HEAD_PLATE_UNDEAD@1",
+        "itemName": "Expert's Graveguard Helmet"
+    },
+    {
+        "itemId": "T5_MAIN_FROSTSTAFF_AVALON",
+        "itemName": "Expert's Chillhowl"
+    },
+    {
+        "itemId": "T5_SHOES_CLOTH_SET3@2",
+        "itemName": "Expert's Mage Sandals"
+    },
+    {
+        "itemId": "T8_HEAD_CLOTH_SET1@1",
+        "itemName": "Elder's Scholar Cowl"
+    },
+    {
+        "itemId": "T5_OFF_HORN_KEEPER@2",
+        "itemName": "Expert's Mistcaller"
+    },
+    {
+        "itemId": "T8_MAIN_RAPIER_MORGANA@1",
+        "itemName": "Elder's Bloodletter"
+    },
+    {
+        "itemId": "T6_ARMOR_LEATHER_SET2",
+        "itemName": "Master's Hunter Jacket"
+    },
+    {
+        "itemId": "T6_BAG@1",
+        "itemName": "Master's Bag"
+    },
+    {
+        "itemId": "T8_MAIN_DAGGER_HELL",
+        "itemName": "Elder's Demonfang"
+    },
+    {
+        "itemId": "T4_2H_AXE_AVALON@2",
+        "itemName": "Adept's Realmbreaker"
+    },
+    {
+        "itemId": "T6_SHOES_PLATE_SET3",
+        "itemName": "Master's Guardian Boots"
+    },
+    {
+        "itemId": "T4_ARMOR_CLOTH_AVALON",
+        "itemName": "Adept's Robe of Purity"
+    },
+    {
+        "itemId": "T4_ARMOR_LEATHER_FEY",
+        "itemName": "Adept's Mistwalker Jacket"
+    },
+    {
+        "itemId": "T8_MAIN_HOLYSTAFF_MORGANA",
+        "itemName": "Elder's Lifetouch Staff"
+    },
+    {
+        "itemId": "T5_HEAD_LEATHER_SET2",
+        "itemName": "Expert's Hunter Hood"
+    },
+    {
+        "itemId": "T6_HEAD_LEATHER_SET2",
+        "itemName": "Master's Hunter Hood"
+    },
+    {
+        "itemId": "T5_2H_CURSEDSTAFF@1",
+        "itemName": "Expert's Great Cursed Staff"
+    },
+    {
+        "itemId": "T5_2H_BOW_KEEPER@2",
+        "itemName": "Expert's Bow of Badon"
+    },
+    {
+        "itemId": "T4_OFF_TALISMAN_AVALON@3",
+        "itemName": "Adept's Sacred Scepter"
+    },
+    {
+        "itemId": "T5_HEAD_PLATE_SET2@2",
+        "itemName": "Expert's Knight Helmet"
+    },
+    {
+        "itemId": "T5_MAIN_FROSTSTAFF_AVALON@1",
+        "itemName": "Expert's Chillhowl"
+    },
+    {
+        "itemId": "T6_ARMOR_LEATHER_UNDEAD@3",
+        "itemName": "Master's Specter Jacket"
+    },
+    {
+        "itemId": "T4_MAIN_1HCROSSBOW@2",
+        "itemName": "Adept's Light Crossbow"
+    },
+    {
+        "itemId": "T4_2H_DUALSICKLE_UNDEAD@2",
+        "itemName": "Adept's Deathgivers"
+    },
+    {
+        "itemId": "T6_MAIN_SPEAR_LANCE_AVALON",
+        "itemName": "Master's Daybreaker"
+    },
+    {
+        "itemId": "T4_HEAD_CLOTH_AVALON",
+        "itemName": "Adept's Cowl of Purity"
+    },
+    {
+        "itemId": "T6_SHOES_CLOTH_SET3@1",
+        "itemName": "Master's Mage Sandals"
+    },
+    {
+        "itemId": "T8_2H_KNUCKLES_SET2@1",
+        "itemName": "Elder's Battle Bracers"
+    },
+    {
+        "itemId": "T4_ARMOR_LEATHER_FEY@1",
+        "itemName": "Adept's Mistwalker Jacket"
+    },
+    {
+        "itemId": "T6_2H_FLAIL",
+        "itemName": "Master's Morning Star"
+    },
+    {
+        "itemId": "T4_MAIN_FROSTSTAFF_KEEPER@2",
+        "itemName": "Adept's Hoarfrost Staff"
+    },
+    {
+        "itemId": "T4_ARMOR_PLATE_SET1@2",
+        "itemName": "Adept's Soldier Armor"
+    },
+    {
+        "itemId": "T8_HEAD_PLATE_SET1@2",
+        "itemName": "Elder's Soldier Helmet"
+    },
+    {
+        "itemId": "T8_2H_KNUCKLES_SET2",
+        "itemName": "Elder's Battle Bracers"
+    },
+    {
+        "itemId": "T8_HEAD_LEATHER_SET3@2",
+        "itemName": "Elder's Assassin Hood"
+    },
+    {
+        "itemId": "T8_SHOES_CLOTH_KEEPER@1",
+        "itemName": "Elder's Druid Sandals"
+    },
+    {
+        "itemId": "T4_SHOES_LEATHER_SET1@1",
+        "itemName": "Adept's Mercenary Shoes"
+    },
+    {
+        "itemId": "T4_CAPEITEM_FW_BRIDGEWATCH",
+        "itemName": "Adept's Bridgewatch Cape"
+    },
+    {
+        "itemId": "T8_2H_NATURESTAFF@1",
+        "itemName": "Elder's Great Nature Staff"
+    },
+    {
+        "itemId": "T4_ARMOR_PLATE_ROYAL@1",
+        "itemName": "Adept's Royal Armor"
+    },
+    {
+        "itemId": "T6_2H_CLAYMORE@2",
+        "itemName": "Master's Claymore"
+    },
+    {
+        "itemId": "T5_2H_HAMMER",
+        "itemName": "Expert's Great Hammer"
+    },
+    {
+        "itemId": "T4_2H_QUARTERSTAFF_AVALON@1",
+        "itemName": "Adept's Grailseeker"
+    },
+    {
+        "itemId": "T4_HEAD_CLOTH_MORGANA",
+        "itemName": "Adept's Cultist Cowl"
+    },
+    {
+        "itemId": "T4_2H_CROSSBOW",
+        "itemName": "Adept's Crossbow"
+    },
+    {
+        "itemId": "T5_ARMOR_LEATHER_SET3@3",
+        "itemName": "Expert's Assassin Jacket"
+    },
+    {
+        "itemId": "T6_2H_IRONCLADEDSTAFF",
+        "itemName": "Master's Iron-clad Staff"
+    },
+    {
+        "itemId": "T6_CAPEITEM_FW_LYMHURST@2",
+        "itemName": "Master's Lymhurst Cape"
+    },
+    {
+        "itemId": "T4_ARMOR_CLOTH_MORGANA",
+        "itemName": "Adept's Cultist Robe"
+    },
+    {
+        "itemId": "T6_ARMOR_CLOTH_SET3@1",
+        "itemName": "Master's Mage Robe"
+    },
+    {
+        "itemId": "T7_2H_POLEHAMMER@2",
+        "itemName": "Grandmaster's Polehammer"
+    },
+    {
+        "itemId": "T5_HEAD_LEATHER_SET2@2",
+        "itemName": "Expert's Hunter Hood"
+    },
+    {
+        "itemId": "T8_ARMOR_PLATE_UNDEAD@3",
+        "itemName": "Elder's Graveguard Armor"
+    },
+    {
+        "itemId": "T8_HEAD_CLOTH_KEEPER@1",
+        "itemName": "Elder's Druid Cowl"
+    },
+    {
+        "itemId": "T3_2H_QUARTERSTAFF",
+        "itemName": "Journeyman's Quarterstaff"
+    },
+    {
+        "itemId": "T4_SHOES_LEATHER_SET1",
+        "itemName": "Adept's Mercenary Shoes"
+    },
+    {
+        "itemId": "T4_HEAD_CLOTH_SET3",
+        "itemName": "Adept's Mage Cowl"
+    },
+    {
+        "itemId": "T6_MAIN_1HCROSSBOW",
+        "itemName": "Master's Light Crossbow"
+    },
+    {
+        "itemId": "T5_2H_LONGBOW_UNDEAD@2",
+        "itemName": "Expert's Whispering Bow"
+    },
+    {
+        "itemId": "T2_MAIN_FIRESTAFF",
+        "itemName": "Novice's Fire Staff"
+    },
+    {
+        "itemId": "T8_HEAD_LEATHER_SET1@2",
+        "itemName": "Elder's Mercenary Hood"
+    },
+    {
+        "itemId": "T4_ARMOR_CLOTH_KEEPER@1",
+        "itemName": "Adept's Druid Robe"
+    },
+    {
+        "itemId": "T4_2H_MACE",
+        "itemName": "Adept's Heavy Mace"
+    },
+    {
+        "itemId": "T4_ARMOR_LEATHER_FEY@3",
+        "itemName": "Adept's Mistwalker Jacket"
+    },
+    {
+        "itemId": "T8_ARMOR_PLATE_UNDEAD",
+        "itemName": "Elder's Graveguard Armor"
+    },
+    {
+        "itemId": "T4_ARMOR_CLOTH_ROYAL@1",
+        "itemName": "Adept's Royal Robe"
+    },
+    {
+        "itemId": "T8_MAIN_ARCANESTAFF_UNDEAD",
+        "itemName": "Elder's Witchwork Staff"
+    },
+    {
+        "itemId": "T6_2H_MACE",
+        "itemName": "Master's Heavy Mace"
+    },
+    {
+        "itemId": "T4_2H_ENIGMATICORB_MORGANA@2",
+        "itemName": "Adept's Malevolent Locus"
+    },
+    {
+        "itemId": "T6_2H_GLACIALSTAFF",
+        "itemName": "Master's Glacial Staff"
+    },
+    {
+        "itemId": "T8_2H_ARCANESTAFF_HELL@1",
+        "itemName": "Elder's Occult Staff"
+    },
+    {
+        "itemId": "T5_2H_KNUCKLES_SET2",
+        "itemName": "Expert's Battle Bracers"
+    },
+    {
+        "itemId": "T4_ARMOR_LEATHER_MORGANA@3",
+        "itemName": "Adept's Stalker Jacket"
+    },
+    {
+        "itemId": "T5_ARMOR_CLOTH_HELL@3",
+        "itemName": "Expert's Fiend Robe"
+    },
+    {
+        "itemId": "T4_2H_BOW_AVALON",
+        "itemName": "Adept's Mistpiercer"
+    },
+    {
+        "itemId": "T6_MAIN_NATURESTAFF_KEEPER",
+        "itemName": "Master's Druidic Staff"
+    },
+    {
+        "itemId": "T4_2H_INFERNOSTAFF_MORGANA",
+        "itemName": "Adept's Blazing Staff"
+    },
+    {
+        "itemId": "T8_ARMOR_PLATE_SET3@2",
+        "itemName": "Elder's Guardian Armor"
+    },
+    {
+        "itemId": "T8_2H_IRONCLADEDSTAFF",
+        "itemName": "Elder's Iron-clad Staff"
+    },
+    {
+        "itemId": "T4_2H_CLAWPAIR",
+        "itemName": "Adept's Claws"
+    },
+    {
+        "itemId": "T4_HEAD_PLATE_ROYAL",
+        "itemName": "Adept's Royal Helmet"
+    },
+    {
+        "itemId": "T5_ARMOR_LEATHER_UNDEAD",
+        "itemName": "Expert's Specter Jacket"
+    },
+    {
+        "itemId": "T4_HEAD_LEATHER_FEY",
+        "itemName": "Adept's Mistwalker Hood"
+    },
+    {
+        "itemId": "T8_MAIN_FROSTSTAFF@3",
+        "itemName": "Elder's Frost Staff"
+    },
+    {
+        "itemId": "T5_2H_TOOL_KNIFE",
+        "itemName": "Expert's Skinning Knife"
+    },
+    {
+        "itemId": "T6_ARMOR_CLOTH_SET2@2",
+        "itemName": "Master's Cleric Robe"
+    },
+    {
+        "itemId": "T6_2H_INFERNOSTAFF",
+        "itemName": "Master's Infernal Staff"
+    },
+    {
+        "itemId": "T6_HEAD_LEATHER_SET3@1",
+        "itemName": "Master's Assassin Hood"
+    },
+    {
+        "itemId": "T4_ARMOR_LEATHER_SET2@2",
+        "itemName": "Adept's Hunter Jacket"
+    },
+    {
+        "itemId": "T4_OFF_TORCH@2",
+        "itemName": "Adept's Torch"
+    },
+    {
+        "itemId": "T6_ARMOR_LEATHER_AVALON",
+        "itemName": "Master's Jacket of Tenacity"
+    },
+    {
+        "itemId": "T8_MAIN_AXE@1",
+        "itemName": "Elder's Battleaxe"
+    },
+    {
+        "itemId": "T4_ARMOR_LEATHER_FEY@2",
+        "itemName": "Adept's Mistwalker Jacket"
+    },
+    {
+        "itemId": "T7_2H_BOW",
+        "itemName": "Grandmaster's Bow"
+    },
+    {
+        "itemId": "T4_OFF_HORN_KEEPER@1",
+        "itemName": "Adept's Mistcaller"
+    },
+    {
+        "itemId": "T5_CAPEITEM_HERETIC@1",
+        "itemName": "Expert's Heretic Cape"
+    },
+    {
+        "itemId": "T6_MAIN_RAPIER_MORGANA",
+        "itemName": "Master's Bloodletter"
+    },
+    {
+        "itemId": "T4_OFF_DEMONSKULL_HELL@2",
+        "itemName": "Adept's Muisak"
+    },
+    {
+        "itemId": "T4_HEAD_CLOTH_FEY@1",
+        "itemName": "Adept's Feyscale Hat"
+    },
+    {
+        "itemId": "T5_SHOES_LEATHER_ROYAL@1",
+        "itemName": "Expert's Royal Shoes"
+    },
+    {
+        "itemId": "T5_HEAD_LEATHER_AVALON@1",
+        "itemName": "Expert's Hood of Tenacity"
+    },
+    {
+        "itemId": "T8_2H_AXE@3",
+        "itemName": "The Hand of Khor"
+    },
+    {
+        "itemId": "T4_MAIN_FROSTSTAFF_AVALON",
+        "itemName": "Adept's Chillhowl"
+    },
+    {
+        "itemId": "T6_SHOES_PLATE_SET1@2",
+        "itemName": "Master's Soldier Boots"
+    },
+    {
+        "itemId": "T4_HEAD_LEATHER_ROYAL",
+        "itemName": "Adept's Royal Hood"
+    },
+    {
+        "itemId": "T8_OFF_TORCH@2",
+        "itemName": "Elder's Torch"
+    },
+    {
+        "itemId": "T6_HEAD_LEATHER_AVALON",
+        "itemName": "Master's Hood of Tenacity"
+    },
+    {
+        "itemId": "T8_2H_COMBATSTAFF_MORGANA",
+        "itemName": "Elder's Black Monk Stave"
+    },
+    {
+        "itemId": "T6_CAPEITEM_FW_MARTLOCK",
+        "itemName": "Master's Martlock Cape"
+    },
+    {
+        "itemId": "T4_HEAD_LEATHER_SET1@1",
+        "itemName": "Adept's Mercenary Hood"
+    },
+    {
+        "itemId": "T8_HEAD_CLOTH_FEY@2",
+        "itemName": "Elder's Feyscale Hat"
+    },
+    {
+        "itemId": "T8_CAPE@1",
+        "itemName": "Elder's Cape"
+    },
+    {
+        "itemId": "T7_OFF_SHIELD",
+        "itemName": "Grandmaster's Shield"
+    },
+    {
+        "itemId": "T4_HEAD_CLOTH_FEY@2",
+        "itemName": "Adept's Feyscale Hat"
+    },
+    {
+        "itemId": "T8_CAPEITEM_DEMON@3",
+        "itemName": "Elder's Demon Cape"
+    },
+    {
+        "itemId": "T4_SHOES_CLOTH_ROYAL@1",
+        "itemName": "Adept's Royal Sandals"
+    },
+    {
+        "itemId": "T5_SHOES_LEATHER_SET2@2",
+        "itemName": "Expert's Hunter Shoes"
+    },
+    {
+        "itemId": "T5_ARMOR_CLOTH_HELL@1",
+        "itemName": "Expert's Fiend Robe"
+    },
+    {
+        "itemId": "T8_2H_WILDSTAFF@1",
+        "itemName": "Elder's Wild Staff"
+    },
+    {
+        "itemId": "T5_BAG@1",
+        "itemName": "Expert's Bag"
+    },
+    {
+        "itemId": "T4_2H_SKULLORB_HELL@2",
+        "itemName": "Adept's Cursed Skull"
+    },
+    {
+        "itemId": "T4_ARMOR_LEATHER_UNDEAD",
+        "itemName": "Adept's Specter Jacket"
+    },
+    {
+        "itemId": "T6_SHOES_LEATHER_SET1@2",
+        "itemName": "Master's Mercenary Shoes"
+    },
+    {
+        "itemId": "T8_SHOES_PLATE_FEY@2",
+        "itemName": "Elder's Duskweaver Boots"
+    },
+    {
+        "itemId": "T8_CAPEITEM_FW_THETFORD",
+        "itemName": "Elder's Thetford Cape"
+    },
+    {
+        "itemId": "T6_ARMOR_LEATHER_UNDEAD@1",
+        "itemName": "Master's Specter Jacket"
+    },
+    {
+        "itemId": "T4_HEAD_LEATHER_FEY@3",
+        "itemName": "Adept's Mistwalker Hood"
+    },
+    {
+        "itemId": "T5_MAIN_HOLYSTAFF@2",
+        "itemName": "Expert's Holy Staff"
+    },
+    {
+        "itemId": "T6_2H_TOOL_HAMMER",
+        "itemName": "Master's Stone Hammer"
+    },
+    {
+        "itemId": "T8_HEAD_PLATE_UNDEAD@2",
+        "itemName": "Elder's Graveguard Helmet"
+    },
+    {
+        "itemId": "T4_MAIN_1HCROSSBOW",
+        "itemName": "Adept's Light Crossbow"
+    },
+    {
+        "itemId": "T8_2H_DEMONICSTAFF@1",
+        "itemName": "Elder's Demonic Staff"
+    },
+    {
+        "itemId": "T6_2H_DUALCROSSBOW_HELL",
+        "itemName": "Master's Boltcasters"
+    },
+    {
+        "itemId": "T4_MAIN_HOLYSTAFF@2",
+        "itemName": "Adept's Holy Staff"
+    },
+    {
+        "itemId": "T4_2H_KNUCKLES_AVALON@1",
+        "itemName": "Adept's Fists of Avalon"
+    },
+    {
+        "itemId": "T6_2H_CROSSBOWLARGE_MORGANA@1",
+        "itemName": "Master's Siegebow"
+    },
+    {
+        "itemId": "T4_2H_KNUCKLES_AVALON",
+        "itemName": "Adept's Fists of Avalon"
+    },
+    {
+        "itemId": "T4_SHOES_PLATE_FEY@1",
+        "itemName": "Adept's Duskweaver Boots"
+    },
+    {
+        "itemId": "T4_MAIN_SPEAR_LANCE_AVALON@2",
+        "itemName": "Adept's Daybreaker"
+    },
+    {
+        "itemId": "T5_SHOES_CLOTH_SET3",
+        "itemName": "Expert's Mage Sandals"
+    },
+    {
+        "itemId": "T5_2H_LONGBOW_UNDEAD@1",
+        "itemName": "Expert's Whispering Bow"
+    },
+    {
+        "itemId": "T5_2H_DUALSICKLE_UNDEAD@1",
+        "itemName": "Expert's Deathgivers"
+    },
+    {
+        "itemId": "T8_HEAD_LEATHER_SET3@1",
+        "itemName": "Elder's Assassin Hood"
+    },
+    {
+        "itemId": "T3_2H_TOOL_HAMMER",
+        "itemName": "Journeyman's Stone Hammer"
+    },
+    {
+        "itemId": "T4_HEAD_LEATHER_AVALON@1",
+        "itemName": "Adept's Hood of Tenacity"
+    },
+    {
+        "itemId": "T8_CAPEITEM_FW_MARTLOCK@1",
+        "itemName": "Elder's Martlock Cape"
+    },
+    {
+        "itemId": "T4_2H_BOW_AVALON@1",
+        "itemName": "Adept's Mistpiercer"
+    },
+    {
+        "itemId": "T4_SHOES_LEATHER_ROYAL@2",
+        "itemName": "Adept's Royal Shoes"
+    },
+    {
+        "itemId": "T6_2H_KNUCKLES_SET2@1",
+        "itemName": "Master's Battle Bracers"
+    },
+    {
+        "itemId": "T4_HEAD_CLOTH_HELL@2",
+        "itemName": "Adept's Fiend Cowl"
+    },
+    {
+        "itemId": "T4_SHOES_CLOTH_AVALON@1",
+        "itemName": "Adept's Sandals of Purity"
+    },
+    {
+        "itemId": "T5_2H_CLAYMORE@1",
+        "itemName": "Expert's Claymore"
+    },
+    {
+        "itemId": "T8_2H_IRONCLADEDSTAFF@1",
+        "itemName": "Elder's Iron-clad Staff"
+    },
+    {
+        "itemId": "T5_CAPEITEM_MORGANA",
+        "itemName": "Expert's Morgana Cape"
+    },
+    {
+        "itemId": "T8_ARMOR_CLOTH_SET3@4",
+        "itemName": "Elder's Mage Robe"
+    },
+    {
+        "itemId": "T8_ARMOR_PLATE_SET2@1",
+        "itemName": "Elder's Knight Armor"
+    },
+    {
+        "itemId": "T5_OFF_SPIKEDSHIELD_MORGANA@2",
+        "itemName": "Expert's Facebreaker"
+    },
+    {
+        "itemId": "T8_2H_GLACIALSTAFF",
+        "itemName": "Elder's Glacial Staff"
+    },
+    {
+        "itemId": "T4_SHOES_PLATE_FEY",
+        "itemName": "Adept's Duskweaver Boots"
+    },
+    {
+        "itemId": "T4_ARMOR_CLOTH_HELL@2",
+        "itemName": "Adept's Fiend Robe"
+    },
+    {
+        "itemId": "T4_SHOES_LEATHER_AVALON@3",
+        "itemName": "Adept's Shoes of Tenacity"
+    },
+    {
+        "itemId": "T7_2H_CLAYMORE@3",
+        "itemName": "Grandmaster's Claymore"
+    },
+    {
+        "itemId": "T4_ARMOR_CLOTH_AVALON@3",
+        "itemName": "Adept's Robe of Purity"
+    },
+    {
+        "itemId": "T5_2H_KNUCKLES_SET3@1",
+        "itemName": "Expert's Spiked Gauntlets"
+    },
+    {
+        "itemId": "T2_OFF_SHIELD",
+        "itemName": "Novice's Shield"
+    },
+    {
+        "itemId": "T4_SHOES_LEATHER_AVALON@2",
+        "itemName": "Adept's Shoes of Tenacity"
+    },
+    {
+        "itemId": "T5_HEAD_LEATHER_MORGANA@2",
+        "itemName": "Expert's Stalker Hood"
+    },
+    {
+        "itemId": "T8_ARMOR_LEATHER_MORGANA@2",
+        "itemName": "Elder's Stalker Jacket"
+    },
+    {
+        "itemId": "T4_SHOES_CLOTH_MORGANA@2",
+        "itemName": "Adept's Cultist Sandals"
+    },
+    {
+        "itemId": "T2_OFF_BOOK",
+        "itemName": "Novice's Tome of Spells"
+    },
+    {
+        "itemId": "T5_2H_KNUCKLES_SET2@1",
+        "itemName": "Expert's Battle Bracers"
+    },
+    {
+        "itemId": "T5_ARMOR_LEATHER_MORGANA@3",
+        "itemName": "Expert's Stalker Jacket"
+    },
+    {
+        "itemId": "T5_SHOES_PLATE_SET2",
+        "itemName": "Expert's Knight Boots"
+    },
+    {
+        "itemId": "T6_SHOES_LEATHER_SET1@1",
+        "itemName": "Master's Mercenary Shoes"
+    },
+    {
+        "itemId": "T8_BAG",
+        "itemName": "Elder's Bag"
+    },
+    {
+        "itemId": "T4_2H_KNUCKLES_AVALON@3",
+        "itemName": "Adept's Fists of Avalon"
+    },
+    {
+        "itemId": "T4_2H_DUALSWORD@2",
+        "itemName": "Adept's Dual Swords"
+    },
+    {
+        "itemId": "T4_ARMOR_LEATHER_AVALON@1",
+        "itemName": "Adept's Jacket of Tenacity"
+    },
+    {
+        "itemId": "T4_HEAD_CLOTH_MORGANA@2",
+        "itemName": "Adept's Cultist Cowl"
+    },
+    {
+        "itemId": "T2_2H_BOW",
+        "itemName": "Novice's Bow"
+    },
+    {
+        "itemId": "T5_HEAD_LEATHER_AVALON@2",
+        "itemName": "Expert's Hood of Tenacity"
+    },
+    {
+        "itemId": "T6_ARMOR_CLOTH_SET2",
+        "itemName": "Master's Cleric Robe"
+    },
+    {
+        "itemId": "T5_SHOES_LEATHER_ROYAL",
+        "itemName": "Expert's Royal Shoes"
+    },
+    {
+        "itemId": "T5_OFF_JESTERCANE_HELL@2",
+        "itemName": "Expert's Leering Cane"
+    },
+    {
+        "itemId": "T5_MAIN_HOLYSTAFF@3",
+        "itemName": "Expert's Holy Staff"
+    },
+    {
+        "itemId": "T6_2H_DUALSICKLE_UNDEAD@2",
+        "itemName": "Master's Deathgivers"
+    },
+    {
+        "itemId": "T4_MAIN_CURSEDSTAFF",
+        "itemName": "Adept's Cursed Staff"
+    },
+    {
+        "itemId": "T5_2H_DUALSICKLE_UNDEAD@3",
+        "itemName": "Expert's Deathgivers"
+    },
+    {
+        "itemId": "T8_ARMOR_CLOTH_SET3@1",
+        "itemName": "Elder's Mage Robe"
+    },
+    {
+        "itemId": "T6_MAIN_SPEAR_KEEPER",
+        "itemName": "Master's Heron Spear"
+    },
+    {
+        "itemId": "T4_HEAD_LEATHER_AVALON@3",
+        "itemName": "Adept's Hood of Tenacity"
+    },
+    {
+        "itemId": "T6_HEAD_PLATE_KEEPER@2",
+        "itemName": "Master's Judicator Helmet"
+    },
+    {
+        "itemId": "T4_SHOES_CLOTH_AVALON",
+        "itemName": "Adept's Sandals of Purity"
+    },
+    {
+        "itemId": "T8_MAIN_HAMMER@2",
+        "itemName": "Elder's Hammer"
+    },
+    {
+        "itemId": "T5_HEAD_CLOTH_ROYAL@1",
+        "itemName": "Expert's Royal Cowl"
+    },
+    {
+        "itemId": "T4_SHOES_LEATHER_ROYAL",
+        "itemName": "Adept's Royal Shoes"
+    },
+    {
+        "itemId": "T6_2H_KNUCKLES_SET1@1",
+        "itemName": "Master's Brawler Gloves"
+    },
+    {
+        "itemId": "T8_2H_INFERNOSTAFF@1",
+        "itemName": "Elder's Infernal Staff"
+    },
+    {
+        "itemId": "T8_2H_HALBERD_MORGANA",
+        "itemName": "Elder's Carrioncaller"
+    },
+    {
+        "itemId": "T2_SHOES_CLOTH_SET1",
+        "itemName": "Novice's Scholar Sandals"
+    },
+    {
+        "itemId": "T6_MAIN_DAGGER",
+        "itemName": "Master's Dagger"
+    },
+    {
+        "itemId": "T5_SHOES_PLATE_AVALON@3",
+        "itemName": "Expert's Boots of Valor"
+    },
+    {
+        "itemId": "T8_2H_FIRESTAFF@3",
+        "itemName": "Vendetta's Wrath"
+    },
+    {
+        "itemId": "T4_HEAD_PLATE_AVALON@2",
+        "itemName": "Adept's Helmet of Valor"
+    },
+    {
+        "itemId": "T8_OFF_TORCH",
+        "itemName": "Elder's Torch"
+    },
+    {
+        "itemId": "T6_2H_DUALAXE_KEEPER",
+        "itemName": "Master's Bear Paws"
+    },
+    {
+        "itemId": "T3_2H_TOOL_SICKLE",
+        "itemName": "Journeyman's Sickle"
+    },
+    {
+        "itemId": "T6_MAIN_SPEAR@1",
+        "itemName": "Master's Spear"
+    },
+    {
+        "itemId": "T4_SHOES_CLOTH_SET2",
+        "itemName": "Adept's Cleric Sandals"
+    },
+    {
+        "itemId": "T8_HEAD_LEATHER_SET3@4",
+        "itemName": "Elder's Assassin Hood"
+    },
+    {
+        "itemId": "T8_SHOES_PLATE_SET3",
+        "itemName": "Elder's Guardian Boots"
+    },
+    {
+        "itemId": "T5_HEAD_CLOTH_HELL@3",
+        "itemName": "Expert's Fiend Cowl"
+    },
+    {
+        "itemId": "T8_MAIN_MACE",
+        "itemName": "Elder's Mace"
+    },
+    {
+        "itemId": "T2_HEAD_CLOTH_SET1",
+        "itemName": "Novice's Scholar Cowl"
+    },
+    {
+        "itemId": "T8_MAIN_ARCANESTAFF",
+        "itemName": "Elder's Arcane Staff"
+    },
+    {
+        "itemId": "T6_ARMOR_CLOTH_SET3",
+        "itemName": "Master's Mage Robe"
+    },
+    {
+        "itemId": "T4_ARMOR_PLATE_HELL",
+        "itemName": "Adept's Demon Armor"
+    },
+    {
+        "itemId": "T5_2H_CROSSBOW_CANNON_AVALON@2",
+        "itemName": "Expert's Energy Shaper"
+    },
+    {
+        "itemId": "T4_MAIN_NATURESTAFF_AVALON@1",
+        "itemName": "Adept's Ironroot Staff"
+    },
+    {
+        "itemId": "T6_2H_CROSSBOW",
+        "itemName": "Master's Crossbow"
+    },
+    {
+        "itemId": "T6_2H_NATURESTAFF",
+        "itemName": "Master's Great Nature Staff"
+    },
+    {
+        "itemId": "T5_MAIN_MACE",
+        "itemName": "Expert's Mace"
+    },
+    {
+        "itemId": "T8_MAIN_MACE@1",
+        "itemName": "Elder's Mace"
+    },
+    {
+        "itemId": "T5_ARMOR_CLOTH_MORGANA@1",
+        "itemName": "Expert's Cultist Robe"
+    },
+    {
+        "itemId": "T4_MAIN_FROSTSTAFF_AVALON@1",
+        "itemName": "Adept's Chillhowl"
+    },
+    {
+        "itemId": "T4_HEAD_CLOTH_MORGANA@3",
+        "itemName": "Adept's Cultist Cowl"
+    },
+    {
+        "itemId": "T5_SHOES_PLATE_SET1@1",
+        "itemName": "Expert's Soldier Boots"
+    },
+    {
+        "itemId": "T5_2H_HOLYSTAFF@3",
+        "itemName": "Expert's Great Holy Staff"
+    },
+    {
+        "itemId": "T6_2H_KNUCKLES_SET1",
+        "itemName": "Master's Brawler Gloves"
+    },
+    {
+        "itemId": "T8_HEAD_PLATE_FEY@1",
+        "itemName": "Elder's Duskweaver Helmet"
+    },
+    {
+        "itemId": "T7_2H_LONGBOW",
+        "itemName": "Grandmaster's Longbow"
+    },
+    {
+        "itemId": "T5_2H_QUARTERSTAFF_AVALON@3",
+        "itemName": "Expert's Grailseeker"
+    },
+    {
+        "itemId": "T6_2H_DUALSCIMITAR_UNDEAD",
+        "itemName": "Master's Galatine Pair"
+    },
+    {
+        "itemId": "T4_OFF_DEMONSKULL_HELL@3",
+        "itemName": "Adept's Muisak"
+    },
+    {
+        "itemId": "T4_CAPEITEM_FW_MARTLOCK",
+        "itemName": "Adept's Martlock Cape"
+    },
+    {
+        "itemId": "T8_MAIN_DAGGER@2",
+        "itemName": "Elder's Dagger"
+    },
+    {
+        "itemId": "T8_2H_HAMMER_UNDEAD",
+        "itemName": "Elder's Tombhammer"
+    },
+    {
+        "itemId": "T6_2H_DAGGERPAIR@3",
+        "itemName": "Master's Dagger Pair"
+    },
+    {
+        "itemId": "T4_SHOES_CLOTH_ROYAL@3",
+        "itemName": "Adept's Royal Sandals"
+    },
+    {
+        "itemId": "T8_ARMOR_LEATHER_SET2",
+        "itemName": "Elder's Hunter Jacket"
+    },
+    {
+        "itemId": "T8_MAIN_SPEAR",
+        "itemName": "Elder's Spear"
+    },
+    {
+        "itemId": "T4_SHOES_PLATE_FEY@2",
+        "itemName": "Adept's Duskweaver Boots"
+    },
+    {
+        "itemId": "T8_2H_CLAYMORE_AVALON@1",
+        "itemName": "Elder's Kingmaker"
+    },
+    {
+        "itemId": "T5_CAPEITEM_FW_THETFORD@1",
+        "itemName": "Expert's Thetford Cape"
+    },
+    {
+        "itemId": "T5_CAPEITEM_FW_BRIDGEWATCH@1",
+        "itemName": "Expert's Bridgewatch Cape"
+    },
+    {
+        "itemId": "T4_SHOES_PLATE_SET2@1",
+        "itemName": "Adept's Knight Boots"
+    },
+    {
+        "itemId": "T5_HEAD_CLOTH_SET2@2",
+        "itemName": "Expert's Cleric Cowl"
+    },
+    {
+        "itemId": "T4_2H_TRIDENT_UNDEAD@2",
+        "itemName": "Adept's Trinity Spear"
+    },
+    {
+        "itemId": "T5_SHOES_LEATHER_SET2",
+        "itemName": "Expert's Hunter Shoes"
+    },
+    {
+        "itemId": "T8_ARMOR_LEATHER_ROYAL@2",
+        "itemName": "Elder's Royal Jacket"
+    },
+    {
+        "itemId": "T5_CAPEITEM_FW_LYMHURST@1",
+        "itemName": "Expert's Lymhurst Cape"
+    },
+    {
+        "itemId": "T4_OFF_HORN_KEEPER@2",
+        "itemName": "Adept's Mistcaller"
+    },
+    {
+        "itemId": "T8_CAPEITEM_MORGANA@1",
+        "itemName": "Elder's Morgana Cape"
+    },
+    {
+        "itemId": "T4_CAPEITEM_FW_THETFORD@2",
+        "itemName": "Adept's Thetford Cape"
+    },
+    {
+        "itemId": "T4_SHOES_LEATHER_FEY@1",
+        "itemName": "Adept's Mistwalker Shoes"
+    },
+    {
+        "itemId": "T6_ARMOR_PLATE_SET1@1",
+        "itemName": "Master's Soldier Armor"
+    },
+    {
+        "itemId": "T6_MAIN_SPEAR",
+        "itemName": "Master's Spear"
+    },
+    {
+        "itemId": "T5_ARMOR_PLATE_FEY@2",
+        "itemName": "Expert's Duskweaver Armor"
+    },
+    {
+        "itemId": "T5_SHOES_LEATHER_SET1@1",
+        "itemName": "Expert's Mercenary Shoes"
+    },
+    {
+        "itemId": "T8_ARMOR_LEATHER_HELL@2",
+        "itemName": "Elder's Hellion Jacket"
+    },
+    {
+        "itemId": "T8_SHOES_CLOTH_SET3@1",
+        "itemName": "Elder's Mage Sandals"
+    },
+    {
+        "itemId": "T4_HEAD_LEATHER_AVALON@2",
+        "itemName": "Adept's Hood of Tenacity"
+    },
+    {
+        "itemId": "T5_SHOES_CLOTH_ROYAL@1",
+        "itemName": "Expert's Royal Sandals"
+    },
+    {
+        "itemId": "T5_MAIN_CURSEDSTAFF_AVALON@1",
+        "itemName": "Expert's Shadowcaller"
+    },
+    {
+        "itemId": "T5_MAIN_FIRESTAFF@2",
+        "itemName": "Expert's Fire Staff"
+    },
+    {
+        "itemId": "T8_2H_SKULLORB_HELL",
+        "itemName": "Elder's Cursed Skull"
+    },
+    {
+        "itemId": "T5_2H_CLEAVER_HELL@3",
+        "itemName": "Expert's Carving Sword"
+    },
+    {
+        "itemId": "T4_ARMOR_CLOTH_SET3@2",
+        "itemName": "Adept's Mage Robe"
+    },
+    {
+        "itemId": "T4_SHOES_LEATHER_SET3@3",
+        "itemName": "Adept's Assassin Shoes"
+    },
+    {
+        "itemId": "T8_CAPEITEM_KEEPER@2",
+        "itemName": "Elder's Keeper Cape"
+    },
+    {
+        "itemId": "T8_SHOES_PLATE_SET2",
+        "itemName": "Elder's Knight Boots"
+    },
+    {
+        "itemId": "T5_ARMOR_LEATHER_SET3@2",
+        "itemName": "Expert's Assassin Jacket"
+    },
+    {
+        "itemId": "T5_2H_TOOL_AXE",
+        "itemName": "Expert's Axe"
+    },
+    {
+        "itemId": "T7_ARMOR_PLATE_SET1",
+        "itemName": "Grandmaster's Soldier Armor"
+    },
+    {
+        "itemId": "T4_OFF_SPIKEDSHIELD_MORGANA@3",
+        "itemName": "Adept's Facebreaker"
+    },
+    {
+        "itemId": "T8_CAPEITEM_FW_BRIDGEWATCH@3",
+        "itemName": "Elder's Bridgewatch Cape"
+    },
+    {
+        "itemId": "T4_2H_CLEAVER_HELL@2",
+        "itemName": "Adept's Carving Sword"
+    },
+    {
+        "itemId": "T8_2H_ARCANESTAFF_HELL",
+        "itemName": "Elder's Occult Staff"
+    },
+    {
+        "itemId": "T5_CAPE@2",
+        "itemName": "Expert's Cape"
+    },
+    {
+        "itemId": "T5_SHOES_CLOTH_HELL@3",
+        "itemName": "Expert's Fiend Sandals"
+    },
+    {
+        "itemId": "T4_2H_DUALSICKLE_UNDEAD@1",
+        "itemName": "Adept's Deathgivers"
+    },
+    {
+        "itemId": "T8_2H_KNUCKLES_HELL",
+        "itemName": "Elder's Hellfire Hands"
+    },
+    {
+        "itemId": "T4_HEAD_PLATE_SET1@1",
+        "itemName": "Adept's Soldier Helmet"
+    },
+    {
+        "itemId": "T2_HEAD_PLATE_SET1",
+        "itemName": "Novice's Soldier Helmet"
+    },
+    {
+        "itemId": "T7_BAG_INSIGHT@2",
+        "itemName": "Grandmaster's Satchel of Insight"
+    },
+    {
+        "itemId": "T8_MAIN_FROSTSTAFF_KEEPER",
+        "itemName": "Elder's Hoarfrost Staff"
+    },
+    {
+        "itemId": "T5_2H_CROSSBOW@3",
+        "itemName": "Expert's Crossbow"
+    },
+    {
+        "itemId": "T6_2H_DAGGERPAIR@1",
+        "itemName": "Master's Dagger Pair"
+    },
+    {
+        "itemId": "T8_MAIN_HAMMER@1",
+        "itemName": "Elder's Hammer"
+    },
+    {
+        "itemId": "T4_2H_DAGGER_KATAR_AVALON@2",
+        "itemName": "Adept's Bridled Fury"
+    },
+    {
+        "itemId": "T5_HEAD_CLOTH_MORGANA@3",
+        "itemName": "Expert's Cultist Cowl"
+    },
+    {
+        "itemId": "T4_ARMOR_CLOTH_FEY",
+        "itemName": "Adept's Feyscale Robe"
+    },
+    {
+        "itemId": "T8_ARMOR_CLOTH_FEY",
+        "itemName": "Elder's Feyscale Robe"
+    },
+    {
+        "itemId": "T5_MAIN_CURSEDSTAFF_AVALON@2",
+        "itemName": "Expert's Shadowcaller"
+    },
+    {
+        "itemId": "T6_MAIN_SWORD",
+        "itemName": "Master's Broadsword"
+    },
+    {
+        "itemId": "T4_2H_TOOL_SICKLE",
+        "itemName": "Adept's Sickle"
+    },
+    {
+        "itemId": "T8_CAPEITEM_KEEPER@4",
+        "itemName": "Elder's Keeper Cape"
+    },
+    {
+        "itemId": "T8_SHOES_PLATE_HELL@1",
+        "itemName": "Elder's Demon Boots"
+    },
+    {
+        "itemId": "T6_CAPEITEM_KEEPER",
+        "itemName": "Master's Keeper Cape"
+    },
+    {
+        "itemId": "T4_2H_TOOL_AXE",
+        "itemName": "Adept's Axe"
+    },
+    {
+        "itemId": "T8_2H_QUARTERSTAFF",
+        "itemName": "Elder's Quarterstaff"
+    },
+    {
+        "itemId": "T5_HEAD_CLOTH_ROYAL",
+        "itemName": "Expert's Royal Cowl"
+    },
+    {
+        "itemId": "T4_2H_ICECRYSTAL_UNDEAD@2",
+        "itemName": "Adept's Permafrost Prism"
+    },
+    {
+        "itemId": "T5_ARMOR_CLOTH_SET3@1",
+        "itemName": "Expert's Mage Robe"
+    },
+    {
+        "itemId": "T4_ARMOR_LEATHER_UNDEAD@3",
+        "itemName": "Adept's Specter Jacket"
+    },
+    {
+        "itemId": "T8_2H_DAGGERPAIR@3",
+        "itemName": "Elder's Dagger Pair"
+    },
+    {
+        "itemId": "T7_OFF_TORCH",
+        "itemName": "Grandmaster's Torch"
+    },
+    {
+        "itemId": "T5_ARMOR_CLOTH_ROYAL@1",
+        "itemName": "Expert's Royal Robe"
+    },
+    {
+        "itemId": "T4_2H_QUARTERSTAFF_AVALON@2",
+        "itemName": "Adept's Grailseeker"
+    },
+    {
+        "itemId": "T8_SHOES_CLOTH_SET2@1",
+        "itemName": "Elder's Cleric Sandals"
+    },
+    {
+        "itemId": "T4_HEAD_LEATHER_HELL@1",
+        "itemName": "Adept's Hellion Hood"
+    },
+    {
+        "itemId": "T4_2H_COMBATSTAFF_MORGANA@2",
+        "itemName": "Adept's Black Monk Stave"
+    },
+    {
+        "itemId": "T3_SHOES_PLATE_SET1",
+        "itemName": "Journeyman's Soldier Boots"
+    },
+    {
+        "itemId": "T5_ARMOR_CLOTH_SET3",
+        "itemName": "Expert's Mage Robe"
+    },
+    {
+        "itemId": "T6_MAIN_NATURESTAFF@1",
+        "itemName": "Master's Nature Staff"
+    },
+    {
+        "itemId": "T8_BAG_INSIGHT@1",
+        "itemName": "Elder's Satchel of Insight"
+    },
+    {
+        "itemId": "T5_ARMOR_PLATE_SET1",
+        "itemName": "Expert's Soldier Armor"
+    },
+    {
+        "itemId": "T4_2H_CLAYMORE@1",
+        "itemName": "Adept's Claymore"
+    },
+    {
+        "itemId": "T4_MAIN_NATURESTAFF_AVALON@2",
+        "itemName": "Adept's Ironroot Staff"
+    },
+    {
+        "itemId": "T8_SHOES_CLOTH_ROYAL@2",
+        "itemName": "Elder's Royal Sandals"
+    },
+    {
+        "itemId": "T4_2H_CLAYMORE@2",
+        "itemName": "Adept's Claymore"
+    },
+    {
+        "itemId": "T5_2H_KNUCKLES_SET3@2",
+        "itemName": "Expert's Spiked Gauntlets"
+    },
+    {
+        "itemId": "T6_ARMOR_LEATHER_SET3",
+        "itemName": "Master's Assassin Jacket"
+    },
+    {
+        "itemId": "T4_2H_BOW_AVALON@3",
+        "itemName": "Adept's Mistpiercer"
+    },
+    {
+        "itemId": "T8_2H_FROSTSTAFF",
+        "itemName": "Elder's Great Frost Staff"
+    },
+    {
+        "itemId": "T4_HEAD_LEATHER_UNDEAD@1",
+        "itemName": "Adept's Specter Hood"
+    },
+    {
+        "itemId": "T6_SHOES_PLATE_SET1",
+        "itemName": "Master's Soldier Boots"
+    },
+    {
+        "itemId": "T4_SHOES_PLATE_SET3@2",
+        "itemName": "Adept's Guardian Boots"
+    },
+    {
+        "itemId": "T8_ARMOR_CLOTH_HELL@1",
+        "itemName": "Elder's Fiend Robe"
+    },
+    {
+        "itemId": "T4_SHOES_PLATE_SET1@1",
+        "itemName": "Adept's Soldier Boots"
+    },
+    {
+        "itemId": "T2_CAPE",
+        "itemName": "Novice's Cape"
+    },
+    {
+        "itemId": "T4_MAIN_CURSEDSTAFF@1",
+        "itemName": "Adept's Cursed Staff"
+    },
+    {
+        "itemId": "T8_CAPEITEM_HERETIC",
+        "itemName": "Elder's Heretic Cape"
+    },
+    {
+        "itemId": "T5_2H_TOOL_PICK",
+        "itemName": "Expert's Pickaxe"
+    },
+    {
+        "itemId": "T4_SHOES_PLATE_SET2@2",
+        "itemName": "Adept's Knight Boots"
+    },
+    {
+        "itemId": "T3_2H_TOOL_AXE",
+        "itemName": "Journeyman's Axe"
+    },
+    {
+        "itemId": "T8_CAPEITEM_FW_BRIDGEWATCH@2",
+        "itemName": "Elder's Bridgewatch Cape"
+    },
+    {
+        "itemId": "T5_HEAD_LEATHER_SET1@2",
+        "itemName": "Expert's Mercenary Hood"
+    },
+    {
+        "itemId": "T5_ARMOR_CLOTH_AVALON@3",
+        "itemName": "Expert's Robe of Purity"
+    },
+    {
+        "itemId": "T5_ARMOR_CLOTH_SET2",
+        "itemName": "Expert's Cleric Robe"
+    },
+    {
+        "itemId": "T6_CAPEITEM_FW_CAERLEON@2",
+        "itemName": "Master's Caerleon Cape"
+    },
+    {
+        "itemId": "T6_2H_CLAYMORE",
+        "itemName": "Master's Claymore"
+    },
+    {
+        "itemId": "T5_ARMOR_LEATHER_HELL@3",
+        "itemName": "Expert's Hellion Jacket"
+    },
+    {
+        "itemId": "T4_ARMOR_LEATHER_HELL",
+        "itemName": "Adept's Hellion Jacket"
+    },
+    {
+        "itemId": "T6_HEAD_CLOTH_SET1@1",
+        "itemName": "Master's Scholar Cowl"
+    },
+    {
+        "itemId": "T5_OFF_TORCH",
+        "itemName": "Expert's Torch"
+    },
+    {
+        "itemId": "T4_OFF_SHIELD@2",
+        "itemName": "Adept's Shield"
+    },
+    {
+        "itemId": "T4_HEAD_LEATHER_SET3@2",
+        "itemName": "Adept's Assassin Hood"
+    },
+    {
+        "itemId": "T5_SHOES_LEATHER_AVALON@3",
+        "itemName": "Expert's Shoes of Tenacity"
+    },
+    {
+        "itemId": "T8_HEAD_LEATHER_SET2@3",
+        "itemName": "Elder's Hunter Hood"
+    },
+    {
+        "itemId": "T4_2H_HOLYSTAFF@3",
+        "itemName": "Adept's Great Holy Staff"
+    },
+    {
+        "itemId": "T4_ARMOR_PLATE_SET2",
+        "itemName": "Adept's Knight Armor"
+    },
+    {
+        "itemId": "T8_MAIN_MACE@2",
+        "itemName": "Elder's Mace"
+    },
+    {
+        "itemId": "T7_HEAD_LEATHER_SET2",
+        "itemName": "Grandmaster's Hunter Hood"
+    },
+    {
+        "itemId": "T6_OFF_TORCH@2",
+        "itemName": "Master's Torch"
+    },
+    {
+        "itemId": "T4_HEAD_PLATE_SET2",
+        "itemName": "Adept's Knight Helmet"
+    },
+    {
+        "itemId": "T4_HEAD_CLOTH_SET2@2",
+        "itemName": "Adept's Cleric Cowl"
+    },
+    {
+        "itemId": "T3_ARMOR_PLATE_SET1",
+        "itemName": "Journeyman's Soldier Armor"
+    },
+    {
+        "itemId": "T4_OFF_BOOK",
+        "itemName": "Adept's Tome of Spells"
+    },
+    {
+        "itemId": "T5_2H_INFERNOSTAFF@2",
+        "itemName": "Expert's Infernal Staff"
+    },
+    {
+        "itemId": "T4_SHOES_PLATE_SET3",
+        "itemName": "Adept's Guardian Boots"
+    },
+    {
+        "itemId": "T8_ARMOR_PLATE_SET2",
+        "itemName": "Elder's Knight Armor"
+    },
+    {
+        "itemId": "T4_SHOES_PLATE_SET2",
+        "itemName": "Adept's Knight Boots"
+    },
+    {
+        "itemId": "T6_ARMOR_CLOTH_SET1@2",
+        "itemName": "Master's Scholar Robe"
+    },
+    {
+        "itemId": "T6_2H_DAGGERPAIR",
+        "itemName": "Master's Dagger Pair"
+    },
+    {
+        "itemId": "T8_SHOES_PLATE_SET2@1",
+        "itemName": "Elder's Knight Boots"
+    },
+    {
+        "itemId": "T8_MAIN_AXE",
+        "itemName": "Elder's Battleaxe"
+    },
+    {
+        "itemId": "T4_SHOES_PLATE_SET1",
+        "itemName": "Adept's Soldier Boots"
+    },
+    {
+        "itemId": "T4_SHOES_CLOTH_SET3",
+        "itemName": "Adept's Mage Sandals"
+    },
+    {
+        "itemId": "T5_OFF_BOOK@1",
+        "itemName": "Expert's Tome of Spells"
+    },
+    {
+        "itemId": "T8_2H_TOOL_PICK",
+        "itemName": "Elder's Pickaxe"
+    },
+    {
+        "itemId": "T6_2H_CURSEDSTAFF",
+        "itemName": "Master's Great Cursed Staff"
+    },
+    {
+        "itemId": "T6_2H_SPEAR",
+        "itemName": "Master's Pike"
+    },
+    {
+        "itemId": "T8_ARMOR_CLOTH_KEEPER@1",
+        "itemName": "Elder's Druid Robe"
+    },
+    {
+        "itemId": "T4_SHOES_LEATHER_SET2@1",
+        "itemName": "Adept's Hunter Shoes"
+    },
+    {
+        "itemId": "T4_MAIN_MACE@1",
+        "itemName": "Adept's Mace"
+    },
+    {
+        "itemId": "T5_2H_INFERNOSTAFF@3",
+        "itemName": "Expert's Infernal Staff"
+    },
+    {
+        "itemId": "T4_SHOES_LEATHER_MORGANA",
+        "itemName": "Adept's Stalker Shoes"
+    },
+    {
+        "itemId": "T5_ARMOR_LEATHER_SET3@1",
+        "itemName": "Expert's Assassin Jacket"
+    },
+    {
+        "itemId": "T8_SHOES_LEATHER_HELL@1",
+        "itemName": "Elder's Hellion Shoes"
+    },
+    {
+        "itemId": "T4_SHOES_LEATHER_SET3@2",
+        "itemName": "Adept's Assassin Shoes"
+    },
+    {
+        "itemId": "T8_2H_DAGGERPAIR@1",
+        "itemName": "Elder's Dagger Pair"
+    },
+    {
+        "itemId": "T4_2H_KNUCKLES_AVALON@2",
+        "itemName": "Adept's Fists of Avalon"
+    },
+    {
+        "itemId": "T4_2H_BOW_AVALON@2",
+        "itemName": "Adept's Mistpiercer"
+    },
+    {
+        "itemId": "T6_HEAD_LEATHER_SET2@2",
+        "itemName": "Master's Hunter Hood"
+    },
+    {
+        "itemId": "T4_HEAD_LEATHER_SET1",
+        "itemName": "Adept's Mercenary Hood"
+    },
+    {
+        "itemId": "T5_MAIN_CURSEDSTAFF_UNDEAD",
+        "itemName": "Expert's Lifecurse Staff"
+    },
+    {
+        "itemId": "T5_HEAD_LEATHER_AVALON@4",
+        "itemName": "Expert's Hood of Tenacity"
+    },
+    {
+        "itemId": "T8_2H_AXE",
+        "itemName": "The Hand of Khor"
+    },
+    {
+        "itemId": "T7_HEAD_PLATE_SET2@1",
+        "itemName": "Grandmaster's Knight Helmet"
+    },
+    {
+        "itemId": "T8_2H_DAGGER_KATAR_AVALON@2",
+        "itemName": "Elder's Bridled Fury"
+    },
+    {
+        "itemId": "T8_ARMOR_CLOTH_SET1",
+        "itemName": "Elder's Scholar Robe"
+    },
+    {
+        "itemId": "T8_SHOES_CLOTH_SET1@1",
+        "itemName": "Elder's Scholar Sandals"
+    },
+    {
+        "itemId": "T8_HEAD_LEATHER_HELL@1",
+        "itemName": "Elder's Hellion Hood"
+    },
+    {
+        "itemId": "T8_2H_KNUCKLES_SET3",
+        "itemName": "Elder's Spiked Gauntlets"
+    },
+    {
+        "itemId": "T4_OFF_TORCH",
+        "itemName": "Adept's Torch"
+    },
+    {
+        "itemId": "T4_2H_SKULLORB_HELL@1",
+        "itemName": "Adept's Cursed Skull"
+    },
+    {
+        "itemId": "T5_MAIN_RAPIER_MORGANA",
+        "itemName": "Expert's Bloodletter"
+    },
+    {
+        "itemId": "T5_ARMOR_PLATE_UNDEAD@2",
+        "itemName": "Expert's Graveguard Armor"
+    },
+    {
+        "itemId": "T3_ARMOR_CLOTH_SET1",
+        "itemName": "Journeyman's Scholar Robe"
+    },
+    {
+        "itemId": "T3_MAIN_SWORD",
+        "itemName": "Journeyman's Broadsword"
+    },
+    {
+        "itemId": "T4_CAPEITEM_MORGANA@2",
+        "itemName": "Adept's Morgana Cape"
+    },
+    {
+        "itemId": "T4_HEAD_PLATE_SET2@2",
+        "itemName": "Adept's Knight Helmet"
+    },
+    {
+        "itemId": "T8_2H_GLAIVE@1",
+        "itemName": "Elder's Glaive"
+    },
+    {
+        "itemId": "T8_HEAD_LEATHER_SET2@1",
+        "itemName": "Elder's Hunter Hood"
+    },
+    {
+        "itemId": "T5_MAIN_CURSEDSTAFF",
+        "itemName": "Expert's Cursed Staff"
+    },
+    {
+        "itemId": "T5_CAPEITEM_FW_MARTLOCK@3",
+        "itemName": "Expert's Martlock Cape"
+    },
+    {
+        "itemId": "T8_HEAD_LEATHER_MORGANA@2",
+        "itemName": "Elder's Stalker Hood"
+    },
+    {
+        "itemId": "T5_BACKPACK_GATHERER_ROCK",
+        "itemName": "Expert's Quarrier Backpack"
+    },
+    {
+        "itemId": "T4_ARMOR_LEATHER_SET2@3",
+        "itemName": "Adept's Hunter Jacket"
+    },
+    {
+        "itemId": "T5_ARMOR_CLOTH_SET2@1",
+        "itemName": "Expert's Cleric Robe"
+    },
+    {
+        "itemId": "T8_ARMOR_PLATE_SET1",
+        "itemName": "Elder's Soldier Armor"
+    },
+    {
+        "itemId": "T8_2H_KNUCKLES_SET3@1",
+        "itemName": "Elder's Spiked Gauntlets"
+    },
+    {
+        "itemId": "T5_2H_KNUCKLES_SET1",
+        "itemName": "Expert's Brawler Gloves"
+    },
+    {
+        "itemId": "T8_SHOES_PLATE_SET3@1",
+        "itemName": "Elder's Guardian Boots"
+    },
+    {
+        "itemId": "T8_ARMOR_CLOTH_SET1@1",
+        "itemName": "Elder's Scholar Robe"
+    },
+    {
+        "itemId": "T4_2H_DUALSICKLE_UNDEAD@3",
+        "itemName": "Adept's Deathgivers"
+    },
+    {
+        "itemId": "T6_HEAD_LEATHER_HELL",
+        "itemName": "Master's Hellion Hood"
+    },
+    {
+        "itemId": "T4_MAIN_NATURESTAFF@2",
+        "itemName": "Adept's Nature Staff"
+    },
+    {
+        "itemId": "T8_CAPEITEM_FW_LYMHURST@2",
+        "itemName": "Elder's Lymhurst Cape"
+    },
+    {
+        "itemId": "T3_MAIN_HAMMER",
+        "itemName": "Journeyman's Hammer"
+    },
+    {
+        "itemId": "T3_MAIN_DAGGER",
+        "itemName": "Journeyman's Dagger"
+    },
+    {
+        "itemId": "T4_HEAD_CLOTH_SET1@2",
+        "itemName": "Adept's Scholar Cowl"
+    },
+    {
+        "itemId": "T8_ARMOR_LEATHER_SET2@1",
+        "itemName": "Elder's Hunter Jacket"
+    },
+    {
+        "itemId": "T8_HEAD_LEATHER_MORGANA@1",
+        "itemName": "Elder's Stalker Hood"
+    },
+    {
+        "itemId": "T4_HEAD_LEATHER_MORGANA@2",
+        "itemName": "Adept's Stalker Hood"
+    },
+    {
+        "itemId": "T8_HEAD_CLOTH_FEY@4",
+        "itemName": "Elder's Feyscale Hat"
+    },
+    {
+        "itemId": "T5_2H_KNUCKLES_SET2@2",
+        "itemName": "Expert's Battle Bracers"
+    },
+    {
+        "itemId": "T5_MAIN_CURSEDSTAFF@1",
+        "itemName": "Expert's Cursed Staff"
+    },
+    {
+        "itemId": "T8_MAIN_SWORD",
+        "itemName": "Elder's Broadsword"
+    },
+    {
+        "itemId": "T4_HEAD_CLOTH_KEEPER",
+        "itemName": "Adept's Druid Cowl"
+    },
+    {
+        "itemId": "T5_SHOES_CLOTH_SET2@2",
+        "itemName": "Expert's Cleric Sandals"
+    },
+    {
+        "itemId": "T8_SHOES_PLATE_SET1@1",
+        "itemName": "Elder's Soldier Boots"
+    },
+    {
+        "itemId": "T4_HEAD_PLATE_SET3@2",
+        "itemName": "Adept's Guardian Helmet"
+    },
+    {
+        "itemId": "T8_2H_HOLYSTAFF_HELL",
+        "itemName": "Elder's Fallen Staff"
+    },
+    {
+        "itemId": "T8_BAG@1",
+        "itemName": "Elder's Bag"
+    },
+    {
+        "itemId": "T4_HEAD_PLATE_AVALON@1",
+        "itemName": "Adept's Helmet of Valor"
+    },
+    {
+        "itemId": "T4_HEAD_PLATE_SET1@2",
+        "itemName": "Adept's Soldier Helmet"
+    },
+    {
+        "itemId": "T6_ARMOR_LEATHER_MORGANA@1",
+        "itemName": "Master's Stalker Jacket"
+    },
+    {
+        "itemId": "T8_ARMOR_LEATHER_SET3@1",
+        "itemName": "Elder's Assassin Jacket"
+    },
+    {
+        "itemId": "T3_OFF_BOOK",
+        "itemName": "Journeyman's Tome of Spells"
+    },
+    {
+        "itemId": "T8_HEAD_PLATE_SET3@1",
+        "itemName": "Elder's Guardian Helmet"
+    },
+    {
+        "itemId": "T4_HEAD_LEATHER_UNDEAD@3",
+        "itemName": "Adept's Specter Hood"
+    }
+]

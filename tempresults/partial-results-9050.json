@@ -1,0 +1,1902 @@
+[
+  {
+    "itemId": "Carrot Seeds",
+    "buyFrom": 1,
+    "sellTo": 3,
+    "itemName": "Carrot Seeds",
+    "Buying_Price": 1776,
+    "Selling_Price": 4557,
+    "ratio": 0.6102699144173799,
+    "difference": 2781
+  },
+  {
+    "itemId": "Carrot Seeds",
+    "buyFrom": 1,
+    "sellTo": 5,
+    "itemName": "Carrot Seeds",
+    "Buying_Price": 1776,
+    "Selling_Price": 7101,
+    "ratio": 0.7498943810730883,
+    "difference": 5325
+  },
+  {
+    "itemId": "Wheat Seeds",
+    "buyFrom": 3,
+    "sellTo": 1,
+    "itemName": "Wheat Seeds",
+    "Buying_Price": 4557,
+    "Selling_Price": 1776,
+    "ratio": -1.5658783783783783,
+    "difference": -2781
+  },
+  {
+    "itemId": "Wheat Seeds",
+    "buyFrom": 3,
+    "sellTo": 5,
+    "itemName": "Wheat Seeds",
+    "Buying_Price": 4557,
+    "Selling_Price": 7101,
+    "ratio": 0.35825940008449514,
+    "difference": 2544
+  },
+  {
+    "itemId": "Cabbage Seeds",
+    "buyFrom": 5,
+    "sellTo": 1,
+    "itemName": "Cabbage Seeds",
+    "Buying_Price": 7101,
+    "Selling_Price": 1776,
+    "ratio": -2.998310810810811,
+    "difference": -5325
+  },
+  {
+    "itemId": "Cabbage Seeds",
+    "buyFrom": 5,
+    "sellTo": 3,
+    "itemName": "Cabbage Seeds",
+    "Buying_Price": 7101,
+    "Selling_Price": 4557,
+    "ratio": -0.5582620144832127,
+    "difference": -2544
+  },
+  {
+    "itemId": "Tame Spring Cottontail",
+    "buyFrom": 2,
+    "sellTo": 3,
+    "itemName": "Tame Spring Cottontail",
+    "Buying_Price": 2888888,
+    "Selling_Price": 15001,
+    "ratio": -191.57969468702086,
+    "difference": -2873887
+  },
+  {
+    "itemId": "Tame Spring Cottontail",
+    "buyFrom": 2,
+    "sellTo": 5,
+    "itemName": "Tame Spring Cottontail",
+    "Buying_Price": 2888888,
+    "Selling_Price": 32004,
+    "ratio": -89.26646669166354,
+    "difference": -2856884
+  },
+  {
+    "itemId": "\"Tame\" Caerleon Cottontail",
+    "buyFrom": 3,
+    "sellTo": 2,
+    "itemName": "\"Tame\" Caerleon Cottontail",
+    "Buying_Price": 15001,
+    "Selling_Price": 2888888,
+    "ratio": 0.994807344556106,
+    "difference": 2873887
+  },
+  {
+    "itemId": "\"Tame\" Caerleon Cottontail",
+    "buyFrom": 3,
+    "sellTo": 5,
+    "itemName": "\"Tame\" Caerleon Cottontail",
+    "Buying_Price": 15001,
+    "Selling_Price": 32004,
+    "ratio": 0.5312773403324584,
+    "difference": 17003
+  },
+  {
+    "itemId": "Winter Bear Cub",
+    "buyFrom": 5,
+    "sellTo": 2,
+    "itemName": "Winter Bear Cub",
+    "Buying_Price": 32004,
+    "Selling_Price": 2888888,
+    "ratio": 0.9889216888989812,
+    "difference": 2856884
+  },
+  {
+    "itemId": "Winter Bear Cub",
+    "buyFrom": 5,
+    "sellTo": 3,
+    "itemName": "Winter Bear Cub",
+    "Buying_Price": 32004,
+    "Selling_Price": 15001,
+    "ratio": -1.1334577694820345,
+    "difference": -17003
+  },
+  {
+    "itemId": "Thunderfall Lurcher",
+    "buyFrom": 1,
+    "sellTo": 2,
+    "itemName": "Thunderfall Lurcher",
+    "Buying_Price": 4424,
+    "Selling_Price": 1600,
+    "ratio": -1.765,
+    "difference": -2824
+  },
+  {
+    "itemId": "Thunderfall Lurcher",
+    "buyFrom": 1,
+    "sellTo": 3,
+    "itemName": "Thunderfall Lurcher",
+    "Buying_Price": 4424,
+    "Selling_Price": 3421,
+    "ratio": -0.29318912598655367,
+    "difference": -1003
+  },
+  {
+    "itemId": "Lowriver Crab",
+    "buyFrom": 2,
+    "sellTo": 1,
+    "itemName": "Lowriver Crab",
+    "Buying_Price": 1600,
+    "Selling_Price": 4424,
+    "ratio": 0.6383363471971067,
+    "difference": 2824
+  },
+  {
+    "itemId": "Lowriver Crab",
+    "buyFrom": 2,
+    "sellTo": 3,
+    "itemName": "Lowriver Crab",
+    "Buying_Price": 1600,
+    "Selling_Price": 3421,
+    "ratio": 0.532300496930722,
+    "difference": 1821
+  },
+  {
+    "itemId": "Drybrook Crab",
+    "buyFrom": 3,
+    "sellTo": 1,
+    "itemName": "Drybrook Crab",
+    "Buying_Price": 3421,
+    "Selling_Price": 4424,
+    "ratio": 0.22671790235081374,
+    "difference": 1003
+  },
+  {
+    "itemId": "Drybrook Crab",
+    "buyFrom": 3,
+    "sellTo": 2,
+    "itemName": "Drybrook Crab",
+    "Buying_Price": 3421,
+    "Selling_Price": 1600,
+    "ratio": -1.138125,
+    "difference": -1821
+  },
+  {
+    "itemId": "Invisibility Potion",
+    "buyFrom": 1,
+    "sellTo": 2,
+    "itemName": "Invisibility Potion",
+    "Buying_Price": 1,
+    "Selling_Price": 21111,
+    "ratio": 0.9999526313296386,
+    "difference": 21110
+  },
+  {
+    "itemId": "Invisibility Potion",
+    "buyFrom": 1,
+    "sellTo": 3,
+    "itemName": "Invisibility Potion",
+    "Buying_Price": 1,
+    "Selling_Price": 160,
+    "ratio": 0.99375,
+    "difference": 159
+  },
+  {
+    "itemId": "Invisibility Potion",
+    "buyFrom": 2,
+    "sellTo": 1,
+    "itemName": "Invisibility Potion",
+    "Buying_Price": 21111,
+    "Selling_Price": 1,
+    "ratio": -21110,
+    "difference": -21110
+  },
+  {
+    "itemId": "Invisibility Potion",
+    "buyFrom": 2,
+    "sellTo": 3,
+    "itemName": "Invisibility Potion",
+    "Buying_Price": 21111,
+    "Selling_Price": 160,
+    "ratio": -130.94375,
+    "difference": -20951
+  },
+  {
+    "itemId": "Earthworm",
+    "buyFrom": 3,
+    "sellTo": 1,
+    "itemName": "Earthworm",
+    "Buying_Price": 160,
+    "Selling_Price": 1,
+    "ratio": -159,
+    "difference": -159
+  },
+  {
+    "itemId": "Earthworm",
+    "buyFrom": 3,
+    "sellTo": 2,
+    "itemName": "Earthworm",
+    "Buying_Price": 160,
+    "Selling_Price": 21111,
+    "ratio": 0.9924210127421723,
+    "difference": 20951
+  },
+  {
+    "itemId": "Deepwater Kraken Salad",
+    "buyFrom": 3,
+    "sellTo": 4,
+    "itemName": "Deepwater Kraken Salad",
+    "Buying_Price": 16009,
+    "Selling_Price": 54655,
+    "ratio": 0.7070899277284787,
+    "difference": 38646
+  },
+  {
+    "itemId": "Deepwater Kraken Salad",
+    "buyFrom": 4,
+    "sellTo": 3,
+    "itemName": "Deepwater Kraken Salad",
+    "Buying_Price": 54655,
+    "Selling_Price": 16009,
+    "ratio": -2.414017115372603,
+    "difference": -38646
+  },
+  {
+    "itemId": "Avalonian Beef Stew",
+    "buyFrom": 2,
+    "sellTo": 5,
+    "itemName": "Avalonian Beef Stew",
+    "Buying_Price": 199993,
+    "Selling_Price": 1,
+    "ratio": -199992,
+    "difference": -199992
+  },
+  {
+    "itemId": "Goat Sandwich",
+    "buyFrom": 5,
+    "sellTo": 2,
+    "itemName": "Goat Sandwich",
+    "Buying_Price": 1,
+    "Selling_Price": 199993,
+    "ratio": 0.9999949998249938,
+    "difference": 199992
+  },
+  {
+    "itemId": "Pristine Bloodoak Logs",
+    "buyFrom": 2,
+    "sellTo": 3,
+    "itemName": "Pristine Bloodoak Logs",
+    "Buying_Price": 71998,
+    "Selling_Price": 140001,
+    "ratio": 0.48573224476968024,
+    "difference": 68003
+  },
+  {
+    "itemId": "Pristine Bloodoak Logs",
+    "buyFrom": 2,
+    "sellTo": 5,
+    "itemName": "Pristine Bloodoak Logs",
+    "Buying_Price": 71998,
+    "Selling_Price": 102,
+    "ratio": -704.8627450980392,
+    "difference": -71896
+  },
+  {
+    "itemId": "Pristine Ashenbark Logs",
+    "buyFrom": 3,
+    "sellTo": 2,
+    "itemName": "Pristine Ashenbark Logs",
+    "Buying_Price": 140001,
+    "Selling_Price": 71998,
+    "ratio": -0.9445123475652102,
+    "difference": -68003
+  },
+  {
+    "itemId": "Pristine Ashenbark Logs",
+    "buyFrom": 3,
+    "sellTo": 5,
+    "itemName": "Pristine Ashenbark Logs",
+    "Buying_Price": 140001,
+    "Selling_Price": 102,
+    "ratio": -1371.5588235294117,
+    "difference": -139899
+  },
+  {
+    "itemId": "Rough Stone",
+    "buyFrom": 5,
+    "sellTo": 2,
+    "itemName": "Rough Stone",
+    "Buying_Price": 102,
+    "Selling_Price": 71998,
+    "ratio": 0.9985832939803884,
+    "difference": 71896
+  },
+  {
+    "itemId": "Rough Stone",
+    "buyFrom": 5,
+    "sellTo": 3,
+    "itemName": "Rough Stone",
+    "Buying_Price": 102,
+    "Selling_Price": 140001,
+    "ratio": 0.999271433775473,
+    "difference": 139899
+  },
+  {
+    "itemId": "Pristine Runite Ore",
+    "buyFrom": 2,
+    "sellTo": 5,
+    "itemName": "Pristine Runite Ore",
+    "Buying_Price": 68998,
+    "Selling_Price": 4,
+    "ratio": -17248.5,
+    "difference": -68994
+  },
+  {
+    "itemId": "Scraps of Hide",
+    "buyFrom": 5,
+    "sellTo": 2,
+    "itemName": "Scraps of Hide",
+    "Buying_Price": 4,
+    "Selling_Price": 68998,
+    "ratio": 0.9999420273051393,
+    "difference": 68994
+  },
+  {
+    "itemId": "Exceptional Skyflower",
+    "buyFrom": 1,
+    "sellTo": 2,
+    "itemName": "Exceptional Skyflower",
+    "Buying_Price": 6707,
+    "Selling_Price": 13859,
+    "ratio": 0.5160545493902879,
+    "difference": 7152
+  },
+  {
+    "itemId": "Exceptional Skyflower",
+    "buyFrom": 1,
+    "sellTo": 3,
+    "itemName": "Exceptional Skyflower",
+    "Buying_Price": 6707,
+    "Selling_Price": 27000,
+    "ratio": 0.7515925925925926,
+    "difference": 20293
+  },
+  {
+    "itemId": "Exceptional Skyflower",
+    "buyFrom": 1,
+    "sellTo": 4,
+    "itemName": "Exceptional Skyflower",
+    "Buying_Price": 6707,
+    "Selling_Price": 61917,
+    "ratio": 0.8916775683576401,
+    "difference": 55210
+  },
+  {
+    "itemId": "Exceptional Amberleaf Cotton",
+    "buyFrom": 2,
+    "sellTo": 1,
+    "itemName": "Exceptional Amberleaf Cotton",
+    "Buying_Price": 13859,
+    "Selling_Price": 6707,
+    "ratio": -1.066348591024303,
+    "difference": -7152
+  },
+  {
+    "itemId": "Exceptional Amberleaf Cotton",
+    "buyFrom": 2,
+    "sellTo": 3,
+    "itemName": "Exceptional Amberleaf Cotton",
+    "Buying_Price": 13859,
+    "Selling_Price": 27000,
+    "ratio": 0.4867037037037037,
+    "difference": 13141
+  },
+  {
+    "itemId": "Exceptional Amberleaf Cotton",
+    "buyFrom": 2,
+    "sellTo": 4,
+    "itemName": "Exceptional Amberleaf Cotton",
+    "Buying_Price": 13859,
+    "Selling_Price": 61917,
+    "ratio": 0.7761680959994832,
+    "difference": 48058
+  },
+  {
+    "itemId": "Exceptional Sunflax",
+    "buyFrom": 3,
+    "sellTo": 1,
+    "itemName": "Exceptional Sunflax",
+    "Buying_Price": 27000,
+    "Selling_Price": 6707,
+    "ratio": -3.025644848665573,
+    "difference": -20293
+  },
+  {
+    "itemId": "Exceptional Sunflax",
+    "buyFrom": 3,
+    "sellTo": 2,
+    "itemName": "Exceptional Sunflax",
+    "Buying_Price": 27000,
+    "Selling_Price": 13859,
+    "ratio": -0.9481925102821271,
+    "difference": -13141
+  },
+  {
+    "itemId": "Exceptional Sunflax",
+    "buyFrom": 3,
+    "sellTo": 4,
+    "itemName": "Exceptional Sunflax",
+    "Buying_Price": 27000,
+    "Selling_Price": 61917,
+    "ratio": 0.563932361064005,
+    "difference": 34917
+  },
+  {
+    "itemId": "Exceptional Ghost Hemp",
+    "buyFrom": 4,
+    "sellTo": 1,
+    "itemName": "Exceptional Ghost Hemp",
+    "Buying_Price": 61917,
+    "Selling_Price": 6707,
+    "ratio": -8.231698225734307,
+    "difference": -55210
+  },
+  {
+    "itemId": "Exceptional Ghost Hemp",
+    "buyFrom": 4,
+    "sellTo": 2,
+    "itemName": "Exceptional Ghost Hemp",
+    "Buying_Price": 61917,
+    "Selling_Price": 13859,
+    "ratio": -3.467638357745869,
+    "difference": -48058
+  },
+  {
+    "itemId": "Exceptional Ghost Hemp",
+    "buyFrom": 4,
+    "sellTo": 3,
+    "itemName": "Exceptional Ghost Hemp",
+    "Buying_Price": 61917,
+    "Selling_Price": 27000,
+    "ratio": -1.2932222222222223,
+    "difference": -34917
+  },
+  {
+    "itemId": "Uncommon Steel Bar",
+    "buyFrom": 1,
+    "sellTo": 2,
+    "itemName": "Uncommon Steel Bar",
+    "Buying_Price": 283,
+    "Selling_Price": 1147,
+    "ratio": 0.7532693984306887,
+    "difference": 864
+  },
+  {
+    "itemId": "Uncommon Steel Bar",
+    "buyFrom": 1,
+    "sellTo": 3,
+    "itemName": "Uncommon Steel Bar",
+    "Buying_Price": 283,
+    "Selling_Price": 5200,
+    "ratio": 0.9455769230769231,
+    "difference": 4917
+  },
+  {
+    "itemId": "Uncommon Steel Bar",
+    "buyFrom": 1,
+    "sellTo": 4,
+    "itemName": "Uncommon Steel Bar",
+    "Buying_Price": 283,
+    "Selling_Price": 15500,
+    "ratio": 0.981741935483871,
+    "difference": 15217
+  },
+  {
+    "itemId": "Uncommon Steel Bar",
+    "buyFrom": 1,
+    "sellTo": 5,
+    "itemName": "Uncommon Steel Bar",
+    "Buying_Price": 283,
+    "Selling_Price": 20002,
+    "ratio": 0.9858514148585141,
+    "difference": 19719
+  },
+  {
+    "itemId": "Uncommon Titanium Steel Bar",
+    "buyFrom": 2,
+    "sellTo": 1,
+    "itemName": "Uncommon Titanium Steel Bar",
+    "Buying_Price": 1147,
+    "Selling_Price": 283,
+    "ratio": -3.0530035335689045,
+    "difference": -864
+  },
+  {
+    "itemId": "Uncommon Titanium Steel Bar",
+    "buyFrom": 2,
+    "sellTo": 3,
+    "itemName": "Uncommon Titanium Steel Bar",
+    "Buying_Price": 1147,
+    "Selling_Price": 5200,
+    "ratio": 0.7794230769230769,
+    "difference": 4053
+  },
+  {
+    "itemId": "Uncommon Titanium Steel Bar",
+    "buyFrom": 2,
+    "sellTo": 4,
+    "itemName": "Uncommon Titanium Steel Bar",
+    "Buying_Price": 1147,
+    "Selling_Price": 15500,
+    "ratio": 0.926,
+    "difference": 14353
+  },
+  {
+    "itemId": "Uncommon Titanium Steel Bar",
+    "buyFrom": 2,
+    "sellTo": 5,
+    "itemName": "Uncommon Titanium Steel Bar",
+    "Buying_Price": 1147,
+    "Selling_Price": 20002,
+    "ratio": 0.9426557344265574,
+    "difference": 18855
+  },
+  {
+    "itemId": "Uncommon Runite Steel Bar",
+    "buyFrom": 3,
+    "sellTo": 1,
+    "itemName": "Uncommon Runite Steel Bar",
+    "Buying_Price": 5200,
+    "Selling_Price": 283,
+    "ratio": -17.374558303886925,
+    "difference": -4917
+  },
+  {
+    "itemId": "Uncommon Runite Steel Bar",
+    "buyFrom": 3,
+    "sellTo": 2,
+    "itemName": "Uncommon Runite Steel Bar",
+    "Buying_Price": 5200,
+    "Selling_Price": 1147,
+    "ratio": -3.5335658238884045,
+    "difference": -4053
+  },
+  {
+    "itemId": "Uncommon Runite Steel Bar",
+    "buyFrom": 3,
+    "sellTo": 4,
+    "itemName": "Uncommon Runite Steel Bar",
+    "Buying_Price": 5200,
+    "Selling_Price": 15500,
+    "ratio": 0.6645161290322581,
+    "difference": 10300
+  },
+  {
+    "itemId": "Uncommon Runite Steel Bar",
+    "buyFrom": 3,
+    "sellTo": 5,
+    "itemName": "Uncommon Runite Steel Bar",
+    "Buying_Price": 5200,
+    "Selling_Price": 20002,
+    "ratio": 0.74002599740026,
+    "difference": 14802
+  },
+  {
+    "itemId": "Uncommon Meteorite Steel Bar",
+    "buyFrom": 4,
+    "sellTo": 1,
+    "itemName": "Uncommon Meteorite Steel Bar",
+    "Buying_Price": 15500,
+    "Selling_Price": 283,
+    "ratio": -53.77031802120141,
+    "difference": -15217
+  },
+  {
+    "itemId": "Uncommon Meteorite Steel Bar",
+    "buyFrom": 4,
+    "sellTo": 2,
+    "itemName": "Uncommon Meteorite Steel Bar",
+    "Buying_Price": 15500,
+    "Selling_Price": 1147,
+    "ratio": -12.513513513513514,
+    "difference": -14353
+  },
+  {
+    "itemId": "Uncommon Meteorite Steel Bar",
+    "buyFrom": 4,
+    "sellTo": 3,
+    "itemName": "Uncommon Meteorite Steel Bar",
+    "Buying_Price": 15500,
+    "Selling_Price": 5200,
+    "ratio": -1.9807692307692308,
+    "difference": -10300
+  },
+  {
+    "itemId": "Uncommon Meteorite Steel Bar",
+    "buyFrom": 4,
+    "sellTo": 5,
+    "itemName": "Uncommon Meteorite Steel Bar",
+    "Buying_Price": 15500,
+    "Selling_Price": 20002,
+    "ratio": 0.22507749225077492,
+    "difference": 4502
+  },
+  {
+    "itemId": "Uncommon Adamantium Steel Bar",
+    "buyFrom": 5,
+    "sellTo": 1,
+    "itemName": "Uncommon Adamantium Steel Bar",
+    "Buying_Price": 20002,
+    "Selling_Price": 283,
+    "ratio": -69.67844522968198,
+    "difference": -19719
+  },
+  {
+    "itemId": "Uncommon Adamantium Steel Bar",
+    "buyFrom": 5,
+    "sellTo": 2,
+    "itemName": "Uncommon Adamantium Steel Bar",
+    "Buying_Price": 20002,
+    "Selling_Price": 1147,
+    "ratio": -16.438535309503052,
+    "difference": -18855
+  },
+  {
+    "itemId": "Uncommon Adamantium Steel Bar",
+    "buyFrom": 5,
+    "sellTo": 3,
+    "itemName": "Uncommon Adamantium Steel Bar",
+    "Buying_Price": 20002,
+    "Selling_Price": 5200,
+    "ratio": -2.8465384615384615,
+    "difference": -14802
+  },
+  {
+    "itemId": "Uncommon Adamantium Steel Bar",
+    "buyFrom": 5,
+    "sellTo": 4,
+    "itemName": "Uncommon Adamantium Steel Bar",
+    "Buying_Price": 20002,
+    "Selling_Price": 15500,
+    "ratio": -0.2904516129032258,
+    "difference": -4502
+  },
+  {
+    "itemId": "Ornate Cloth",
+    "buyFrom": 1,
+    "sellTo": 3,
+    "itemName": "Ornate Cloth",
+    "Buying_Price": 530,
+    "Selling_Price": 7502,
+    "ratio": 0.9293521727539323,
+    "difference": 6972
+  },
+  {
+    "itemId": "Ornate Cloth",
+    "buyFrom": 1,
+    "sellTo": 5,
+    "itemName": "Ornate Cloth",
+    "Buying_Price": 530,
+    "Selling_Price": 238,
+    "ratio": -1.226890756302521,
+    "difference": -292
+  },
+  {
+    "itemId": "Opulent Cloth",
+    "buyFrom": 3,
+    "sellTo": 1,
+    "itemName": "Opulent Cloth",
+    "Buying_Price": 7502,
+    "Selling_Price": 530,
+    "ratio": -13.154716981132076,
+    "difference": -6972
+  },
+  {
+    "itemId": "Opulent Cloth",
+    "buyFrom": 3,
+    "sellTo": 5,
+    "itemName": "Opulent Cloth",
+    "Buying_Price": 7502,
+    "Selling_Price": 238,
+    "ratio": -30.521008403361346,
+    "difference": -7264
+  },
+  {
+    "itemId": "Uncommon Fine Cloth",
+    "buyFrom": 5,
+    "sellTo": 1,
+    "itemName": "Uncommon Fine Cloth",
+    "Buying_Price": 238,
+    "Selling_Price": 530,
+    "ratio": 0.5509433962264151,
+    "difference": 292
+  },
+  {
+    "itemId": "Uncommon Fine Cloth",
+    "buyFrom": 5,
+    "sellTo": 3,
+    "itemName": "Uncommon Fine Cloth",
+    "Buying_Price": 238,
+    "Selling_Price": 7502,
+    "ratio": 0.9682751266328979,
+    "difference": 7264
+  },
+  {
+    "itemId": "Grandmaster's Druidic Inscriptions",
+    "buyFrom": 2,
+    "sellTo": 4,
+    "itemName": "Grandmaster's Druidic Inscriptions",
+    "Buying_Price": 7249,
+    "Selling_Price": 6500,
+    "ratio": -0.11523076923076923,
+    "difference": -749
+  },
+  {
+    "itemId": "Grandmaster's Runed Rock",
+    "buyFrom": 4,
+    "sellTo": 2,
+    "itemName": "Grandmaster's Runed Rock",
+    "Buying_Price": 6500,
+    "Selling_Price": 7249,
+    "ratio": 0.10332459649606843,
+    "difference": 749
+  },
+  {
+    "itemId": "Master's Ghastly Candle",
+    "buyFrom": 2,
+    "sellTo": 3,
+    "itemName": "Master's Ghastly Candle",
+    "Buying_Price": 84992,
+    "Selling_Price": 201001,
+    "ratio": 0.5771563325555594,
+    "difference": 116009
+  },
+  {
+    "itemId": "Master's Ghastly Candle",
+    "buyFrom": 2,
+    "sellTo": 5,
+    "itemName": "Master's Ghastly Candle",
+    "Buying_Price": 84992,
+    "Selling_Price": 6123,
+    "ratio": -12.880777396700964,
+    "difference": -78869
+  },
+  {
+    "itemId": "Grandmaster's Ghastly Candle",
+    "buyFrom": 3,
+    "sellTo": 2,
+    "itemName": "Grandmaster's Ghastly Candle",
+    "Buying_Price": 201001,
+    "Selling_Price": 84992,
+    "ratio": -1.3649402296686748,
+    "difference": -116009
+  },
+  {
+    "itemId": "Grandmaster's Ghastly Candle",
+    "buyFrom": 3,
+    "sellTo": 5,
+    "itemName": "Grandmaster's Ghastly Candle",
+    "Buying_Price": 201001,
+    "Selling_Price": 6123,
+    "ratio": -31.827208884533725,
+    "difference": -194878
+  },
+  {
+    "itemId": "Adept's Shattered Avalonian Memento",
+    "buyFrom": 5,
+    "sellTo": 2,
+    "itemName": "Adept's Shattered Avalonian Memento",
+    "Buying_Price": 6123,
+    "Selling_Price": 84992,
+    "ratio": 0.9279579254518072,
+    "difference": 78869
+  },
+  {
+    "itemId": "Adept's Shattered Avalonian Memento",
+    "buyFrom": 5,
+    "sellTo": 3,
+    "itemName": "Adept's Shattered Avalonian Memento",
+    "Buying_Price": 6123,
+    "Selling_Price": 201001,
+    "ratio": 0.9695374649877364,
+    "difference": 194878
+  },
+  {
+    "itemId": "Master's Inscribed Bindings",
+    "buyFrom": 2,
+    "sellTo": 4,
+    "itemName": "Master's Inscribed Bindings",
+    "Buying_Price": 26963,
+    "Selling_Price": 351408,
+    "ratio": 0.9232715248372263,
+    "difference": 324445
+  },
+  {
+    "itemId": "Elder's Inscribed Bindings",
+    "buyFrom": 4,
+    "sellTo": 2,
+    "itemName": "Elder's Inscribed Bindings",
+    "Buying_Price": 351408,
+    "Selling_Price": 26963,
+    "ratio": -12.03297110855617,
+    "difference": -324445
+  },
+  {
+    "itemId": "Master's Alluring Bindings",
+    "buyFrom": 2,
+    "sellTo": 3,
+    "itemName": "Master's Alluring Bindings",
+    "Buying_Price": 59991,
+    "Selling_Price": 62045,
+    "ratio": 0.0331050044322669,
+    "difference": 2054
+  },
+  {
+    "itemId": "Grandmaster's Alluring Bindings",
+    "buyFrom": 3,
+    "sellTo": 2,
+    "itemName": "Grandmaster's Alluring Bindings",
+    "Buying_Price": 62045,
+    "Selling_Price": 59991,
+    "ratio": -0.03423846910369889,
+    "difference": -2054
+  },
+  {
+    "itemId": "Expert's Shield",
+    "buyFrom": 2,
+    "sellTo": 3,
+    "itemName": "Expert's Shield",
+    "Buying_Price": 7788,
+    "Selling_Price": 14217,
+    "ratio": 0.45220510656256596,
+    "difference": 6429
+  },
+  {
+    "itemId": "Expert's Shield",
+    "buyFrom": 3,
+    "sellTo": 2,
+    "itemName": "Expert's Shield",
+    "Buying_Price": 14217,
+    "Selling_Price": 7788,
+    "ratio": -0.8255007704160247,
+    "difference": -6429
+  },
+  {
+    "itemId": "Expert's Eye of Secrets",
+    "buyFrom": 3,
+    "sellTo": 5,
+    "itemName": "Expert's Eye of Secrets",
+    "Buying_Price": 9401,
+    "Selling_Price": 20982,
+    "ratio": 0.5519492898675055,
+    "difference": 11581
+  },
+  {
+    "itemId": "Expert's Eye of Secrets",
+    "buyFrom": 5,
+    "sellTo": 3,
+    "itemName": "Expert's Eye of Secrets",
+    "Buying_Price": 20982,
+    "Selling_Price": 9401,
+    "ratio": -1.231890224444208,
+    "difference": -11581
+  },
+  {
+    "itemId": "Adept's Lymhurst Cape",
+    "buyFrom": 1,
+    "sellTo": 2,
+    "itemName": "Adept's Lymhurst Cape",
+    "Buying_Price": 45517,
+    "Selling_Price": 69681,
+    "ratio": 0.34678032749242976,
+    "difference": 24164
+  },
+  {
+    "itemId": "Adept's Lymhurst Cape",
+    "buyFrom": 1,
+    "sellTo": 3,
+    "itemName": "Adept's Lymhurst Cape",
+    "Buying_Price": 45517,
+    "Selling_Price": 62046,
+    "ratio": 0.26639912323115106,
+    "difference": 16529
+  },
+  {
+    "itemId": "Adept's Lymhurst Cape",
+    "buyFrom": 1,
+    "sellTo": 4,
+    "itemName": "Adept's Lymhurst Cape",
+    "Buying_Price": 45517,
+    "Selling_Price": 70080,
+    "ratio": 0.3504994292237443,
+    "difference": 24563
+  },
+  {
+    "itemId": "Adept's Lymhurst Cape",
+    "buyFrom": 2,
+    "sellTo": 1,
+    "itemName": "Adept's Lymhurst Cape",
+    "Buying_Price": 69681,
+    "Selling_Price": 45517,
+    "ratio": -0.5308785728409166,
+    "difference": -24164
+  },
+  {
+    "itemId": "Adept's Lymhurst Cape",
+    "buyFrom": 2,
+    "sellTo": 3,
+    "itemName": "Adept's Lymhurst Cape",
+    "Buying_Price": 69681,
+    "Selling_Price": 62046,
+    "ratio": -0.12305386326274055,
+    "difference": -7635
+  },
+  {
+    "itemId": "Adept's Lymhurst Cape",
+    "buyFrom": 2,
+    "sellTo": 4,
+    "itemName": "Adept's Lymhurst Cape",
+    "Buying_Price": 69681,
+    "Selling_Price": 70080,
+    "ratio": 0.0056934931506849315,
+    "difference": 399
+  },
+  {
+    "itemId": "Adept's Lymhurst Cape",
+    "buyFrom": 3,
+    "sellTo": 1,
+    "itemName": "Adept's Lymhurst Cape",
+    "Buying_Price": 62046,
+    "Selling_Price": 45517,
+    "ratio": -0.3631390469494914,
+    "difference": -16529
+  },
+  {
+    "itemId": "Adept's Lymhurst Cape",
+    "buyFrom": 3,
+    "sellTo": 2,
+    "itemName": "Adept's Lymhurst Cape",
+    "Buying_Price": 62046,
+    "Selling_Price": 69681,
+    "ratio": 0.10957075816937185,
+    "difference": 7635
+  },
+  {
+    "itemId": "Adept's Lymhurst Cape",
+    "buyFrom": 3,
+    "sellTo": 4,
+    "itemName": "Adept's Lymhurst Cape",
+    "Buying_Price": 62046,
+    "Selling_Price": 70080,
+    "ratio": 0.11464041095890411,
+    "difference": 8034
+  },
+  {
+    "itemId": "Adept's Lymhurst Cape",
+    "buyFrom": 4,
+    "sellTo": 1,
+    "itemName": "Adept's Lymhurst Cape",
+    "Buying_Price": 70080,
+    "Selling_Price": 45517,
+    "ratio": -0.5396445284179537,
+    "difference": -24563
+  },
+  {
+    "itemId": "Adept's Lymhurst Cape",
+    "buyFrom": 4,
+    "sellTo": 2,
+    "itemName": "Adept's Lymhurst Cape",
+    "Buying_Price": 70080,
+    "Selling_Price": 69681,
+    "ratio": -0.005726094631248116,
+    "difference": -399
+  },
+  {
+    "itemId": "Adept's Lymhurst Cape",
+    "buyFrom": 4,
+    "sellTo": 3,
+    "itemName": "Adept's Lymhurst Cape",
+    "Buying_Price": 70080,
+    "Selling_Price": 62046,
+    "ratio": -0.12948457595977178,
+    "difference": -8034
+  },
+  {
+    "itemId": "Adept's Thetford Cape",
+    "buyFrom": 1,
+    "sellTo": 2,
+    "itemName": "Adept's Thetford Cape",
+    "Buying_Price": 51024,
+    "Selling_Price": 136000,
+    "ratio": 0.6248235294117647,
+    "difference": 84976
+  },
+  {
+    "itemId": "Adept's Thetford Cape",
+    "buyFrom": 1,
+    "sellTo": 3,
+    "itemName": "Adept's Thetford Cape",
+    "Buying_Price": 51024,
+    "Selling_Price": 53333,
+    "ratio": 0.04329402058762867,
+    "difference": 2309
+  },
+  {
+    "itemId": "Adept's Thetford Cape",
+    "buyFrom": 1,
+    "sellTo": 4,
+    "itemName": "Adept's Thetford Cape",
+    "Buying_Price": 51024,
+    "Selling_Price": 88901,
+    "ratio": 0.42605819957030855,
+    "difference": 37877
+  },
+  {
+    "itemId": "Adept's Thetford Cape",
+    "buyFrom": 2,
+    "sellTo": 1,
+    "itemName": "Adept's Thetford Cape",
+    "Buying_Price": 136000,
+    "Selling_Price": 51024,
+    "ratio": -1.66541235497021,
+    "difference": -84976
+  },
+  {
+    "itemId": "Adept's Thetford Cape",
+    "buyFrom": 2,
+    "sellTo": 3,
+    "itemName": "Adept's Thetford Cape",
+    "Buying_Price": 136000,
+    "Selling_Price": 53333,
+    "ratio": -1.55001593759961,
+    "difference": -82667
+  },
+  {
+    "itemId": "Adept's Thetford Cape",
+    "buyFrom": 2,
+    "sellTo": 4,
+    "itemName": "Adept's Thetford Cape",
+    "Buying_Price": 136000,
+    "Selling_Price": 88901,
+    "ratio": -0.5297915658991462,
+    "difference": -47099
+  },
+  {
+    "itemId": "Adept's Thetford Cape",
+    "buyFrom": 3,
+    "sellTo": 1,
+    "itemName": "Adept's Thetford Cape",
+    "Buying_Price": 53333,
+    "Selling_Price": 51024,
+    "ratio": -0.04525321417372217,
+    "difference": -2309
+  },
+  {
+    "itemId": "Adept's Thetford Cape",
+    "buyFrom": 3,
+    "sellTo": 2,
+    "itemName": "Adept's Thetford Cape",
+    "Buying_Price": 53333,
+    "Selling_Price": 136000,
+    "ratio": 0.6078455882352941,
+    "difference": 82667
+  },
+  {
+    "itemId": "Adept's Thetford Cape",
+    "buyFrom": 3,
+    "sellTo": 4,
+    "itemName": "Adept's Thetford Cape",
+    "Buying_Price": 53333,
+    "Selling_Price": 88901,
+    "ratio": 0.400085488352212,
+    "difference": 35568
+  },
+  {
+    "itemId": "Adept's Thetford Cape",
+    "buyFrom": 4,
+    "sellTo": 1,
+    "itemName": "Adept's Thetford Cape",
+    "Buying_Price": 88901,
+    "Selling_Price": 51024,
+    "ratio": -0.7423369394794607,
+    "difference": -37877
+  },
+  {
+    "itemId": "Adept's Thetford Cape",
+    "buyFrom": 4,
+    "sellTo": 2,
+    "itemName": "Adept's Thetford Cape",
+    "Buying_Price": 88901,
+    "Selling_Price": 136000,
+    "ratio": 0.3463161764705882,
+    "difference": 47099
+  },
+  {
+    "itemId": "Adept's Thetford Cape",
+    "buyFrom": 4,
+    "sellTo": 3,
+    "itemName": "Adept's Thetford Cape",
+    "Buying_Price": 88901,
+    "Selling_Price": 53333,
+    "ratio": -0.6669041681510509,
+    "difference": -35568
+  },
+  {
+    "itemId": "Adept's Keeper Cape",
+    "buyFrom": 1,
+    "sellTo": 3,
+    "itemName": "Adept's Keeper Cape",
+    "Buying_Price": 41422,
+    "Selling_Price": 68143,
+    "ratio": 0.3921312533935988,
+    "difference": 26721
+  },
+  {
+    "itemId": "Adept's Keeper Cape",
+    "buyFrom": 1,
+    "sellTo": 4,
+    "itemName": "Adept's Keeper Cape",
+    "Buying_Price": 41422,
+    "Selling_Price": 47634,
+    "ratio": 0.130411050930008,
+    "difference": 6212
+  },
+  {
+    "itemId": "Adept's Keeper Cape",
+    "buyFrom": 3,
+    "sellTo": 1,
+    "itemName": "Adept's Keeper Cape",
+    "Buying_Price": 68143,
+    "Selling_Price": 41422,
+    "ratio": -0.6450919801071894,
+    "difference": -26721
+  },
+  {
+    "itemId": "Adept's Keeper Cape",
+    "buyFrom": 3,
+    "sellTo": 4,
+    "itemName": "Adept's Keeper Cape",
+    "Buying_Price": 68143,
+    "Selling_Price": 47634,
+    "ratio": -0.4305538061048831,
+    "difference": -20509
+  },
+  {
+    "itemId": "Adept's Keeper Cape",
+    "buyFrom": 4,
+    "sellTo": 1,
+    "itemName": "Adept's Keeper Cape",
+    "Buying_Price": 47634,
+    "Selling_Price": 41422,
+    "ratio": -0.14996861571145767,
+    "difference": -6212
+  },
+  {
+    "itemId": "Adept's Keeper Cape",
+    "buyFrom": 4,
+    "sellTo": 3,
+    "itemName": "Adept's Keeper Cape",
+    "Buying_Price": 47634,
+    "Selling_Price": 68143,
+    "ratio": 0.3009700189307779,
+    "difference": 20509
+  },
+  {
+    "itemId": "Adept's Demon Cape",
+    "buyFrom": 2,
+    "sellTo": 3,
+    "itemName": "Adept's Demon Cape",
+    "Buying_Price": 58887,
+    "Selling_Price": 40042,
+    "ratio": -0.47063083762049845,
+    "difference": -18845
+  },
+  {
+    "itemId": "Adept's Demon Cape",
+    "buyFrom": 2,
+    "sellTo": 4,
+    "itemName": "Adept's Demon Cape",
+    "Buying_Price": 58887,
+    "Selling_Price": 51287,
+    "ratio": -0.14818570007994228,
+    "difference": -7600
+  },
+  {
+    "itemId": "Adept's Demon Cape",
+    "buyFrom": 3,
+    "sellTo": 2,
+    "itemName": "Adept's Demon Cape",
+    "Buying_Price": 40042,
+    "Selling_Price": 58887,
+    "ratio": 0.3200196987450541,
+    "difference": 18845
+  },
+  {
+    "itemId": "Adept's Demon Cape",
+    "buyFrom": 3,
+    "sellTo": 4,
+    "itemName": "Adept's Demon Cape",
+    "Buying_Price": 40042,
+    "Selling_Price": 51287,
+    "ratio": 0.21925634176301986,
+    "difference": 11245
+  },
+  {
+    "itemId": "Adept's Demon Cape",
+    "buyFrom": 4,
+    "sellTo": 2,
+    "itemName": "Adept's Demon Cape",
+    "Buying_Price": 51287,
+    "Selling_Price": 58887,
+    "ratio": 0.12906074345780902,
+    "difference": 7600
+  },
+  {
+    "itemId": "Adept's Demon Cape",
+    "buyFrom": 4,
+    "sellTo": 3,
+    "itemName": "Adept's Demon Cape",
+    "Buying_Price": 51287,
+    "Selling_Price": 40042,
+    "ratio": -0.28083012836521654,
+    "difference": -11245
+  },
+  {
+    "itemId": "Crystal Behemoth",
+    "buyFrom": 2,
+    "sellTo": 4,
+    "itemName": "Crystal Behemoth",
+    "Buying_Price": 4899996,
+    "Selling_Price": 130006,
+    "ratio": -36.690537359814165,
+    "difference": -4769990
+  },
+  {
+    "itemId": "Silver Behemoth",
+    "buyFrom": 4,
+    "sellTo": 2,
+    "itemName": "Silver Behemoth",
+    "Buying_Price": 130006,
+    "Selling_Price": 4899996,
+    "ratio": 0.9734681416066462,
+    "difference": 4769990
+  },
+  {
+    "itemId": "Expert's Bed",
+    "buyFrom": 3,
+    "sellTo": 5,
+    "itemName": "Expert's Bed",
+    "Buying_Price": 7166,
+    "Selling_Price": 170006,
+    "ratio": 0.9578485465218874,
+    "difference": 162840
+  },
+  {
+    "itemId": "Grandmaster's Bed",
+    "buyFrom": 5,
+    "sellTo": 3,
+    "itemName": "Grandmaster's Bed",
+    "Buying_Price": 170006,
+    "Selling_Price": 7166,
+    "ratio": -22.723974323192856,
+    "difference": -162840
+  },
+  {
+    "itemId": "Soldier's Tent (Disciples of Morgana)",
+    "buyFrom": 4,
+    "sellTo": 5,
+    "itemName": "Soldier's Tent (Disciples of Morgana)",
+    "Buying_Price": 1,
+    "Selling_Price": 1,
+    "ratio": 0,
+    "difference": 0
+  },
+  {
+    "itemId": "Morgana Cultist Statue",
+    "buyFrom": 5,
+    "sellTo": 4,
+    "itemName": "Morgana Cultist Statue",
+    "Buying_Price": 1,
+    "Selling_Price": 1,
+    "ratio": 0,
+    "difference": 0
+  },
+  {
+    "itemId": "Wolf Rider Statue (L)",
+    "buyFrom": 2,
+    "sellTo": 4,
+    "itemName": "Wolf Rider Statue (L)",
+    "Buying_Price": 3499,
+    "Selling_Price": 154,
+    "ratio": -21.72077922077922,
+    "difference": -3345
+  },
+  {
+    "itemId": "Wolf Rider Statue (L)",
+    "buyFrom": 2,
+    "sellTo": 5,
+    "itemName": "Wolf Rider Statue (L)",
+    "Buying_Price": 3499,
+    "Selling_Price": 134,
+    "ratio": -25.111940298507463,
+    "difference": -3365
+  },
+  {
+    "itemId": "Direbear Rug",
+    "buyFrom": 4,
+    "sellTo": 2,
+    "itemName": "Direbear Rug",
+    "Buying_Price": 154,
+    "Selling_Price": 3499,
+    "ratio": 0.9559874249785653,
+    "difference": 3345
+  },
+  {
+    "itemId": "Direbear Rug",
+    "buyFrom": 4,
+    "sellTo": 5,
+    "itemName": "Direbear Rug",
+    "Buying_Price": 154,
+    "Selling_Price": 134,
+    "ratio": -0.14925373134328357,
+    "difference": -20
+  },
+  {
+    "itemId": "Wolf Rug",
+    "buyFrom": 5,
+    "sellTo": 2,
+    "itemName": "Wolf Rug",
+    "Buying_Price": 134,
+    "Selling_Price": 3499,
+    "ratio": 0.9617033438125179,
+    "difference": 3365
+  },
+  {
+    "itemId": "Wolf Rug",
+    "buyFrom": 5,
+    "sellTo": 4,
+    "itemName": "Wolf Rug",
+    "Buying_Price": 134,
+    "Selling_Price": 154,
+    "ratio": 0.12987012987012986,
+    "difference": 20
+  },
+  {
+    "itemId": "Journeyman's Soldier Armor",
+    "buyFrom": 2,
+    "sellTo": 3,
+    "itemName": "Journeyman's Soldier Armor",
+    "Buying_Price": 136,
+    "Selling_Price": 1502,
+    "ratio": 0.9094540612516645,
+    "difference": 1366
+  },
+  {
+    "itemId": "Adept's Soldier Armor",
+    "buyFrom": 3,
+    "sellTo": 2,
+    "itemName": "Adept's Soldier Armor",
+    "Buying_Price": 1502,
+    "Selling_Price": 136,
+    "ratio": -10.044117647058824,
+    "difference": -1366
+  },
+  {
+    "itemId": "Elder's Mercenary Hood",
+    "buyFrom": 3,
+    "sellTo": 5,
+    "itemName": "Elder's Mercenary Hood",
+    "Buying_Price": 69003,
+    "Selling_Price": 6024,
+    "ratio": -10.454681274900398,
+    "difference": -62979
+  },
+  {
+    "itemId": "Elder's Mercenary Hood",
+    "buyFrom": 5,
+    "sellTo": 3,
+    "itemName": "Elder's Mercenary Hood",
+    "Buying_Price": 6024,
+    "Selling_Price": 69003,
+    "ratio": 0.9126994478500935,
+    "difference": 62979
+  },
+  {
+    "itemId": "Master's Hunter Jacket",
+    "buyFrom": 2,
+    "sellTo": 4,
+    "itemName": "Master's Hunter Jacket",
+    "Buying_Price": 455554,
+    "Selling_Price": 55129,
+    "ratio": -7.263418527453791,
+    "difference": -400425
+  },
+  {
+    "itemId": "Grandmaster's Hunter Jacket",
+    "buyFrom": 4,
+    "sellTo": 2,
+    "itemName": "Grandmaster's Hunter Jacket",
+    "Buying_Price": 55129,
+    "Selling_Price": 455554,
+    "ratio": 0.8789847087282737,
+    "difference": 400425
+  },
+  {
+    "itemId": "Master's Assassin Hood",
+    "buyFrom": 1,
+    "sellTo": 2,
+    "itemName": "Master's Assassin Hood",
+    "Buying_Price": 62118,
+    "Selling_Price": 266997,
+    "ratio": 0.7673457005134889,
+    "difference": 204879
+  },
+  {
+    "itemId": "Master's Assassin Hood",
+    "buyFrom": 2,
+    "sellTo": 1,
+    "itemName": "Master's Assassin Hood",
+    "Buying_Price": 266997,
+    "Selling_Price": 62118,
+    "ratio": -3.29822273737081,
+    "difference": -204879
+  },
+  {
+    "itemId": "Master's Scholar Cowl",
+    "buyFrom": 1,
+    "sellTo": 2,
+    "itemName": "Master's Scholar Cowl",
+    "Buying_Price": 5290,
+    "Selling_Price": 17980,
+    "ratio": 0.7057842046718577,
+    "difference": 12690
+  },
+  {
+    "itemId": "Master's Scholar Cowl",
+    "buyFrom": 1,
+    "sellTo": 3,
+    "itemName": "Master's Scholar Cowl",
+    "Buying_Price": 5290,
+    "Selling_Price": 8517,
+    "ratio": 0.3788892802630034,
+    "difference": 3227
+  },
+  {
+    "itemId": "Master's Scholar Cowl",
+    "buyFrom": 2,
+    "sellTo": 1,
+    "itemName": "Master's Scholar Cowl",
+    "Buying_Price": 17980,
+    "Selling_Price": 5290,
+    "ratio": -2.398865784499055,
+    "difference": -12690
+  },
+  {
+    "itemId": "Master's Scholar Cowl",
+    "buyFrom": 2,
+    "sellTo": 3,
+    "itemName": "Master's Scholar Cowl",
+    "Buying_Price": 17980,
+    "Selling_Price": 8517,
+    "ratio": -1.1110719736996595,
+    "difference": -9463
+  },
+  {
+    "itemId": "Master's Scholar Cowl",
+    "buyFrom": 3,
+    "sellTo": 1,
+    "itemName": "Master's Scholar Cowl",
+    "Buying_Price": 8517,
+    "Selling_Price": 5290,
+    "ratio": -0.6100189035916824,
+    "difference": -3227
+  },
+  {
+    "itemId": "Master's Scholar Cowl",
+    "buyFrom": 3,
+    "sellTo": 2,
+    "itemName": "Master's Scholar Cowl",
+    "Buying_Price": 8517,
+    "Selling_Price": 17980,
+    "ratio": 0.5263070077864294,
+    "difference": 9463
+  },
+  {
+    "itemId": "Expert's Cleric Robe",
+    "buyFrom": 1,
+    "sellTo": 2,
+    "itemName": "Expert's Cleric Robe",
+    "Buying_Price": 12144,
+    "Selling_Price": 40956,
+    "ratio": 0.7034866686199824,
+    "difference": 28812
+  },
+  {
+    "itemId": "Expert's Cleric Robe",
+    "buyFrom": 1,
+    "sellTo": 5,
+    "itemName": "Expert's Cleric Robe",
+    "Buying_Price": 12144,
+    "Selling_Price": 15288,
+    "ratio": 0.20565149136577707,
+    "difference": 3144
+  },
+  {
+    "itemId": "Expert's Cleric Robe",
+    "buyFrom": 2,
+    "sellTo": 1,
+    "itemName": "Expert's Cleric Robe",
+    "Buying_Price": 40956,
+    "Selling_Price": 12144,
+    "ratio": -2.372529644268775,
+    "difference": -28812
+  },
+  {
+    "itemId": "Expert's Cleric Robe",
+    "buyFrom": 2,
+    "sellTo": 5,
+    "itemName": "Expert's Cleric Robe",
+    "Buying_Price": 40956,
+    "Selling_Price": 15288,
+    "ratio": -1.6789638932496076,
+    "difference": -25668
+  },
+  {
+    "itemId": "Master's Cleric Robe",
+    "buyFrom": 5,
+    "sellTo": 1,
+    "itemName": "Master's Cleric Robe",
+    "Buying_Price": 15288,
+    "Selling_Price": 12144,
+    "ratio": -0.25889328063241107,
+    "difference": -3144
+  },
+  {
+    "itemId": "Master's Cleric Robe",
+    "buyFrom": 5,
+    "sellTo": 2,
+    "itemName": "Master's Cleric Robe",
+    "Buying_Price": 15288,
+    "Selling_Price": 40956,
+    "ratio": 0.6267213595077644,
+    "difference": 25668
+  },
+  {
+    "itemId": "Expert's Mage Cowl",
+    "buyFrom": 2,
+    "sellTo": 5,
+    "itemName": "Expert's Mage Cowl",
+    "Buying_Price": 19975,
+    "Selling_Price": 5095,
+    "ratio": -2.9205103042198233,
+    "difference": -14880
+  },
+  {
+    "itemId": "Master's Mage Cowl",
+    "buyFrom": 5,
+    "sellTo": 2,
+    "itemName": "Master's Mage Cowl",
+    "Buying_Price": 5095,
+    "Selling_Price": 19975,
+    "ratio": 0.7449311639549436,
+    "difference": 14880
+  },
+  {
+    "itemId": "Expert's Mage Sandals",
+    "buyFrom": 2,
+    "sellTo": 5,
+    "itemName": "Expert's Mage Sandals",
+    "Buying_Price": 18996,
+    "Selling_Price": 7839,
+    "ratio": -1.4232682740145426,
+    "difference": -11157
+  },
+  {
+    "itemId": "Master's Mage Sandals",
+    "buyFrom": 5,
+    "sellTo": 2,
+    "itemName": "Master's Mage Sandals",
+    "Buying_Price": 7839,
+    "Selling_Price": 18996,
+    "ratio": 0.5873341756159192,
+    "difference": 11157
+  },
+  {
+    "itemId": "Expert's Fiend Cowl",
+    "buyFrom": 1,
+    "sellTo": 2,
+    "itemName": "Expert's Fiend Cowl",
+    "Buying_Price": 50103,
+    "Selling_Price": 115983,
+    "ratio": 0.5680142779545279,
+    "difference": 65880
+  },
+  {
+    "itemId": "Expert's Fiend Cowl",
+    "buyFrom": 1,
+    "sellTo": 3,
+    "itemName": "Expert's Fiend Cowl",
+    "Buying_Price": 50103,
+    "Selling_Price": 158005,
+    "ratio": 0.682902439796209,
+    "difference": 107902
+  },
+  {
+    "itemId": "Expert's Fiend Cowl",
+    "buyFrom": 2,
+    "sellTo": 1,
+    "itemName": "Expert's Fiend Cowl",
+    "Buying_Price": 115983,
+    "Selling_Price": 50103,
+    "ratio": -1.314891323872822,
+    "difference": -65880
+  },
+  {
+    "itemId": "Expert's Fiend Cowl",
+    "buyFrom": 2,
+    "sellTo": 3,
+    "itemName": "Expert's Fiend Cowl",
+    "Buying_Price": 115983,
+    "Selling_Price": 158005,
+    "ratio": 0.26595360906300436,
+    "difference": 42022
+  },
+  {
+    "itemId": "Expert's Fiend Cowl",
+    "buyFrom": 3,
+    "sellTo": 1,
+    "itemName": "Expert's Fiend Cowl",
+    "Buying_Price": 158005,
+    "Selling_Price": 50103,
+    "ratio": -2.153603576632138,
+    "difference": -107902
+  },
+  {
+    "itemId": "Expert's Fiend Cowl",
+    "buyFrom": 3,
+    "sellTo": 2,
+    "itemName": "Expert's Fiend Cowl",
+    "Buying_Price": 158005,
+    "Selling_Price": 115983,
+    "ratio": -0.3623117180966176,
+    "difference": -42022
+  },
+  {
+    "itemId": "Expert's Royal Sandals",
+    "buyFrom": 2,
+    "sellTo": 3,
+    "itemName": "Expert's Royal Sandals",
+    "Buying_Price": 15000000,
+    "Selling_Price": 99556,
+    "ratio": -149.66897022781149,
+    "difference": -14900444
+  },
+  {
+    "itemId": "Expert's Royal Sandals",
+    "buyFrom": 3,
+    "sellTo": 2,
+    "itemName": "Expert's Royal Sandals",
+    "Buying_Price": 99556,
+    "Selling_Price": 15000000,
+    "ratio": 0.9933629333333334,
+    "difference": 14900444
+  },
+  {
+    "itemId": "Expert's Royal Helmet",
+    "buyFrom": 2,
+    "sellTo": 5,
+    "itemName": "Expert's Royal Helmet",
+    "Buying_Price": 90000,
+    "Selling_Price": 506,
+    "ratio": -176.86561264822134,
+    "difference": -89494
+  },
+  {
+    "itemId": "Master's Royal Helmet",
+    "buyFrom": 5,
+    "sellTo": 2,
+    "itemName": "Master's Royal Helmet",
+    "Buying_Price": 506,
+    "Selling_Price": 90000,
+    "ratio": 0.9943777777777778,
+    "difference": 89494
+  },
+  {
+    "itemId": "Elder Fisherman Contract",
+    "buyFrom": 1,
+    "sellTo": 2,
+    "itemName": "Elder Fisherman Contract",
+    "Buying_Price": 1,
+    "Selling_Price": 394,
+    "ratio": 0.9974619289340102,
+    "difference": 393
+  },
+  {
+    "itemId": "Novice Fletcher Contract",
+    "buyFrom": 2,
+    "sellTo": 1,
+    "itemName": "Novice Fletcher Contract",
+    "Buying_Price": 394,
+    "Selling_Price": 1,
+    "ratio": -393,
+    "difference": -393
+  },
+  {
+    "itemId": "Elder's Longbow",
+    "buyFrom": 2,
+    "sellTo": 4,
+    "itemName": "Elder's Longbow",
+    "Buying_Price": 240900,
+    "Selling_Price": 1500005,
+    "ratio": 0.8394005353315489,
+    "difference": 1259105
+  },
+  {
+    "itemId": "Elder's Longbow",
+    "buyFrom": 4,
+    "sellTo": 2,
+    "itemName": "Elder's Longbow",
+    "Buying_Price": 1500005,
+    "Selling_Price": 240900,
+    "ratio": -5.226670817766708,
+    "difference": -1259105
+  },
+  {
+    "itemId": "Master's Great Nature Staff",
+    "buyFrom": 1,
+    "sellTo": 5,
+    "itemName": "Master's Great Nature Staff",
+    "Buying_Price": 75367,
+    "Selling_Price": 44560,
+    "ratio": -0.6913599640933573,
+    "difference": -30807
+  },
+  {
+    "itemId": "Grandmaster's Great Nature Staff",
+    "buyFrom": 5,
+    "sellTo": 1,
+    "itemName": "Grandmaster's Great Nature Staff",
+    "Buying_Price": 44560,
+    "Selling_Price": 75367,
+    "ratio": 0.4087598020353736,
+    "difference": 30807
+  },
+  {
+    "itemId": "Master's Dagger",
+    "buyFrom": 1,
+    "sellTo": 2,
+    "itemName": "Master's Dagger",
+    "Buying_Price": 46105,
+    "Selling_Price": 95963,
+    "ratio": 0.519554411596136,
+    "difference": 49858
+  },
+  {
+    "itemId": "Master's Dagger",
+    "buyFrom": 2,
+    "sellTo": 1,
+    "itemName": "Master's Dagger",
+    "Buying_Price": 95963,
+    "Selling_Price": 46105,
+    "ratio": -1.0814011495499403,
+    "difference": -49858
+  },
+  {
+    "itemId": "Master's Claws",
+    "buyFrom": 1,
+    "sellTo": 2,
+    "itemName": "Master's Claws",
+    "Buying_Price": 48133,
+    "Selling_Price": 106985,
+    "ratio": 0.5500958078235266,
+    "difference": 58852
+  },
+  {
+    "itemId": "Master's Claws",
+    "buyFrom": 2,
+    "sellTo": 1,
+    "itemName": "Master's Claws",
+    "Buying_Price": 106985,
+    "Selling_Price": 48133,
+    "ratio": -1.2226954480294185,
+    "difference": -58852
+  },
+  {
+    "itemId": "Master's Carving Sword",
+    "buyFrom": 2,
+    "sellTo": 3,
+    "itemName": "Master's Carving Sword",
+    "Buying_Price": 160000,
+    "Selling_Price": 317022,
+    "ratio": 0.495303165080026,
+    "difference": 157022
+  },
+  {
+    "itemId": "Master's Carving Sword",
+    "buyFrom": 3,
+    "sellTo": 2,
+    "itemName": "Master's Carving Sword",
+    "Buying_Price": 317022,
+    "Selling_Price": 160000,
+    "ratio": -0.9813875,
+    "difference": -157022
+  },
+  {
+    "itemId": "Master's Great Hammer",
+    "buyFrom": 3,
+    "sellTo": 5,
+    "itemName": "Master's Great Hammer",
+    "Buying_Price": 40500,
+    "Selling_Price": 272191,
+    "ratio": 0.8512074241984489,
+    "difference": 231691
+  },
+  {
+    "itemId": "Master's Great Hammer",
+    "buyFrom": 5,
+    "sellTo": 3,
+    "itemName": "Master's Great Hammer",
+    "Buying_Price": 272191,
+    "Selling_Price": 40500,
+    "ratio": -5.720765432098766,
+    "difference": -231691
+  },
+  {
+    "itemId": "Expert's Fists of Avalon",
+    "buyFrom": 2,
+    "sellTo": 3,
+    "itemName": "Expert's Fists of Avalon",
+    "Buying_Price": 278996,
+    "Selling_Price": 1,
+    "ratio": -278995,
+    "difference": -278995
+  },
+  {
+    "itemId": "Expert's Fists of Avalon",
+    "buyFrom": 3,
+    "sellTo": 2,
+    "itemName": "Expert's Fists of Avalon",
+    "Buying_Price": 1,
+    "Selling_Price": 278996,
+    "ratio": 0.9999964157192218,
+    "difference": 278995
+  },
+  {
+    "itemId": "Elder's Martlock Crest",
+    "buyFrom": 2,
+    "sellTo": 3,
+    "itemName": "Elder's Martlock Crest",
+    "Buying_Price": 189899,
+    "Selling_Price": 1,
+    "ratio": -189898,
+    "difference": -189898
+  },
+  {
+    "itemId": "Adept's Thetford Crest",
+    "buyFrom": 3,
+    "sellTo": 2,
+    "itemName": "Adept's Thetford Crest",
+    "Buying_Price": 1,
+    "Selling_Price": 189899,
+    "ratio": 0.9999947340428333,
+    "difference": 189898
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "itemId": "T6_FIBER",
+    "itemName": "Amberleaf Cotton",
+    "itemTag": "@ITEMS_T6_FIBER",
+    "selectedMarket": "Caerleon",
+    "otherMarket": "Merlyns Rest",
+    "Buying_Price": 503,
+    "Selling_Price": 441,
+    "silver_profit": -62,
+    "Ratio": -0.14058956916099774
+  },
+  {
+    "itemId": "T1_ROCK",
+    "itemName": "Rough Stone",
+    "itemTag": "@ITEMS_T1_ROCK",
+    "selectedMarket": "Caerleon",
+    "otherMarket": "Merlyns Rest",
+    "Buying_Price": 236,
+    "Selling_Price": 1,
+    "silver_profit": -235,
+    "Ratio": -235
+  },
+  {
+    "itemId": "T6_FIBER_LEVEL1@1",
+    "itemName": "Uncommon Amberleaf Cotton",
+    "itemTag": "@ITEMS_T6_FIBER_LEVEL1",
+    "selectedMarket": "Caerleon",
+    "otherMarket": "Merlyns Rest",
+    "Buying_Price": 962,
+    "Selling_Price": 552,
+    "silver_profit": -410,
+    "Ratio": -0.7427536231884058
+  },
+  {
+    "itemId": "T6_WOOD_LEVEL1@1",
+    "itemName": "Uncommon Bloodoak Logs",
+    "itemTag": "@ITEMS_T6_WOOD_LEVEL1",
+    "selectedMarket": "Caerleon",
+    "otherMarket": "Merlyns Rest",
+    "Buying_Price": 999,
+    "Selling_Price": 551,
+    "silver_profit": -448,
+    "Ratio": -0.8130671506352087
+  },
+  {
+    "itemId": "T6_POTION_COOLDOWN",
+    "itemName": "Poison Potion",
+    "itemTag": "@ITEMS_T6_POTION_COOLDOWN",
+    "selectedMarket": "Caerleon",
+    "otherMarket": "Merlyns Rest",
+    "Buying_Price": 3819,
+    "Selling_Price": 3005,
+    "silver_profit": -814,
+    "Ratio": -0.27088186356073213
+  },
+  {
+    "itemId": "T6_WOOD_LEVEL2@2",
+    "itemName": "Rare Bloodoak Logs",
+    "itemTag": "@ITEMS_T6_WOOD_LEVEL2",
+    "selectedMarket": "Caerleon",
+    "otherMarket": "Merlyns Rest",
+    "Buying_Price": 4593,
+    "Selling_Price": 3134,
+    "silver_profit": -1459,
+    "Ratio": -0.46553924696873006
+  },
+  {
+    "itemId": "T1_WOOD",
+    "itemName": "Rough Logs",
+    "itemTag": "@ITEMS_T1_WOOD",
+    "selectedMarket": "Caerleon",
+    "otherMarket": "Merlyns Rest",
+    "Buying_Price": 3333,
+    "Selling_Price": 1,
+    "silver_profit": -3332,
+    "Ratio": -3332
+  },
+  {
+    "itemId": "T7_2H_TOOL_SICKLE",
+    "itemName": "Grandmaster's Sickle",
+    "itemTag": "@ITEMS_T7_2H_TOOL_SICKLE",
+    "selectedMarket": "Caerleon",
+    "otherMarket": "Merlyns Rest",
+    "Buying_Price": 35760,
+    "Selling_Price": 31141,
+    "silver_profit": -4619,
+    "Ratio": -0.14832535885167464
+  },
+  {
+    "itemId": "T5_ARMOR_CLOTH_SET2",
+    "itemName": "Expert's Cleric Robe",
+    "itemTag": "@ITEMS_T5_ARMOR_CLOTH_SET2",
+    "selectedMarket": "Caerleon",
+    "otherMarket": "Merlyns Rest",
+    "Buying_Price": 6571,
+    "Selling_Price": 1,
+    "silver_profit": -6570,
+    "Ratio": -6570
+  },
+  {
+    "itemId": "TREASURE_KNOWLEDGE_RARITY3",
+    "itemName": "Ancient Tome",
+    "itemTag": "@ITEMS_TREASURE_KNOWLEDGE_RARITY3",
+    "selectedMarket": "Caerleon",
+    "otherMarket": "Merlyns Rest",
+    "Buying_Price": 12342,
+    "Selling_Price": 1,
+    "silver_profit": -12341,
+    "Ratio": -12341
+  },
+  {
+    "itemId": "T5_ARMOR_PLATE_UNDEAD",
+    "itemName": "Expert's Graveguard Armor",
+    "itemTag": "@ITEMS_T5_ARMOR_PLATE_UNDEAD",
+    "selectedMarket": "Caerleon",
+    "otherMarket": "Merlyns Rest",
+    "Buying_Price": 12951,
+    "Selling_Price": 1,
+    "silver_profit": -12950,
+    "Ratio": -12950
+  },
+  {
+    "itemId": "T7_2H_TOOL_PICK",
+    "itemName": "Grandmaster's Pickaxe",
+    "itemTag": "@ITEMS_T7_2H_TOOL_PICK",
+    "selectedMarket": "Caerleon",
+    "otherMarket": "Merlyns Rest",
+    "Buying_Price": 49993,
+    "Selling_Price": 20315,
+    "silver_profit": -29678,
+    "Ratio": -1.4608909672655672
+  },
+  {
+    "itemId": "T5_2H_DUALAXE_KEEPER@3",
+    "itemName": "Expert's Bear Paws",
+    "itemTag": "@ITEMS_T5_2H_DUALAXE_KEEPER",
+    "selectedMarket": "Caerleon",
+    "otherMarket": "Merlyns Rest",
+    "Buying_Price": 4929991,
+    "Selling_Price": 1,
+    "silver_profit": -4929990,
+    "Ratio": -4929990
+  }
+]

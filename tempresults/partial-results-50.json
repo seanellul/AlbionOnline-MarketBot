@@ -1,0 +1,62 @@
+[
+  {
+    "itemId": "Carrot Seeds",
+    "buyFrom": 1,
+    "sellTo": 3,
+    "itemName": "Carrot Seeds",
+    "Buying_Price": 1776,
+    "Selling_Price": 4557,
+    "ratio": 0.6102699144173799,
+    "difference": 2781
+  },
+  {
+    "itemId": "Carrot Seeds",
+    "buyFrom": 1,
+    "sellTo": 5,
+    "itemName": "Carrot Seeds",
+    "Buying_Price": 1776,
+    "Selling_Price": 7101,
+    "ratio": 0.7498943810730883,
+    "difference": 5325
+  },
+  {
+    "itemId": "Wheat Seeds",
+    "buyFrom": 3,
+    "sellTo": 1,
+    "itemName": "Wheat Seeds",
+    "Buying_Price": 4557,
+    "Selling_Price": 1776,
+    "ratio": -1.5658783783783783,
+    "difference": -2781
+  },
+  {
+    "itemId": "Wheat Seeds",
+    "buyFrom": 3,
+    "sellTo": 5,
+    "itemName": "Wheat Seeds",
+    "Buying_Price": 4557,
+    "Selling_Price": 7101,
+    "ratio": 0.35825940008449514,
+    "difference": 2544
+  },
+  {
+    "itemId": "Cabbage Seeds",
+    "buyFrom": 5,
+    "sellTo": 1,
+    "itemName": "Cabbage Seeds",
+    "Buying_Price": 7101,
+    "Selling_Price": 1776,
+    "ratio": -2.998310810810811,
+    "difference": -5325
+  },
+  {
+    "itemId": "Cabbage Seeds",
+    "buyFrom": 5,
+    "sellTo": 3,
+    "itemName": "Cabbage Seeds",
+    "Buying_Price": 7101,
+    "Selling_Price": 4557,
+    "ratio": -0.5582620144832127,
+    "difference": -2544
+  }
+]
